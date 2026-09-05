@@ -9,6 +9,7 @@
 **Editor gap list patch (2026-09-05):** Estou-online caveats; compact Viking dispute blurbs; twin URL dedupe check. Valor-bio only on bio rows.
 **Editor titles (2026-09-05):** 18 EN full-card `title` fields → Portuguese. Bodies untouched. Clustering = cloud UI.
 **Editor punch verify (2026-09-05 23:16 BRT):** sha bump — Compact L53/64/66/68/69/142–148/155 and full Ibaneis/Temer/PH Costa no longer use Valor-bio URL for non-bio claims. Re-audit THIS file (md5 below changes).
+**Editor smoke gaps (2026-09-05):** apagadas; mash PF deflagra; mash PH Costa; Barci líquido/bruto check.
 **Mash fix (2026-09-05):** title PF deflagra… → `PF deflagra Compliance Zero; Vorcaro preso` only.
 **EN titles wave2 (2026-09-05):** CoS remaining EN punch → PT (Bacen/BC rejects/Barci líquido/First firm/New board/Moraes 24h/PH Costa/PF 218/BRB fato/BC liquidação/PF deflagra/RAET).
 **Post-B smoke titles (2026-09-05):** 5 EN full-card titles → PT (Ibaneis/Pix/Searches/2ª prisão/IPJ-A).
@@ -105,7 +106,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 | 2025-09-03 | Bacen indefere pedido do BRB protocolado em 28/03/2025 | BRB fato relevante: informed of Bacen denial of request to acquire 49% ON + 100% PN of Master; BRB sought full decision text. Deal had been controversial (high CDB rates, delayed balance sheet, precatórios). | https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb |
 | ~Sep 2025 (Temer on Roda Viva 15/09/2025) | Temer diz que foi chamado a mediar Master–Banco de Brasília após bloqueio do Banco Central | G1 conexões: ex-president Michel Temer said on Roda Viva (15/09/2025) he was called to Brasília ~two weeks earlier with Vorcaro and Ibaneis wanting mediation to formalize the BRB transaction after the original deal was… | https://www1.folha.uol.com.br/mercado/2025/09/master-e-brb-procuram-temer-para-destravar-negocio-apos-recusa-do-banco-central.shtml ; https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb |
 | 2025-09-17 | Contato rotulado “Moraes” ativa mensagens efêmeras 24h | Chat WhatsApp; rótulo de agenda ≠ dono do chip. View-once incompletas. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro.pdf | high |
-| 2025-10-01 | Alerta sobre Pix a Barci; quatro bolhas “apagada pelo remetente” | Vorcaro to Felix: “Mas nao faz barci pix ne?”; Felix said Pix already done to same TED data. Same day window: four Moraes-chat messages marked deleted by sender (PF). | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
+| 2025-10-01 | Alerta sobre Pix a Barci; quatro bolhas “apagadas pelo remetente” | Vorcaro to Felix: “Mas nao faz barci pix ne?”; Felix said Pix already done to same TED data. Same day window: four Moraes-chat messages marked deleted by sender (PF). | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-10-28 → 2025-11-17 | Ápice da crise: notas pedindo intervenção de Galípolo/Andrei/Paulo | O Globo “13 days”: Vorcaro wrote Notes → screenshot → WhatsApp view-once to Moraes-labeled number, seeking to stop liquidation and PF action. | https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml |
 | 2025-10-28 | Nota forense → WhatsApp 14:04:14 UTC | Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~11:04:26 UTC-3. Nota criada em 14:04:14 UTC. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-10-28 | Primeira nota forense da janela de crise enviada ao nº Moraes BRASILIA | PF registra cadeia Notas→screenshot→PDF temporário→WhatsApp para nota criada ~14:04:14 UTC, com envio ao terminal 556192664093 às ~11:04:26 (UTC-3). Abre a janela de ~52 notas/prints analisados até 17/11. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
@@ -982,7 +983,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2025-10-01 — “Não faz barci pix”; mensagens apagadas no chat Moraes
 - **date:** 2025-10-01
-- **title:** Alerta sobre Pix a Barci; quatro bolhas “apagada pelo remetente”
+- **title:** Alerta sobre Pix a Barci; quatro bolhas “apagadas pelo remetente”
 - **summary:** Vorcaro to Felix: “Mas nao faz barci pix ne?”; Felix said Pix already done to same TED data. Same day window: four Moraes-chat messages marked deleted by sender (PF).
 - **people:** Vorcaro; Alberto Felix; Barci office
 - **tags:** barci|compliance-zero
@@ -1885,7 +1886,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2026-04-16 — 4ª fase: PH Costa preso por negócios de carteira do Master
 - **date:** 2026-04-16
-- **title:** 4ª fase: 4ª fase: PH Costa preso por negócios de carteira do Master over Master portfolio deals
+- **title:** 4ª fase: PH Costa preso por negócios de carteira do Master
 - **summary:** Estadão: ex-BRB president Paulo Henrique Costa arrested in 4th Compliance Zero phase on suspicion of corruption / irregularities in purchase of R$12.2 bi alleged false Master portfolios. Piece publishes 2024 Vorcaro–Lima urgency chats on BRB money.
 - **people:** Paulo Henrique Costa; Vorcaro; Augusto Lima
 - **tags:** brb|compliance-zero
