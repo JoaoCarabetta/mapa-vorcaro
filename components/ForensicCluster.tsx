@@ -78,18 +78,12 @@ export function ForensicCluster({
       </button>
       <div id={clusterDomId}>
         {open ? (
-          <div className="cluster-children" data-ordem="cronologica">
-            {events.map((event) => (
-              <EventCard key={event.id} event={event} />
-            ))}
-          </div>
-        ) : (
           <div className="cluster-microrows" data-ordem="cronologica">
             {events.map((event) => (
               <ClusterRow key={event.id} event={event} />
             ))}
           </div>
-        )}
+        ) : null}
       </div>
     </article>
   );
