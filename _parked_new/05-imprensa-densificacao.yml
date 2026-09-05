@@ -1,0 +1,279 @@
+- id: 2024-01-01-segundo-aporte-galo-holding-saf-atletico
+  date: '2024-01-01'
+  date_precision: year
+  title: Segundo aporte na SAF do Atlético / Galo Holding
+  summary: 'UOL/Estadão (nov/2025): depois da entrada de 2023, Vorcaro aportou cerca de R$ 200
+    milhões a mais em 2024 e chegou a cerca de 26,9% da Galo Holding (atrás de Rubens Menin, cerca
+    de 55,7%). Alinha-se à cifra de ~27% da SAF citada em G1/Estadão. O perfil do Valor (abr/2025)
+    já falava em participação substancial no clube, sem o percentual deste segundo aporte.'
+  people:
+  - name: Daniel Bueno Vorcaro
+    id: daniel-bueno-vorcaro
+  - name: Rubens Menin
+  - name: Rafael Menin
+  tags:
+  - bio
+  - atletico
+  sources:
+  - url: https://economia.uol.com.br/noticias/redacao/2025/11/18/socio-do-atletico-mineiro-e-dono-de-mansoes-quem-e-daniel-vorcaro.htm
+    publisher: UOL
+    accessed: '2026-09-05'
+  - url: https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml
+    publisher: Valor Econômico
+    accessed: '2026-09-05'
+  evidence_type: press
+  confidence: medium
+- id: 2024-09-02-vorcaro-a-lima-usar-compulsorio-se-dinheiro-do-brb-nao-vier
+  date: '2024-09-02'
+  date_precision: day
+  title: Vorcaro a Lima — “usar compulsório” se o dinheiro do BRB não vier
+  summary: 'Estadão (18 abr 2026) publica mensagem de 2 set 2024: Vorcaro pergunta a Augusto Lima
+    se há notícia do BRB; se o caixa não chegar, terá de devolver o dinheiro de sexta e “usar
+    compulsório hoje”. No dia seguinte, cobra CCB pendente há cerca de 15 dias; Lima responde
+    que “fazem até quinta”. Marco pontual dentro do fluxo de cessões iniciado em meados de 2024.'
+  people:
+  - name: Daniel Bueno Vorcaro
+    id: daniel-bueno-vorcaro
+  - name: Augusto Ferreira Lima
+    id: augusto-lima
+  tags:
+  - brb
+  - liquidez
+  - mensagens
+  sources:
+  - url: https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia
+    publisher: Estadão
+    accessed: '2026-09-05'
+    quote: Tem notícia do BRB? Se não vier vou ter que devolver a grana de sexta e vamos usar
+      compulsório hoje
+  evidence_type: press
+  confidence: high
+- id: 2025-01-01-vinte-contratos-master-brb-antes-do-anuncio-de-compra
+  date: '2025-01-01'
+  date_precision: month
+  date_end: '2025-03-31'
+  title: Vinte contratos Master→BRB antes do anúncio de 28/03
+  summary: 'Estadão: antes do anúncio oficial de compra, o Master já havia passado R$ 4,6 bilhões
+    ao BRB em 20 contratos — seis em janeiro (R$ 1,66 bi), seis em fevereiro (R$ 1,82 bi) e oito
+    em março (R$ 1,12 bi). A mesma linha investigativa situa livros ligados à Tirreno a partir
+    de jan/2025 e o total alegado de carteiras falsas em cerca de R$ 12,2 bi. A cronologia da
+    Folha (4 set 2025) percorre o mesmo intervalo pré-SPA.'
+  people:
+  - name: Daniel Bueno Vorcaro
+    id: daniel-bueno-vorcaro
+  - name: Paulo Henrique Costa
+    id: paulo-henrique-costa
+  tags:
+  - brb
+  - tirreno
+  - compliance-zero
+  sources:
+  - url: https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia
+    publisher: Estadão
+    accessed: '2026-09-05'
+  - url: https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml
+    publisher: Folha de S.Paulo
+    accessed: '2026-09-05'
+  evidence_type: press
+  confidence: medium
+  notes: “Carteiras falsas” permanece tese da PF/imprensa até julgamento. Valores são de reportagem
+    investigativa.
+- id: 2025-03-31-galipolo-reune-com-paulo-henrique-costa-apos-spa
+  date: '2025-03-31'
+  date_precision: day
+  title: Galípolo reúne-se com Paulo Henrique Costa após o SPA Master–BRB
+  summary: 'Cronologia da Folha (4 set 2025): em 31 mar 2025, depois do anúncio da compra do Master
+    pelo BRB, o presidente do Banco Central, Gabriel Galípolo, faz a primeira reunião com o então
+    presidente do BRB, Paulo Henrique Costa, sobre o negócio.'
+  people:
+  - name: Gabriel Galípolo
+    id: gabriel-galipolo
+  - name: Paulo Henrique Costa
+    id: paulo-henrique-costa
+  tags:
+  - galipolo
+  - brb
+  - bc
+  sources:
+  - url: https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml
+    publisher: Folha de S.Paulo
+    accessed: '2026-09-05'
+  evidence_type: press
+  confidence: high
+- id: 2025-04-11-galipolo-reune-com-vorcaro-na-analise-do-bc
+  date: '2025-04-11'
+  date_precision: day
+  title: Galípolo reúne-se com Vorcaro na janela de análise do BC
+  summary: 'Cronologia da Folha: em 11 abr 2025 Galípolo encontra Daniel Vorcaro; a mesma linha
+    do tempo registra outros contatos de Vorcaro com diretores do BC durante a análise da aquisição.
+    Distinto da ficha do mesmo dia sobre despesas de Londres (“Pedro e ciro ok”), que sai do celular
+    (PET 16.662).'
+  people:
+  - name: Gabriel Galípolo
+    id: gabriel-galipolo
+  - name: Daniel Bueno Vorcaro
+    id: daniel-bueno-vorcaro
+  tags:
+  - galipolo
+  - bc
+  - power-interlocutor
+  sources:
+  - url: https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml
+    publisher: Folha de S.Paulo
+    accessed: '2026-09-05'
+  evidence_type: press
+  confidence: high
+- id: 2025-05-27-negociacao-btg-pacote-fasano-light-meliuz
+  date: '2025-05-27'
+  date_precision: day
+  title: Negociação com o BTG (~R$ 1,5 bi) inclui Fasano, Light e Méliuz
+  summary: 'Cronologia da Folha: em 27 mai 2025 Vorcaro fecha negociação com o BTG Pactual (cerca
+    de R$ 1,5 bi) abrangendo Light, Méliuz e o interesse no prédio do Fasano Itaim. O Tempo (fev/2026)
+    confirma a narrativa de desinvestimento do Fasano em meados de 2025.'
+  people:
+  - name: Daniel Bueno Vorcaro
+    id: daniel-bueno-vorcaro
+  - name: André Esteves
+  tags:
+  - fasano
+  - btg
+  - desinvestimento
+  sources:
+  - url: https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml
+    publisher: Folha de S.Paulo
+    accessed: '2026-09-05'
+  - url: https://www.otempo.com.br/economia/2026/2/5/veja-quais-ativos-seriam-de-daniel-vorcaro-e-quais-foram-vendidos
+    publisher: O Tempo
+    accessed: '2026-09-05'
+  evidence_type: press
+  confidence: high
+- id: 2025-07-29-brb-apresenta-proposta-reduzida-cerca-de-um-terco-do-master
+  date: '2025-07-29'
+  date_precision: day
+  title: BRB apresenta proposta reduzida — cerca de um terço do Master
+  summary: 'Cronologia da Folha: em 29 jul 2025 o BRB protocola nova proposta no BC para comprar
+    só cerca de um terço do Master, com perímetro de ativos de cerca de R$ 25 bi (cerca de metade
+    do plano original); os ativos restantes do Master são citados em cerca de R$ 48 bi.'
+  people:
+  - name: Paulo Henrique Costa
+    id: paulo-henrique-costa
+  - name: Daniel Bueno Vorcaro
+    id: daniel-bueno-vorcaro
+  - name: Gabriel Galípolo
+    id: gabriel-galipolo
+  tags:
+  - brb
+  - master
+  - bc
+  sources:
+  - url: https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml
+    publisher: Folha de S.Paulo
+    accessed: '2026-09-05'
+  evidence_type: press
+  confidence: high
+- id: 2025-11-20-trf-1-indefere-primeiro-habeas-e-mantem-prisao
+  date: '2025-11-20'
+  date_precision: day
+  title: TRF-1 indefere o primeiro habeas e mantém a prisão preventiva
+  summary: 'G1/Valor: em 20 nov 2025 o TRF-1 rejeita habeas corpus e mantém Vorcaro preso, citando
+    indícios de gestão fraudulenta / organização criminosa. A desembargadora Solange Salgado,
+    relatora, inverterá o entendimento em 28/11, determinando a soltura com tornozeleira.'
+  people:
+  - name: Solange Salgado
+    id: solange-salgado
+  - name: Daniel Bueno Vorcaro
+    id: daniel-bueno-vorcaro
+  tags:
+  - compliance-zero
+  - trf1
+  - habeas
+  sources:
+  - url: https://valor.globo.com/financas/noticia/2025/11/24/vorcaro-transferido-para-presdio-em-guarulhos.ghtml
+    publisher: Valor Econômico
+    accessed: '2026-09-05'
+  - url: https://g1.globo.com/df/distrito-federal/noticia/2025/11/28/trf-1-manda-soltar-daniel-vorcaro-dono-do-banco-master.ghtml
+    publisher: G1
+    accessed: '2026-09-05'
+  evidence_type: press
+  confidence: high
+- id: 2025-11-24-vorcaro-transferido-ao-cdp-2-guarulhos
+  date: '2025-11-24'
+  date_precision: day
+  title: Vorcaro é transferido ao CDP 2 de Guarulhos
+  summary: 'Valor/G1: em 24 nov 2025 Vorcaro deixa a Superintendência da PF em São Paulo rumo
+    ao CDP 2 de Guarulhos; Luiz Antônio Bull e Alberto Felix também são transferidos; Augusto
+    Lima e Angelo Silva permanecem na PF, segundo o G1. A defesa protocola novo habeas no STJ
+    no mesmo dia.'
+  people:
+  - name: Daniel Bueno Vorcaro
+    id: daniel-bueno-vorcaro
+  - name: Alberto Felix de Oliveira Neto
+    id: alberto-felix
+  - name: Luiz Antônio Bull
+    id: luiz-antonio-bull
+  tags:
+  - compliance-zero
+  - prisao
+  sources:
+  - url: https://valor.globo.com/financas/noticia/2025/11/24/vorcaro-transferido-para-presdio-em-guarulhos.ghtml
+    publisher: Valor Econômico
+    accessed: '2026-09-05'
+  evidence_type: press
+  confidence: high
+- id: 2025-11-29-saida-fisica-do-cdp-com-tornozeleira
+  date: '2025-11-29'
+  date_precision: day
+  title: Saída física do CDP de Guarulhos com tornozeleira
+  summary: 'G1: por volta das 11h40 de 29 nov 2025 Vorcaro deixa o CDP 2 de Guarulhos com tornozeleira
+    eletrônica, em cumprimento à ordem do TRF-1 de 28/11 (Solange Salgado) — apresentação periódica,
+    vedação de contato entre investigados, proibição de deixar a cidade e recolhimento de passaportes.
+    Distinto da ficha de 28/11, que registra a decisão, não a saída física.'
+  people:
+  - name: Daniel Bueno Vorcaro
+    id: daniel-bueno-vorcaro
+  - name: Solange Salgado
+    id: solange-salgado
+  tags:
+  - compliance-zero
+  - trf1
+  - soltura
+  sources:
+  - url: https://g1.globo.com/sp/sao-paulo/noticia/2025/11/29/daniel-vorcaro-do-banco-master-deixa-cdp-de-guarulhos-apos-decisao-da-justica-ele-tera-de-usar-tornozeleira-eletronica.ghtml
+    publisher: G1
+    accessed: '2026-09-05'
+  evidence_type: press
+  confidence: high
+- id: 2026-09-03-fachin-abre-pet-16-704-esclarecimentos-apos-avalanche-de-sigilo
+  date: '2026-09-03'
+  date_precision: day
+  title: Fachin abre a PET 16.704 após a avalanche do sigilo
+  summary: 'Cobertura R7/Correio da Manhã (3–4 set 2026): depois da publicação do relatório da
+    PF, Moraes questiona a condução de Mendonça; o presidente Edson Fachin abre trilha autônoma
+    de esclarecimentos (PET 16.704 citada) com cerca de cinco dias úteis para Moraes, Mendonça,
+    Gonet e Andrei Rodrigues. Em 4 set a cobertura relata Fachin retirando o pedido de Moraes
+    do inquérito das fake news para tramitação autônoma.'
+  people:
+  - name: Edson Fachin
+    id: edson-fachin
+  - name: Alexandre de Moraes
+    id: alexandre-de-moraes
+  - name: André Mendonça
+    id: andre-mendonca
+  - name: Paulo Gonet Branco
+    id: paulo-gonet
+  - name: Andrei Rodrigues
+    id: andrei-rodrigues
+  tags:
+  - sigilo
+  - stf
+  - pet-16-704
+  - plenario
+  sources:
+  - url: https://noticias.r7.com/brasilia/fachin-tira-do-inquerito-das-fake-news-pedido-de-moraes-para-investigar-mendonca-04092026
+    publisher: R7
+    accessed: '2026-09-05'
+  evidence_type: press
+  confidence: medium
+  notes: Números de PET e prazos devem ser checados contra despachos oficiais quando espelhados;
+    cobertura ainda viva em 4–5 set 2026. Compact da imprensa apontava Poder360 íntegras, que
+    não documentam este ramo — a URL http usada é a do R7.

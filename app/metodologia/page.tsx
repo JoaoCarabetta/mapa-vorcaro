@@ -1,0 +1,169 @@
+import Link from "next/link";
+import { loadEvents } from "@/lib/load";
+
+export const metadata = { title: "Metodologia" };
+
+export default function MetodologiaPage() {
+  const events = loadEvents();
+  const count = events.length;
+  const press = events.filter((e) => e.evidence_type === "press").length;
+  const primary = events.filter((e) =>
+    ["primary_document", "court", "official"].includes(e.evidence_type),
+  ).length;
+  const nov16 = events.filter((e) => e.date === "2025-11-16").length;
+  const forensicWindow = events.filter(
+    (e) => e.date >= "2025-10-28" && e.date <= "2025-11-17",
+  );
+  const forensicChildren = forensicWindow.filter((e) => e.cluster_role === "child").length;
+  const forensicParents = forensicWindow.filter((e) => e.cluster_role === "parent").length;
+
+  return (
+    <div className="wrap prose">
+      <header className="hero">
+        <h1>Metodologia</h1>
+        <p className="lede">
+          Regras de sourcing, o que este arquivo não é, e as ressalvas que precisam
+          acompanhar o material da PET 16.662.
+        </p>
+      </header>
+
+      <h2>O que entra</h2>
+      <p>
+        Só entra evento com ao menos uma URL pública. O script <code>npm run validate</code>{" "}
+        falha se faltar fonte, se a URL for inválida ou se faltar campo obrigatório
+        (<code>id</code>, <code>date</code>, <code>date_precision</code>, <code>title</code>,{" "}
+        <code>summary</code>, <code>people</code>, <code>tags</code>, <code>sources</code>,{" "}
+        <code>evidence_type</code>).
+      </p>
+      <p>
+        Preferimos documento primário (PDF da PF, contrato, despacho) a paráfrase de
+        imprensa. Quando o primário existe, ele é linkado. A imprensa entra para
+        cronologia de fatos oficiais (liquidação, fato relevante, prisão) e para o
+        contraditório.
+      </p>
+      <p>
+        O corpus agora tem <strong>{count} fichas</strong> ({press} de imprensa,{" "}
+        {primary} com documento primário, peça ou fonte oficial). A autoridade do
+        esquema é <code>content/timeline-eventos.md</code> ({count} cards com
+        https). <code>content/events-from-primary.md</code> é o recorte PET/IPJ-A
+        (128 cards): recorte, não concorrente. Fichas primárias extras só entram no
+        YAML depois de um re-merge da linha do tempo. <code>content/events-from-press.md</code>{" "}
+        e <code>content/resumo-pet16662.md</code> entram só como YAML validado — não
+        como markdown órfão. Páginas de pessoas e arestas da rede saem do campo{" "}
+        <code>people</code> dessas fichas (com <code>id</code> quando o nome é um
+        alias com fonte). Não inventamos convidados do fórum de Londres que o card
+        com fonte não nomeia — a lista nominativa dali é Moraes, Gonet e Andrei
+        Rodrigues, com a ressalva de confiança média da reportagem.
+      </p>
+      <p>
+        O compacto <code>content/events.json</code> é o mesmo corpus em{" "}
+        <code>{"{date, title, summary, sources: string[]}"}</code> — hoje {count}{" "}
+        fichas http. O validador o regrava a partir do YAML. Lotes PM (batch 1/3 etc.)
+        <strong>não são a fonte primária</strong>: se o paste for curto, incompleto ou
+        divergir do markdown, o markdown/YAML com fonte ganha. Sem URL http, o evento
+        não entra.
+      </p>
+      <p>
+        A tabela compacta do markdown também <strong>não</strong> é o esquema do
+        site — ver <a href="#tabela-compacta-150">cards completos vs tabela</a>.
+        Um audit editorial flagrou URL do perfil Valor “forasteiro” (3 abr 2025)
+        colada em fichas que não são bio. Os cards completos ({count}) e o YAML é que
+        mandam. A URL do perfil Valor só entra em ficha de bio ou como corroboração
+        explícita.
+      </p>
+
+      <h2>O que não entra</h2>
+      <p>
+        Não inventamos data, citação ou encontro. Trechos da vida de Vorcaro sem fonte
+        pública — infância, vida privada sem registro — ficam de fora, em vez de ganhar
+        uma ficha “bonita”. Rumores de rede social e peças sem URL estável não entram.
+      </p>
+      <p>
+        <strong>16/11/2025:</strong> o pacote de imprensa não traz card com URL http
+        para esse dia. As {nov16} fichas da data saem só do cluster forense (IPJ-A
+        3298613/2026 / anexo WhatsApp). Não criamos ficha de imprensa sem fonte.
+      </p>
+
+      <h2>Campos</h2>
+      <ul>
+        <li><strong>date_precision</strong> — <code>day</code>, <code>month</code> ou <code>year</code> quando a fonte é vaga.</li>
+        <li><strong>evidence_type</strong> — imprensa, documento primário, peça judicial, fonte oficial, outra.</li>
+        <li><strong>confidence</strong> — alta quando o documento é direto; média quando a imputação é de agenda, reenvio ou recado a terceiro; baixa quando a fonte é única e indireta.</li>
+        <li><strong>quote</strong> — só texto que aparece na fonte, grafia original inclusive.</li>
+        <li><strong>cluster_id / cluster_role</strong> — carimbos de tempo (Notas para WhatsApp, 28/out–17/nov/2025) entram no YAML um a um; na linha do tempo aparecem sob o grupo do dia.</li>
+      </ul>
+
+      <h2>Grupos do dia</h2>
+      <p>
+        Os carimbos da cadeia Apple Notas → captura → WhatsApp não são manchetes: a
+        interface os agrupa em grupos diários. Fechado: data em português, fio
+        (“Notas para WhatsApp” ou “Vários fios”), número de fichas daquele dia e
+        microfichas empilhadas (título · evidência · publisher), em ordem cronológica
+        pelo relógio UTC do carimbo — nunca A–Z do título.         Aberto
+        (<code>?dia=AAAA-MM-DD</code>): as microfichas do dia, na mesma ordem.
+        A ficha isolada também é um cartão completo; o detalhe com fontes fica em{" "}
+        <code>/eventos/…</code>. Não inventamos teor de nota cujo OCR não está no
+        material.
+      </p>
+      <h3 id="contagem-52">Por que 52 microfichas, não “cerca de 53”</h3>
+      <p>
+        Contagem honesta: {forensicChildren} microfichas-filhas (carimbo de tempo)
+        sob {forensicParents} pais do dia na janela 28/out–17/nov/2025. A nota de
+        esquema no markdown falava em “cerca de 53” — estimativa editorial da janela,
+        não um inventário YAML. O site conta {forensicChildren} filhos com{" "}
+        <code>cluster_role: child</code>. Não arredondamos de volta para 53.
+      </p>
+      <h3 id="tabela-compacta-150">Tabela compacta vs cards completos</h3>
+      <p>
+        A tabela compacta do markdown <strong>não</strong> é o esquema do site. Os
+        cards completos são {count}; a diferença para a tabela é dedupe suave (gêmeos
+        compactos / linhas fundidas), não perda de fato. YAML e cards completos mandam.
+      </p>
+
+      <h2 id="ressalvas">Ressalvas que não podem sumir</h2>
+      <h3>1. Visualização única</h3>
+      <p>
+        Vorcaro escrevia no app Notas, tirava print e enviava no WhatsApp como imagem de
+        visualização única. A partir de 17 de setembro de 2025 o chat usa sumiço em 24
+        horas; em 17 de novembro a PF registra 5 envios em visualização única. A PF
+        reconstrói o envio por logs, screenshot e PDF temporário do iOS. Em regra, a
+        resposta do interlocutor não está no extrato. “Vorcaro perguntou” não implica
+        “Moraes respondeu X”.
+      </p>
+      <h3>2. Rótulo de agenda ≠ perícia de chip</h3>
+      <p>
+        O número foi compartilhado por Fábio Faria e salvo como “Alexandre de Moraes
+        BRASILIA” (e aliases “Novo”, “STF TSE NOVO”, “Eu STF”). Isso é evidência de como
+        Vorcaro rotulou o contato. Não substitui perícia de titularidade da linha. O
+        gabinete de Moraes, em março de 2026, chamou associações anteriores de “ilação
+        mentirosa”. As duas coisas ficam no arquivo.
+      </p>
+      <h3>3. Segundo contrato Barci</h3>
+      <p>
+        A PF anexa contrato Viking–Barci (12 maio 2025) e termo de dação com cotas de
+        aeronaves (19 maio 2025). O escritório diz que só assinou o contrato Master de
+        2024, que a proposta não foi aceita e que “nada foi assinado”. Mensagens internas
+        de Vorcaro falam em uso das cotas; isso não resolve a disputa jurídica sobre o
+        instrumento.
+      </p>
+      <h3>4. Relatório de 72 horas</h3>
+      <p>
+        A própria PF escreve que a análise “não possui caráter exaustivo”. A PGR pediu a
+        nulidade da peça. Este site não arbitra competência do relator; registra o
+        documento e o contraditório.
+      </p>
+      <h3>5. Encontros</h3>
+      <p>
+        Vários “encontros” são reconstruídos a partir de Vorcaro avisando filha, namorada
+        ou motorista. Contagem da imprensa oscila (“ao menos seis”, “nove”). Marcamos
+        confiança média nesses casos.
+      </p>
+
+      <h2>Como adicionar um evento</h2>
+      <p>
+        Crie um item YAML em <code>data/events/</code>. Rode <code>npm run validate</code>.
+        Instruções completas estão no <Link href="https://github.com/JoaoCarabetta/mapa-vorcaro">README</Link>.
+      </p>
+    </div>
+  );
+}

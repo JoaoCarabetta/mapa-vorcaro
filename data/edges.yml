@@ -1,0 +1,245 @@
+- from: daniel-bueno-vorcaro
+  to: alexandre-de-moraes
+  type: interlocucao
+  label: contato de agenda, notas/WhatsApp e encontros relatados
+  confidence: medium
+- from: daniel-bueno-vorcaro
+  to: viviane-barci-de-moraes
+  type: contrato
+  label: contrato Master–Barci; segundo instrumento Viking em disputa
+  confidence: high
+- from: alexandre-de-moraes
+  to: viviane-barci-de-moraes
+  type: familia
+  label: cônjuges; metadados de minuta e consulta de compliance
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: fabio-faria
+  type: intermediacao
+  label: compartilhamento do contato e articulação de encontros
+  confidence: high
+- from: fabio-faria
+  to: alexandre-de-moraes
+  type: intermediacao
+  label: ponte inicial (2023–2024)
+  confidence: medium
+- from: daniel-bueno-vorcaro
+  to: paulo-gonet
+  type: interlocucao
+  label: menções e ponte via Ciro Soares; sem contato na agenda
+  confidence: medium
+- from: ciro-soares
+  to: paulo-gonet
+  type: intermediacao
+  label: selfie, ligações e textos reenviados
+  confidence: medium
+- from: daniel-bueno-vorcaro
+  to: ciro-soares
+  type: intermediacao
+  label: advogado-ponte
+  confidence: high
+- from: paulo-gonet
+  to: pedro-gonet
+  type: familia
+  label: pedido de despesas de viagem a Londres (via Ciro)
+  confidence: medium
+- from: daniel-bueno-vorcaro
+  to: andrei-rodrigues
+  type: evento
+  label: convite e presença em Londres; pedido nas notas de out. 2025
+  confidence: medium
+- from: daniel-bueno-vorcaro
+  to: paulo-henrique-costa
+  type: negocio
+  label: cessão de carteiras e tentativa de venda Master–BRB
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: andre-mendonca
+  type: investigacao
+  label: relator da PET 16.662 e da operação no STF
+  confidence: high
+- from: andre-mendonca
+  to: alexandre-de-moraes
+  type: corte
+  label: relatório da PF submetido ao plenário
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: gabriel-galipolo
+  type: regulacao
+  label: citado nas mensagens; assinou a liquidação
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: ricardo-leite
+  type: investigacao
+  label: juiz da prisão da Compliance Zero
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: angelo-silva
+  type: master
+  label: assinatura contratual e pagamentos Barci
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: leonardo-palhares
+  type: master
+  label: minutas, dação e estrutura de cotas
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: dias-toffoli
+  type: evento
+  label: fórum de Londres, 2024
+  confidence: medium
+- from: daniel-bueno-vorcaro
+  to: hugo-motta
+  type: encontro
+  label: citado por Vorcaro em 19–20 mar. 2025
+  confidence: low
+- from: daniel-bueno-vorcaro
+  to: paulo-sergio-neves
+  type: interlocucao
+  label: recado sobre “aperto” em Gonet
+  confidence: medium
+- from: daniel-bueno-vorcaro
+  to: ibaneis-rocha
+  type: negocio
+  label: defesa política da compra pelo BRB
+  confidence: high
+- from: edson-fachin
+  to: alexandre-de-moraes
+  type: corte
+  label: PET 16.704 — pedido de informações
+  confidence: high
+- from: edson-fachin
+  to: andre-mendonca
+  type: corte
+  label: PET 16.704 — pedido de informações
+  confidence: high
+- from: edson-fachin
+  to: paulo-gonet
+  type: corte
+  label: PET 16.704 — pedido de informações
+  confidence: medium
+- from: edson-fachin
+  to: andrei-rodrigues
+  type: corte
+  label: PET 16.704 — pedido de informações
+  confidence: medium
+- from: daniel-bueno-vorcaro
+  to: henrique-vorcaro
+  type: familia
+  label: pai; Multipar e primeiro negócio
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: natalia-vorcaro
+  type: familia
+  label: irmã; casada com Zettel
+  confidence: high
+- from: natalia-vorcaro
+  to: fabiano-zettel
+  type: familia
+  label: cônjuges (Valor)
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: joao-carlos-mansur
+  type: negocio
+  label: Will Bank / Reag; buscas em jan. 2026
+  confidence: medium
+- from: daniel-bueno-vorcaro
+  to: solange-salgado
+  type: investigacao
+  label: habeas no TRF-1 (mantém 20/11; solta 28/11)
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: augusto-lima
+  type: master
+  label: comando compartilhado; diálogo BRB/compulsório
+  confidence: high
+- from: paulo-gonet
+  to: andre-mendonca
+  type: corte
+  label: vista de 5 dias na PET 16.662 (31/08/2026)
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: fabiano-zettel
+  type: familia
+  label: cunhado; contrato e fase de mar. 2026
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: martha-graeff
+  type: familia
+  label: avisos de encontros com “Alexandre”
+  confidence: medium
+- from: viviane-barci-de-moraes
+  to: marcos-prime
+  type: contrato
+  label: uso de cotas de aeronaves (print encaminhado)
+  confidence: medium
+- from: daniel-bueno-vorcaro
+  to: marcos-prime
+  type: master
+  label: Prime You / cotas de aeronaves (PET)
+  confidence: medium
+- from: daniel-bueno-vorcaro
+  to: saul-sabba
+  type: negocio
+  label: Máxima oferecido a Vorcaro (Valor)
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: mauricio-quadrado
+  type: master
+  label: sócio no Máxima/Master; saída rumo ao Digimais (Valor)
+  confidence: high
+- from: mauricio-quadrado
+  to: nelson-tanure
+  type: intermediacao
+  label: Quadrado apresentou Vorcaro a Tanure (Valor)
+  confidence: medium
+- from: daniel-bueno-vorcaro
+  to: nelson-tanure
+  type: negocio
+  label: apresentação via Quadrado; buscas na 2ª fase
+  confidence: medium
+- from: daniel-bueno-vorcaro
+  to: luiz-antonio-bull
+  type: master
+  label: diretor alvo da Compliance Zero; soltura com tornozeleira
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: marcio-conjur
+  type: intermediacao
+  label: contato “Marcio Conjur” no convite Londres / Andrei (PET)
+  confidence: medium
+- from: daniel-bueno-vorcaro
+  to: alberto-felix
+  type: master
+  label: tesouraria; Pix Barci e prisão na Compliance Zero
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: guilherme-benazzi
+  type: contrato
+  label: administrador do escritório Barci; minuta e assinatura
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: thatiane-prime
+  type: master
+  label: logística Botanique e aeronaves “Barci”
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: romy-master
+  type: master
+  label: pagamento Barci “mais importante” / “sem nota”
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: ana-matos
+  type: master
+  label: listas e convites dos fóruns de Londres
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: stella-vorcaro
+  type: familia
+  label: “com alexandre moraes” (15/11/2024)
+  confidence: medium
+- from: daniel-bueno-vorcaro
+  to: michel-temer
+  type: evento
+  label: mediação BRB–Master após veto do BC (imprensa)
+  confidence: medium
