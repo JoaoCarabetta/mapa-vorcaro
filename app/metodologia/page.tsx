@@ -1,8 +1,17 @@
 import Link from "next/link";
+import { loadEvents } from "@/lib/load";
 
 export const metadata = { title: "Metodologia" };
 
 export default function MetodologiaPage() {
+  const events = loadEvents();
+  const count = events.length;
+  const press = events.filter((e) => e.evidence_type === "press").length;
+  const primary = events.filter((e) =>
+    ["primary_document", "court", "official"].includes(e.evidence_type),
+  ).length;
+  const nov16 = events.filter((e) => e.date === "2025-11-16").length;
+
   return (
     <div className="wrap prose">
       <header className="hero">
@@ -27,12 +36,25 @@ export default function MetodologiaPage() {
         cronologia de fatos oficiais (liquidação, fato relevante, prisão) e para o
         contraditório.
       </p>
+      <p>
+        O corpus agora tem <strong>{count} fichas</strong> ({press} de imprensa,{" "}
+        {primary} com documento primário, peça ou fonte oficial). A base de 152 cards
+        de <code>content/timeline-eventos.md</code> permanece; a densificação de{" "}
+        <code>content/events-from-press.md</code> e as peças datadas de{" "}
+        <code>content/resumo-pet16662.md</code> entram como YAML validado — não como
+        markdown órfão.
+      </p>
 
       <h2>O que não entra</h2>
       <p>
         Não inventamos data, citação ou encontro. Trechos da vida de Vorcaro sem fonte
         pública — infância, vida privada sem registro — ficam de fora, em vez de ganhar
         uma ficha “bonita”. Rumores de rede social e peças sem URL estável não entram.
+      </p>
+      <p>
+        <strong>16/11/2025:</strong> o pacote de imprensa não traz card com URL http
+        para esse dia. As {nov16} fichas da data saem só do cluster forense (IPJ-A
+        3298613/2026 / anexo WhatsApp). Não criamos ficha de imprensa sem fonte.
       </p>
 
       <h2>Campos</h2>
@@ -46,11 +68,11 @@ export default function MetodologiaPage() {
 
       <h2>Grupos do dia</h2>
       <p>
-        O corpus sourced tem 152 fichas. Os carimbos da cadeia Apple Notas → captura →
-        WhatsApp não são manchetes: a interface os agrupa em grupos diários. Fechado:
-        data, fio e número de fichas. Aberto: linhas (título, evidência, editora). A
-        ficha completa fica em <code>/eventos/…</code>. Não inventamos teor de nota cujo
-        OCR não está no material.
+        Os carimbos da cadeia Apple Notas → captura → WhatsApp não são manchetes: a
+        interface os agrupa em grupos diários. Fechado: data, fio e número de fichas.
+        Aberto: linhas (título, evidência, editora). A ficha completa fica em{" "}
+        <code>/eventos/…</code>. Não inventamos teor de nota cujo OCR não está no
+        material.
       </p>
 
       <h2 id="ressalvas">Ressalvas que não podem sumir</h2>

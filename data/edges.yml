@@ -113,6 +113,51 @@
   type: corte
   label: PET 16.704 — pedido de informações
   confidence: high
+- from: edson-fachin
+  to: paulo-gonet
+  type: corte
+  label: PET 16.704 — pedido de informações
+  confidence: medium
+- from: edson-fachin
+  to: andrei-rodrigues
+  type: corte
+  label: PET 16.704 — pedido de informações
+  confidence: medium
+- from: daniel-bueno-vorcaro
+  to: henrique-vorcaro
+  type: familia
+  label: pai; Multipar e primeiro negócio
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: natalia-vorcaro
+  type: familia
+  label: irmã; casada com Zettel
+  confidence: high
+- from: natalia-vorcaro
+  to: fabiano-zettel
+  type: familia
+  label: cônjuges (Valor)
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: joao-carlos-mansur
+  type: negocio
+  label: Will Bank / Reag; buscas em jan. 2026
+  confidence: medium
+- from: daniel-bueno-vorcaro
+  to: solange-salgado
+  type: investigacao
+  label: habeas no TRF-1 (mantém 20/11; solta 28/11)
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: augusto-lima
+  type: master
+  label: comando compartilhado; diálogo BRB/compulsório
+  confidence: high
+- from: paulo-gonet
+  to: andre-mendonca
+  type: corte
+  label: vista de 5 dias na PET 16.662 (31/08/2026)
+  confidence: high
 - from: daniel-bueno-vorcaro
   to: fabiano-zettel
   type: familia

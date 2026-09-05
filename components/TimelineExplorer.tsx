@@ -76,6 +76,8 @@ export function TimelineExplorer({ events, people, tags, years }: Props) {
   const [year, setYear] = useState(params.get("ano") ?? "");
   const [evidence, setEvidence] = useState(params.get("evidencia") ?? "");
   const [confidence, setConfidence] = useState(params.get("confianca") ?? "");
+  const [fromDate, setFromDate] = useState(params.get("de") ?? "");
+  const [toDate, setToDate] = useState(params.get("ate") ?? "");
 
   const writeQuery = useCallback(
     (patch: Record<string, string>) => {
@@ -103,9 +105,13 @@ export function TimelineExplorer({ events, people, tags, years }: Props) {
         );
         if (!match) return false;
       }
+      const start = event.date;
+      const end = event.date_end ?? event.date;
+      if (fromDate && end < fromDate) return false;
+      if (toDate && start > toDate) return false;
       return matchesQuery(event, query);
     });
-  }, [events, q, person, tag, year, evidence, confidence]);
+  }, [events, q, person, tag, year, evidence, confidence, fromDate, toDate]);
 
   const dayBuckets = useMemo(() => {
     const matchingDays = new Set(filtered.map((event) => event.date));
@@ -206,6 +212,8 @@ export function TimelineExplorer({ events, people, tags, years }: Props) {
     setYear("");
     setEvidence("");
     setConfidence("");
+    setFromDate("");
+    setToDate("");
     writeQuery({
       q: "",
       pessoa: "",
@@ -213,11 +221,22 @@ export function TimelineExplorer({ events, people, tags, years }: Props) {
       ano: "",
       evidencia: "",
       confianca: "",
+      de: "",
+      ate: "",
       dia: "",
     });
   };
 
-  const active = q || person || tag || year || evidence || confidence || dia;
+  const active =
+    q ||
+    person ||
+    tag ||
+    year ||
+    evidence ||
+    confidence ||
+    fromDate ||
+    toDate ||
+    dia;
   const clusterCount = dayBuckets.buckets.length;
   const fichaCount = dayBuckets.buckets.reduce(
     (sum, b) => sum + b.events.length,
@@ -305,6 +324,48 @@ export function TimelineExplorer({ events, people, tags, years }: Props) {
             <option value="press">imprensa</option>
             <option value="other">outra</option>
           </select>
+          <select
+            className="select"
+            value={confidence}
+            onChange={(e) => {
+              setConfidence(e.target.value);
+              writeQuery({ confianca: e.target.value });
+            }}
+            aria-label="Filtrar por confiança"
+          >
+            <option value="">Toda confiança</option>
+            <option value="high">alta</option>
+            <option value="medium">média</option>
+            <option value="low">baixa</option>
+          </select>
+        </div>
+        <div className="filters-range">
+          <label className="range-label">
+            <span>De</span>
+            <input
+              type="date"
+              className="select"
+              value={fromDate}
+              onChange={(e) => {
+                setFromDate(e.target.value);
+                writeQuery({ de: e.target.value });
+              }}
+              aria-label="Data inicial"
+            />
+          </label>
+          <label className="range-label">
+            <span>Até</span>
+            <input
+              type="date"
+              className="select"
+              value={toDate}
+              onChange={(e) => {
+                setToDate(e.target.value);
+                writeQuery({ ate: e.target.value });
+              }}
+              aria-label="Data final"
+            />
+          </label>
         </div>
         <div className="filters-meta">
           {active ? (

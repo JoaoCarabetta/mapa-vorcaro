@@ -242,3 +242,44 @@
     - filha de Vorcaro
   summary: Em 15 de novembro de 2024, Vorcaro escreveu-lhe que estava “com alexandre moraes”. A PF usa o diálogo como indício de encontro, não como prova autônoma da identidade do interlocutor.
   group: familia
+- id: henrique-vorcaro
+  name: Henrique Vorcaro
+  shortName: Henrique
+  roles:
+    - pai de Daniel Vorcaro
+    - Multipar
+  summary: >-
+    Valor descreve a família mineira com raízes em construção/imobiliário via Henrique e a
+    Multipar (InfoMoney cita ex-Vorcaro Imóveis / Centro Sul). Entregou ao filho, por volta
+    dos 19 anos, uma empresa de cursos. Alvo de buscas na 2ª fase da Compliance Zero,
+    segundo a cobertura de jan/2026.
+  group: familia
+- id: natalia-vorcaro
+  name: Natália Vorcaro
+  shortName: Natália
+  roles:
+    - irmã de Daniel Vorcaro
+  summary: >-
+    Valor registra que é casada com Fabiano Zettel (Moriah). Endereços ligados a ela
+    constam das buscas da 2ª fase da Compliance Zero, segundo G1/CNN.
+  group: familia
+- id: joao-carlos-mansur
+  name: João Carlos Mansur
+  shortName: Mansur
+  roles:
+    - Reag
+    - parceiro no Will Bank
+  summary: >-
+    Valor associa a Reag (Mansur) à compra do Will Bank pelo Master. Alvo de buscas na
+    2ª fase da Compliance Zero (jan/2026), segundo CNN/Valor.
+  group: master
+- id: solange-salgado
+  name: Solange Salgado
+  shortName: Solange Salgado
+  roles:
+    - desembargadora do TRF-1
+  summary: >-
+    Em 20 de novembro de 2025 manteve a prisão preventiva de Vorcaro; em 28 de novembro
+    determinou a soltura com tornozeleira. A saída física do CDP de Guarulhos ocorreu em
+    29 de novembro, segundo o G1.
+  group: estado

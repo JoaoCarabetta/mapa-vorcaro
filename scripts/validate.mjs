@@ -126,9 +126,9 @@ for (const event of events) {
   }
 }
 
-if (events.length < 152) {
+if (events.length < 170) {
   errors.push(
-    `Corpus incompleto (${events.length}/152). A timeline sourced em content/timeline-eventos.md tem 152 cards; o YAML precisa cobrir todos.`,
+    `Corpus incompleto (${events.length}/170). Base 152 de timeline-eventos.md + densificação de imprensa/PET em data/events/05 e 06.`,
   );
 }
 

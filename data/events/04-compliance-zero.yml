@@ -175,13 +175,16 @@
   people:
     - name: Daniel Bueno Vorcaro
       id: daniel-bueno-vorcaro
-    - name: Henrique
-    - name: Natália
+    - name: Henrique Vorcaro
+      id: henrique-vorcaro
+    - name: Natália Vorcaro
+      id: natalia-vorcaro
     - name: Fabiano Zettel
       id: fabiano-zettel
     - name: Nelson Tanure
       id: nelson-tanure
-    - name: Mansur
+    - name: João Carlos Mansur
+      id: joao-carlos-mansur
     - name: Dias Toffoli
       id: dias-toffoli
     - name: Fernando Haddad
@@ -360,8 +363,32 @@
         https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-derruba-sigilo-e-leva-caso-plenario-sigiloderrubado-1set2026.pdf
       publisher: Poder360 / PET 16.662
       accessed: "2026-09-05"
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-manda-pf-identificar-rede-influencia-vorcaro-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: Despacho — PF identificar rede de influência
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-mandado-intimacao-pf-prazo-72h-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: Mandado de intimação PF — prazo 72h
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-desentranhamento-autuacao-processo-autonomo-copia-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: Desentranhamento / autuação autônoma
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-certidao-autuacao-distribuicao-andre-mendonca-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: Certidão de autuação e distribuição a André Mendonça
   evidence_type: primary_document
   confidence: high
+  notes: >-
+    Os PDFs de identificação da rede e do mandado de 72h não trazem, no resumo
+    público, data autônoma distinta desta decisão prévia; entram como peças do
+    mesmo histórico, sem data inventada.
 - id: 2026-08-27-ipj-a-3298613-2026-on-vorcaro-iphone-pet-16-662
   date: "2026-08-27"
   date_precision: day
@@ -421,6 +448,11 @@
       publisher: Poder360 / PET 16.662
       accessed: "2026-09-05"
       title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-recibo-peticao-pf-documentos-27ago2026-sigiloderrubado-1set2026.pdf.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: Recibo de petição PF — 27 ago 2026
   evidence_type: primary_document
   confidence: high
   notes: "Própria PF: análise não exaustiva (prazo 72h)."

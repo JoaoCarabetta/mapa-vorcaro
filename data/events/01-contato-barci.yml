@@ -771,11 +771,11 @@
         https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia
       publisher: Estadão
       accessed: "2026-09-05"
-      quote: >-
-        Tem notícia do BRB? Se não vier vou ter que devolver a grana de sexta e vamos usar
-        compulsório hoje” (02/09/2024, Vorcaro→Lima, Estadão)
   evidence_type: press
   confidence: high
+  notes: >-
+    A citação “usar compulsório hoje” é de 2 set 2024 — ficha própria na densificação
+    da imprensa, para não datar a fala em julho.
 - id: 2024-11-15-vorcaro-diz-a-filha-stella-que-esta-com-alexandre-moraes
   date: "2024-11-15"
   date_precision: day
