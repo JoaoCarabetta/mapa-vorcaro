@@ -3,6 +3,7 @@
 **Merged from:** `/workspace/vorcaro/events-from-press.md` (40) + `/workspace/vorcaro/events-from-primary.md` (62).
 **Compiled:** 4–5 Sep 2026 (America/Sao_Paulo).
 **Editor punch (2026-09-05):** Compact wrong-URL rows retargeted; forensic micro-card cluster note added; ~20 EN compact titles → Portuguese. No full rewrite.
+**Editor punch verify (2026-09-05 23:16 BRT):** sha bump — Compact L53/64/66/68/69/142–148/155 and full Ibaneis/Temer/PH Costa no longer use Valor-bio URL for non-bio claims. Re-audit THIS file (md5 below changes).
 **Method:** Deduplicate by date+title overlap; on WhatsApp/PET days prefer primary PDF sourcing (Poder360 static PET 16.662 uploads) and keep press http URLs as corroboration.
 
 ## Notes (mandatory caveats)
