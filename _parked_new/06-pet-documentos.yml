@@ -1,39 +1,33 @@
-# Peças primárias da PET 16.662 mineradas de content/resumo-pet16662.md
-# (arco Moraes/Barci/Gonet/Andrei já está nas fichas 01–04; aqui entram
-# documentos datados que ainda não tinham ficha própria).
 - id: 2026-08-31-mendonca-abre-vista-a-pgr-por-cinco-dias
-  date: "2026-08-31"
+  date: '2026-08-31'
   date_precision: day
   title: Mendonça abre vista à PGR por cinco dias (PET 16.662)
-  summary: >-
-    PDFs das íntegras do Poder360: despacho e termo de vista datados de 31 ago 2026 —
-    André Mendonça concede cinco dias à PGR para opinar sobre o material da PF
-    (IPJ-A 3298613/2026). No dia seguinte (1º set) levanta o sigilo e indica análise
-    pelo plenário presencial, com data a cargo de Edson Fachin. A vista, segundo o
-    despacho de 1º/09, não obsta o levantamento do sigilo.
+  summary: 'PDFs das íntegras do Poder360: despacho e termo de vista datados de 31 ago 2026 —
+    André Mendonça concede cinco dias à PGR para opinar sobre o material da PF (IPJ-A 3298613/2026).
+    No dia seguinte (1º set) levanta o sigilo e indica análise pelo plenário presencial, com data
+    a cargo de Edson Fachin. A vista, segundo o despacho de 1º/09, não obsta o levantamento do
+    sigilo.'
   people:
-    - name: André Mendonça
-      id: andre-mendonca
-    - name: Paulo Gonet Branco
-      id: paulo-gonet
-      role: PGR
-    - name: Edson Fachin
-      id: edson-fachin
+  - name: André Mendonça
+    id: andre-mendonca
+  - name: Paulo Gonet Branco
+    id: paulo-gonet
+    role: PGR
+  - name: Edson Fachin
+    id: edson-fachin
   tags:
-    - sigilo
-    - pet-16-662
-    - pgr
-    - plenario
+  - sigilo
+  - pet-16-662
+  - pgr
+  - plenario
   sources:
-    - url: >-
-        https://static.poder360.com.br/uploads/2026/09/1pet16662-despacho-vista-pgr-5dias-sigiloderrubado-1set2026.pdf
-      publisher: Poder360 / PET 16.662
-      accessed: "2026-09-05"
-      title: Despacho de vista à PGR (5 dias)
-    - url: >-
-        https://static.poder360.com.br/uploads/2026/09/pet16662-termo-vista-pgr-sigiloderrubado-1set2026.pdf
-      publisher: Poder360 / PET 16.662
-      accessed: "2026-09-05"
-      title: Termo de vista à PGR
+  - url: https://static.poder360.com.br/uploads/2026/09/1pet16662-despacho-vista-pgr-5dias-sigiloderrubado-1set2026.pdf
+    publisher: Poder360 / PET 16.662
+    accessed: '2026-09-05'
+    title: Despacho de vista à PGR (5 dias)
+  - url: https://static.poder360.com.br/uploads/2026/09/pet16662-termo-vista-pgr-sigiloderrubado-1set2026.pdf
+    publisher: Poder360 / PET 16.662
+    accessed: '2026-09-05'
+    title: Termo de vista à PGR
   evidence_type: primary_document
   confidence: high
