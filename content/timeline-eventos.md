@@ -555,7 +555,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **confidence:** high
 - **caveats:** Afirmação unilateral de Vorcaro em chat familiar; não é prova fotográfica da presença.
 
-### 2024-12-04 — Lula receives Vorcaro at Planalto (with Galípolo)
+### 2024-12-04 — Lula recebe Vorcaro no Planalto (com Galípolo)
 - **date:** 2024-12-04
 - **title:** Planalto meeting before public Master scandal
 - **summary:** Folha: Lula received Vorcaro on 4 Dec 2024; Vorcaro accompanied by Guido Mantega and Augusto Lima. Lula called ministers Rui Costa and Alexandre Silveira plus then-BC director Gabriel Galípolo. Vorcaro complained about bank-market concentration; Lula said BC should analyze technically. At least three SRI gate records of Vorcaro visits. Story confirmed after Lauro Jardim/Metrópoles naming of participants.
@@ -743,7 +743,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** press
 - **confidence:** medium-high (press figures; some “teria”)
 
-### 2025-06-17 — Cade approves BRB–Master concentration
+### 2025-06-17 — Cade aprova concentração BRB–Master
 - **date:** 2025-06-17
 - **title:** Cade SG clears deal without restrictions
 - **summary:** G1 DF: Superintendência-Geral of Cade approved BRB–Master deal without restrictions; BC approval still required. Valor International noted possible FGC emergency loan / BTG asset sale context around same period.
@@ -826,7 +826,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** press
 - **confidence:** high
 
-### 2025-09 — Michel Temer mediation attempt post-veto
+### 2025-09 — Tentativa de mediação de Michel Temer após o veto
 - **date:** ~Sep 2025 (Temer on Roda Viva 15/09/2025)
 - **title:** Temer says he was called to mediate BRB–Master after BC block
 - **summary:** G1 conexões: ex-president Michel Temer said on Roda Viva (15/09/2025) he was called to Brasília ~two weeks earlier with Vorcaro and Ibaneis wanting mediation to formalize the BRB transaction after the original deal was blocked.
@@ -1678,7 +1678,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** press
 - **confidence:** high
 
-### 2025-12 — Toffoli secrecy / STF pull of Master inquiry (press)
+### 2025-12 — Sigilo de Toffoli / atração do inquérito do Master pelo STF (imprensa)
 - **date:** ~2025-12-03 (G1 conexões)
 - **title:** Toffoli places Master inquiry under secrecy at STF
 - **summary:** G1: after defense forum claims, Min. Dias Toffoli on ~3 Dec put case under secrecy and pulled inquiry to STF citing a federal deputy with privileged forum; justified by sensitive economic info. Same week press noted Toffoli travel with Master-linked lawyer Arruda Botelho (Toffoli said process not discussed).
@@ -1813,7 +1813,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **confidence:** high as caveat statement
 - **caveats:** this card is meta — do not treat as a discrete “event” of influence
 
-### 2026-09-01 — Mendonça lifts secrecy; documents published
+### 2026-09-01 — Mendonça derruba sigilo; documentos publicados
 - **date:** 2026-09-01
 - **title:** Sigilo derrubado; plenary discussion indicated
 - **summary:** Poder360/CNN: Mendonça removes secrecy on PET 16.662 materials and signals in-person public plenary (date by Fachin). Wave of coverage: O Globo 13-day appeals, Poder360 “estou online,” G1 view-once tech, Folha full report, Estadão joinha/deleted msgs.
