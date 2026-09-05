@@ -9,6 +9,9 @@
   people:
     - name: Daniel Bueno Vorcaro
       id: daniel-bueno-vorcaro
+    - name: Henrique Vorcaro
+      id: henrique-vorcaro
+      role: pai; Multipar
   tags:
     - bio
   sources:
@@ -259,7 +262,7 @@
     - growth
   sources:
     - url: >-
-        https://www.infomoney.com.br/business/banco-master-qual-e-a-historia-da-instituicao-financeira
+        https://www.infomoney.com.br/business/banco-master-qual-e-a-historia-da-instituicao-financeira/
       publisher: InfoMoney
       accessed: "2026-09-05"
   evidence_type: press
