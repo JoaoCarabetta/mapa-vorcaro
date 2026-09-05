@@ -818,14 +818,15 @@
     ],
     "sources": [
       {
-        "url": "https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro",
+        "url": "https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro/",
         "publisher": "Poder360",
         "accessed": "2026-09-05",
         "quote": "Prezado Daniel, boa tarde. Conforme conversamos, estou enviando minuta de contrato…” (11/01/2024, Viviane)"
       }
     ],
     "evidence_type": "press",
-    "confidence": "high"
+    "confidence": "high",
+    "notes": "Reportagem pública (Poder360) e extratos do IPJ-A publicado. Escritório Barci (nota ao Poder360) diz que Moraes editou a pedido do compliance sobre impedimentos; afirma inexistência de atuação no STF / impedimento legal. Metadados last-modified são leitura da PF no documento publicado."
   },
   {
     "id": "2024-01-30-fabio-cita-alex-e-altera-local-do-jantar",
@@ -856,7 +857,8 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high"
+    "confidence": "high",
+    "notes": "PF/imprensa associam o apelido “careca”/“Alex” a Moraes nos diálogos; o nome neste recado não prova identidade. Trecho do IPJ-A publicado (PET 16.662); análise da PF não é exaustiva."
   },
   {
     "id": "2024-02-01-master-assume-o-controle-do-will-bank",
@@ -1010,7 +1012,8 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high"
+    "confidence": "high",
+    "notes": "Comprovante citado no IPJ-A publicado (PET 16.662); análise da PF não é exaustiva."
   },
   {
     "id": "2024-03-15-fabio-o-careca-nao-pode-atrasar-vorcaro-prioriza-pagamento-barci",
@@ -1056,7 +1059,8 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high"
+    "confidence": "high",
+    "notes": "PF/imprensa associam o apelido “careca”/“Alex” a Moraes nos diálogos; o apelido sozinho não prova identidade. Trechos do IPJ-A publicado e da reportagem Poder360."
   },
   {
     "id": "2024-03-28-convite-moraes-para-evento-londres-24-27-04-2024",
@@ -1092,7 +1096,8 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high"
+    "confidence": "high",
+    "notes": "Convite citado em diálogo no IPJ-A publicado (PET 16.662); não é, por si, comprovante de presença no evento. Análise da PF não é exaustiva."
   },
   {
     "id": "2024-04-03-convite-ao-dpf-andrei-vorcaro-ministro-fez-convite-ao-andrei-pf",
@@ -1171,7 +1176,8 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high"
+    "confidence": "high",
+    "notes": "Mensagem encaminhada no IPJ-A publicado; a data 10/04 é cálculo da PF (“próxima segunda”). Análise da PF não é exaustiva."
   },
   {
     "id": "2024-04-10-leo-serrano-organiza-logistica-londres-ministros-alexandre-toffoli-etc",
@@ -1202,7 +1208,8 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high"
+    "confidence": "high",
+    "notes": "Nomes de ministros saem da fala de Vorcaro no IPJ-A publicado; não é lista de presença independente. Análise da PF não é exaustiva."
   },
   {
     "id": "2024-04-14-ciro-soares-gonet-e-firme-audio-sobre-desistencia-de-candidatura",
@@ -1412,7 +1419,8 @@
       }
     ],
     "evidence_type": "press",
-    "confidence": "high"
+    "confidence": "high",
+    "notes": "Reportagem pública da Folha (jan/2026) sobre reunião de 4 dez 2024; não é documento da PF."
   },
   {
     "id": "2025-03-15-ciro-envia-selfie-com-gonet-4-chamadas-com-vorcaro",
@@ -1448,13 +1456,14 @@
         "title": "IPJ-A 3298613/2026"
       },
       {
-        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
         "publisher": "Poder360",
         "accessed": "2026-09-05"
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high"
+    "confidence": "high",
+    "notes": "Foto e recado chegam via Ciro Soares no IPJ-A publicado; não há contato “Paulo Gonet” na agenda de Vorcaro neste material. Análise da PF não é exaustiva."
   },
   {
     "id": "2025-03-19-vorcaro-diz-a-martha-que-esta-com-o-ministro-depois-com-moraes",

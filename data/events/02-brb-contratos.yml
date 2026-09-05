@@ -25,11 +25,14 @@
       accessed: "2026-09-05"
       title: IPJ-A 3298613/2026
     - url: >-
-        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/
       publisher: Poder360
       accessed: "2026-09-05"
   evidence_type: primary_document
   confidence: high
+  notes: >-
+    Foto e recado chegam via Ciro Soares no IPJ-A publicado; não há contato “Paulo Gonet”
+    na agenda de Vorcaro neste material. Análise da PF não é exaustiva.
 - id: 2025-03-19-vorcaro-diz-a-martha-que-esta-com-o-ministro-depois-com-moraes
   date: "2025-03-19"
   date_precision: day
