@@ -54,7 +54,7 @@ export default async function PersonPage({ params }: Props) {
             })}
           </ul>
           <p>
-            <Link href="/rede">Ver na visualização de rede</Link>
+            <Link href={`/rede?pessoa=${id}`}>Ver na visualização de rede</Link>
           </p>
         </div>
       ) : null}

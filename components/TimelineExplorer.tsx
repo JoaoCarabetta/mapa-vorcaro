@@ -66,7 +66,7 @@ function clusterLabel(events: EventRecord[]): string {
     }
   }
   const top = [...counts.entries()].sort((a, b) => b[1] - a[1])[0];
-  if (top && top[1] >= events.length) return top[0].replace(/-/g, " ");
+  if (top && top[1] >= events.length) return tagLabel(top[0]);
   return "Vários fios";
 }
 
@@ -361,6 +361,9 @@ export function TimelineExplorer({
             <option value="press">imprensa</option>
             <option value="other">outra</option>
           </select>
+        </div>
+        <details className="filters-more">
+          <summary>Mais filtros</summary>
           <select
             className="select"
             value={confidence}
@@ -375,7 +378,7 @@ export function TimelineExplorer({
             <option value="medium">média</option>
             <option value="low">baixa</option>
           </select>
-        </div>
+        </details>
         <div className="filters-range">
           <label className="range-label">
             <span>De</span>

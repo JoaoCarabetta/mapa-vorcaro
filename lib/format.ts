@@ -116,6 +116,7 @@ export function compareEventsChrono<
   if (byDate !== 0) return byDate;
   const byTime = eventClock(a).localeCompare(eventClock(b));
   if (byTime !== 0) return byTime;
+  // Same second: stable id, never title A–Z.
   return a.id.localeCompare(b.id);
 }
 

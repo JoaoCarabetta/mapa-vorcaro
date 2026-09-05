@@ -192,6 +192,61 @@ for (const event of events) {
   }
 }
 
+function eventClock(event) {
+  const fromTitle = String(event.title ?? "").match(/(\d{2}):(\d{2}):(\d{2})/);
+  if (fromTitle) return `${fromTitle[1]}${fromTitle[2]}${fromTitle[3]}`;
+  const fromSummary = String(event.summary ?? "").match(/(\d{2}):(\d{2}):(\d{2})/);
+  if (fromSummary) return `${fromSummary[1]}${fromSummary[2]}${fromSummary[3]}`;
+  return "000000";
+}
+
+function compareEventsChrono(a, b) {
+  const byDate = String(a.date).localeCompare(String(b.date));
+  if (byDate !== 0) return byDate;
+  const byTime = eventClock(a).localeCompare(eventClock(b));
+  if (byTime !== 0) return byTime;
+  return String(a.id).localeCompare(String(b.id));
+}
+
+const forensicWindow = events.filter(
+  (event) => event.date >= "2025-10-28" && event.date <= "2025-11-17",
+);
+const forensicChildren = forensicWindow.filter(
+  (event) => event.cluster_role === "child",
+);
+const forensicParents = forensicWindow.filter(
+  (event) => event.cluster_role === "parent",
+);
+if (forensicChildren.length !== 52) {
+  errors.push(
+    `Janela forense 28/out–17/nov: YAML tem ${forensicChildren.length} filhos com cluster_role:child (contagem honesta = 52, não a estimativa editorial ~53).`,
+  );
+}
+if (forensicParents.length !== 13) {
+  errors.push(
+    `Janela forense 28/out–17/nov: YAML tem ${forensicParents.length} pais; esperado 13 grupos do dia.`,
+  );
+}
+
+const nov17 = events.filter(
+  (event) => event.date === "2025-11-17" && event.date_precision === "day",
+);
+const nov17Chrono = [...nov17].sort(compareEventsChrono);
+const nov17Az = [...nov17].sort((a, b) =>
+  String(a.title).localeCompare(String(b.title), "pt"),
+);
+if (nov17Chrono.map((e) => e.id).join("|") === nov17Az.map((e) => e.id).join("|")) {
+  errors.push(
+    "2025-11-17: ordem cronológica (relógio) não pode coincidir com A–Z do título — filhos do cluster ordenam por carimbo, não alfabeticamente.",
+  );
+}
+const firstTimed = nov17Chrono.find((event) => eventClock(event) !== "000000");
+if (!firstTimed || eventClock(firstTimed) !== "101839") {
+  errors.push(
+    `2025-11-17: primeira ficha com relógio na ordem cronológica deveria ser 10:18:39 UTC; veio ${firstTimed ? eventClock(firstTimed) : "nenhuma"}.`,
+  );
+}
+
 if (events.length < 170) {
   errors.push(
     `Corpus incompleto (${events.length}/170). Base 152 de timeline-eventos.md + densificação de imprensa/PET em data/events/05 e 06.`,

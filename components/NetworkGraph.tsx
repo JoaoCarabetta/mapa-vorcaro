@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useMemo, useState } from "react";
+import { usePathname, useRouter } from "next/navigation";
 import type { EdgeRecord, PersonRecord } from "@/lib/types";
 
 const GROUP_COLOR: Record<PersonRecord["group"], string> = {
@@ -17,10 +18,17 @@ type Props = {
   people: PersonRecord[];
   edges: EdgeRecord[];
   counts: Record<string, number>;
+  initialSelected?: string;
 };
 
-export function NetworkGraph({ people, edges, counts }: Props) {
-  const [selected, setSelected] = useState("daniel-bueno-vorcaro");
+export function NetworkGraph({ people, edges, counts, initialSelected }: Props) {
+  const router = useRouter();
+  const pathname = usePathname();
+  const [selected, setSelected] = useState(
+    initialSelected && people.some((p) => p.id === initialSelected)
+      ? initialSelected
+      : "daniel-bueno-vorcaro",
+  );
   const width = 920;
   const height = 620;
   const cx = width / 2;
@@ -44,8 +52,38 @@ export function NetworkGraph({ people, edges, counts }: Props) {
   const selectedPerson = people.find((p) => p.id === selected);
   const related = edges.filter((e) => e.from === selected || e.to === selected);
 
+  const select = (id: string) => {
+    setSelected(id);
+    router.replace(`${pathname}?pessoa=${encodeURIComponent(id)}`, {
+      scroll: false,
+    });
+  };
+
   return (
-    <div>
+    <div className="network-layout">
+      <div className="network-people-panel">
+        <h2 className="network-people-heading">Pessoas</h2>
+        <ul className="network-people-list">
+          {people.map((person) => (
+            <li key={person.id}>
+              <button
+                type="button"
+                className={
+                  person.id === selected
+                    ? "filter-reset network-person-selected"
+                    : "filter-reset"
+                }
+                aria-current={person.id === selected ? "true" : undefined}
+                onClick={() => select(person.id)}
+              >
+                {person.shortName ?? person.name}
+              </button>
+              <span className="muted"> · {counts[person.id] ?? 0}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+      <div>
       <p className="legend">
         <span><span className="dot" style={{ background: GROUP_COLOR.nucleo }} /> núcleo</span>
         <span><span className="dot" style={{ background: GROUP_COLOR.poder }} /> poder</span>
@@ -88,7 +126,7 @@ export function NetworkGraph({ people, edges, counts }: Props) {
                 key={person.id}
                 transform={`translate(${pos.x},${pos.y})`}
                 style={{ cursor: "pointer" }}
-                onClick={() => setSelected(person.id)}
+                onClick={() => select(person.id)}
               >
                 <title>{`${person.name} — ${counts[person.id] ?? 0} eventos`}</title>
                 <circle
@@ -131,7 +169,7 @@ export function NetworkGraph({ people, edges, counts }: Props) {
                   <button
                     type="button"
                     className="filter-reset"
-                    onClick={() => setSelected(otherId)}
+                    onClick={() => select(otherId)}
                   >
                     {other?.name ?? otherId}
                   </button>
@@ -143,6 +181,7 @@ export function NetworkGraph({ people, edges, counts }: Props) {
           </ul>
         </aside>
       ) : null}
+      </div>
     </div>
   );
 }

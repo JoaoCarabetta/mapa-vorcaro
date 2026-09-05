@@ -71,9 +71,11 @@ export function personRefMatches(
 export function eventsForPerson(personId: string): EventRecord[] {
   const person = getPersonById(personId);
   if (!person) return [];
-  return loadEvents().filter((event) =>
-    event.people.some((ref) => personRefMatches(person, ref)),
-  );
+  return loadEvents()
+    .filter((event) =>
+      event.people.some((ref) => personRefMatches(person, ref)),
+    )
+    .sort(compareEventsChrono);
 }
 
 export function uniqueTags(events: EventRecord[]): string[] {

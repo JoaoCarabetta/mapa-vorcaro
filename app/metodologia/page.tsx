@@ -11,8 +11,11 @@ export default function MetodologiaPage() {
     ["primary_document", "court", "official"].includes(e.evidence_type),
   ).length;
   const nov16 = events.filter((e) => e.date === "2025-11-16").length;
-  const forensicChildren = events.filter((e) => e.cluster_role === "child").length;
-  const forensicParents = events.filter((e) => e.cluster_role === "parent").length;
+  const forensicWindow = events.filter(
+    (e) => e.date >= "2025-10-28" && e.date <= "2025-11-17",
+  );
+  const forensicChildren = forensicWindow.filter((e) => e.cluster_role === "child").length;
+  const forensicParents = forensicWindow.filter((e) => e.cluster_role === "parent").length;
 
   return (
     <div className="wrap prose">
@@ -64,11 +67,11 @@ export default function MetodologiaPage() {
       </p>
       <p>
         A tabela compacta do markdown (~150 linhas) também <strong>não</strong> é o
-        esquema do site. Um audit editorial flagrou URL do perfil Valor “forasteiro”
-        (3 abr 2025) colada em fichas que não são bio. Os cards completos (152) e o
-        YAML é que mandam. A diferença 150 vs 152 é dedupe suave (gêmeos compactos /
-        linhas fundidas), não perda de fato. A URL do perfil Valor só entra em ficha
-        de bio ou como corroboração explícita (ex.: Reag/Mansur no Will).
+        esquema do site — ver <a href="#tabela-compacta-150">contagem 150 vs 152</a>.
+        Um audit editorial flagrou URL do perfil Valor “forasteiro” (3 abr 2025)
+        colada em fichas que não são bio. Os cards completos (152) e o YAML é que
+        mandam. A URL do perfil Valor só entra em ficha de bio ou como corroboração
+        explícita (ex.: Reag/Mansur no Will).
       </p>
 
       <h2>O que não entra</h2>
@@ -96,17 +99,27 @@ export default function MetodologiaPage() {
       <p>
         Os carimbos da cadeia Apple Notas → captura → WhatsApp não são manchetes: a
         interface os agrupa em grupos diários. Fechado: data em português, fio
-        (“Notas para WhatsApp” ou “Vários fios”) e número de fichas daquele dia.
-        Aberto (<code>?dia=AAAA-MM-DD</code>): as fichas completas do dia, em ordem
-        cronológica (relógio UTC no título). A ficha isolada também é um cartão
-        completo; o detalhe com fontes fica em <code>/eventos/…</code>. Não inventamos
-        teor de nota cujo OCR não está no material.
+        (“Notas para WhatsApp” ou “Vários fios”), número de fichas daquele dia e
+        microfichas empilhadas (título · evidência · publisher), em ordem cronológica
+        pelo relógio UTC do carimbo — nunca A–Z do título. Aberto
+        (<code>?dia=AAAA-MM-DD</code>): as fichas completas do dia, na mesma ordem.
+        A ficha isolada também é um cartão completo; o detalhe com fontes fica em{" "}
+        <code>/eventos/…</code>. Não inventamos teor de nota cujo OCR não está no
+        material.
       </p>
+      <h3 id="contagem-52">Por que 52 microfichas, não “cerca de 53”</h3>
       <p>
         Contagem honesta: {forensicChildren} microfichas-filhas (carimbo de tempo)
         sob {forensicParents} pais do dia na janela 28/out–17/nov/2025. A nota de
-        esquema no markdown falava em “cerca de 53”; o YAML deste site tem{" "}
-        {forensicChildren} filhos. Não arredondamos de volta para 53.
+        esquema no markdown falava em “cerca de 53” — estimativa editorial da janela,
+        não um inventário YAML. O site conta {forensicChildren} filhos com{" "}
+        <code>cluster_role: child</code>. Não arredondamos de volta para 53.
+      </p>
+      <h3 id="tabela-compacta-150">Tabela compacta ~150 vs 152 cards</h3>
+      <p>
+        A tabela compacta do markdown (~150 linhas) <strong>não</strong> é o esquema
+        do site. Os cards completos são 152; a diferença é dedupe suave (gêmeos
+        compactos / linhas fundidas), não perda de fato. YAML e cards completos mandam.
       </p>
 
       <h2 id="ressalvas">Ressalvas que não podem sumir</h2>

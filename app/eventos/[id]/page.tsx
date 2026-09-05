@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { confidenceLabel, evidenceLabel, formatDate, tagLabel } from "@/lib/format";
+import { confidenceLabel, evidenceLabel, formatDate, formatEventClock, tagLabel } from "@/lib/format";
 import { forensicChildrenOf, getEventById, loadEvents, loadPeople, personRefMatches } from "@/lib/load";
 import type { Metadata } from "next";
 
@@ -35,6 +35,9 @@ export default async function EventPage({ params }: Props) {
     event.cluster_role === "parent"
       ? forensicChildrenOf(all, event.cluster_id)
       : [];
+  const index = all.findIndex((candidate) => candidate.id === event.id);
+  const prev = index > 0 ? all[index - 1] : undefined;
+  const next = index >= 0 && index < all.length - 1 ? all[index + 1] : undefined;
 
   return (
     <div className="wrap">
@@ -78,13 +81,16 @@ export default async function EventPage({ params }: Props) {
           {clusterChildren.length > 0 ? (
             <div>
               <h2>Outras fichas deste dia ({clusterChildren.length})</h2>
-              <ul>
+              <ol data-ordem="cronologica">
                 {clusterChildren.map((child) => (
                   <li key={child.id}>
                     <Link href={`/eventos/${child.id}`}>{child.title}</Link>
+                    {formatEventClock(child) ? (
+                      <span className="muted"> · {formatEventClock(child)}</span>
+                    ) : null}
                   </li>
                 ))}
-              </ul>
+              </ol>
             </div>
           ) : null}
           {quotes.map((source) => (
@@ -135,6 +141,18 @@ export default async function EventPage({ params }: Props) {
           </div>
         </aside>
       </div>
+      <nav className="ficha-nav" aria-label="Fichas vizinhas">
+        {prev ? (
+          <Link href={`/eventos/${prev.id}`}>← {prev.title}</Link>
+        ) : (
+          <span />
+        )}
+        {next ? (
+          <Link href={`/eventos/${next.id}`}>{next.title} →</Link>
+        ) : (
+          <span />
+        )}
+      </nav>
     </div>
   );
 }

@@ -1,31 +1,23 @@
-import Link from "next/link";
+import { PeopleIndex } from "@/components/PeopleIndex";
 import { eventsForPerson, loadPeople } from "@/lib/load";
-import type { PersonRecord } from "@/lib/types";
 
-const GROUP_ORDER: PersonRecord["group"][] = [
-  "nucleo",
-  "poder",
-  "estado",
-  "intermediario",
-  "master",
-  "familia",
-];
+type Search = Record<string, string | string[] | undefined>;
 
-const GROUP_LABEL: Record<PersonRecord["group"], string> = {
-  nucleo: "Núcleo",
-  poder: "Poder",
-  estado: "Estado / BC / Justiça",
-  intermediario: "Intermediários",
-  master: "Master",
-  familia: "Família / entorno",
-};
+function first(value: string | string[] | undefined): string {
+  if (Array.isArray(value)) return value[0] ?? "";
+  return value ?? "";
+}
 
-export default function PeopleIndexPage() {
-  const people = loadPeople();
-  const grouped = GROUP_ORDER.map((group) => ({
-    group,
-    people: people.filter((person) => person.group === group),
-  })).filter((bucket) => bucket.people.length > 0);
+export default async function PeopleIndexPage({
+  searchParams,
+}: {
+  searchParams: Promise<Search>;
+}) {
+  const params = await searchParams;
+  const people = loadPeople().map((person) => ({
+    ...person,
+    eventCount: eventsForPerson(person.id).length,
+  }));
 
   return (
     <div className="wrap">
@@ -36,32 +28,11 @@ export default function PeopleIndexPage() {
           vínculo com Vorcaro aparece na rede e nos eventos.
         </p>
       </header>
-      {grouped.map(({ group, people: list }) => (
-        <section key={group} aria-labelledby={`grupo-${group}`}>
-          <h2 className="year-head" id={`grupo-${group}`}>
-            {GROUP_LABEL[group]}
-          </h2>
-          <div className="people-grid">
-            {list.map((person) => {
-              const count = eventsForPerson(person.id).length;
-              return (
-                <Link
-                  className="person-card"
-                  key={person.id}
-                  href={`/pessoas/${person.id}`}
-                >
-                  <div className="source-pub">{GROUP_LABEL[person.group]}</div>
-                  <h2 style={{ margin: "8px 0 6px" }}>{person.name}</h2>
-                  <p className="muted">{person.roles[0]}</p>
-                  <p>
-                    {count} evento{count === 1 ? "" : "s"}
-                  </p>
-                </Link>
-              );
-            })}
-          </div>
-        </section>
-      ))}
+      <PeopleIndex
+        people={people}
+        initialQ={first(params.q)}
+        initialPin={first(params.pin)}
+      />
     </div>
   );
 }
