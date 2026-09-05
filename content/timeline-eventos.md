@@ -430,7 +430,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2024-03–04 — Apresentações / jantar com “Careca”; fio do convite a Andrei
 - **date:** 2024-02-02 (dinner); 2024-04-03 (Andrei invite msgs per resumo)
-- **title:** Faria-mediated social/political networking notes
+- **title:** Anotações de networking social/político intermediado por Faria
 - **summary:** Press/PF chronology: Feb/2024 Brasília encounter via Faria; Apr/2024 messages about inviting “DPF Andrei” / closing “PGR and DPF”. Published as PF-extracted notes — not proof of acceptance by named authorities.
 - **people:** Fábio Faria; Vorcaro; Ciro Soares; names Andrei / Gonet as labeled in notes
 - **tags:** power-interlocutor|compliance-zero
@@ -555,9 +555,9 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **confidence:** high
 - **caveats:** Afirmação unilateral de Vorcaro em chat familiar; não é prova fotográfica da presença.
 
-### 2024-12-04 — Lula receives Vorcaro at Planalto (with Galípolo)
+### 2024-12-04 — Lula recebe Vorcaro no Planalto (com Galípolo)
 - **date:** 2024-12-04
-- **title:** Planalto meeting before public Master scandal
+- **title:** Encontro no Planalto antes do escândalo público do Master
 - **summary:** Folha: Lula received Vorcaro on 4 Dec 2024; Vorcaro accompanied by Guido Mantega and Augusto Lima. Lula called ministers Rui Costa and Alexandre Silveira plus then-BC director Gabriel Galípolo. Vorcaro complained about bank-market concentration; Lula said BC should analyze technically. At least three SRI gate records of Vorcaro visits. Story confirmed after Lauro Jardim/Metrópoles naming of participants.
 - **people:** Lula; Daniel Vorcaro; Guido Mantega; Augusto Lima; Gabriel Galípolo; Rui Costa; Alexandre Silveira; Marcola (chief of staff)
 - **tags:** power-interlocutor|brb|master
@@ -743,9 +743,9 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** press
 - **confidence:** medium-high (press figures; some “teria”)
 
-### 2025-06-17 — Cade approves BRB–Master concentration
+### 2025-06-17 — Cade aprova concentração BRB–Master
 - **date:** 2025-06-17
-- **title:** Cade SG clears deal without restrictions
+- **title:** Superintendência-Geral do Cade aprova negócio sem restrições
 - **summary:** G1 DF: Superintendência-Geral of Cade approved BRB–Master deal without restrictions; BC approval still required. Valor International noted possible FGC emergency loan / BTG asset sale context around same period.
 - **people:** BRB; Master; Cade SG Alexandre Barreto
 - **tags:** brb|master
@@ -826,9 +826,9 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** press
 - **confidence:** high
 
-### 2025-09 — Michel Temer mediation attempt post-veto
+### 2025-09 — Tentativa de mediação de Michel Temer após o veto
 - **date:** ~Sep 2025 (Temer on Roda Viva 15/09/2025)
-- **title:** Temer says he was called to mediate BRB–Master after BC block
+- **title:** Temer diz ter sido chamado a mediar BRB–Master após bloqueio do Banco Central
 - **summary:** G1 conexões: ex-president Michel Temer said on Roda Viva (15/09/2025) he was called to Brasília ~two weeks earlier with Vorcaro and Ibaneis wanting mediation to formalize the BRB transaction after the original deal was blocked.
 - **people:** Michel Temer; Daniel Vorcaro; Ibaneis Rocha
 - **tags:** brb|politics|power-interlocutor
@@ -1670,7 +1670,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2025-11-28 — Tribunal Regional Federal da 1ª Região solta Vorcaro e quatro executivos
 - **date:** 2025-11-28
-- **title:** Soltura with electronic ankle monitor and restrictions
+- **title:** Soltura com tornozeleira eletrônica e restrições
 - **summary:** G1: Desembargadora Solange Salgado da Silva orders release of Vorcaro, Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva. Conditions: ankle monitor, periodic court appearance, no contact among investigated / BRB-Master staff, no leaving home city without leave, passports remain surrendered. Defense argued liquidation already removed bank control / flight risk.
 - **people:** Solange Salgado; Vorcaro; Lima; Bull; Felix; Ângelo
 - **tags:** compliance-zero|master
@@ -1678,9 +1678,9 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** press
 - **confidence:** high
 
-### 2025-12 — Toffoli secrecy / STF pull of Master inquiry (press)
+### 2025-12 — Sigilo de Toffoli / atração do inquérito do Master pelo STF (imprensa)
 - **date:** ~2025-12-03 (G1 conexões)
-- **title:** Toffoli places Master inquiry under secrecy at STF
+- **title:** Toffoli coloca inquérito do Master sob sigilo no STF
 - **summary:** G1: after defense forum claims, Min. Dias Toffoli on ~3 Dec put case under secrecy and pulled inquiry to STF citing a federal deputy with privileged forum; justified by sensitive economic info. Same week press noted Toffoli travel with Master-linked lawyer Arruda Botelho (Toffoli said process not discussed).
 - **people:** Dias Toffoli; Augusto de Arruda Botelho; Vorcaro defense
 - **tags:** compliance-zero|politics|power-interlocutor
@@ -1813,9 +1813,9 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **confidence:** high as caveat statement
 - **caveats:** this card is meta — do not treat as a discrete “event” of influence
 
-### 2026-09-01 — Mendonça lifts secrecy; documents published
+### 2026-09-01 — Mendonça derruba sigilo; documentos publicados
 - **date:** 2026-09-01
-- **title:** Sigilo derrubado; plenary discussion indicated
+- **title:** Sigilo derrubado; discussão no plenário indicada
 - **summary:** Poder360/CNN: Mendonça removes secrecy on PET 16.662 materials and signals in-person public plenary (date by Fachin). Wave of coverage: O Globo 13-day appeals, Poder360 “estou online,” G1 view-once tech, Folha full report, Estadão joinha/deleted msgs.
 - **people:** André Mendonça; Alexandre de Moraes; Vorcaro; Edson Fachin
 - **tags:** seal-lift|compliance-zero|power-interlocutor
