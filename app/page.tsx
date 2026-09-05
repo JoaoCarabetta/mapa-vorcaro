@@ -1,8 +1,19 @@
-import { Suspense } from "react";
 import { TimelineExplorer } from "@/components/TimelineExplorer";
 import { loadEvents, loadPeople, uniqueTags, uniqueYears } from "@/lib/load";
 
-export default function HomePage() {
+type Search = Record<string, string | string[] | undefined>;
+
+function first(value: string | string[] | undefined): string {
+  if (Array.isArray(value)) return value[0] ?? "";
+  return value ?? "";
+}
+
+export default async function HomePage({
+  searchParams,
+}: {
+  searchParams: Promise<Search>;
+}) {
+  const params = await searchParams;
   const events = loadEvents();
   const people = loadPeople().map((p) => ({ id: p.id, name: p.name }));
   const primary = events.filter((e) =>
@@ -33,14 +44,23 @@ export default function HomePage() {
           — visualização única, rótulo de agenda ≠ chip, disputa Barci, relatório de 72h.
         </p>
       </header>
-      <Suspense fallback={<p className="muted">Carregando filtros…</p>}>
-        <TimelineExplorer
-          events={events}
-          people={people}
-          tags={uniqueTags(events)}
-          years={uniqueYears(events)}
-        />
-      </Suspense>
+      <TimelineExplorer
+        events={events}
+        people={people}
+        tags={uniqueTags(events)}
+        years={uniqueYears(events)}
+        initialQuery={{
+          q: first(params.q),
+          pessoa: first(params.pessoa),
+          tag: first(params.tag),
+          ano: first(params.ano),
+          evidencia: first(params.evidencia),
+          confianca: first(params.confianca),
+          de: first(params.de),
+          ate: first(params.ate),
+          dia: first(params.dia),
+        }}
+      />
     </div>
   );
 }

@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useMemo, useState } from "react";
-import { usePathname, useRouter, useSearchParams } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import { EventCard } from "@/components/EventCard";
 import { ForensicCluster } from "@/components/ForensicCluster";
 import {
@@ -12,11 +12,24 @@ import {
 } from "@/lib/format";
 import type { EventRecord } from "@/lib/types";
 
+type TimelineQuery = {
+  q?: string;
+  pessoa?: string;
+  tag?: string;
+  ano?: string;
+  evidencia?: string;
+  confianca?: string;
+  de?: string;
+  ate?: string;
+  dia?: string;
+};
+
 type Props = {
   events: EventRecord[];
   people: { id: string; name: string }[];
   tags: string[];
   years: number[];
+  initialQuery?: TimelineQuery;
 };
 
 function matchesQuery(event: EventRecord, query: string) {
@@ -65,32 +78,60 @@ type DayBucket = {
   dayCount: number;
 };
 
-export function TimelineExplorer({ events, people, tags, years }: Props) {
-  const params = useSearchParams();
+export function TimelineExplorer({
+  events,
+  people,
+  tags,
+  years,
+  initialQuery = {},
+}: Props) {
   const router = useRouter();
   const pathname = usePathname();
-  const dia = params.get("dia") ?? "";
 
-  const [q, setQ] = useState(params.get("q") ?? "");
-  const [person, setPerson] = useState(params.get("pessoa") ?? "");
-  const [tag, setTag] = useState(params.get("tag") ?? "");
-  const [year, setYear] = useState(params.get("ano") ?? "");
-  const [evidence, setEvidence] = useState(params.get("evidencia") ?? "");
-  const [confidence, setConfidence] = useState(params.get("confianca") ?? "");
-  const [fromDate, setFromDate] = useState(params.get("de") ?? "");
-  const [toDate, setToDate] = useState(params.get("ate") ?? "");
+  const [dia, setDia] = useState(initialQuery.dia ?? "");
+  const [q, setQ] = useState(initialQuery.q ?? "");
+  const [person, setPerson] = useState(initialQuery.pessoa ?? "");
+  const [tag, setTag] = useState(initialQuery.tag ?? "");
+  const [year, setYear] = useState(initialQuery.ano ?? "");
+  const [evidence, setEvidence] = useState(initialQuery.evidencia ?? "");
+  const [confidence, setConfidence] = useState(initialQuery.confianca ?? "");
+  const [fromDate, setFromDate] = useState(initialQuery.de ?? "");
+  const [toDate, setToDate] = useState(initialQuery.ate ?? "");
 
   const writeQuery = useCallback(
     (patch: Record<string, string>) => {
-      const next = new URLSearchParams(params.toString());
-      for (const [key, value] of Object.entries(patch)) {
-        if (value) next.set(key, value);
-        else next.delete(key);
+      const next = {
+        q,
+        pessoa: person,
+        tag,
+        ano: year,
+        evidencia: evidence,
+        confianca: confidence,
+        de: fromDate,
+        ate: toDate,
+        dia,
+        ...patch,
+      };
+      const params = new URLSearchParams();
+      for (const [key, value] of Object.entries(next)) {
+        if (value) params.set(key, value);
       }
-      const qs = next.toString();
+      const qs = params.toString();
       router.replace(qs ? `${pathname}?${qs}` : pathname, { scroll: false });
     },
-    [params, pathname, router],
+    [
+      q,
+      person,
+      tag,
+      year,
+      evidence,
+      confidence,
+      fromDate,
+      toDate,
+      dia,
+      pathname,
+      router,
+    ],
   );
 
   const filtered = useMemo(() => {
@@ -209,6 +250,7 @@ export function TimelineExplorer({ events, people, tags, years }: Props) {
     setConfidence("");
     setFromDate("");
     setToDate("");
+    setDia("");
     writeQuery({
       q: "",
       pessoa: "",
@@ -406,6 +448,7 @@ export function TimelineExplorer({ events, people, tags, years }: Props) {
                           events={bucket.events}
                           defaultOpen={dia === bucket.date}
                           onOpenChange={(open) => {
+                            setDia(open ? bucket.date : "");
                             writeQuery({ dia: open ? bucket.date : "" });
                           }}
                         />
