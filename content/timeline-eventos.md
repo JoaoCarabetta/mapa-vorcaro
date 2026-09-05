@@ -9,6 +9,7 @@
 **Editor gap list patch (2026-09-05):** Estou-online caveats; compact Viking dispute blurbs; twin URL dedupe check. Valor-bio only on bio rows.
 **Editor titles (2026-09-05):** 18 EN full-card `title` fields → Portuguese. Bodies untouched. Clustering = cloud UI.
 **Editor punch verify (2026-09-05 23:16 BRT):** sha bump — Compact L53/64/66/68/69/142–148/155 and full Ibaneis/Temer/PH Costa no longer use Valor-bio URL for non-bio claims. Re-audit THIS file (md5 below changes).
+**Post-B smoke titles (2026-09-05):** 5 EN full-card titles → PT (Ibaneis/Pix/Searches/2ª prisão/IPJ-A).
 **Path B merge (2026-09-05):** +14 PASS cards (items 3–16 minus Voiter/Will TRIM); compulsório quote deduped from Jul/2024 cessões; CLDF voto ≠ Ibaneis sanção.
 **Method:** Deduplicate by date+title overlap; on WhatsApp/PET days prefer primary PDF sourcing (Poder360 static PET 16.662 uploads) and keep press http URLs as corroboration.
 
@@ -187,7 +188,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 | 2026-05-14 | 6ª fase da Compliance Zero | Despacho cita deflagração da 6ª fase em 14/05/2026, lastreada em informações de polícia judiciária derivadas do celular e desdobramentos. | https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-derruba-sigilo-e-leva-caso-plenario-sigiloderrubado-1set2026.pdf |
 | 2026-06-05 | Ofício de polícia judiciária citado no despacho | Despacho menciona Ofício (nº redigido) remetido em 05/06/2026 como peça relevante do histórico investigativo sobre a rede de influência/monitoramento. | https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-derruba-sigilo-e-leva-caso-plenario-sigiloderrubado-1set2026.pdf |
 | 2026-06-19 | Decisão prévia citada antes da autuação autônoma PET 16.662 | Despacho (p.4) refere decisão de 19/06/2026 no histórico que culmina no pedido de atualização à CINQ/DICOR/PF sobre a rede atribuída a Vorcaro e, depois, no desentranhamento para PET 16.662. | https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-derruba-sigilo-e-leva-caso-plenario-sigiloderrubado-1set2026.pdf |
-| 2026-08-27 | IPJ-A 3298613/2026 on Vorcaro iPhone → PET 16.662 | Poder360: after Mendonça’s 72h order to map “rede de influência e monitoramento,” PF delivers non-exhaustive 218-p analysis of iPhone 17 Pro seized at arrest (Cellebrite/IPED). | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
+| 2026-08-27 | IPJ-A 3298613/2026 no iPhone de Vorcaro → PET 16.662 | Poder360: after Mendonça’s 72h order to map “rede de influência e monitoramento,” PF delivers non-exhaustive 218-p analysis of iPhone 17 Pro seized at arrest (Cellebrite/IPED). | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2026-08-27 | PF entrega IPJ-A 3298613/2026 (relatório 218 p.) a Mendonça | Ofício nº 3305795/2026-CINQ/CGRC/DICOR/PF, Brasília 27/08/2026, encaminha ao Min. André Mendonça a Informação de Polícia Judiciária nº 3298613/2026 (atendimento à requisição na PET 15.556). | https://static.poder360.com.br/uploads/2026/09/1pet16662-oficio-pf-envio-relatorio-3298613-2026-sigiloderrubado-1set2026.pdf |
 | 2026-08-31 | Mendonça abre vista à PGR por 5 dias (PET 16.662) | Despacho: vista à PGR por 5 dias sobre infos da PF. ≠ levantamento de sigilo 01/09. | https://static.poder360.com.br/uploads/2026/09/1pet16662-despacho-vista-pgr-5dias-sigiloderrubado-1set2026.pdf | high |
 | 2026-09-01 | Mendonça levanta sigilo da PET 16.662 e manda ao plenário | Despacho PET 16.662/DF, Brasília 1º/09/2026, Min. André Mendonça (relator): determina levantamento do sigilo; | https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-derruba-sigilo-e-leva-caso-plenario-sigiloderrubado-1set2026.pdf |
@@ -925,7 +926,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### ~2025-08 — Lei distrital / autorização de Ibaneis para compra pelo Banco de Brasília
 - **date:** ~mid-Aug 2025 (“há pouco mais de 10 dias” before 03/09/2025 Agência Brasil)
-- **title:** Ibaneis sanctions CLDF law authorizing BRB to buy Master shares
+- **title:** Ibaneis sanciona lei da CLDF que autoriza o BRB a comprar o Master
 - **summary:** Agência Brasil: DF governor Ibaneis Rocha sanctioned a district law (CLDF-approved, after judicial demand) authorizing BRB to acquire 49% ON + 100% PN of Master. G1 conexões: Ibaneis later said he met Vorcaro only socially; Ciro Nogueira/Antonio Rueda described as political bridges for the deal.
 - **people:** Ibaneis Rocha; Ciro Nogueira; Antonio Rueda
 - **tags:** brb|politics|power-interlocutor
@@ -979,7 +980,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2025-10-01 — “Não faz barci pix”; mensagens apagadas no chat Moraes
 - **date:** 2025-10-01
-- **title:** Pix warning on Barci payments; four “deleted by sender” bubbles
+- **title:** Alerta sobre Pix a Barci; quatro bolhas “apagada pelo remetente”
 - **summary:** Vorcaro to Felix: “Mas nao faz barci pix ne?”; Felix said Pix already done to same TED data. Same day window: four Moraes-chat messages marked deleted by sender (PF).
 - **people:** Vorcaro; Alberto Felix; Barci office
 - **tags:** barci|compliance-zero
@@ -1842,7 +1843,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2026-01-14 — Compliance Zero 2ª fase: buscas / bloqueio de R$ 5,7 bi
 - **date:** 2026-01-14
-- **title:** Searches at Vorcaro family, Zettel, Tanure, Mansur
+- **title:** Buscas em endereços da família Vorcaro, Zettel, Tanure e Mansur
 - **summary:** G1: second phase — searches at addresses linked to Vorcaro, father, sister, brother-in-law Fabiano Zettel; also Nelson Tanure and João Carlos Mansur (Reag). ~42 addresses; Toffoli-authorized; asset freezes >R$5.7 bi. Haddad called it possibly Brazil’s largest bank fraud; FGC exposure ~R$41 bi CDBs / ~1.6 mi investors cited.
 - **people:** Vorcaro; Henrique; Natália; Zettel; Tanure; Mansur; Toffoli; Fernando Haddad
 - **tags:** compliance-zero|power-interlocutor
@@ -1870,9 +1871,9 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** primary
 - **confidence:** high
 
-### 2026-03-04 — Vorcaro re-arrested (3ª fase Compliance Zero)
+### 2026-03-04 — Vorcaro preso de novo (3ª fase Compliance Zero)
 - **date:** 2026-03-04
-- **title:** Second preventive prison; Zettel also held
+- **title:** Segunda prisão preventiva; Zettel também detido
 - **summary:** Valor/CNN/G1: new STF warrants; Vorcaro and Zettel arrested in SP/MG; PF alleges continued concealment of billions after first release. Custody hearing keeps them in state prison (CDP Guarulhos). Later STF 2ª Turma maintains (13/03 per CNN timeline).
 - **people:** Vorcaro; Fabiano Zettel; STF; PF
 - **tags:** compliance-zero
@@ -1923,7 +1924,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2026-08-27 — PF delivers 218-page phone report to Mendonça
 - **date:** 2026-08-27
-- **title:** IPJ-A 3298613/2026 on Vorcaro iPhone → PET 16.662
+- **title:** IPJ-A 3298613/2026 no iPhone de Vorcaro → PET 16.662
 - **summary:** Poder360: after Mendonça’s 72h order to map “rede de influência e monitoramento,” PF delivers non-exhaustive 218-p analysis of iPhone 17 Pro seized at arrest (Cellebrite/IPED). Covers Moraes-labeled chat, Barci contracts, Gonet/Andrei/Ciro threads, notes methodology.
 - **people:** André Mendonça; PF NADIP; Vorcaro
 - **tags:** seal-lift|compliance-zero|power-interlocutor
