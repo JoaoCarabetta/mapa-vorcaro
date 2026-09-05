@@ -3,6 +3,7 @@
 **Merged from:** `/workspace/vorcaro/events-from-press.md` (40) + `/workspace/vorcaro/events-from-primary.md` (62).
 **Compiled:** 4–5 Sep 2026 (America/Sao_Paulo).
 **Editor punch (2026-09-05):** Compact wrong-URL rows retargeted; forensic micro-card cluster note added; ~20 EN compact titles → Portuguese. No full rewrite.
+**Titles 18 (2026-09-05):** audit-quality 18 EN full-card strings already absent (prior PT); residual EN ### swept.
 **Proxy punch (2026-09-05):** compact PT titles (3 EN from pass2) + residual EN title sweep. Source parity + dispute hedges already PASS.
 **Editor gap list patch (2026-09-05b):** restored compact ephemeral 09-17 PF row after over-dedupe.
 **Editor gap list patch (2026-09-05):** Estou-online caveats; compact Viking dispute blurbs; twin URL dedupe check. Valor-bio only on bio rows.
@@ -235,7 +236,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** press
 - **confidence:** high
 
-### 2017-05-17 — Valor: new partner may take up to ~50% of Máxima
+### 2017-05-17 — Valor: novo sócio pode ficar com até ~50% do Máxima
 - **date:** 2017-05-17
 - **title:** Imprensa reporta capitalização / caminho ao controle
 - **summary:** Valor Econômico reported Máxima, undercapitalized since prior year, closed deal for Vorcaro to inject capital (figures cited in contemporaneous coverage toward tens of millions) and acquire credits against former partners, potentially ending near 50% of capital. Later profiles say he “assumed control” in 2017 subject to later BC homologation.
@@ -277,7 +278,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** press
 - **confidence:** high for year/rebrand; medium for exact capital figures (bank PR via CNN)
 
-### 2021–2024 — Acquisition wave (Kovr, Voiter, Banif, Will, Vipal)
+### 2021–2024 — Onda de aquisições (Kovr, Voiter, Banif, Will, Vipal)
 - **date:** 2021–2024 (span)
 - **title:** Série de aquisições financeiras sob a marca Master
 - **summary:** Valor lists acquisitions including insurer Kver/Kovr, bank Voiter (ex-Indusval), Vipal, Banif Brasil and Will. Will Bank deal done with Reag (João Carlos Mansur), who has other businesses with Vorcaro. InfoMoney: Will control Feb/2024; Voiter bought then control sold to Augusto Lima Aug/2025; Kovr later sold to J&F (per InfoMoney).
@@ -1659,7 +1660,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** press
 - **confidence:** high
 
-### 2025-11-18 — Operação Compliance Zero (arrests + searches)
+### 2025-11-18 — Operação Compliance Zero (prisões + buscas)
 - **date:** 2025-11-18
 - **title:** PF deflagrates Compliance Zero; Vorcaro arrested
 - **summary:** Valor: PF op against false credit titles in SFN; Vorcaro arrested; four other directors also targets (Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva named by day’s end). Five preventive + two temporary warrants, 25 searches across RJ/SP/MG/BA/DF. Probes began 2024 after MPF request: alleged manufacture of weak credit books sold to another bank, later swapped after BC inspection. Crimes: fraudulent/temerarious management, criminal organization, etc. Alleged Master→BRB false portfolios ~R$12 bi (resumo/Estadão).
@@ -1689,7 +1690,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** press
 - **confidence:** medium-high (secondary synthesis piece)
 
-### 2026-01-14 — Compliance Zero 2ª fase: searches / R$5.7 bi freeze
+### 2026-01-14 — Compliance Zero 2ª fase: buscas / bloqueio de R$ 5,7 bi
 - **date:** 2026-01-14
 - **title:** Searches at Vorcaro family, Zettel, Tanure, Mansur
 - **summary:** G1: second phase — searches at addresses linked to Vorcaro, father, sister, brother-in-law Fabiano Zettel; also Nelson Tanure and João Carlos Mansur (Reag). ~42 addresses; Toffoli-authorized; asset freezes >R$5.7 bi. Haddad called it possibly Brazil’s largest bank fraud; FGC exposure ~R$41 bi CDBs / ~1.6 mi investors cited.
@@ -1803,7 +1804,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **confidence:** high
 - **quote:** Com base em tais razões, determino o levantamento do sigilo dos presentes autos.
 
-### 2026-09-01 — Press caveat cluster (agenda / view-once / Barci dispute)
+### 2026-09-01 — Cluster de caveats da imprensa (agenda / view-once / disputa Barci)
 - **date:** 2026-09-01
 - **title:** Caveats metodológicos cristalizados na cobertura do mesmo dia
 - **summary:** Across outlets: (1) “Alexandre de Moraes BRASILIA” is Vorcaro’s address-book label + Brasília number shared by Faria — not alone proof of who held the chip; (2) 24h ephemeral + view-once (5 on 17/11) leave most interlocutor content unrecovered; (3) Barci firm disputes 2nd Viking contract/dação while confirming 1st Master contract and Moraes compliance edit.
