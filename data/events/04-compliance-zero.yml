@@ -72,10 +72,10 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
-- id: 2025-11-18-pf-deflagra-compliance-zero-vorcaro-preso-compliance-zero-vorcaro-arrested
+- id: 2025-11-18-pf-deflagra-compliance-zero-vorcaro-preso
   date: "2025-11-18"
   date_precision: day
-  title: PF deflagra Compliance Zero; Vorcaro preso Compliance Zero; Vorcaro arrested
+  title: PF deflagra Compliance Zero; Vorcaro preso
   summary: >-
     Valor: PF op against false credit titles in SFN; Vorcaro arrested; four other directors
     also targets (Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva named by
@@ -399,13 +399,10 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
-- id: >-
-    2026-04-16-4-fase-4-fase-ph-costa-preso-por-negocios-de-carteira-do-master-over-master-por
+- id: 2026-04-16-4-fase-ph-costa-preso-por-negocios-de-carteira-do-master
   date: "2026-04-16"
   date_precision: day
-  title: >-
-    4ª fase: 4ª fase: PH Costa preso por negócios de carteira do Master over Master
-    portfolio deals
+  title: "4ª fase: PH Costa preso por negócios de carteira do Master"
   summary: >-
     Estadão: ex-BRB president Paulo Henrique Costa arrested in 4th Compliance Zero phase on
     suspicion of corruption / irregularities in purchase of R$12.2 bi alleged false Master

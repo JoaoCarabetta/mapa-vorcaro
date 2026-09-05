@@ -9,6 +9,8 @@
 **Editor gap list patch (2026-09-05):** Estou-online caveats; compact Viking dispute blurbs; twin URL dedupe check. Valor-bio only on bio rows.
 **Editor titles (2026-09-05):** 18 EN full-card `title` fields → Portuguese. Bodies untouched. Clustering = cloud UI.
 **Editor punch verify (2026-09-05 23:16 BRT):** sha bump — Compact L53/64/66/68/69/142–148/155 and full Ibaneis/Temer/PH Costa no longer use Valor-bio URL for non-bio claims. Re-audit THIS file (md5 below changes).
+**Editor smoke gaps (2026-09-05):** apagadas; mash PF deflagra; mash PH Costa; Barci líquido/bruto check.
+**Mash fix (2026-09-05):** title PF deflagra… → `PF deflagra Compliance Zero; Vorcaro preso` only.
 **EN titles wave2 (2026-09-05):** CoS remaining EN punch → PT (Bacen/BC rejects/Barci líquido/First firm/New board/Moraes 24h/PH Costa/PF 218/BRB fato/BC liquidação/PF deflagra/RAET).
 **Post-B smoke titles (2026-09-05):** 5 EN full-card titles → PT (Ibaneis/Pix/Searches/2ª prisão/IPJ-A).
 **Path B merge (2026-09-05):** +14 PASS cards (items 3–16 minus Voiter/Will TRIM); compulsório quote deduped from Jul/2024 cessões; CLDF voto ≠ Ibaneis sanção.
@@ -53,7 +55,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 | 2024-01-17 | Vivi reenvia minuta; Fábio confirma jantar com “o Careca” em 02/02 | “Vivi Moraes” escreve “Bom dia! Segue a minuta do contrato. Abraço”. No mesmo dia, Fábio Faria informa Vorcaro que confirmou jantar com “o Careca” para 02/02/2024. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2024-01-22 | Vorcaro pergunta como assinar o contrato | Vorcaro escreve a Viviane: pergunta se preferem assinatura eletrônica ou vias físicas assinadas. | https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf |
 | 2024-01-23 | Assinatura digital contrato Banco Master × Barci de Moraes | Contrato de prestação de serviços e honorários advocatícios entre Banco Master S.A. e Barci de Moraes Sociedade de Advogados (Guilherme de Toledo Benazzi). | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
-| 2024-01-23 (signature day per PF chronology); drafts from 11–22 Jan | Master × Barci Advogados — ~R$108 mi net / ~R$131.3 mi gross | Viviane Barci sends draft 11/01; revised return 15/01 with metadata last-modified by user “Ministro Alexandre de Moraes” (PF); firm tells Poder360 Moraes edited at compliance request on impediments; | https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro |
+| 2024-01-23 (signature day per PF chronology); drafts from 11–22 Jan | Master × Barci Advogados — ~R$108 mi líquido / ~R$131,3 mi bruto | Viviane Barci sends draft 11/01; revised return 15/01 with metadata last-modified by user “Ministro Alexandre de Moraes” (PF); firm tells Poder360 Moraes edited at compliance request on impediments; | https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro |
 | 2024-01-30 | Fábio cita “Alex” e altera local do jantar | Fábio Faria cita “Alex” em conversa sobre alteração do local do jantar previsto para 02/02. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2024-02-02 | Encontro em Brasília — Fábio envia endereço | No dia do jantar/encontro, Fábio Faria envia a Vorcaro endereço em Brasília/DF (redigido no PDF público). A PF situa o encontro no fluxo pós-assinatura do contrato Master×Barci. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2024-02-02 (dinner); 2024-04-03 (Andrei invite msgs per resumo) | Aproximações sociais/políticas intermediadas por Fábio Faria | Press/PF chronology: Feb/2024 Brasília encounter via Faria; Apr/2024 messages about inviting “DPF Andrei” / closing “PGR and DPF”. Published as PF-extracted notes — not proof of acceptance by named authorities. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
@@ -104,7 +106,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 | 2025-09-03 | Bacen indefere pedido do BRB protocolado em 28/03/2025 | BRB fato relevante: informed of Bacen denial of request to acquire 49% ON + 100% PN of Master; BRB sought full decision text. Deal had been controversial (high CDB rates, delayed balance sheet, precatórios). | https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb |
 | ~Sep 2025 (Temer on Roda Viva 15/09/2025) | Temer diz que foi chamado a mediar Master–Banco de Brasília após bloqueio do Banco Central | G1 conexões: ex-president Michel Temer said on Roda Viva (15/09/2025) he was called to Brasília ~two weeks earlier with Vorcaro and Ibaneis wanting mediation to formalize the BRB transaction after the original deal was… | https://www1.folha.uol.com.br/mercado/2025/09/master-e-brb-procuram-temer-para-destravar-negocio-apos-recusa-do-banco-central.shtml ; https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb |
 | 2025-09-17 | Contato rotulado “Moraes” ativa mensagens efêmeras 24h | Chat WhatsApp; rótulo de agenda ≠ dono do chip. View-once incompletas. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro.pdf | high |
-| 2025-10-01 | Alerta sobre Pix a Barci; quatro bolhas “apagada pelo remetente” | Vorcaro to Felix: “Mas nao faz barci pix ne?”; Felix said Pix already done to same TED data. Same day window: four Moraes-chat messages marked deleted by sender (PF). | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
+| 2025-10-01 | Alerta sobre Pix a Barci; quatro bolhas “apagadas pelo remetente” | Vorcaro to Felix: “Mas nao faz barci pix ne?”; Felix said Pix already done to same TED data. Same day window: four Moraes-chat messages marked deleted by sender (PF). | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-10-28 → 2025-11-17 | Ápice da crise: notas pedindo intervenção de Galípolo/Andrei/Paulo | O Globo “13 days”: Vorcaro wrote Notes → screenshot → WhatsApp view-once to Moraes-labeled number, seeking to stop liquidation and PF action. | https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml |
 | 2025-10-28 | Nota forense → WhatsApp 14:04:14 UTC | Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~11:04:26 UTC-3. Nota criada em 14:04:14 UTC. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-10-28 | Primeira nota forense da janela de crise enviada ao nº Moraes BRASILIA | PF registra cadeia Notas→screenshot→PDF temporário→WhatsApp para nota criada ~14:04:14 UTC, com envio ao terminal 556192664093 às ~11:04:26 (UTC-3). Abre a janela de ~52 notas/prints analisados até 17/11. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
@@ -175,7 +177,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 | 2025-11-17 | Nota forense → WhatsApp 23:48:12 UTC (estou online) | Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~20:48:31 UTC-3. Nota criada em 23:48:12 UTC. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-11-18 | Compliance Zero deflagrada; prisão em Guarulhos; liquidação do Master | PF deflagra Operação Compliance Zero (suspeita de fraudes em cessões de carteiras ~R$ 12 bi Master→BRB). Vorcaro preso no Aeroporto de Guarulhos ao tentar embarcar (jato; destino Malta/Dubai conforme cobertura). | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-11-18 | Liquidação extrajudicial e RAET no Master Múltiplo (Will) | CNN/G1: BC (Galípolo) decrees liquidação of Banco Master S/A, Master de Investimento, Letsbank, Master Corretora; RAET on Banco Master Múltiplo to preserve Will Financeira path. | https://www.cnnbrasil.com.br/economia/negocios/banco-central-decreta-liquidacao-extrajudicial-do-banco-master |
-| 2025-11-18 | Polícia Federal deflagra Compliance Zero; Vorcaro é preso | Valor: PF op against false credit titles in SFN; Vorcaro arrested; four other directors also targets (Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva named by day’s end). | https://valor.globo.com/financas/noticia/2025/11/18/operacao-da-pf-que-prendeu-dono-do-master-mira-emissao-de-titulos-de-credito-falsos.ghtml |
+| 2025-11-18 | PF deflagra Compliance Zero; Vorcaro preso | Valor: PF op against false credit titles in SFN; Vorcaro é preso; four other directors also targets (Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva named by day’s end). | https://valor.globo.com/financas/noticia/2025/11/18/operacao-da-pf-que-prendeu-dono-do-master-mira-emissao-de-titulos-de-credito-falsos.ghtml |
 | 2025-11-20 | TRF-1 indefere 1º habeas; mantém prisão preventiva | Desembargadora Solange Salgado (TRF-1) nega HC; cita “fraude sistêmica”. ≠ soltura 28/11. | https://valor.globo.com/financas/noticia/2025/11/20/priso-de-daniel-vorcaro-dono-do-banco-master-mantida-pela-justia.ghtml | high |
 | 2025-11-24 | Vorcaro transferido ao CDP 2 Guarulhos | Transferência da Superintendência PF SP ao CDP Guarulhos; defesa protocola HC no STJ. ≠ prisão GRU 17–18/11. | https://valor.globo.com/financas/noticia/2025/11/24/vorcaro-transferido-para-presdio-em-guarulhos.ghtml | high |
 | 2025-11-28 | Soltura com tornozeleira eletrônica e restrições (Tribunal Regional Federal da 1ª Região) | G1: Desembargadora Solange Salgado da Silva orders release of Vorcaro, Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva. | https://g1.globo.com/df/distrito-federal/noticia/2025/11/28/trf-1-manda-soltar-daniel-vorcaro-dono-do-banco-master.ghtml |
@@ -429,7 +431,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2024-01-11 a 2024-01-23 — Primeiro contrato Barci de Moraes (Master)
 - **date:** 2024-01-23 (signature day per PF chronology); drafts from 11–22 Jan
-- **title:** Master × Barci Advogados — ~R$108 mi net / ~R$131.3 mi gross
+- **title:** Master × Barci Advogados — ~R$108 mi líquido / ~R$131,3 mi bruto
 - **summary:** Viviane Barci sends draft 11/01; revised return 15/01 with metadata last-modified by user “Ministro Alexandre de Moraes” (PF); firm tells Poder360 Moraes edited at compliance request on impediments; contract signed ~23/01 (Vorcaro + Ângelo Silva). Object: advocacy, legal consulting, compliance. Monthly ~R$3 mi net × 36.
 - **people:** Viviane Barci de Moraes; Daniel Vorcaro; Alexandre de Moraes (metadata/edit); Ângelo Antônio Ribeiro da Silva; Guilherme Benazzi
 - **tags:** power-interlocutor|compliance-zero|barci
@@ -981,7 +983,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2025-10-01 — “Não faz barci pix”; mensagens apagadas no chat Moraes
 - **date:** 2025-10-01
-- **title:** Alerta sobre Pix a Barci; quatro bolhas “apagada pelo remetente”
+- **title:** Alerta sobre Pix a Barci; quatro bolhas “apagadas pelo remetente”
 - **summary:** Vorcaro to Felix: “Mas nao faz barci pix ne?”; Felix said Pix already done to same TED data. Same day window: four Moraes-chat messages marked deleted by sender (PF).
 - **people:** Vorcaro; Alberto Felix; Barci office
 - **tags:** barci|compliance-zero
@@ -1781,7 +1783,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2025-11-18 — Operação Compliance Zero (prisões + buscas)
 - **date:** 2025-11-18
-- **title:** PF deflagra Compliance Zero; Vorcaro preso Compliance Zero; Vorcaro arrested
+- **title:** PF deflagra Compliance Zero; Vorcaro preso
 - **summary:** Valor: PF op against false credit titles in SFN; Vorcaro arrested; four other directors also targets (Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva named by day’s end). Five preventive + two temporary warrants, 25 searches across RJ/SP/MG/BA/DF. Probes began 2024 after MPF request: alleged manufacture of weak credit books sold to another bank, later swapped after BC inspection. Crimes: fraudulent/temerarious management, criminal organization, etc. Alleged Master→BRB false portfolios ~R$12 bi (resumo/Estadão).
 - **people:** Vorcaro; Lima; Bull; Felix; Ângelo Silva; MPF; PF; judge Ricardo Leite
 - **tags:** compliance-zero|brb|master
@@ -1884,7 +1886,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2026-04-16 — 4ª fase: PH Costa preso por negócios de carteira do Master
 - **date:** 2026-04-16
-- **title:** 4ª fase: 4ª fase: PH Costa preso por negócios de carteira do Master over Master portfolio deals
+- **title:** 4ª fase: PH Costa preso por negócios de carteira do Master
 - **summary:** Estadão: ex-BRB president Paulo Henrique Costa arrested in 4th Compliance Zero phase on suspicion of corruption / irregularities in purchase of R$12.2 bi alleged false Master portfolios. Piece publishes 2024 Vorcaro–Lima urgency chats on BRB money.
 - **people:** Paulo Henrique Costa; Vorcaro; Augusto Lima
 - **tags:** brb|compliance-zero
