@@ -80,18 +80,19 @@ app/             # Next.js App Router
 
 ## Deploy (Vercel)
 
-URL pública estável: **[https://mapa-vorcaro.vercel.app](https://mapa-vorcaro.vercel.app)**
+**URL pública estável (produção):** [https://mapa-vorcaro.vercel.app](https://mapa-vorcaro.vercel.app)
 
-O site é Next.js 15 (App Router), Node 20+, sem banco e sem variáveis obrigatórias. `vercel.json` no root fixa o framework, `npm ci` e `npm run build` (o build revalida o corpus; evento sem fonte derruba o deploy). Região: `gru1` (São Paulo).
+O site é Next.js 15 (App Router), Node 20+ (`.nvmrc`), sem banco e sem variáveis obrigatórias. `vercel.json` no root fixa o framework, `npm ci`, `npm run build` e a região `gru1` (São Paulo). O build revalida o corpus; evento sem fonte derruba o deploy.
 
-### Primeira ligação do repositório
+O domínio `mapa-vorcaro.vercel.app` fica no ar depois de **uma** ligação do repositório (hoje o hostname ainda responde 404 até essa ligação — o build local e o preview abaixo já passam).
 
-1. Em [vercel.com/new](https://vercel.com/new), importe `JoaoCarabetta/mapa-vorcaro`.
-2. Framework: Next.js (já detectado). Build: `npm run build`. Output: padrão `.next`.
-3. Projeto: `mapa-vorcaro` — o domínio de produção fica `mapa-vorcaro.vercel.app`.
-4. Produção acompanha `main`. Preview de cada push em `cursor/mapa-vorcaro-completo-c83a` (PR #8) gera URL `*.vercel.app` no check do GitHub.
+### Ligar em dois minutos (checkpoint)
 
-CLI (opcional):
+1. Abra o preview ao vivo: [https://temporary-sonic-redwood-xmobc12.vercel.app](https://temporary-sonic-redwood-xmobc12.vercel.app) (PT UI, 166 fichas).
+2. **Claim** para não expirar: [claim desta deployment](https://vercel.com/claim-deployment?code=c095094c-a5fc-45bc-8931-3921d0281f31).
+3. Ou importe o GitHub em [vercel.com/new](https://vercel.com/new): repositório `JoaoCarabetta/mapa-vorcaro`, projeto `mapa-vorcaro`, branch de produção `main`. Preview acompanha `cursor/mapa-vorcaro-completo-c83a` (PR #8).
+
+CLI (depois do login / claim):
 
 ```bash
 npx vercel link --yes --project mapa-vorcaro
