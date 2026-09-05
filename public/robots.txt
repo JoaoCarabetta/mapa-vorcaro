@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mapa-vorcaro.vercel.app/sitemap.xml

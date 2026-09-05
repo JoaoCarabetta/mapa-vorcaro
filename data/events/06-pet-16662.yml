@@ -1,0 +1,261 @@
+- id: sessao-toffoli-londres-12-fev
+  date: "2026-02-12"
+  date_precision: day
+  title: STF afasta Toffoli da relatoria; Moraes cita o Macallan
+  summary: >
+    Em 12 de fevereiro de 2026, sessão fechada do STF afastou Dias Toffoli da relatoria de
+    inquéritos do Master, após relatório da PF sobre proximidade com Vorcaro, inclusive o
+    evento de Londres. Moraes argumentou que a presença conjunta não era impedimento e
+    descreveu o pub com Andrei Rodrigues e o Macallan. André Mendonça, que não foi a Londres,
+    assumiu a relatoria. O Poder360 pergunta, desde então, quem pagou as despesas de Andrei.
+  people:
+    - { name: Dias Toffoli, id: dias-toffoli }
+    - { name: Alexandre de Moraes, id: alexandre-de-moraes }
+    - { name: André Mendonça, id: andre-mendonca }
+    - { name: Andrei Rodrigues, id: andrei-rodrigues }
+    - { name: Daniel Bueno Vorcaro, id: daniel-bueno-vorcaro }
+  tags: [stf, londres, investigacao]
+  sources:
+    - url: https://www.poder360.com.br/poder-justica/moraes-vorcaro-e-andrei-degustaram-macallan-juntos-em-londres/
+      publisher: Poder360
+      title: Moraes, Vorcaro e Andrei degustaram Macallan juntos em Londres
+      accessed: "2026-09-05"
+  evidence_type: press
+  confidence: high
+
+- id: pet-15556-72-horas
+  date: "2026-08-24"
+  date_precision: day
+  title: Mendonça dá 72 horas para a PF identificar a rede de influência
+  summary: >
+    Na PET 15.556, André Mendonça determinou que a PF apresentasse, em 72 horas, a identificação
+    das pessoas das mensagens das fls. 3-5 da IPJ-M 144738439.2026, inclusive detentores de foro.
+    A PGR diria depois que o ato data de 24 de agosto de 2026 e que o relator “já sabia” que
+    Moraes estava entre os nomes. A PF ressalva que não aprofundou diligências contra magistrados,
+    limitando-se ao material já apreendido, e que a análise “não possui caráter exaustivo”.
+  people:
+    - { name: André Mendonça, id: andre-mendonca, role: relator }
+    - { name: Daniel Bueno Vorcaro, id: daniel-bueno-vorcaro }
+    - { name: Alexandre de Moraes, id: alexandre-de-moraes }
+    - { name: Paulo Gonet Branco, id: paulo-gonet }
+  tags: [stf, pf, pet-16662, investigacao]
+  sources:
+    - url: https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Polícia Federal / Poder360
+      title: IPJ-A 3298613/2026
+      accessed: "2026-09-05"
+    - url: https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-manda-pf-identificar-rede-influencia-vorcaro-sigiloderrubado-1set2026.pdf
+      publisher: STF / Poder360
+      title: Despacho que manda a PF identificar a rede de influência
+      accessed: "2026-09-05"
+    - url: https://valor.globo.com/politica/noticia/2026/09/01/em-mensagens-a-moraes-vorcaro-pediu-que-ministro-intercedesse-junto-a-pf-e-pgr-diz-relatorio.ghtml
+      publisher: Valor Econômico
+      title: Vorcaro consultou Moraes sobre investigações
+      accessed: "2026-09-05"
+      quote: "O ato que determinou a investigação pela Polícia Federal data de 24 de agosto de 2026."
+  evidence_type: court
+  confidence: high
+
+- id: pf-entrega-relatorio-27-ago
+  date: "2026-08-27"
+  date_precision: day
+  title: PF entrega o relatório de 218 páginas do celular de Vorcaro
+  summary: >
+    Em 27 de agosto de 2026 a Polícia Federal protocolou a IPJ-A 3298613/2026, de 218 páginas,
+    baseada no iPhone apreendido na Compliance Zero e no laudo 4281/2025-SETEC/SR/PF/SP.
+    O texto cobre contatos iniciais, contratos Barci, notas/WhatsApp, Gonet e Andrei.
+    Recibo eletrônico da PET 16.662 registra o protocolo. Os agentes assinam a informação
+    em Brasília na mesma data.
+  people:
+    - { name: André Mendonça, id: andre-mendonca, role: destinatário }
+    - { name: Daniel Bueno Vorcaro, id: daniel-bueno-vorcaro }
+    - { name: Alexandre de Moraes, id: alexandre-de-moraes }
+  tags: [pf, pet-16662, stf, celular]
+  sources:
+    - url: https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Polícia Federal / Poder360
+      title: IPJ-A 3298613/2026
+      accessed: "2026-09-05"
+    - url: https://static.poder360.com.br/uploads/2026/09/pet16662-recibo-peticao-pf-documentos-27ago2026-sigiloderrubado-1set2026.pdf.pdf
+      publisher: STF / Poder360
+      title: Recibo do protocolo da PF (27 ago. 2026)
+      accessed: "2026-09-05"
+    - url: https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro/
+      publisher: Poder360
+      title: Leia as íntegras dos documentos da PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+
+- id: mendonca-derruba-sigilo-pet-16662
+  date: "2026-09-01"
+  date_precision: day
+  title: Mendonça derruba o sigilo da PET 16.662 e manda o caso ao plenário
+  summary: >
+    Em 1º de setembro de 2026 André Mendonça retirou o sigilo da Petição 16.662 — desmembrada
+    da PET 15.556 — e determinou exame em sessão pública e presencial do plenário. Vieram a
+    público o relatório da PF, o anexo de WhatsApp, os contratos Master–Barci e Viking–Barci
+    e o termo de dação. O Poder360 publicou as íntegras, com dados pessoais tarjados.
+  people:
+    - { name: André Mendonça, id: andre-mendonca }
+    - { name: Edson Fachin, id: edson-fachin, role: "presidente do STF, a quem cabe pautar" }
+    - { name: Daniel Bueno Vorcaro, id: daniel-bueno-vorcaro }
+    - { name: Alexandre de Moraes, id: alexandre-de-moraes }
+  tags: [stf, pet-16662, sigilo]
+  sources:
+    - url: https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-derruba-sigilo-e-leva-caso-plenario-sigiloderrubado-1set2026.pdf
+      publisher: STF / Poder360
+      title: Decisão que derruba o sigilo da PET 16.662
+      accessed: "2026-09-05"
+    - url: https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro/
+      publisher: Poder360
+      title: Leia as íntegras dos documentos da PET 16.662
+      accessed: "2026-09-05"
+    - url: https://www1.folha.uol.com.br/poder/2026/09/leia-integra-de-documento-da-pf-com-mensagens-de-vorcaro-sobre-moraes-gonet-e-chefe-da-pf.shtml
+      publisher: Folha de S.Paulo
+      title: Leia o documento da PF com mensagens de Vorcaro
+      accessed: "2026-09-05"
+  evidence_type: court
+  confidence: high
+
+- id: pgr-pede-nulidade-relatorio
+  date: "2026-09-01"
+  date_precision: day
+  title: Gonet pede a nulidade do relatório da PF
+  summary: >
+    Na manifestação à PET 16.662, o procurador-geral Paulo Gonet — ele próprio citado no
+    relatório — pediu a nulidade da peça. Argumentou que “não cabe a juiz investigar”, que
+    Mendonça não tinha competência para dirigir ações policiais contra alvos de foro e que
+    o relator impôs uma investigação sobre Moraes. Quase 190 das 218 páginas, disse, tratam
+    do ministro. Mendonça deu cinco dias de vista à PGR e, ainda assim, mandou o material
+    ao plenário.
+  people:
+    - { name: Paulo Gonet Branco, id: paulo-gonet, role: PGR }
+    - { name: André Mendonça, id: andre-mendonca }
+    - { name: Alexandre de Moraes, id: alexandre-de-moraes }
+  tags: [pgr, stf, pet-16662]
+  sources:
+    - url: https://valor.globo.com/politica/noticia/2026/09/01/em-mensagens-a-moraes-vorcaro-pediu-que-ministro-intercedesse-junto-a-pf-e-pgr-diz-relatorio.ghtml
+      publisher: Valor Econômico
+      title: Vorcaro consultou Moraes sobre investigações
+      accessed: "2026-09-05"
+      quote: "O relator nem sequer detém competência para dirigir as ações policiais contra alvos que resolva mirar."
+    - url: https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro/
+      publisher: Poder360
+      title: Leia as íntegras dos documentos da PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: press
+  confidence: high
+
+- id: escritorio-barci-nota-edicao
+  date: "2026-09-01"
+  date_precision: day
+  title: Escritório Barci confirma a edição e nega o segundo contrato
+  summary: >
+    Em 1º de setembro de 2026 o escritório Barci de Moraes confirmou ao Poder360 que o ministro
+    acessou e editou a minuta, a pedido do compliance, para checar impedimentos no STF, e
+    reiterou que jamais atuou em causa do Master na Corte. À Folha e ao Valor, a banca disse
+    ter assinado só o contrato de 2024, que a proposta Viking/dação não foi aceita e que o
+    vínculo acabou com a liquidação. O Poder360 havia informado que Viviane recebeu
+    R$ 80.223.654,94 em 22 meses pelo primeiro contrato.
+  people:
+    - { name: Viviane Barci de Moraes, id: viviane-barci-de-moraes }
+    - { name: Alexandre de Moraes, id: alexandre-de-moraes }
+    - { name: Daniel Bueno Vorcaro, id: daniel-bueno-vorcaro }
+  tags: [contrato, barci, stf]
+  sources:
+    - url: https://www.poder360.com.br/poder-justica/moraes-editou-contrato-de-r-131-milhoes-entre-sua-mulher-e-vorcaro/
+      publisher: Poder360
+      title: Moraes editou contrato de R$ 131 milhões
+      accessed: "2026-09-05"
+    - url: https://www.poder360.com.br/poder-justica/saiba-o-que-e-conhecido-sobre-os-2-contratos-da-mulher-de-moraes-com-o-master/
+      publisher: Poder360
+      title: O que é conhecido sobre os 2 contratos
+      accessed: "2026-09-05"
+    - url: https://valor.globo.com/politica/noticia/2026/09/01/em-mensagens-a-moraes-vorcaro-pediu-que-ministro-intercedesse-junto-a-pf-e-pgr-diz-relatorio.ghtml
+      publisher: Valor Econômico
+      title: Vorcaro consultou Moraes sobre investigações
+      accessed: "2026-09-05"
+  evidence_type: press
+  confidence: high
+
+- id: fachin-pet-16704
+  date: "2026-09-03"
+  date_precision: day
+  title: Fachin abre a PET 16.704 e pede explicações em cinco dias
+  summary: >
+    Em 3 de setembro de 2026 o presidente do STF, Edson Fachin, instaurou de ofício a PET 16.704.
+    Deu prazo comum de cinco dias úteis a Alexandre de Moraes, André Mendonça, Paulo Gonet e
+    Andrei Rodrigues para informar sobre LOMAN, uso de credenciais institucionais, eventual
+    revelação de sigilo a investigado e o despacho que mandou identificar as pessoas das
+    fls. 3–5. Mandou juntar a íntegra da PET 16.662 e a nota do gabinete de Moraes de 6 de
+    março de 2026.
+  people:
+    - { name: Edson Fachin, id: edson-fachin }
+    - { name: Alexandre de Moraes, id: alexandre-de-moraes }
+    - { name: André Mendonça, id: andre-mendonca }
+    - { name: Paulo Gonet Branco, id: paulo-gonet }
+    - { name: Andrei Rodrigues, id: andrei-rodrigues }
+  tags: [stf, pet-16662, pet-16704]
+  sources:
+    - url: https://arq.migalhas.com.br/arquivos/2026/9/170D9E1C1C18DE_downloadPeca.asp.pdf
+      publisher: STF / Migalhas
+      title: Despacho de Edson Fachin na PET 16.704
+      accessed: "2026-09-05"
+    - url: https://revistaforum.com.br/politica/fachin-prazo-explicarem-investigacao/
+      publisher: Revista Fórum
+      title: Fachin abre prazo para Moraes, Mendonça, Gonet e PF
+      accessed: "2026-09-05"
+  evidence_type: court
+  confidence: high
+
+- id: ana-vivi-ministro-fecham-programa-2025
+  date: "2025-07-22"
+  date_precision: day
+  title: Ana Matos diz ter fechado o programa de Londres com Viviane e o ministro
+  summary: >
+    Em 22 de julho de 2025, Ana Matos escreveu a Vorcaro que passou “o dia aqui com Vivi Moraes
+    e o ministro fechando o programa do evento”. No dia anterior, Vorcaro dissera que Alexandre
+    “reclamou MUITO do evento”. Em 18 de julho, ao falar de Antonio Rueda como moderador,
+    Vorcaro: “De jeito nenhum” / “Alexandre morre se vc fizer isso”. O segundo fórum de Londres
+    foi cancelado.
+  people:
+    - { name: Daniel Bueno Vorcaro, id: daniel-bueno-vorcaro }
+    - { name: Ana Matos, id: ana-matos }
+    - { name: Viviane Barci de Moraes, id: viviane-barci-de-moraes }
+    - { name: Alexandre de Moraes, id: alexandre-de-moraes }
+  tags: [londres, evento, stf]
+  sources:
+    - url: https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Polícia Federal / Poder360
+      title: IPJ-A 3298613/2026
+      accessed: "2026-09-05"
+    - url: https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-vorcaro-citam-moraes-gonet-e-chefe-da-pf-entenda-o-caso.shtml
+      publisher: Folha de S.Paulo
+      title: Mensagens de Vorcaro citam Moraes, Gonet e chefe da PF
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+
+- id: pg-confirmou-londres-19-jun
+  date: "2025-06-19"
+  date_precision: day
+  title: Ciro diz que “PG confirmou a ida pra Londres”
+  summary: >
+    Em 19 de junho de 2025, Ciro Soares disse a Vorcaro que o “PG confirmou a ida pra Londres”
+    e perguntou de novo se “Pedrinho filho do PG pode ir com a gente”. Vorcaro: “Obvio”.
+    O fórum de 2025 não se realizou.
+  people:
+    - { name: Daniel Bueno Vorcaro, id: daniel-bueno-vorcaro }
+    - { name: Ciro Soares, id: ciro-soares }
+    - { name: Paulo Gonet Branco, id: paulo-gonet }
+    - { name: Pedro Gonet, id: pedro-gonet }
+  tags: [pgr, londres, whatsapp]
+  sources:
+    - url: https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Polícia Federal / Poder360
+      title: IPJ-A 3298613/2026
+      accessed: "2026-09-05"
+      quote: "PG confirmou a ida pra Londres"
+  evidence_type: primary_document
+  confidence: medium

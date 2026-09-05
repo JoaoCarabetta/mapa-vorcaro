@@ -1,0 +1,244 @@
+- id: daniel-bueno-vorcaro
+  name: Daniel Bueno Vorcaro
+  shortName: Vorcaro
+  roles:
+    - ex-controlador do Banco Master
+    - sócio da Viking Participações
+  summary: Banqueiro mineiro que assumiu o Banco Máxima no fim da década de 2010, rebatizou-o como Master e tornou-se o eixo desta timeline. Preso na Operação Compliance Zero em novembro de 2025.
+  group: nucleo
+- id: alexandre-de-moraes
+  name: Alexandre de Moraes
+  shortName: Moraes
+  roles:
+    - ministro do STF
+    - então presidente do TSE (2024)
+  summary: Ministro do Supremo. Contato salvo na agenda de Vorcaro como “Alexandre de Moraes BRASILIA”. A PF atribui a esse rótulo o destinatário de notas e WhatsApp; a atribuição de agenda não equivale, por si, a perícia de chip. O gabinete, em março de 2026, classificou associações anteriores como “ilação mentirosa”.
+  group: poder
+- id: viviane-barci-de-moraes
+  name: Viviane Barci de Moraes
+  shortName: Viviane Barci
+  roles:
+    - sócia-diretora do escritório Barci de Moraes
+  summary: Advogada e mulher de Alexandre de Moraes. O escritório firmou contrato com o Banco Master em janeiro de 2024. A PF aponta um segundo instrumento com a Viking em maio de 2025; o escritório nega que esse segundo contrato tenha sido assinado.
+  group: poder
+- id: fabio-faria
+  name: Fábio Faria
+  shortName: Faria
+  roles:
+    - ex-ministro das Comunicações
+    - intermediário inicial
+  summary: Compartilhou com Vorcaro, em 26 de dezembro de 2023, o contato salvo como “Alexandre de Moraes BRASILIA”. Aparece nas mensagens como articulador de encontros e de cobranças de pagamento ao escritório Barci.
+  group: intermediario
+- id: paulo-gonet
+  name: Paulo Gonet Branco
+  shortName: Gonet
+  roles:
+    - procurador-geral da República
+  summary: Citado nas notas de Vorcaro (“Paulo”) e em conversas intermediadas por Ciro Soares. Não há contato “Paulo Gonet” na agenda extraída do celular. Pediu a nulidade do relatório da PF após a derrubada do sigilo.
+  group: poder
+- id: andrei-rodrigues
+  name: Andrei Rodrigues
+  shortName: Andrei
+  roles:
+    - diretor-geral da Polícia Federal
+  summary: Convidado ao fórum de Londres de 2024. Citado nas notas de outubro de 2025 em que Vorcaro pede para “reforçar com Andrei e Paulo”. A PF não encontrou contato “Andrei” na agenda do celular.
+  group: poder
+- id: andre-mendonca
+  name: André Mendonça
+  shortName: Mendonça
+  roles:
+    - ministro do STF
+    - relator do caso Master
+  summary: Relator que requisitou, em 72 horas, a identificação da rede de influência atribuída a Vorcaro, recebeu o relatório de 27 de agosto de 2026 e derrubou o sigilo da PET 16.662 em 1º de setembro de 2026.
+  group: poder
+- id: ciro-soares
+  name: Ciro Soares
+  shortName: Ciro
+  roles:
+    - advogado ligado a Vorcaro
+  summary: Intermediário frequente nas mensagens sobre Paulo Gonet, incluindo o envio de uma selfie em 15 de março de 2025 e o reenvio de textos atribuídos ao PGR.
+  group: intermediario
+- id: pedro-gonet
+  name: Pedro Gonet
+  shortName: Pedro Gonet
+  roles:
+    - filho do procurador-geral da República
+  summary: Segundo a PF, Ciro Soares perguntou se o filho de Gonet poderia ir a Londres com despesas pagas; Vorcaro respondeu “Obvio ne” e depois autorizou “Pedro e ciro ok”.
+  group: familia
+- id: paulo-henrique-costa
+  name: Paulo Henrique Costa
+  shortName: Paulo Henrique
+  roles:
+    - ex-presidente do BRB
+  summary: Comandou o BRB na tentativa de compra do Master. Afastado na Operação Compliance Zero. Vorcaro o contactou no celular no mesmo intervalo em que enviava notas ao contato atribuído a Moraes.
+  group: estado
+- id: gabriel-galipolo
+  name: Gabriel Galípolo
+  shortName: Galípolo
+  roles:
+    - presidente do Banco Central
+  summary: Citado por Vorcaro nas mensagens de 15 de novembro de 2025 (“E o Galípolo tá sabendo?”). Assinou os atos de liquidação extrajudicial do Master em 18 de novembro de 2025.
+  group: estado
+- id: ricardo-leite
+  name: Ricardo Leite
+  shortName: Ricardo Leite
+  roles:
+    - juiz da 10ª Vara Federal Criminal do DF
+  summary: Vorcaro perguntou, em 15 de novembro de 2025, “Aquele mesmo juiz Ricardo?”. A 10ª Vara decretou a prisão no âmbito da Compliance Zero.
+  group: estado
+- id: edson-fachin
+  name: Edson Fachin
+  shortName: Fachin
+  roles:
+    - presidente do STF
+  summary: Em 3 de setembro de 2026 abriu a PET 16.704 e deu cinco dias úteis para Moraes, Mendonça, Gonet e Andrei Rodrigues prestarem informações sobre a PET 16.662.
+  group: poder
+- id: dias-toffoli
+  name: Dias Toffoli
+  shortName: Toffoli
+  roles:
+    - ministro do STF
+    - ex-relator de inquéritos do Master
+  summary: Participou do fórum de Londres em abril de 2024. Foi afastado da relatoria em sessão de 12 de fevereiro de 2026; André Mendonça assumiu o caso.
+  group: poder
+- id: hugo-motta
+  name: Hugo Motta
+  shortName: Hugo Motta
+  roles:
+    - deputado federal
+    - depois presidente da Câmara
+  summary: Vorcaro disse a Martha Graeff, na madrugada de 20 de março de 2025, que “acabou chegando hugo e ciro aqui pra falarem com Alexandre”. Também consta na lista de autoridades do fórum de Londres.
+  group: poder
+- id: ibaneis-rocha
+  name: Ibaneis Rocha
+  shortName: Ibaneis
+  roles:
+    - governador do Distrito Federal
+  summary: Defendeu a compra do Master pelo BRB e sancionou lei distrital que autorizava a operação, depois rejeitada pelo Banco Central.
+  group: estado
+- id: paulo-sergio-neves
+  name: Paulo Sérgio Neves de Souza
+  shortName: Paulo Sérgio
+  roles:
+    - ex-diretor de Fiscalização do Banco Central
+  summary: Vorcaro disse-lhe, em 19 de março de 2025, que estava “com Moraes aqui” e que o ministro “vai chamar o Paulo para dar um aperto”. Alvo de medidas na fase de março de 2026.
+  group: estado
+- id: angelo-silva
+  name: Angelo Antonio Ribeiro da Silva
+  shortName: Angelo Silva
+  roles:
+    - sócio/administrador do Master
+  summary: Assinou o contrato Master–Barci em 23 de janeiro de 2024. Enviou o comprovante do primeiro pagamento. Preso na Compliance Zero.
+  group: master
+- id: fabiano-zettel
+  name: Fabiano Zettel
+  shortName: Zettel
+  roles:
+    - cunhado de Vorcaro
+  summary: Vorcaro pediu-lhe, em 8 de fevereiro de 2024, o “contrato barci moraes assinado”. Preso na fase de março de 2026, apontado pela PF como operador.
+  group: familia
+- id: leonardo-palhares
+  name: Leonardo Palhares
+  shortName: Palhares
+  roles:
+    - advogado de Vorcaro
+  summary: Revisou a minuta do primeiro contrato e redigiu o termo de dação do segundo. Conversou com Vorcaro sobre “risco reputacional” da estrutura de cotas.
+  group: master
+- id: guilherme-benazzi
+  name: Guilherme de Toledo Benazzi
+  shortName: Benazzi
+  roles:
+    - administrador do escritório Barci de Moraes
+  summary: Aparece como autor da minuta do contrato Master. Viviane pediu que as vias físicas fossem enviadas a ele quando estava fora do Brasil.
+  group: poder
+- id: alberto-felix
+  name: Alberto Felix de Oliveira Neto
+  shortName: Alberto Felix
+  roles:
+    - superintendente de tesouraria do Master
+  summary: Informou Vorcaro, em 1º de outubro de 2025, que pagara o escritório Barci via Pix. Vorcaro respondeu “Nao e bom”. Preso na Compliance Zero.
+  group: master
+- id: martha-graeff
+  name: Martha Graeff
+  shortName: Martha
+  roles:
+    - então namorada de Vorcaro
+  summary: Destinatária de várias mensagens em que Vorcaro afirma estar com “Alexandre” ou “o ministro”. Fonte de atribuição de encontros, não de confirmação independente.
+  group: familia
+- id: augusto-lima
+  name: Augusto Ferreira Lima
+  shortName: Augusto Lima
+  roles:
+    - ex-CEO / sócio do Master
+  summary: Dividiu o comando do Máxima/Master com Vorcaro após a autorização do BC. Preso na primeira fase da Compliance Zero, segundo o Valor.
+  group: master
+- id: nelson-tanure
+  name: Nelson Tanure
+  shortName: Tanure
+  roles:
+    - empresário
+  summary: Valor relata que o executivo Maurício Quadrado apresentou Vorcaro a Tanure; investigações posteriores o citam no entorno das operações. Incluído só onde a fonte o nomeia.
+  group: master
+- id: ricardo-lewandowski
+  name: Ricardo Lewandowski
+  shortName: Lewandowski
+  roles:
+    - então ministro da Justiça
+  summary: Consta da programação do fórum de Londres de abril de 2024. O Poder360 registrou que o escritório da família manteve contrato com Vorcaro entre agosto de 2023 e setembro de 2025.
+  group: poder
+- id: gilmar-mendes
+  name: Gilmar Mendes
+  shortName: Gilmar
+  roles:
+    - ministro do STF
+  summary: Consta da programação oficial do 1º Fórum Jurídico Brasil de Ideias, em Londres, em abril de 2024.
+  group: poder
+- id: michel-temer
+  name: Michel Temer
+  shortName: Temer
+  roles:
+    - ex-presidente da República
+  summary: Vorcaro disse que “alexandre sugeriu participacao do temer” no evento de Londres. Temer consta da programação oficial como debatedor.
+  group: poder
+- id: tony-blair
+  name: Tony Blair
+  shortName: Blair
+  roles:
+    - ex-primeiro-ministro do Reino Unido
+  summary: Palestrante do fórum de Londres. Vorcaro pediu a um jornalista que a matéria mencionasse reunião privativa de três ministros do STF com Blair, a pedido atribuído a Alexandre.
+  group: poder
+- id: thatiane-prime
+  name: Thatiane
+  shortName: Thatiane
+  roles:
+    - funcionária de Vorcaro (contato “Thatiane Prime”)
+  summary: Organizou o almoço de 30 de dezembro de 2023 no Botanique e, em agosto de 2025, avisou que o Legacy PP-NLR voaria para “Barci”.
+  group: master
+- id: romy-master
+  name: Romy
+  shortName: Romy
+  roles:
+    - funcionária do Banco Master
+  summary: Vorcaro disse-lhe, em 15 de março de 2024, que o pagamento a Barci era o “mais importante” e que podia ser feito “sem nota” / “do jeito que for”.
+  group: master
+- id: marcos-prime
+  name: Marcus Vinicius da Mata
+  shortName: Marcos Prime
+  roles:
+    - sócio da Prime You com Vorcaro
+  summary: Enviou a Viviane brochura das aeronaves e, em julho de 2025, encaminhou print em que ela diz estar gostando das cotas. Relatou que “Já usaram aviões e helicópteros”.
+  group: master
+- id: ana-matos
+  name: Ana Matos
+  shortName: Ana Matos
+  roles:
+    - funcionária de marketing / eventos
+  summary: Articulou listas, convites e logística dos fóruns de Londres. Disse ter passado o dia com “Vivi Moraes e o ministro fechando o programa”.
+  group: master
+- id: stella-vorcaro
+  name: Stella Vorcaro
+  shortName: Stella
+  roles:
+    - filha de Vorcaro
+  summary: Em 15 de novembro de 2024, Vorcaro escreveu-lhe que estava “com alexandre moraes”. A PF usa o diálogo como indício de encontro, não como prova autônoma da identidade do interlocutor.
+  group: familia

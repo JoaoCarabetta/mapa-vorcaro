@@ -1,0 +1,2944 @@
+[
+  {
+    "id": "maxima-participacao-minoritaria",
+    "date": "2016-01-01",
+    "date_precision": "year",
+    "title": "Vorcaro entra no Banco Máxima com fatia minoritária",
+    "summary": "Daniel Bueno Vorcaro, até então ligado ao grupo imobiliário Multipar, em Belo Horizonte, adquiriu participação minoritária no Banco Máxima, então associado à família Sabbá. A Bloomberg Línea e o Valor descrevem o movimento como a porta de entrada do empresário no sistema financeiro, depois de negócios em fundos imobiliários.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro",
+        "role": "investidor"
+      }
+    ],
+    "tags": [
+      "carreira",
+      "master",
+      "maxima"
+    ],
+    "sources": [
+      {
+        "url": "https://www.bloomberglinea.com.br/negocios/de-herdeiro-imobiliario-a-banqueiro-a-trajetoria-de-daniel-vorcaro-ate-o-master/",
+        "publisher": "Bloomberg Línea",
+        "title": "De herdeiro imobiliário a banqueiro",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml",
+        "publisher": "Valor Econômico",
+        "title": "Quem é o dono do Banco Master",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high"
+  },
+  {
+    "id": "maxima-acordo-controle-2017",
+    "date": "2017-01-01",
+    "date_precision": "year",
+    "title": "Acordo para assumir o controle do Máxima",
+    "summary": "Vorcaro acertou, em 2017, a assunção do controle do Máxima com a promessa de injetar mais de R$ 75 milhões, a partir de um aporte inicial de R$ 25 milhões. O Valor registra que a fatia de controle só seria formalmente aprovada pelo Banco Central dois anos depois.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro",
+        "role": "controlador em formação"
+      }
+    ],
+    "tags": [
+      "carreira",
+      "master",
+      "maxima",
+      "banco-central"
+    ],
+    "sources": [
+      {
+        "url": "https://www.bloomberglinea.com.br/negocios/de-herdeiro-imobiliario-a-banqueiro-a-trajetoria-de-daniel-vorcaro-ate-o-master/",
+        "publisher": "Bloomberg Línea",
+        "title": "De herdeiro imobiliário a banqueiro",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml",
+        "publisher": "Valor Econômico",
+        "title": "Quem é o dono do Banco Master",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high"
+  },
+  {
+    "id": "bc-autoriza-controle-maxima",
+    "date": "2019-10-12",
+    "date_precision": "day",
+    "title": "Banco Central autoriza a mudança de controle do Máxima",
+    "summary": "Em 12 de outubro de 2019, após autorização do Banco Central, Vorcaro passou a dividir o comando com Armando Miguel Gallo Neto, Felipe Wallace Simonsen e Augusto Ferreira Lima. A mudança encerra o interregno entre o acordo de 2017 e o controle formal.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro",
+        "role": "controlador"
+      },
+      {
+        "name": "Augusto Ferreira Lima",
+        "id": "augusto-lima",
+        "role": "sócio"
+      }
+    ],
+    "tags": [
+      "carreira",
+      "master",
+      "maxima",
+      "banco-central"
+    ],
+    "sources": [
+      {
+        "url": "https://www.bloomberglinea.com.br/negocios/de-herdeiro-imobiliario-a-banqueiro-a-trajetoria-de-daniel-vorcaro-ate-o-master/",
+        "publisher": "Bloomberg Línea",
+        "title": "De herdeiro imobiliário a banqueiro",
+        "accessed": "2026-09-05",
+        "quote": "Essa mudança de controle só veio a acontecer oficialmente em 12 de outubro de 2019, após autorização do Banco Central"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high"
+  },
+  {
+    "id": "aquisicao-vipal",
+    "date": "2020-12-01",
+    "date_precision": "year",
+    "title": "Aquisição do banco de investimentos Vipal",
+    "summary": "No fim de 2020, Vorcaro adquiriu o banco de investimentos Vipal, num plano de verticalizar o grupo com gestora (MAM) e corretora. A operação antecipa a rebranding do Máxima no ano seguinte.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      }
+    ],
+    "tags": [
+      "carreira",
+      "master",
+      "aquisicao"
+    ],
+    "sources": [
+      {
+        "url": "https://www.bloomberglinea.com.br/negocios/de-herdeiro-imobiliario-a-banqueiro-a-trajetoria-de-daniel-vorcaro-ate-o-master/",
+        "publisher": "Bloomberg Línea",
+        "title": "De herdeiro imobiliário a banqueiro",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "medium"
+  },
+  {
+    "id": "maxima-vira-master",
+    "date": "2021-01-01",
+    "date_precision": "year",
+    "title": "Máxima é rebatizado como Banco Master",
+    "summary": "Em 2021 o Máxima passou a se chamar Banco Master, banco múltiplo com ênfase em crédito consignado no Norte e no Nordeste. O Valor atribui a sugestão do novo nome ao filho de Vorcaro. Naquele ano o banqueiro falava em cerca de 500 mil clientes.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro",
+        "role": "controlador"
+      }
+    ],
+    "tags": [
+      "carreira",
+      "master"
+    ],
+    "sources": [
+      {
+        "url": "https://www.bloomberglinea.com.br/negocios/de-herdeiro-imobiliario-a-banqueiro-a-trajetoria-de-daniel-vorcaro-ate-o-master/",
+        "publisher": "Bloomberg Línea",
+        "title": "De herdeiro imobiliário a banqueiro",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml",
+        "publisher": "Valor Econômico",
+        "title": "Quem é o dono do Banco Master",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www.bbc.com/portuguese/articles/cdxr104ln2qo",
+        "publisher": "BBC News Brasil",
+        "title": "Quem é o banqueiro preso Daniel Vorcaro",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high"
+  },
+  {
+    "id": "leilao-kovr",
+    "date": "2021-01-01",
+    "date_precision": "year",
+    "title": "Master arremata a seguradora Kovr",
+    "summary": "O grupo arrematou em leilão a seguradora Kovr, que pertencia ao Banco Rural e estava sob intervenção. A Bloomberg registra que sócios minoritários recuperaram o controle depois.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      }
+    ],
+    "tags": [
+      "carreira",
+      "master",
+      "aquisicao"
+    ],
+    "sources": [
+      {
+        "url": "https://www.bloomberglinea.com.br/negocios/de-herdeiro-imobiliario-a-banqueiro-a-trajetoria-de-daniel-vorcaro-ate-o-master/",
+        "publisher": "Bloomberg Línea",
+        "title": "De herdeiro imobiliário a banqueiro",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "medium"
+  },
+  {
+    "id": "modelo-cdb-fgc",
+    "date": "2023-12-01",
+    "date_precision": "month",
+    "title": "Mudanças regulatórias expõem o modelo de CDBs do Master",
+    "summary": "A Bloomberg Línea situa no fim de 2023 o momento em que alterações regulatórias do Banco Central tornaram visíveis fragilidades do Master — captação via CDBs com garantia do FGC e alocação em ativos de risco, como precatórios. A BBC descreve taxas perto de 140% do CDI, acima do padrão de pares.\n",
+    "notes": "Não há, nas fontes usadas aqui, o texto da norma específica de dezembro de 2023; o evento registra o enquadramento da imprensa, não o teor regulatório.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      }
+    ],
+    "tags": [
+      "carreira",
+      "master",
+      "cdb",
+      "fgc",
+      "banco-central"
+    ],
+    "sources": [
+      {
+        "url": "https://www.bloomberglinea.com.br/negocios/de-herdeiro-imobiliario-a-banqueiro-a-trajetoria-de-daniel-vorcaro-ate-o-master/",
+        "publisher": "Bloomberg Línea",
+        "title": "De herdeiro imobiliário a banqueiro",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www.bbc.com/portuguese/articles/cdxr104ln2qo",
+        "publisher": "BBC News Brasil",
+        "title": "Quem é o banqueiro preso Daniel Vorcaro",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "medium"
+  },
+  {
+    "id": "investigacao-mpf-2024",
+    "date": "2024-01-01",
+    "date_precision": "year",
+    "title": "MPF requisita investigação sobre carteiras de crédito",
+    "summary": "A Polícia Federal e a BBC situam o início das apurações em 2024, após requisição do Ministério Público Federal sobre possível fabricação de carteiras de crédito insubsistentes. Essas carteiras, segundo a PF, teriam sido vendidas a outro banco e, depois de fiscalização do BC, substituídas por ativos sem avaliação técnica adequada.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      }
+    ],
+    "tags": [
+      "investigacao",
+      "pf",
+      "mpf",
+      "brb",
+      "carteira"
+    ],
+    "sources": [
+      {
+        "url": "https://www.bbc.com/portuguese/articles/cdxr104ln2qo",
+        "publisher": "BBC News Brasil",
+        "title": "Quem é o banqueiro preso Daniel Vorcaro",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2025/11/18/pf-prende-daniel-vorcaro-dono-do-banco-master.ghtml",
+        "publisher": "g1",
+        "title": "PF prende Vorcaro no aeroporto de Guarulhos",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high"
+  },
+  {
+    "id": "aquisicao-will-bank",
+    "date": "2024-02-01",
+    "date_precision": "month",
+    "title": "Master compra o Will Bank",
+    "summary": "A BBC informa que o Will Bank foi comprado pelo Master em fevereiro de 2024, com base então próxima de 6 milhões de clientes e forte presença no Nordeste. O conglomerado passou a falar em mais de 10 milhões de clientes. A Bloomberg liga o Will à unificação posterior com Kovr e Credcesta nos resultados de 2024.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      }
+    ],
+    "tags": [
+      "carreira",
+      "master",
+      "aquisicao",
+      "will-bank"
+    ],
+    "sources": [
+      {
+        "url": "https://www.bbc.com/portuguese/articles/cx2y188j291o",
+        "publisher": "BBC News Brasil",
+        "title": "Banco Master, o que se sabe até agora",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www.bloomberglinea.com.br/negocios/de-herdeiro-imobiliario-a-banqueiro-a-trajetoria-de-daniel-vorcaro-ate-o-master/",
+        "publisher": "Bloomberg Línea",
+        "title": "De herdeiro imobiliário a banqueiro",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high"
+  },
+  {
+    "id": "resultados-master-2024",
+    "date": "2025-04-01",
+    "date_precision": "month",
+    "title": "Master anuncia lucro de R$ 1,068 bilhão em 2024",
+    "summary": "Em abril de 2025 o banco divulgou lucro líquido de R$ 1,068 bilhão em 2024, patrimônio de R$ 4,74 bilhões, ativos de crédito de R$ 40,31 bilhões e ROE de 28,5%, números que dizia auditados pela KPMG. Semanas antes havia sido anunciada a venda de fatia ao BRB.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro",
+        "role": "controlador"
+      }
+    ],
+    "tags": [
+      "carreira",
+      "master",
+      "brb"
+    ],
+    "sources": [
+      {
+        "url": "https://www.bloomberglinea.com.br/negocios/de-herdeiro-imobiliario-a-banqueiro-a-trajetoria-de-daniel-vorcaro-ate-o-master/",
+        "publisher": "Bloomberg Línea",
+        "title": "De herdeiro imobiliário a banqueiro",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high"
+  },
+  {
+    "id": "encontro-tucuma-21-dez-2023",
+    "date": "2023-12-21",
+    "date_precision": "day",
+    "title": "Fábio Faria pede placa do carro para “autorizar a segurança”",
+    "summary": "Em 21 de dezembro de 2023, Fábio Faria pediu a Vorcaro modelo e placa do veículo para “autorizar a segurança a acompanhar na garagem”. Vorcaro perguntou “Chego 11 cravado?”, enviou os dados de um Range Rover Vogue e mandou o motorista ao endereço “Tucumã 99”. Depois do encontro, Faria enviou um áudio dizendo que o interlocutor “gostei da conversa” e queria remarcar “já logo na terça-feira”, e citou “um almoço com o Alexandre no CADE”.\n",
+    "notes": "A PF não afirma, neste trecho, perícia de que o anfitrião da garagem seja Alexandre de Moraes. O áudio de Faria menciona “Alexandre” em outro compromisso (almoço no Cade), não como identificação forense do encontro.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Fábio Faria",
+        "id": "fabio-faria",
+        "role": "intermediário"
+      }
+    ],
+    "tags": [
+      "whatsapp",
+      "encontro",
+      "fabio-faria",
+      "stf"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026 — relatório do celular de Vorcaro",
+        "accessed": "2026-09-05",
+        "quote": "autorizar a segurança a acompanhar na garagem"
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "publisher": "Poder360",
+        "title": "Saiba o que dizem as mensagens de Vorcaro apreendidas pela PF",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high"
+  },
+  {
+    "id": "faria-compartilha-contato-moraes",
+    "date": "2023-12-26",
+    "date_precision": "day",
+    "title": "Fábio Faria compartilha o contato “Alexandre de Moraes BRASILIA”",
+    "summary": "Em 26 de dezembro de 2023, às 11h43, Faria compartilhou com Vorcaro, pelo WhatsApp, os rótulos “Alexandre de Moraes BRASILIA”, “Novo”, “STF TSE NOVO” e “Eu STF”, todos com o mesmo número. Vorcaro salvou “Alexandre de Moraes BRASILIA” na agenda no mesmo instante. Os dois combinavam a entrada “na garagem” no “mesmo esquema” do encontro de 21 de dezembro. Uma hora após a chegada, Faria fez o compartilhamento.\n",
+    "notes": "Rótulo de agenda não é perícia de chip. A PF descreve o que estava salvo no aparelho de Vorcaro, não a titularidade cadastral da linha.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Fábio Faria",
+        "id": "fabio-faria",
+        "role": "quem compartilhou o contato"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes",
+        "role": "rótulo na agenda"
+      }
+    ],
+    "tags": [
+      "whatsapp",
+      "stf",
+      "fabio-faria",
+      "agenda"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05",
+        "quote": "os contatos nominados como “Alexandre de Moraes BRASILIA”, “Novo”, “STF TSE NOVO” e “Eu STF”, todos com o mesmo número de telefone, foram compartilhados pelo interlocutor registrado no dispositivo como \"Fábio Faria\", em 26/12/2023"
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro/",
+        "publisher": "Poder360",
+        "title": "Leia as íntegras dos documentos da PET 16.662",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high"
+  },
+  {
+    "id": "almoco-botanique-30-dez",
+    "date": "2023-12-30",
+    "date_precision": "day",
+    "title": "Almoço no Six Senses Botanique atribuído a “Alex”",
+    "summary": "Em 27 de dezembro de 2023, Faria mencionou “Alex” e um almoço “no dia 30”. Vorcaro enviou a localização do Hotel Six Senses Botanique, em Campos do Jordão, e orientou a funcionária Thatiane. Durante a visita, o funcionário Michael disse que o desembargador Airton estava presente e que “Zé Maria tirou foto com o ministro”.\n",
+    "notes": "A identificação do ministro no local vem de mensagens de funcionários de Vorcaro, não de registro independente da hotelaria.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Fábio Faria",
+        "id": "fabio-faria"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes",
+        "role": "referido como “Alex” / “ministro”"
+      },
+      {
+        "name": "Thatiane",
+        "id": "thatiane-prime"
+      }
+    ],
+    "tags": [
+      "encontro",
+      "stf",
+      "fabio-faria"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "medium"
+  },
+  {
+    "id": "vivi-envia-minuta-11-jan",
+    "date": "2024-01-11",
+    "date_precision": "day",
+    "title": "Viviane Barci envia a primeira minuta do contrato",
+    "summary": "Em 11 de janeiro de 2024, o contato “Vivi Moraes” escreveu a Vorcaro que, “Conforme conversamos, estou enviando minuta de contrato de prestação de serviços para sua análise”. O contato foi salvo na agenda de Vorcaro naquele dia; a PF não encontrou chamadas anteriores entre os dois. Os metadados da minuta apontam Guilherme Benazzi como autor e “Ministro Alexandre de Moraes” como responsável pela última modificação às 16h30.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Viviane Barci de Moraes",
+        "id": "viviane-barci-de-moraes",
+        "role": "sócia-diretora"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes",
+        "role": "usuário da última modificação"
+      },
+      {
+        "name": "Guilherme de Toledo Benazzi",
+        "id": "guilherme-benazzi",
+        "role": "autor da minuta"
+      }
+    ],
+    "tags": [
+      "contrato",
+      "barci",
+      "stf",
+      "minuta"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05",
+        "quote": "Conforme conversamos, estou enviando minuta de contrato de prestação de serviços para sua análise"
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "publisher": "Poder360",
+        "title": "Saiba o que dizem as mensagens de Vorcaro",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662-contrato-barci-moraes-banco-master-108milhoes-sigiloderrubado-1set2026.pdf",
+        "publisher": "Poder360 (PET 16.662)",
+        "title": "Contrato Banco Master × Barci de Moraes",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high"
+  },
+  {
+    "id": "faria-careca-12-jan",
+    "date": "2024-01-12",
+    "date_precision": "day",
+    "title": "Faria avisa que vai falar com o “homem careca”",
+    "summary": "No dia seguinte ao envio da minuta, Fábio Faria perguntou se Vorcaro podia falar, porque iria conversar com interlocutor não nominado, referido pelo emoji de “homem careca”. O mesmo apelido reaparece nas cobranças de pagamento e no jantar de 2 de fevereiro.\n",
+    "notes": "A PF e a imprensa associam o apelido a Alexandre de Moraes pelo contexto da articulação; o diálogo, em si, não nomeia o destinatário.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Fábio Faria",
+        "id": "fabio-faria"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes",
+        "role": "associação contextual ao apelido"
+      }
+    ],
+    "tags": [
+      "whatsapp",
+      "fabio-faria",
+      "stf",
+      "contrato"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "publisher": "Poder360",
+        "title": "Saiba o que dizem as mensagens de Vorcaro",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "medium"
+  },
+  {
+    "id": "mora-es-edita-minuta-15-jan",
+    "date": "2024-01-15",
+    "date_precision": "day",
+    "title": "Minuta devolvida com marcas de revisão; metadados apontam Moraes às 23h04",
+    "summary": "Em 15 de janeiro de 2024, Vorcaro devolveu a Viviane o contrato com marcas de revisão de Leonardo Palhares. Às 23h04, os metadados do Office 365 registram última modificação pelo perfil “Ministro Alexandre de Moraes”. No fim da tarde, Faria perguntou se Vorcaro “Respondeu a Vivi”; Vorcaro quis saber se Faria “fechou 3 anos”, e Faria disse que “foram 4 anos, mas pode fazer 3”. O escritório Barci confirmou ao Poder360 que o ministro acessou e editou o arquivo, atribuindo o ato a consulta de compliance sobre impedimentos no STF.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Viviane Barci de Moraes",
+        "id": "viviane-barci-de-moraes"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes",
+        "role": "usuário da última modificação"
+      },
+      {
+        "name": "Leonardo Palhares",
+        "id": "leonardo-palhares",
+        "role": "revisor"
+      },
+      {
+        "name": "Fábio Faria",
+        "id": "fabio-faria"
+      }
+    ],
+    "tags": [
+      "contrato",
+      "barci",
+      "stf",
+      "minuta"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/moraes-editou-contrato-de-r-131-milhoes-entre-sua-mulher-e-vorcaro/",
+        "publisher": "Poder360",
+        "title": "Moraes editou contrato de R$ 131 milhões",
+        "accessed": "2026-09-05",
+        "quote": "Diante da inexistência de previsão de atuação no STF ou de qualquer impedimento legal, uma vez que o Ministro Alexandre de Moraes jamais julgou qualquer causa envolvendo o Banco Master, o contrato foi assinado"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high"
+  },
+  {
+    "id": "minuta-final-17-jan",
+    "date": "2024-01-17",
+    "date_precision": "day",
+    "title": "Viviane devolve a versão final; Faria confirma jantar com o “Careca”",
+    "summary": "Em 17 de janeiro de 2024, “Vivi Moraes” enviou a versão final do contrato, de parcelas de R$ 3 milhões líquidos ao mês. No mesmo dia, Faria avisou Vorcaro que confirmara jantar com “o Careca” para 2 de fevereiro de 2024.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Viviane Barci de Moraes",
+        "id": "viviane-barci-de-moraes"
+      },
+      {
+        "name": "Fábio Faria",
+        "id": "fabio-faria"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes",
+        "role": "referido como “Careca”"
+      }
+    ],
+    "tags": [
+      "contrato",
+      "barci",
+      "encontro",
+      "stf"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-e-conhecido-sobre-os-2-contratos-da-mulher-de-moraes-com-o-master/",
+        "publisher": "Poder360",
+        "title": "O que é conhecido sobre os 2 contratos",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high"
+  },
+  {
+    "id": "assinatura-contrato-master-barci",
+    "date": "2024-01-23",
+    "date_precision": "day",
+    "title": "Vorcaro e Angelo Silva assinam o contrato Master–Barci",
+    "summary": "A PF registra assinatura digital de Daniel Bueno Vorcaro em 23 de janeiro de 2024, às 15h15, e de Angelo Antonio Ribeiro da Silva às 15h35. O instrumento previa 36 parcelas de R$ 3 milhões líquidos (cerca de R$ 108 milhões) ou R$ 131,3 milhões brutos em três anos, por advocacia, consultoria e compliance. Viviane, fora do Brasil, pediu vias físicas lacradas a Guilherme Benazzi. O Poder360 também cita a data de 16 de janeiro no corpo do documento; as assinaturas eletrônicas recuperadas no celular são do dia 23.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro",
+        "role": "signatário"
+      },
+      {
+        "name": "Angelo Antonio Ribeiro da Silva",
+        "id": "angelo-silva",
+        "role": "signatário"
+      },
+      {
+        "name": "Viviane Barci de Moraes",
+        "id": "viviane-barci-de-moraes"
+      },
+      {
+        "name": "Guilherme de Toledo Benazzi",
+        "id": "guilherme-benazzi"
+      }
+    ],
+    "tags": [
+      "contrato",
+      "barci",
+      "master"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05",
+        "quote": "O contrato é assinado por DANIEL BUENO VORCARO em 23/01/2024, às 15:15:11 -03:00 e por ANGELO ANTONIO RIBEIRO DA SILVA no mesmo dia às 15:35:38 -03:00."
+      },
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662-contrato-barci-moraes-banco-master-108milhoes-sigiloderrubado-1set2026.pdf",
+        "publisher": "Poder360 (PET 16.662)",
+        "title": "Contrato Banco Master × Barci de Moraes",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/moraes-editou-contrato-de-r-131-milhoes-entre-sua-mulher-e-vorcaro/",
+        "publisher": "Poder360",
+        "title": "Moraes editou contrato de R$ 131 milhões",
+        "accessed": "2026-09-05",
+        "quote": "Oi, tudo bem? Como podemos proceder na assinatura? Prefere eletronicamente ou mando as vias físicas assinadas?"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high"
+  },
+  {
+    "id": "jantar-2-fev-2024",
+    "date": "2024-02-02",
+    "date_precision": "day",
+    "title": "Jantar em Brasília combinado “com o Alex”",
+    "summary": "Faria confirmou o jantar de 2 de fevereiro de 2024 “com o Alex” e, no dia, enviou um endereço em Brasília. A Folha descreve o encontro como o primeiro jantar entre Moraes e Vorcaro, com as respectivas mulheres, na casa de Faria. A PF documenta o convite e o endereço, não uma ata independente dos presentes.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Fábio Faria",
+        "id": "fabio-faria",
+        "role": "anfitrião / articulador"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes"
+      },
+      {
+        "name": "Viviane Barci de Moraes",
+        "id": "viviane-barci-de-moraes"
+      }
+    ],
+    "tags": [
+      "encontro",
+      "stf",
+      "fabio-faria"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-vorcaro-citam-moraes-gonet-e-chefe-da-pf-entenda-o-caso.shtml",
+        "publisher": "Folha de S.Paulo",
+        "title": "Mensagens de Vorcaro citam Moraes, Gonet e chefe da PF",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www.cnnbrasil.com.br/politica/veja-a-cronologia-dos-prints-de-conversas-de-vorcaro-sobre-moraes/",
+        "publisher": "CNN Brasil",
+        "title": "Cronologia dos prints de conversas",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "medium"
+  },
+  {
+    "id": "primeiro-pagamento-barci",
+    "date": "2024-02-08",
+    "date_precision": "day",
+    "title": "Primeiro pagamento ao escritório Barci — R$ 3.422.268,14",
+    "summary": "Em 8 de fevereiro de 2024, Vorcaro pediu ao cunhado Fabiano Zettel o “contrato barci moraes assinado” e perguntou “Quando era o primeiro pgto?”. No mesmo dia, Angelo Silva enviou comprovante de transferência do Master para o Barci de Moraes, conta no Itaú, de R$ 3.422.268,14.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Fabiano Zettel",
+        "id": "fabiano-zettel"
+      },
+      {
+        "name": "Angelo Antonio Ribeiro da Silva",
+        "id": "angelo-silva"
+      },
+      {
+        "name": "Viviane Barci de Moraes",
+        "id": "viviane-barci-de-moraes"
+      }
+    ],
+    "tags": [
+      "contrato",
+      "barci",
+      "pagamento"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high"
+  },
+  {
+    "id": "careca-nao-pode-atrasar",
+    "date": "2024-03-15",
+    "date_precision": "day",
+    "title": "“O careca não pode atrasar” — Vorcaro manda pagar “do jeito que for”",
+    "summary": "Em 15 de março de 2024, Faria enviou um print e escreveu “O careca não pode atrasar”. Vorcaro cobrou Angelo Silva (“contrato mais importante que temos. Te pedi pra nao falhar. Surreal. Vamos ter problemas. Manda pagar agora”) e disse a Romy que o pagamento a Barci não podia “atrasar um dia”, que era o “pgto mais importante”, que podia “pagar sempre, sem nota” e “Do jeito que for”. Romy reenviou comprovante de R$ 3.422.268,14. Angelo falou em pagar antecipado e depois pegar a NF. O escritório afirmou que prestou os serviços e que Moraes foi consultado só sobre impedimentos legais.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Fábio Faria",
+        "id": "fabio-faria"
+      },
+      {
+        "name": "Angelo Antonio Ribeiro da Silva",
+        "id": "angelo-silva"
+      },
+      {
+        "name": "Romy",
+        "id": "romy-master"
+      },
+      {
+        "name": "Viviane Barci de Moraes",
+        "id": "viviane-barci-de-moraes"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes",
+        "role": "associação ao apelido “careca”"
+      }
+    ],
+    "tags": [
+      "contrato",
+      "barci",
+      "whatsapp",
+      "pagamento"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05",
+        "quote": "É op pgto mais importante que temos"
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/ex-ministro-alertou-vorcaro-sobre-pagamento-a-escritorio-barci-de-moraes/",
+        "publisher": "Poder360",
+        "title": "Ex-ministro alertou Vorcaro sobre pagamento a Barci",
+        "accessed": "2026-09-05",
+        "quote": "O careca não pode atrasar"
+      },
+      {
+        "url": "https://valor.globo.com/politica/noticia/2026/09/01/em-mensagens-a-moraes-vorcaro-pediu-que-ministro-intercedesse-junto-a-pf-e-pgr-diz-relatorio.ghtml",
+        "publisher": "Valor Econômico",
+        "title": "Vorcaro consultou Moraes sobre investigações",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high"
+  },
+  {
+    "id": "ciro-gonet-e-firme",
+    "date": "2024-04-14",
+    "date_precision": "day",
+    "title": "Ciro Soares — “Gonet é firme” e áudio sobre desistência de Jarbas",
+    "summary": "Em 14 de abril de 2024, Ciro Soares escreveu a Vorcaro “Amizade é tudo viu irmão” e “Gonet é firme”, pedindo que lesse um encaminhamento “Fique só com vc”. No áudio, Ciro narra ter pedido a Gonet que intercedesse para “o cara” desistir de uma candidatura ligada a Jarbas; segundo Ciro, Gonet ligou de volta e disse que a pessoa desistiria. Não há contato “Paulo Gonet” na agenda extraída do celular de Vorcaro.\n",
+    "notes": "O conteúdo chega a Vorcaro por reenvio. A PF não extraiu o telefone de Gonet no aparelho.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Ciro Soares",
+        "id": "ciro-soares",
+        "role": "intermediário"
+      },
+      {
+        "name": "Paulo Gonet Branco",
+        "id": "paulo-gonet",
+        "role": "citado no reenvio"
+      }
+    ],
+    "tags": [
+      "pgr",
+      "whatsapp",
+      "ciro-soares"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05",
+        "quote": "Cara, eu pedi o Gonet ontem, ele me ligou falar um assunto, aí eu falei, Gonet, pede o cara para tirar a candidatura"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "medium"
+  },
+  {
+    "id": "convite-andrei-londres",
+    "date": "2024-04-03",
+    "date_precision": "day",
+    "title": "Convite ao diretor-geral da PF para o fórum de Londres",
+    "summary": "Em 3 de abril de 2024, Faria encaminhou a Vorcaro mensagens de terceiro sobre “convidar o DPF Andrei” para “fecharmos o PGR e o DPF”. Faria respondeu “Acho ótimo” / “Pode convidar”. Minutos depois veio a confirmação “Ele aceitou”. Vorcaro disse a “Marcio Conjur” que o “Ministro fez convite ao andrei PF”. A assistente do diretor-geral perguntou se hospedagem e passagem eram cobertas; Marcio respondeu “Todas as despesas bancadas por nós”.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Fábio Faria",
+        "id": "fabio-faria"
+      },
+      {
+        "name": "Andrei Rodrigues",
+        "id": "andrei-rodrigues",
+        "role": "convidado"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes",
+        "role": "referido como autor do convite"
+      },
+      {
+        "name": "Paulo Gonet Branco",
+        "id": "paulo-gonet"
+      }
+    ],
+    "tags": [
+      "londres",
+      "pf",
+      "evento",
+      "andrei"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05",
+        "quote": "Todas as despesas bancadas por nós"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high"
+  },
+  {
+    "id": "reuniao-casa-alexandre-10-abr",
+    "date": "2024-04-10",
+    "date_precision": "day",
+    "title": "Reunião “18h na casa do Alexandre” e logística dos ministros",
+    "summary": "Em 6 de abril, Faria encaminhou recado agendando reunião às “18h na casa do Alexandre” na segunda seguinte (10 de abril). No dia 10, o funcionário Leo Serrano tratou com Vorcaro dos veículos para os ministros “mais sensiveis”, citando “Alexandre, Toffoli, etc”.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Fábio Faria",
+        "id": "fabio-faria"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes"
+      },
+      {
+        "name": "Dias Toffoli",
+        "id": "dias-toffoli"
+      }
+    ],
+    "tags": [
+      "londres",
+      "encontro",
+      "stf",
+      "evento"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "medium"
+  },
+  {
+    "id": "evento-super-exclusivo-londres",
+    "date": "2024-04-19",
+    "date_precision": "day",
+    "title": "Vorcaro descreve “evento super exclusivo com alexandre de moraes em londres”",
+    "summary": "Em 19 de abril de 2024, Vorcaro escreveu a Luiz Rennó que organizava um “evento super exclusivo com alexandre de moraes em londres”. Em paralelo, Faria e Vorcaro trataram de veto de “Alexandre” a participantes. Vorcaro disse a Ana Matos que “alexandre sugeriu participacao do temer”.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes"
+      },
+      {
+        "name": "Fábio Faria",
+        "id": "fabio-faria"
+      },
+      {
+        "name": "Michel Temer",
+        "id": "michel-temer"
+      },
+      {
+        "name": "Ana Matos",
+        "id": "ana-matos"
+      }
+    ],
+    "tags": [
+      "londres",
+      "evento",
+      "stf"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05",
+        "quote": "evento super exclusivo com alexandre de moraes em londres"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high"
+  },
+  {
+    "id": "forum-juridico-londres-2024",
+    "date": "2024-04-24",
+    "date_precision": "day",
+    "title": "1º Fórum Jurídico Brasil de Ideias, patrocinado pelo Master",
+    "summary": "Entre 24 e 26 de abril de 2024 ocorreu em Londres o 1º Fórum Jurídico Brasil de Ideias, patrocinado pelo Banco Master e organizado com o Grupo Voto. A programação oficial listou Moraes, Toffoli, Gilmar Mendes, Gonet, Andrei Rodrigues, Lewandowski, Temer, Hugo Motta e dezenas de outras autoridades. Documentos enviados à CPMI do INSS apontam custo total da série de eventos de US$ 6.035.922,37.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro",
+        "role": "patrocinador"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes"
+      },
+      {
+        "name": "Dias Toffoli",
+        "id": "dias-toffoli"
+      },
+      {
+        "name": "Gilmar Mendes",
+        "id": "gilmar-mendes"
+      },
+      {
+        "name": "Paulo Gonet Branco",
+        "id": "paulo-gonet"
+      },
+      {
+        "name": "Andrei Rodrigues",
+        "id": "andrei-rodrigues"
+      },
+      {
+        "name": "Ricardo Lewandowski",
+        "id": "ricardo-lewandowski"
+      },
+      {
+        "name": "Michel Temer",
+        "id": "michel-temer"
+      },
+      {
+        "name": "Hugo Motta",
+        "id": "hugo-motta"
+      }
+    ],
+    "tags": [
+      "londres",
+      "evento",
+      "stf",
+      "pgr",
+      "pf"
+    ],
+    "sources": [
+      {
+        "url": "https://www.poder360.com.br/poder-justica/moraes-vorcaro-e-andrei-degustaram-macallan-juntos-em-londres/",
+        "publisher": "Poder360",
+        "title": "Moraes, Vorcaro e Andrei degustaram Macallan juntos em Londres",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high"
+  },
+  {
+    "id": "macallan-george-club",
+    "date": "2024-04-25",
+    "date_precision": "day",
+    "title": "Degustação de Macallan no George Club, em Mayfair",
+    "summary": "Em 25 de abril de 2024, no George Club, houve degustação de whisky Macallan custeada em US$ 640.831,88, segundo documentos da organização. O Poder360 lista entre os presentes Moraes, Vorcaro, Andrei Rodrigues, Gonet, Toffoli, Lewandowski, Hugo Motta, Benedito Gonçalves e Ciro Soares. Em sessão fechada do STF de 12 de fevereiro de 2026, Moraes disse: “Eu estava lá. Andrei Rodrigues estava lá. Depois fomos todos juntos a um pub, tomamos Macallan”. Vorcaro escreveu a Martha Graeff: “Todos os ministros do Brasil, do STF, STJ etc. E euzinho discursando”.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes"
+      },
+      {
+        "name": "Andrei Rodrigues",
+        "id": "andrei-rodrigues"
+      },
+      {
+        "name": "Paulo Gonet Branco",
+        "id": "paulo-gonet"
+      },
+      {
+        "name": "Dias Toffoli",
+        "id": "dias-toffoli"
+      },
+      {
+        "name": "Ricardo Lewandowski",
+        "id": "ricardo-lewandowski"
+      },
+      {
+        "name": "Hugo Motta",
+        "id": "hugo-motta"
+      },
+      {
+        "name": "Ciro Soares",
+        "id": "ciro-soares"
+      },
+      {
+        "name": "Martha Graeff",
+        "id": "martha-graeff"
+      }
+    ],
+    "tags": [
+      "londres",
+      "evento",
+      "stf",
+      "pgr",
+      "pf",
+      "macallan"
+    ],
+    "sources": [
+      {
+        "url": "https://www.poder360.com.br/poder-justica/moraes-vorcaro-e-andrei-degustaram-macallan-juntos-em-londres/",
+        "publisher": "Poder360",
+        "title": "Moraes, Vorcaro e Andrei degustaram Macallan juntos em Londres",
+        "accessed": "2026-09-05",
+        "quote": "Nesse encontro [em Londres], vários estávamos lá. Eu estava lá. Andrei Rodrigues estava lá. Depois fomos todos juntos a um pub, tomamos Macallan"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high"
+  },
+  {
+    "id": "pedido-materia-tony-blair",
+    "date": "2024-04-26",
+    "date_precision": "day",
+    "title": "Vorcaro pede matéria sobre reunião privativa com Tony Blair",
+    "summary": "Em 26 de abril de 2024, Vorcaro escreveu ao contato “Geraldo Brazil Journal” transmitindo pedido atribuído a Alexandre de Moraes para que a reportagem dissesse que “os 3 ministros do STF se reuniram privativamente com o ex primeiro ministro” Tony Blair. Blair palestrou no fórum patrocinado pelo Master.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes"
+      },
+      {
+        "name": "Tony Blair",
+        "id": "tony-blair"
+      }
+    ],
+    "tags": [
+      "londres",
+      "stf",
+      "imprensa"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "publisher": "Poder360",
+        "title": "Saiba o que dizem as mensagens de Vorcaro",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high"
+  },
+  {
+    "id": "vorcaro-filha-com-moraes-nov-2024",
+    "date": "2024-11-15",
+    "date_precision": "day",
+    "title": "Vorcaro escreve à filha que está “com alexandre moraes”",
+    "summary": "Em 15 de novembro de 2024, Vorcaro disse à filha Stella que estava “com alexandre moraes”. A PF inclui o diálogo na lista de indícios de encontros presenciais. Não há, neste trecho, confirmação independente do terceiro.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Stella Vorcaro",
+        "id": "stella-vorcaro"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes",
+        "role": "citado na mensagem"
+      }
+    ],
+    "tags": [
+      "encontro",
+      "stf"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://valor.globo.com/politica/noticia/2026/09/01/pf-lista-a-mendona-nove-encontros-presenciais-de-moraes-com-vorcaro.ghtml",
+        "publisher": "Valor Econômico",
+        "title": "PF lista nove encontros presenciais",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "medium"
+  },
+  {
+    "id": "ciro-selfie-gonet",
+    "date": "2025-03-15",
+    "date_precision": "day",
+    "title": "Ciro manda selfie com Gonet — “Ele quer falar com você”",
+    "summary": "Em 15 de março de 2025, às 14h13, Ciro Soares enviou a Vorcaro uma foto ao lado de Paulo Gonet e escreveu “Liga aqui” / “Ele quer falar com você”. A partir das 14h23, a extração registra quatro chamadas de voz entre Vorcaro e Ciro (57s, 27s, 17s e 3min49s). A PF interpreta Ciro como ponte; o áudio das ligações não é transcrito neste relatório.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Ciro Soares",
+        "id": "ciro-soares"
+      },
+      {
+        "name": "Paulo Gonet Branco",
+        "id": "paulo-gonet"
+      }
+    ],
+    "tags": [
+      "pgr",
+      "whatsapp",
+      "ciro-soares"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05",
+        "quote": "Ele quer falar com você"
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "publisher": "Poder360",
+        "title": "Saiba o que dizem as mensagens de Vorcaro",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://valor.globo.com/politica/noticia/2026/09/01/em-mensagens-a-moraes-vorcaro-pediu-que-ministro-intercedesse-junto-a-pf-e-pgr-diz-relatorio.ghtml",
+        "publisher": "Valor Econômico",
+        "title": "Vorcaro consultou Moraes sobre investigações",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high"
+  },
+  {
+    "id": "encontro-19-mar-aperto-paulo",
+    "date": "2025-03-19",
+    "date_precision": "day",
+    "title": "“To com ministro aqui” e recado de “aperto” em Paulo",
+    "summary": "Na noite de 19 de março de 2025, Vorcaro escreveu a Martha Graeff que estava com o ministro e, minutos depois, a Paulo Sérgio Neves de Souza, então no Banco Central, que estava “com Moraes aqui” e que o ministro “vai chamar o Paulo para dar um aperto”. A Folha liga o “Paulo” a Gonet, no contexto da venda do Master ao BRB sob escrutínio do MPF. Na madrugada, Vorcaro disse a Martha que “acabou chegando hugo e ciro aqui pra falarem com Alexandre”.\n",
+    "notes": "Encontro reconstruído a partir de mensagens de Vorcaro a terceiros, não de registro do ministro.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes"
+      },
+      {
+        "name": "Martha Graeff",
+        "id": "martha-graeff"
+      },
+      {
+        "name": "Paulo Sérgio Neves de Souza",
+        "id": "paulo-sergio-neves"
+      },
+      {
+        "name": "Paulo Gonet Branco",
+        "id": "paulo-gonet",
+        "role": "Paulo do recado, segundo a Folha"
+      },
+      {
+        "name": "Hugo Motta",
+        "id": "hugo-motta"
+      },
+      {
+        "name": "Ciro Soares",
+        "id": "ciro-soares"
+      }
+    ],
+    "tags": [
+      "encontro",
+      "stf",
+      "pgr",
+      "brb",
+      "bc"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-vorcaro-citam-moraes-gonet-e-chefe-da-pf-entenda-o-caso.shtml",
+        "publisher": "Folha de S.Paulo",
+        "title": "Mensagens de Vorcaro citam Moraes, Gonet e chefe da PF",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "medium"
+  },
+  {
+    "id": "brb-anuncia-compra-master",
+    "date": "2025-03-28",
+    "date_precision": "day",
+    "title": "BRB anuncia a compra de 58% do Banco Master",
+    "summary": "Em 28 de março de 2025 o BRB divulgou fato relevante sobre a aquisição de 49% das ações ordinárias e 100% das preferenciais do Master (58% do capital), avaliada em cerca de R$ 2 bilhões, com apoio do governador Ibaneis Rocha. O Cade viria a aprovar o perímetro; o Banco Central seria o último filtro. A Folha e o Estadão descrevem cessões de carteiras de crédito do Master ao BRB na casa dos R$ 12 a R$ 22 bilhões, depois questionadas como sem lastro.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Paulo Henrique Costa",
+        "id": "paulo-henrique-costa",
+        "role": "presidente do BRB"
+      },
+      {
+        "name": "Ibaneis Rocha",
+        "id": "ibaneis-rocha"
+      }
+    ],
+    "tags": [
+      "brb",
+      "master",
+      "negocio",
+      "carteira"
+    ],
+    "sources": [
+      {
+        "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb",
+        "publisher": "Agência Brasil",
+        "title": "BC rejeita compra do Master pelo BRB",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www.estadao.com.br/economia/brb-master-relembre-cronologia-negociacao-banco-central-rejeitou/",
+        "publisher": "O Estado de S. Paulo",
+        "title": "Cronologia da negociação BRB–Master",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www1.folha.uol.com.br/mercado/2026/08/pf-aponta-suspeitas-sobre-mais-diretores-do-brb-no-caso-master-e-pede-prazo-para-concluir-inquerito.shtml",
+        "publisher": "Folha de S.Paulo",
+        "title": "PF aponta suspeitas sobre diretores do BRB",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "official",
+    "confidence": "high"
+  },
+  {
+    "id": "gonet-mensagens-londres-via-ciro",
+    "date": "2025-03-28",
+    "date_precision": "day",
+    "title": "Ciro reenvia textos atribuídos a Gonet — “charuto e macallan”",
+    "summary": "Em 28 de março de 2025, Ciro encaminhou a Vorcaro três mensagens — “Que bom! Estou na torcida por vocês!”, “Já estou com saudades de você! Estou embarcando para Roma.” e “Manda essa mensagem para ele” — e disse que “O Gonet mandou msg pra vc”. Vorcaro pediu para agradecer. Ciro acrescentou “Ele vai para Londres com a gente” e reenviou “Oba!!! Tomara que tenha charuto e macalan!”. Vorcaro respondeu que “vai ter que ter plantação de charuto e barril de macallan”.\n",
+    "notes": "Textos chegam por intermediário. Gonet não confirmou autoria nas fontes consultadas.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Ciro Soares",
+        "id": "ciro-soares"
+      },
+      {
+        "name": "Paulo Gonet Branco",
+        "id": "paulo-gonet",
+        "role": "autoria atribuída por Ciro"
+      }
+    ],
+    "tags": [
+      "pgr",
+      "londres",
+      "whatsapp",
+      "ciro-soares"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05",
+        "quote": "Oba!!! Tomara que tenha charuto e macalan!"
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "publisher": "Poder360",
+        "title": "Saiba o que dizem as mensagens de Vorcaro",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "medium"
+  },
+  {
+    "id": "filho-gonet-londres-obvio",
+    "date": "2025-03-29",
+    "date_precision": "day",
+    "title": "Gonet perguntou se o filho dele pode ir — Vorcaro: Obvio ne",
+    "summary": "No dia seguinte, Ciro escreveu que “Gonet perguntou se o filho dele pode ir com a gente para Londres”. Vorcaro respondeu “Obvio ne”. Ciro reenviou “Você é uma máquina”, dizendo “Gonet mandou”. Em 11 de abril, Vorcaro autorizou Ana Matos a pagar despesas de “Pedro e ciro” na lista de Londres. O segundo fórum de 2025 foi depois cancelado.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Ciro Soares",
+        "id": "ciro-soares"
+      },
+      {
+        "name": "Paulo Gonet Branco",
+        "id": "paulo-gonet"
+      },
+      {
+        "name": "Pedro Gonet",
+        "id": "pedro-gonet"
+      },
+      {
+        "name": "Ana Matos",
+        "id": "ana-matos"
+      }
+    ],
+    "tags": [
+      "pgr",
+      "londres",
+      "whatsapp"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05",
+        "quote": "Gonet perguntou se o filho dele pode ir com a gente para Londres"
+      },
+      {
+        "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-vorcaro-citam-moraes-gonet-e-chefe-da-pf-entenda-o-caso.shtml",
+        "publisher": "Folha de S.Paulo",
+        "title": "Mensagens de Vorcaro citam Moraes, Gonet e chefe da PF",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "medium"
+  },
+  {
+    "id": "acesso-restrito-contrato-barci",
+    "date": "2025-04-01",
+    "date_precision": "day",
+    "title": "Vorcaro restringe o acesso interno ao contrato com Barci",
+    "summary": "Em 1º de abril de 2025, segundo a PF, Vorcaro orientou Angelo Silva de que ninguém deveria ter acesso ao contrato com o escritório de Viviane. O Poder360 situa no mesmo mês o pedido para evitar vazamentos internos.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Angelo Antonio Ribeiro da Silva",
+        "id": "angelo-silva"
+      },
+      {
+        "name": "Viviane Barci de Moraes",
+        "id": "viviane-barci-de-moraes"
+      }
+    ],
+    "tags": [
+      "contrato",
+      "barci"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/ex-ministro-alertou-vorcaro-sobre-pagamento-a-escritorio-barci-de-moraes/",
+        "publisher": "Poder360",
+        "title": "Ex-ministro alertou Vorcaro sobre pagamento a Barci",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high"
+  },
+  {
+    "id": "encontro-campos-19-abr-2025",
+    "date": "2025-04-19",
+    "date_precision": "day",
+    "title": "Vorcaro diz que vai encontrar Moraes “perto de casa” no feriado",
+    "summary": "Em 19 de abril de 2025, Vorcaro escreveu a Martha que estava “indo encontrar alexandre moraes aqui perto de casa”. Ela perguntou se o ministro estava em Campos; ele respondeu “Ele ta passando feriado”. Dez dias depois, voltou a dizer que estava com “Alexandre”, e numa ligação posterior identificou “o primeiro cara” como “alexandre moraes”.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Martha Graeff",
+        "id": "martha-graeff"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes",
+        "role": "citado"
+      }
+    ],
+    "tags": [
+      "encontro",
+      "stf"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://valor.globo.com/politica/noticia/2026/09/01/pf-lista-a-mendona-nove-encontros-presenciais-de-moraes-com-vorcaro.ghtml",
+        "publisher": "Valor Econômico",
+        "title": "PF lista nove encontros presenciais",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "medium"
+  },
+  {
+    "id": "contrato-viking-barci",
+    "date": "2025-05-12",
+    "date_precision": "day",
+    "title": "Segundo contrato — Viking Participações e Barci, até R$ 50 milhões",
+    "summary": "A PF localizou instrumento datado de 12 de maio de 2025 entre o escritório Barci de Moraes e a Viking Participações, representada por Vorcaro, com teto de R$ 50 milhões líquidos em 36 meses. Vorcaro enviou o PDF a si mesmo e a Palhares no dia 13. O escritório, à Folha e ao Valor, disse ter assinado apenas o primeiro contrato com o Master, que a proposta não foi aceita, que “nada foi assinado” e que o vínculo original se encerrou na liquidação.\n",
+    "notes": "Há disputa frontal entre o documento extraído pela PF e a versão do escritório. Este mapa registra as duas.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro",
+        "role": "representante da Viking"
+      },
+      {
+        "name": "Viviane Barci de Moraes",
+        "id": "viviane-barci-de-moraes"
+      },
+      {
+        "name": "Leonardo Palhares",
+        "id": "leonardo-palhares"
+      }
+    ],
+    "tags": [
+      "contrato",
+      "barci",
+      "viking",
+      "aeronave"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662-contrato-viking-barci-moraes-50milhoes-sigiloderrubado-1set2026.pdf",
+        "publisher": "Poder360 (PET 16.662)",
+        "title": "Contrato Viking × Barci de Moraes",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-e-conhecido-sobre-os-2-contratos-da-mulher-de-moraes-com-o-master/",
+        "publisher": "Poder360",
+        "title": "O que é conhecido sobre os 2 contratos",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-vorcaro-citam-moraes-gonet-e-chefe-da-pf-entenda-o-caso.shtml",
+        "publisher": "Folha de S.Paulo",
+        "title": "Mensagens de Vorcaro citam Moraes, Gonet e chefe da PF",
+        "accessed": "2026-09-05",
+        "quote": "A proposta do Banco Master não foi aceita, nada foi assinado e o contrato original foi extinto com a liquidação do banco"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "medium"
+  },
+  {
+    "id": "dacao-aeronaves-viking",
+    "date": "2025-05-19",
+    "date_precision": "day",
+    "title": "Termo de dação — cotas de Legacy 650 e helicóptero EC 155",
+    "summary": "Em 19 de maio de 2025, Palhares enviou o Termo de Acordo e Dação em Pagamento. R$ 40 milhões seriam quitados com ações da Fraction 024 (Legacy 650, prefixo PP-NLR) e da Fraction 053 (helicóptero EC 155 B1); R$ 10 milhões, por reembolso de despesas. Palhares relatou que “Guilherme” disse que o escritório “não pode ser parte do contrato, não pode ter participação em empresas” e queria a cota “sem ser sócio das SPEs”. Vorcaro, dias antes, mandara Marcos Prime enviar a Viviane a brochura das aeronaves.\n",
+    "notes": "O escritório Barci nega que a dação tenha sido aceita ou assinada.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Leonardo Palhares",
+        "id": "leonardo-palhares"
+      },
+      {
+        "name": "Viviane Barci de Moraes",
+        "id": "viviane-barci-de-moraes"
+      },
+      {
+        "name": "Guilherme de Toledo Benazzi",
+        "id": "guilherme-benazzi"
+      },
+      {
+        "name": "Marcus Vinicius da Mata",
+        "id": "marcos-prime"
+      }
+    ],
+    "tags": [
+      "contrato",
+      "barci",
+      "viking",
+      "dação",
+      "aeronave"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662-acordo-dacao-viking-barci-aviao-helicoptero-50milhoes-sigiloderrubado.pdf",
+        "publisher": "Poder360 (PET 16.662)",
+        "title": "Termo de dação Viking × Barci",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "publisher": "Poder360",
+        "title": "Saiba o que dizem as mensagens de Vorcaro",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "medium"
+  },
+  {
+    "id": "uso-cotas-aeronaves-jul-2025",
+    "date": "2025-07-16",
+    "date_precision": "day",
+    "title": "Print de Viviane — “estamos gostando muito” das cotas",
+    "summary": "Em 16 de julho de 2025, Palhares cobrou o “fluxo de pagamentos do escritório Biaci”. Vorcaro mandou resolver “urgente”. Marcos da Mata disse que “Já usaram aviões e helicópteros”, que haveria “mudança de empresa” de Barci para “Lux” por risco reputacional, e encaminhou print em que pergunta a Viviane se estão gostando das cotas; ela responde “Sim, estamos gostando muito”. Em 24 de julho, Ana Claudia avisou fatura da Viking de R$ 22.815.120,95. Palhares falou em “risco reputacional grande” se os sócios ficassem “muito visíveis”.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Viviane Barci de Moraes",
+        "id": "viviane-barci-de-moraes"
+      },
+      {
+        "name": "Marcus Vinicius da Mata",
+        "id": "marcos-prime"
+      },
+      {
+        "name": "Leonardo Palhares",
+        "id": "leonardo-palhares"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes",
+        "role": "uso das cotas referido no entorno"
+      }
+    ],
+    "tags": [
+      "contrato",
+      "barci",
+      "aeronave",
+      "viking"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05",
+        "quote": "Sim, estamos gostando muito, todos que nos atenderam sempre foram muito educados e atenciosos."
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "publisher": "Poder360",
+        "title": "Saiba o que dizem as mensagens de Vorcaro",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high"
+  },
+  {
+    "id": "nao-deixe-de-atender-barci",
+    "date": "2025-08-21",
+    "date_precision": "day",
+    "title": "“Nao deixe de atender barci” — voo do Legacy PP-NLR",
+    "summary": "Em 21 de agosto de 2025, Thatiane avisou que o avião PP-NLR estava agendado para voar para “Barci” no dia 22. Vorcaro respondeu “Nao deixe de atender barci”.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Thatiane",
+        "id": "thatiane-prime"
+      },
+      {
+        "name": "Viviane Barci de Moraes",
+        "id": "viviane-barci-de-moraes"
+      }
+    ],
+    "tags": [
+      "barci",
+      "aeronave"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05",
+        "quote": "Nao deixe de atender barci"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high"
+  },
+  {
+    "id": "ultimo-encontro-citado-8-ago",
+    "date": "2025-08-08",
+    "date_precision": "day",
+    "title": "Último encontro citado nas mensagens — 8 de agosto de 2025",
+    "summary": "Em 8 de agosto de 2025, Vorcaro disse a Martha que não viajaria porque estava com “alexandre” e depois teria reunião “Com ciro”. Valor e CNN situam essa data como o último encontro presencial mapeado pela PF na extração. A Folha fala em “ao menos seis”; o Valor, em nove ocasiões entre 2024 e 2025. Os números dependem do critério (mensagem vs. presença).\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Martha Graeff",
+        "id": "martha-graeff"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes",
+        "role": "citado"
+      },
+      {
+        "name": "Ciro Soares",
+        "id": "ciro-soares"
+      }
+    ],
+    "tags": [
+      "encontro",
+      "stf"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://valor.globo.com/politica/noticia/2026/09/01/pf-lista-a-mendona-nove-encontros-presenciais-de-moraes-com-vorcaro.ghtml",
+        "publisher": "Valor Econômico",
+        "title": "PF lista nove encontros presenciais",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "medium"
+  },
+  {
+    "id": "bc-rejeita-brb-master",
+    "date": "2025-09-03",
+    "date_precision": "day",
+    "title": "Banco Central indefere a compra do Master pelo BRB",
+    "summary": "Em 3 de setembro de 2025 o colegiado do BC indeferiu o requerimento protocolado em 28 de março. O BRB comunicou o fato ao mercado e pediu acesso à decisão. A Agência Brasil e a Folha registram dúvidas sobre “viabilidade econômico-financeira”. O Cade já havia aprovado o perímetro em junho; Ibaneis sancionara lei distrital autorizando a operação.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Paulo Henrique Costa",
+        "id": "paulo-henrique-costa"
+      },
+      {
+        "name": "Gabriel Galípolo",
+        "id": "gabriel-galipolo",
+        "role": "presidente do BC"
+      },
+      {
+        "name": "Ibaneis Rocha",
+        "id": "ibaneis-rocha"
+      }
+    ],
+    "tags": [
+      "brb",
+      "banco-central",
+      "master",
+      "negocio"
+    ],
+    "sources": [
+      {
+        "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb",
+        "publisher": "Agência Brasil",
+        "title": "BC rejeita compra do Master pelo BRB",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www1.folha.uol.com.br/mercado/2025/09/bc-rejeita-compra-do-master-pelo-estatal-brb.shtml",
+        "publisher": "Folha de S.Paulo",
+        "title": "Colegiado do BC rejeita compra do Master pelo BRB",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2025/11/18/pf-prende-daniel-vorcaro-dono-do-banco-master.ghtml",
+        "publisher": "g1",
+        "title": "PF prende Vorcaro no aeroporto de Guarulhos",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "official",
+    "confidence": "high"
+  },
+  {
+    "id": "chat-mensagens-temporarias-24h",
+    "date": "2025-09-17",
+    "date_precision": "day",
+    "title": "Chat com “Alexandre de Moraes BRASILIA” passa a apagar mensagens em 24h",
+    "summary": "Em 17 de setembro de 2025, a PF registra que o contato “Alexandre de Moraes BRASILIA” passou a usar, no chat com Vorcaro, a configuração padrão de mensagens temporárias com exclusão em 24 horas. O dado importa para o que viria em outubro–novembro: muitos textos só sobrevivem como captura de tela do app Notas, não como bolha permanente do WhatsApp.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes",
+        "role": "rótulo do chat"
+      }
+    ],
+    "tags": [
+      "whatsapp",
+      "stf",
+      "visualizacao-unica"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high"
+  },
+  {
+    "id": "pix-barci-nao-e-bom",
+    "date": "2025-10-01",
+    "date_precision": "day",
+    "title": "“Mas nao faz barci pix ne?”",
+    "summary": "Em 1º de outubro de 2025, Alberto Felix avisou que pagara pendências, inclusive ao escritório Barci. Vorcaro perguntou “Mas nao faz barci pix ne?”. Felix disse que fizera Pix “para os mesmos dados da ted”. Vorcaro: “Nao e bom”. A PF não explica o motivo da restrição.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Alberto Felix de Oliveira Neto",
+        "id": "alberto-felix"
+      },
+      {
+        "name": "Viviane Barci de Moraes",
+        "id": "viviane-barci-de-moraes"
+      }
+    ],
+    "tags": [
+      "contrato",
+      "barci",
+      "pix",
+      "pagamento"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05",
+        "quote": "Mas nao faz barci pix ne?"
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "publisher": "Poder360",
+        "title": "Saiba o que dizem as mensagens de Vorcaro",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high"
+  },
+  {
+    "id": "notas-28-out-inicio-janela",
+    "date": "2025-10-28",
+    "date_precision": "day",
+    "title": "Começa a janela de notas enviadas como print ao contato de agenda",
+    "summary": "Em 28 de outubro de 2025, a PF documenta o primeiro de dezenas de ciclos Notas → screenshot → PDF temporário → WhatsApp para o terminal salvo como “Alexandre de Moraes BRASILIA”. O relatório descreve 52 notas nesse padrão até 17 de novembro. Parte do conteúdo das primeiras imagens não é transcrita na IPJ; o que importa, nesta data, é o início do método.\n",
+    "notes": "Mensagens de visualização única. Respostas do interlocutor, em regra, não foram recuperadas.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes",
+        "role": "destinatário segundo a agenda e os logs"
+      }
+    ],
+    "tags": [
+      "whatsapp",
+      "stf",
+      "visualizacao-unica",
+      "notas"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf",
+        "publisher": "Poder360 (PET 16.662)",
+        "title": "Anexo de conversas com “Alexandre de Moraes BRASILIA”",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high"
+  },
+  {
+    "id": "notas-30-out-andrei-paulo-bacen",
+    "date": "2025-10-30",
+    "date_precision": "day",
+    "title": "Notas pedem para “reforçar com Andrei e Paulo” contra medida no BC",
+    "summary": "Em 30 de outubro de 2025, Vorcaro redigiu no app Notas que tivera “informações informais e em confidencia de turma do banco central, que G e os diretores estao na pressao máxima de novo pra uma medida, pois o bacen esta sendo muito pressionado pela PF e MP”. Pediu “reforçar com Andrei e Paulo pra nao deixar ninguem de baixo fazer uma sacanagem” e prometeu enviar “os nomes que tem ido ao Bacen”. Segundos depois de cada screenshot, o WhatsApp registra envio ao terminal da agenda “Alexandre de Moraes BRASILIA”. A PF lê “Andrei” como Andrei Rodrigues e “Paulo” como Paulo Gonet. Não há prova, neste documento, de que os dois tenham atendido o pedido.\n",
+    "notes": "A metodologia da PF correlaciona logs de apps, screenshot e envio. Não recupera a resposta.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes",
+        "role": "destinatário segundo a PF"
+      },
+      {
+        "name": "Andrei Rodrigues",
+        "id": "andrei-rodrigues",
+        "role": "citado na nota"
+      },
+      {
+        "name": "Paulo Gonet Branco",
+        "id": "paulo-gonet",
+        "role": "citado na nota"
+      },
+      {
+        "name": "Gabriel Galípolo",
+        "id": "gabriel-galipolo",
+        "role": "G no texto, leitura contextual"
+      }
+    ],
+    "tags": [
+      "whatsapp",
+      "stf",
+      "pf",
+      "pgr",
+      "banco-central",
+      "visualizacao-unica",
+      "notas"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05",
+        "quote": "É importante reforçar com Andrei e Paulo pra nao deixar ninguem de baixo fazer uma sacanagem que ai vai tudo pro saco."
+      },
+      {
+        "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-vorcaro-citam-moraes-gonet-e-chefe-da-pf-entenda-o-caso.shtml",
+        "publisher": "Folha de S.Paulo",
+        "title": "Mensagens de Vorcaro citam Moraes, Gonet e chefe da PF",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "publisher": "Poder360",
+        "title": "Saiba o que dizem as mensagens de Vorcaro",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high"
+  },
+  {
+    "id": "janela-13-dias-mensagens",
+    "date": "2025-11-04",
+    "date_precision": "day",
+    "title": "Intensificam-se as notas de visualização única (4–7 de novembro)",
+    "summary": "O Globo descreve 13 dias de mensagens no auge da crise. A IPJ lista dezenas de ciclos Notas/WhatsApp em 4, 5, 6 e 7 de novembro de 2025 para o mesmo terminal. O relatório não transcreve o teor de todas as imagens; registra a cadência e o destinatário de agenda. Folha e O Globo sintetizam apelos para “sensibilizar”, “desarmar” e “reverter” a situação.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes",
+        "role": "destinatário segundo a PF"
+      }
+    ],
+    "tags": [
+      "whatsapp",
+      "stf",
+      "visualizacao-unica",
+      "notas"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://oglobo.globo.com/politica/noticia/2026/09/02/da-experiencia-ultra-vip-ao-conseguiu-ter-noticia-veja-a-cronologia-completa-das-mensagens-de-vorcaro-para-moraes.ghtml",
+        "publisher": "O Globo",
+        "title": "Cronologia das mensagens de Vorcaro para Moraes",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "medium"
+  },
+  {
+    "id": "mensagens-15-nov-fora-do-pais",
+    "date": "2025-11-15",
+    "date_precision": "day",
+    "title": "“Acha que 2ª já tenho que estar fora?”",
+    "summary": "Em 15 de novembro de 2025, sábado, Vorcaro perguntou ao contato de agenda se um encontro estava marcado, pediu nova conversa e escreveu “Acha que 2ª já tenho que estar fora?”. Depois de uma resposta não recuperada, reagiu “Que loucura, bem na semana que estou resolvendo tudo” e perguntou “Aquele mesmo juiz Ricardo? E o Galípolo tá sabendo? Conseguimos fazer algo?”. Em outro trecho reproduzido pelo Valor: “Não conseguimos reverter isso com Paulo ou Andrei? Muita sacanagem isso”. Também disse que a defesa cogitava petições para saber de inquéritos e que “Não vou fazer nenhum movimento que você não ache produtivo. Estamos no escuro.”\n",
+    "notes": "Visualização única. A PF não recuperou o teor das respostas. A menção ao juiz Ricardo indica conhecimento de autos que ainda não eram públicos.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes",
+        "role": "destinatário segundo a PF"
+      },
+      {
+        "name": "Ricardo Leite",
+        "id": "ricardo-leite"
+      },
+      {
+        "name": "Gabriel Galípolo",
+        "id": "gabriel-galipolo"
+      },
+      {
+        "name": "Paulo Gonet Branco",
+        "id": "paulo-gonet"
+      },
+      {
+        "name": "Andrei Rodrigues",
+        "id": "andrei-rodrigues"
+      }
+    ],
+    "tags": [
+      "whatsapp",
+      "stf",
+      "pf",
+      "pgr",
+      "prisao",
+      "visualizacao-unica"
+    ],
+    "sources": [
+      {
+        "url": "https://valor.globo.com/politica/noticia/2026/09/01/em-mensagens-a-moraes-vorcaro-pediu-que-ministro-intercedesse-junto-a-pf-e-pgr-diz-relatorio.ghtml",
+        "publisher": "Valor Econômico",
+        "title": "Vorcaro consultou Moraes sobre investigações",
+        "accessed": "2026-09-05",
+        "quote": "Conseguimos fazer algo? Acha que segunda já tenho que estar fora?"
+      },
+      {
+        "url": "https://oglobo.globo.com/politica/noticia/2026/09/01/vorcaro-perguntou-a-moraes-em-mensagem-a-dois-dias-de-ser-preso-se-tinha-que-deixar-o-pais-diz-jornal.ghtml",
+        "publisher": "O Globo",
+        "title": "Vorcaro perguntou se tinha que deixar o país",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "publisher": "Poder360",
+        "title": "Saiba o que dizem as mensagens de Vorcaro",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high"
+  },
+  {
+    "id": "fictor-anuncia-compra",
+    "date": "2025-11-17",
+    "date_precision": "day",
+    "title": "Consórcio Fictor anuncia compra do Master; Vorcaro segue para Guarulhos",
+    "summary": "Em 17 de novembro de 2025 um consórcio liderado pela Fictor Holding, com investidores dos Emirados, anunciou a compra do Master, com aporte anunciado de R$ 3 bilhões. O pedido de autorização foi protocolado no BC no mesmo dia. O g1 relata que Vorcaro saiu do banco de helicóptero rumo à aviação executiva de Guarulhos. A defesa diria depois que o destino era Dubai, para encontrar compradores; a PF descreveu tentativa de deixar o país, com Malta como escala citada por investigadores.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      }
+    ],
+    "tags": [
+      "master",
+      "negocio",
+      "prisao"
+    ],
+    "sources": [
+      {
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2025/11/18/pf-prende-daniel-vorcaro-dono-do-banco-master.ghtml",
+        "publisher": "g1",
+        "title": "PF prende Vorcaro no aeroporto de Guarulhos",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www.metropoles.com/brasil/bc-viu-falhas-que-impediram-analise-da-venda-do-banco-master-a-fictor",
+        "publisher": "Metrópoles",
+        "title": "BC viu falhas na venda à Fictor",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high"
+  },
+  {
+    "id": "mensagens-16-17-nov-bloquear",
+    "date": "2025-11-16",
+    "date_precision": "day",
+    "title": "“Você acha que existe alguma chance disso acontecer amanhã de manhã?”",
+    "summary": "Em 16 de novembro, Vorcaro perguntou se havia chance de “isso” acontecer na manhã seguinte e, segundo a Folha, disse estar em voo e que seguiria ao encontro do ministro. No dia 17, às 17h26, perguntou “Alguma novidade?” e “Conseguiu ter notícia ou bloquear?”. A IPJ localiza as últimas cinco notas também no próprio chat do WhatsApp, o que a PF usa para validar o método das capturas. À noite, Vorcaro foi preso em Guarulhos.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes",
+        "role": "destinatário segundo a PF"
+      }
+    ],
+    "tags": [
+      "whatsapp",
+      "stf",
+      "prisao",
+      "visualizacao-unica"
+    ],
+    "sources": [
+      {
+        "url": "https://valor.globo.com/politica/noticia/2026/09/01/em-mensagens-a-moraes-vorcaro-pediu-que-ministro-intercedesse-junto-a-pf-e-pgr-diz-relatorio.ghtml",
+        "publisher": "Valor Econômico",
+        "title": "Vorcaro consultou Moraes sobre investigações",
+        "accessed": "2026-09-05",
+        "quote": "Você acha que existe alguma chance disso acontecer amanhã de manhã?"
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "publisher": "Poder360",
+        "title": "Saiba o que dizem as mensagens de Vorcaro",
+        "accessed": "2026-09-05",
+        "quote": "Conseguiu ter notícia ou bloquear?"
+      },
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high"
+  },
+  {
+    "id": "prisao-guarulhos-17-nov",
+    "date": "2025-11-17",
+    "date_precision": "day",
+    "title": "PF prende Vorcaro no aeroporto de Guarulhos",
+    "summary": "Na noite de 17 de novembro de 2025, a Polícia Federal prendeu Daniel Vorcaro no Aeroporto Internacional de Guarulhos, na aviação executiva. Investigadores falaram em jato particular com destino a Malta; a defesa negou fuga e afirmou reunião em Dubai com compradores. A operação formal, Compliance Zero, estava prevista para a manhã do dia 18 e foi antecipada. A prisão foi decretada pela 10ª Vara Federal Criminal do DF. O celular Apple apreendido nessa busca pessoal é a fonte da IPJ-A 3298613/2026.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro",
+        "role": "preso"
+      },
+      {
+        "name": "Ricardo Leite",
+        "id": "ricardo-leite",
+        "role": "juiz da 10ª Vara"
+      },
+      {
+        "name": "Angelo Antonio Ribeiro da Silva",
+        "id": "angelo-silva"
+      },
+      {
+        "name": "Augusto Ferreira Lima",
+        "id": "augusto-lima"
+      }
+    ],
+    "tags": [
+      "prisao",
+      "pf",
+      "compliance-zero"
+    ],
+    "sources": [
+      {
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2025/11/18/pf-prende-daniel-vorcaro-dono-do-banco-master.ghtml",
+        "publisher": "g1",
+        "title": "PF prende Vorcaro no aeroporto de Guarulhos",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www.bbc.com/portuguese/articles/cdxr104ln2qo",
+        "publisher": "BBC News Brasil",
+        "title": "Vorcaro é preso e Master é liquidado",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05",
+        "quote": "Obtido em decorrência de cumprimento de mandado de prisão e busca pessoal."
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high"
+  },
+  {
+    "id": "compliance-zero-liquidacao",
+    "date": "2025-11-18",
+    "date_precision": "day",
+    "title": "Operação Compliance Zero e liquidação extrajudicial do Master",
+    "summary": "Em 18 de novembro de 2025 a PF deflagrou a Compliance Zero — cinco preventivas, duas temporárias, 25 buscas — sobre emissão de títulos de crédito falsos, gestão fraudulenta e organização criminosa. O relatório da PF estima cerca de R$ 12 bilhões em carteiras cedidas ao BRB. No mesmo dia o Banco Central, em atos de Gabriel Galípolo, decretou a liquidação extrajudicial do Banco Master e da corretora, nomeou liquidante e tornou indisponíveis bens de Vorcaro, Gallo Neto, Simonsen, Luiz Antonio Bull e Angelo Silva. Paulo Henrique Costa e Dario Garcia Júnior foram afastados do BRB. Parte da imprensa data a “1ª fase” no dia 18; a prisão de Vorcaro ocorrera na véspera.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Gabriel Galípolo",
+        "id": "gabriel-galipolo"
+      },
+      {
+        "name": "Paulo Henrique Costa",
+        "id": "paulo-henrique-costa"
+      },
+      {
+        "name": "Angelo Antonio Ribeiro da Silva",
+        "id": "angelo-silva"
+      },
+      {
+        "name": "Augusto Ferreira Lima",
+        "id": "augusto-lima"
+      }
+    ],
+    "tags": [
+      "compliance-zero",
+      "liquidacao",
+      "pf",
+      "brb",
+      "banco-central",
+      "prisao"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05",
+        "quote": "No dia 18/11/2025 foi deflagrada a Operação Compliance Zero. A investigação apura fraudes na cessão de carteiras de crédito, no montante aproximado de R$ 12 bilhões, realizadas pelo Banco Master em favor do BRB."
+      },
+      {
+        "url": "https://www.bbc.com/portuguese/articles/cdxr104ln2qo",
+        "publisher": "BBC News Brasil",
+        "title": "Vorcaro é preso e Master é liquidado",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2025/11/18/pf-prende-daniel-vorcaro-dono-do-banco-master.ghtml",
+        "publisher": "g1",
+        "title": "PF prende Vorcaro no aeroporto de Guarulhos",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://valor.globo.com/financas/noticia/2025/11/18/operacao-da-pf-que-prendeu-dono-do-master-mira-emissao-de-titulos-de-credito-falsos.ghtml",
+        "publisher": "Valor Econômico",
+        "title": "Operação mira emissão de títulos de crédito falsos",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "official",
+    "confidence": "high"
+  },
+  {
+    "id": "depoimento-30-dez-2025",
+    "date": "2025-12-30",
+    "date_precision": "day",
+    "title": "Vorcaro, Paulo Henrique e diretor do BC depoem no STF",
+    "summary": "Em 30 de dezembro de 2025 a PF ouviu Vorcaro, o ex-presidente do BRB Paulo Henrique Costa e o diretor do Banco Central Ailton Aquino, em depoimentos gravados no Supremo. Vorcaro negou ter vendido carteiras falsas e disse que o BC teria recomendado a venda ao BRB. Houve acareação. Dias Toffoli, a pedido do BC, retirou o sigilo desses depoimentos em 29 de janeiro de 2026.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Paulo Henrique Costa",
+        "id": "paulo-henrique-costa"
+      },
+      {
+        "name": "Dias Toffoli",
+        "id": "dias-toffoli",
+        "role": "então relator"
+      }
+    ],
+    "tags": [
+      "investigacao",
+      "brb",
+      "stf",
+      "depoimento"
+    ],
+    "sources": [
+      {
+        "url": "https://g1.globo.com/jornal-nacional/noticia/2026/01/29/caso-master-em-depoimentos-vorcaro-e-ex-presidente-do-brb-apresentam-versoes-divergentes-sobre-origem-das-carteiras-vendidas-ao-banco-de-brasilia.ghtml",
+        "publisher": "g1 / Jornal Nacional",
+        "title": "Vorcaro e ex-presidente do BRB divergem sobre carteiras",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high"
+  },
+  {
+    "id": "nova-prisao-4-mar-2026",
+    "date": "2026-03-04",
+    "date_precision": "day",
+    "title": "Vorcaro volta a ser preso por ordem de André Mendonça",
+    "summary": "Em 4 de março de 2026, já sob relatoria de André Mendonça no STF, a PF prendeu novamente Vorcaro e o cunhado Fabiano Zettel, apontados como líder e operador. A decisão cita o ex-diretor de Fiscalização do BC Paulo Sérgio Neves de Souza, suspeito de consultoria informal e de grupo de WhatsApp com Vorcaro sobre o BC. Vorcaro estivera solto após habeas corpus da primeira prisão.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Fabiano Zettel",
+        "id": "fabiano-zettel"
+      },
+      {
+        "name": "André Mendonça",
+        "id": "andre-mendonca",
+        "role": "relator"
+      },
+      {
+        "name": "Paulo Sérgio Neves de Souza",
+        "id": "paulo-sergio-neves"
+      }
+    ],
+    "tags": [
+      "prisao",
+      "stf",
+      "pf",
+      "bc"
+    ],
+    "sources": [
+      {
+        "url": "https://forbes.com.br/geral/2026/03/vorcaro-volta-a-ser-preso-em-nova-fase-de-operacao-sobre-master-ex-diretor-do-bc-usara-tornozeleira/",
+        "publisher": "Forbes Brasil",
+        "title": "Vorcaro volta a ser preso em nova fase",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "publisher": "Poder360",
+        "title": "Saiba o que dizem as mensagens de Vorcaro",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high"
+  },
+  {
+    "id": "sessao-toffoli-londres-12-fev",
+    "date": "2026-02-12",
+    "date_precision": "day",
+    "title": "STF afasta Toffoli da relatoria; Moraes cita o Macallan",
+    "summary": "Em 12 de fevereiro de 2026, sessão fechada do STF afastou Dias Toffoli da relatoria de inquéritos do Master, após relatório da PF sobre proximidade com Vorcaro, inclusive o evento de Londres. Moraes argumentou que a presença conjunta não era impedimento e descreveu o pub com Andrei Rodrigues e o Macallan. André Mendonça, que não foi a Londres, assumiu a relatoria. O Poder360 pergunta, desde então, quem pagou as despesas de Andrei.\n",
+    "people": [
+      {
+        "name": "Dias Toffoli",
+        "id": "dias-toffoli"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes"
+      },
+      {
+        "name": "André Mendonça",
+        "id": "andre-mendonca"
+      },
+      {
+        "name": "Andrei Rodrigues",
+        "id": "andrei-rodrigues"
+      },
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      }
+    ],
+    "tags": [
+      "stf",
+      "londres",
+      "investigacao"
+    ],
+    "sources": [
+      {
+        "url": "https://www.poder360.com.br/poder-justica/moraes-vorcaro-e-andrei-degustaram-macallan-juntos-em-londres/",
+        "publisher": "Poder360",
+        "title": "Moraes, Vorcaro e Andrei degustaram Macallan juntos em Londres",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high"
+  },
+  {
+    "id": "pet-15556-72-horas",
+    "date": "2026-08-24",
+    "date_precision": "day",
+    "title": "Mendonça dá 72 horas para a PF identificar a rede de influência",
+    "summary": "Na PET 15.556, André Mendonça determinou que a PF apresentasse, em 72 horas, a identificação das pessoas das mensagens das fls. 3-5 da IPJ-M 144738439.2026, inclusive detentores de foro. A PGR diria depois que o ato data de 24 de agosto de 2026 e que o relator “já sabia” que Moraes estava entre os nomes. A PF ressalva que não aprofundou diligências contra magistrados, limitando-se ao material já apreendido, e que a análise “não possui caráter exaustivo”.\n",
+    "people": [
+      {
+        "name": "André Mendonça",
+        "id": "andre-mendonca",
+        "role": "relator"
+      },
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes"
+      },
+      {
+        "name": "Paulo Gonet Branco",
+        "id": "paulo-gonet"
+      }
+    ],
+    "tags": [
+      "stf",
+      "pf",
+      "pet-16662",
+      "investigacao"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-manda-pf-identificar-rede-influencia-vorcaro-sigiloderrubado-1set2026.pdf",
+        "publisher": "STF / Poder360",
+        "title": "Despacho que manda a PF identificar a rede de influência",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://valor.globo.com/politica/noticia/2026/09/01/em-mensagens-a-moraes-vorcaro-pediu-que-ministro-intercedesse-junto-a-pf-e-pgr-diz-relatorio.ghtml",
+        "publisher": "Valor Econômico",
+        "title": "Vorcaro consultou Moraes sobre investigações",
+        "accessed": "2026-09-05",
+        "quote": "O ato que determinou a investigação pela Polícia Federal data de 24 de agosto de 2026."
+      }
+    ],
+    "evidence_type": "court",
+    "confidence": "high"
+  },
+  {
+    "id": "pf-entrega-relatorio-27-ago",
+    "date": "2026-08-27",
+    "date_precision": "day",
+    "title": "PF entrega o relatório de 218 páginas do celular de Vorcaro",
+    "summary": "Em 27 de agosto de 2026 a Polícia Federal protocolou a IPJ-A 3298613/2026, de 218 páginas, baseada no iPhone apreendido na Compliance Zero e no laudo 4281/2025-SETEC/SR/PF/SP. O texto cobre contatos iniciais, contratos Barci, notas/WhatsApp, Gonet e Andrei. Recibo eletrônico da PET 16.662 registra o protocolo. Os agentes assinam a informação em Brasília na mesma data.\n",
+    "people": [
+      {
+        "name": "André Mendonça",
+        "id": "andre-mendonca",
+        "role": "destinatário"
+      },
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes"
+      }
+    ],
+    "tags": [
+      "pf",
+      "pet-16662",
+      "stf",
+      "celular"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662-recibo-peticao-pf-documentos-27ago2026-sigiloderrubado-1set2026.pdf.pdf",
+        "publisher": "STF / Poder360",
+        "title": "Recibo do protocolo da PF (27 ago. 2026)",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro/",
+        "publisher": "Poder360",
+        "title": "Leia as íntegras dos documentos da PET 16.662",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high"
+  },
+  {
+    "id": "mendonca-derruba-sigilo-pet-16662",
+    "date": "2026-09-01",
+    "date_precision": "day",
+    "title": "Mendonça derruba o sigilo da PET 16.662 e manda o caso ao plenário",
+    "summary": "Em 1º de setembro de 2026 André Mendonça retirou o sigilo da Petição 16.662 — desmembrada da PET 15.556 — e determinou exame em sessão pública e presencial do plenário. Vieram a público o relatório da PF, o anexo de WhatsApp, os contratos Master–Barci e Viking–Barci e o termo de dação. O Poder360 publicou as íntegras, com dados pessoais tarjados.\n",
+    "people": [
+      {
+        "name": "André Mendonça",
+        "id": "andre-mendonca"
+      },
+      {
+        "name": "Edson Fachin",
+        "id": "edson-fachin",
+        "role": "presidente do STF, a quem cabe pautar"
+      },
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes"
+      }
+    ],
+    "tags": [
+      "stf",
+      "pet-16662",
+      "sigilo"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-derruba-sigilo-e-leva-caso-plenario-sigiloderrubado-1set2026.pdf",
+        "publisher": "STF / Poder360",
+        "title": "Decisão que derruba o sigilo da PET 16.662",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro/",
+        "publisher": "Poder360",
+        "title": "Leia as íntegras dos documentos da PET 16.662",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www1.folha.uol.com.br/poder/2026/09/leia-integra-de-documento-da-pf-com-mensagens-de-vorcaro-sobre-moraes-gonet-e-chefe-da-pf.shtml",
+        "publisher": "Folha de S.Paulo",
+        "title": "Leia o documento da PF com mensagens de Vorcaro",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "court",
+    "confidence": "high"
+  },
+  {
+    "id": "pgr-pede-nulidade-relatorio",
+    "date": "2026-09-01",
+    "date_precision": "day",
+    "title": "Gonet pede a nulidade do relatório da PF",
+    "summary": "Na manifestação à PET 16.662, o procurador-geral Paulo Gonet — ele próprio citado no relatório — pediu a nulidade da peça. Argumentou que “não cabe a juiz investigar”, que Mendonça não tinha competência para dirigir ações policiais contra alvos de foro e que o relator impôs uma investigação sobre Moraes. Quase 190 das 218 páginas, disse, tratam do ministro. Mendonça deu cinco dias de vista à PGR e, ainda assim, mandou o material ao plenário.\n",
+    "people": [
+      {
+        "name": "Paulo Gonet Branco",
+        "id": "paulo-gonet",
+        "role": "PGR"
+      },
+      {
+        "name": "André Mendonça",
+        "id": "andre-mendonca"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes"
+      }
+    ],
+    "tags": [
+      "pgr",
+      "stf",
+      "pet-16662"
+    ],
+    "sources": [
+      {
+        "url": "https://valor.globo.com/politica/noticia/2026/09/01/em-mensagens-a-moraes-vorcaro-pediu-que-ministro-intercedesse-junto-a-pf-e-pgr-diz-relatorio.ghtml",
+        "publisher": "Valor Econômico",
+        "title": "Vorcaro consultou Moraes sobre investigações",
+        "accessed": "2026-09-05",
+        "quote": "O relator nem sequer detém competência para dirigir as ações policiais contra alvos que resolva mirar."
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro/",
+        "publisher": "Poder360",
+        "title": "Leia as íntegras dos documentos da PET 16.662",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high"
+  },
+  {
+    "id": "escritorio-barci-nota-edicao",
+    "date": "2026-09-01",
+    "date_precision": "day",
+    "title": "Escritório Barci confirma a edição e nega o segundo contrato",
+    "summary": "Em 1º de setembro de 2026 o escritório Barci de Moraes confirmou ao Poder360 que o ministro acessou e editou a minuta, a pedido do compliance, para checar impedimentos no STF, e reiterou que jamais atuou em causa do Master na Corte. À Folha e ao Valor, a banca disse ter assinado só o contrato de 2024, que a proposta Viking/dação não foi aceita e que o vínculo acabou com a liquidação. O Poder360 havia informado que Viviane recebeu R$ 80.223.654,94 em 22 meses pelo primeiro contrato.\n",
+    "people": [
+      {
+        "name": "Viviane Barci de Moraes",
+        "id": "viviane-barci-de-moraes"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes"
+      },
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      }
+    ],
+    "tags": [
+      "contrato",
+      "barci",
+      "stf"
+    ],
+    "sources": [
+      {
+        "url": "https://www.poder360.com.br/poder-justica/moraes-editou-contrato-de-r-131-milhoes-entre-sua-mulher-e-vorcaro/",
+        "publisher": "Poder360",
+        "title": "Moraes editou contrato de R$ 131 milhões",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-e-conhecido-sobre-os-2-contratos-da-mulher-de-moraes-com-o-master/",
+        "publisher": "Poder360",
+        "title": "O que é conhecido sobre os 2 contratos",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://valor.globo.com/politica/noticia/2026/09/01/em-mensagens-a-moraes-vorcaro-pediu-que-ministro-intercedesse-junto-a-pf-e-pgr-diz-relatorio.ghtml",
+        "publisher": "Valor Econômico",
+        "title": "Vorcaro consultou Moraes sobre investigações",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high"
+  },
+  {
+    "id": "fachin-pet-16704",
+    "date": "2026-09-03",
+    "date_precision": "day",
+    "title": "Fachin abre a PET 16.704 e pede explicações em cinco dias",
+    "summary": "Em 3 de setembro de 2026 o presidente do STF, Edson Fachin, instaurou de ofício a PET 16.704. Deu prazo comum de cinco dias úteis a Alexandre de Moraes, André Mendonça, Paulo Gonet e Andrei Rodrigues para informar sobre LOMAN, uso de credenciais institucionais, eventual revelação de sigilo a investigado e o despacho que mandou identificar as pessoas das fls. 3–5. Mandou juntar a íntegra da PET 16.662 e a nota do gabinete de Moraes de 6 de março de 2026.\n",
+    "people": [
+      {
+        "name": "Edson Fachin",
+        "id": "edson-fachin"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes"
+      },
+      {
+        "name": "André Mendonça",
+        "id": "andre-mendonca"
+      },
+      {
+        "name": "Paulo Gonet Branco",
+        "id": "paulo-gonet"
+      },
+      {
+        "name": "Andrei Rodrigues",
+        "id": "andrei-rodrigues"
+      }
+    ],
+    "tags": [
+      "stf",
+      "pet-16662",
+      "pet-16704"
+    ],
+    "sources": [
+      {
+        "url": "https://arq.migalhas.com.br/arquivos/2026/9/170D9E1C1C18DE_downloadPeca.asp.pdf",
+        "publisher": "STF / Migalhas",
+        "title": "Despacho de Edson Fachin na PET 16.704",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://revistaforum.com.br/politica/fachin-prazo-explicarem-investigacao/",
+        "publisher": "Revista Fórum",
+        "title": "Fachin abre prazo para Moraes, Mendonça, Gonet e PF",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "court",
+    "confidence": "high"
+  },
+  {
+    "id": "ana-vivi-ministro-fecham-programa-2025",
+    "date": "2025-07-22",
+    "date_precision": "day",
+    "title": "Ana Matos diz ter fechado o programa de Londres com Viviane e o ministro",
+    "summary": "Em 22 de julho de 2025, Ana Matos escreveu a Vorcaro que passou “o dia aqui com Vivi Moraes e o ministro fechando o programa do evento”. No dia anterior, Vorcaro dissera que Alexandre “reclamou MUITO do evento”. Em 18 de julho, ao falar de Antonio Rueda como moderador, Vorcaro: “De jeito nenhum” / “Alexandre morre se vc fizer isso”. O segundo fórum de Londres foi cancelado.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Ana Matos",
+        "id": "ana-matos"
+      },
+      {
+        "name": "Viviane Barci de Moraes",
+        "id": "viviane-barci-de-moraes"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes"
+      }
+    ],
+    "tags": [
+      "londres",
+      "evento",
+      "stf"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-vorcaro-citam-moraes-gonet-e-chefe-da-pf-entenda-o-caso.shtml",
+        "publisher": "Folha de S.Paulo",
+        "title": "Mensagens de Vorcaro citam Moraes, Gonet e chefe da PF",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "medium"
+  },
+  {
+    "id": "pg-confirmou-londres-19-jun",
+    "date": "2025-06-19",
+    "date_precision": "day",
+    "title": "Ciro diz que “PG confirmou a ida pra Londres”",
+    "summary": "Em 19 de junho de 2025, Ciro Soares disse a Vorcaro que o “PG confirmou a ida pra Londres” e perguntou de novo se “Pedrinho filho do PG pode ir com a gente”. Vorcaro: “Obvio”. O fórum de 2025 não se realizou.\n",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Ciro Soares",
+        "id": "ciro-soares"
+      },
+      {
+        "name": "Paulo Gonet Branco",
+        "id": "paulo-gonet"
+      },
+      {
+        "name": "Pedro Gonet",
+        "id": "pedro-gonet"
+      }
+    ],
+    "tags": [
+      "pgr",
+      "londres",
+      "whatsapp"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "publisher": "Polícia Federal / Poder360",
+        "title": "IPJ-A 3298613/2026",
+        "accessed": "2026-09-05",
+        "quote": "PG confirmou a ida pra Londres"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "medium"
+  }
+]

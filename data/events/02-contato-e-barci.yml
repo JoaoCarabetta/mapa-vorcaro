@@ -1,0 +1,331 @@
+- id: encontro-tucuma-21-dez-2023
+  date: "2023-12-21"
+  date_precision: day
+  title: Fábio Faria pede placa do carro para “autorizar a segurança”
+  summary: >
+    Em 21 de dezembro de 2023, Fábio Faria pediu a Vorcaro modelo e placa do veículo para
+    “autorizar a segurança a acompanhar na garagem”. Vorcaro perguntou “Chego 11 cravado?”,
+    enviou os dados de um Range Rover Vogue e mandou o motorista ao endereço “Tucumã 99”.
+    Depois do encontro, Faria enviou um áudio dizendo que o interlocutor “gostei da conversa”
+    e queria remarcar “já logo na terça-feira”, e citou “um almoço com o Alexandre no CADE”.
+  notes: >
+    A PF não afirma, neste trecho, perícia de que o anfitrião da garagem seja Alexandre de Moraes.
+    O áudio de Faria menciona “Alexandre” em outro compromisso (almoço no Cade), não como identificação
+    forense do encontro.
+  people:
+    - { name: Daniel Bueno Vorcaro, id: daniel-bueno-vorcaro }
+    - { name: Fábio Faria, id: fabio-faria, role: intermediário }
+  tags: [whatsapp, encontro, fabio-faria, stf]
+  sources:
+    - url: https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Polícia Federal / Poder360
+      title: IPJ-A 3298613/2026 — relatório do celular de Vorcaro
+      accessed: "2026-09-05"
+      quote: "autorizar a segurança a acompanhar na garagem"
+    - url: https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/
+      publisher: Poder360
+      title: Saiba o que dizem as mensagens de Vorcaro apreendidas pela PF
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+
+- id: faria-compartilha-contato-moraes
+  date: "2023-12-26"
+  date_precision: day
+  title: Fábio Faria compartilha o contato “Alexandre de Moraes BRASILIA”
+  summary: >
+    Em 26 de dezembro de 2023, às 11h43, Faria compartilhou com Vorcaro, pelo WhatsApp, os
+    rótulos “Alexandre de Moraes BRASILIA”, “Novo”, “STF TSE NOVO” e “Eu STF”, todos com o
+    mesmo número. Vorcaro salvou “Alexandre de Moraes BRASILIA” na agenda no mesmo instante.
+    Os dois combinavam a entrada “na garagem” no “mesmo esquema” do encontro de 21 de dezembro.
+    Uma hora após a chegada, Faria fez o compartilhamento.
+  notes: >
+    Rótulo de agenda não é perícia de chip. A PF descreve o que estava salvo no aparelho de Vorcaro,
+    não a titularidade cadastral da linha.
+  people:
+    - { name: Daniel Bueno Vorcaro, id: daniel-bueno-vorcaro }
+    - { name: Fábio Faria, id: fabio-faria, role: quem compartilhou o contato }
+    - { name: Alexandre de Moraes, id: alexandre-de-moraes, role: rótulo na agenda }
+  tags: [whatsapp, stf, fabio-faria, agenda]
+  sources:
+    - url: https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Polícia Federal / Poder360
+      title: IPJ-A 3298613/2026
+      accessed: "2026-09-05"
+      quote: "os contatos nominados como “Alexandre de Moraes BRASILIA”, “Novo”, “STF TSE NOVO” e “Eu STF”, todos com o mesmo número de telefone, foram compartilhados pelo interlocutor registrado no dispositivo como \"Fábio Faria\", em 26/12/2023"
+    - url: https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro/
+      publisher: Poder360
+      title: Leia as íntegras dos documentos da PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+
+- id: almoco-botanique-30-dez
+  date: "2023-12-30"
+  date_precision: day
+  title: Almoço no Six Senses Botanique atribuído a “Alex”
+  summary: >
+    Em 27 de dezembro de 2023, Faria mencionou “Alex” e um almoço “no dia 30”. Vorcaro enviou
+    a localização do Hotel Six Senses Botanique, em Campos do Jordão, e orientou a funcionária
+    Thatiane. Durante a visita, o funcionário Michael disse que o desembargador Airton estava
+    presente e que “Zé Maria tirou foto com o ministro”.
+  notes: >
+    A identificação do ministro no local vem de mensagens de funcionários de Vorcaro, não de
+    registro independente da hotelaria.
+  people:
+    - { name: Daniel Bueno Vorcaro, id: daniel-bueno-vorcaro }
+    - { name: Fábio Faria, id: fabio-faria }
+    - { name: Alexandre de Moraes, id: alexandre-de-moraes, role: referido como “Alex” / “ministro” }
+    - { name: Thatiane, id: thatiane-prime }
+  tags: [encontro, stf, fabio-faria]
+  sources:
+    - url: https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Polícia Federal / Poder360
+      title: IPJ-A 3298613/2026
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+
+- id: vivi-envia-minuta-11-jan
+  date: "2024-01-11"
+  date_precision: day
+  title: Viviane Barci envia a primeira minuta do contrato
+  summary: >
+    Em 11 de janeiro de 2024, o contato “Vivi Moraes” escreveu a Vorcaro que, “Conforme conversamos,
+    estou enviando minuta de contrato de prestação de serviços para sua análise”. O contato foi
+    salvo na agenda de Vorcaro naquele dia; a PF não encontrou chamadas anteriores entre os dois.
+    Os metadados da minuta apontam Guilherme Benazzi como autor e “Ministro Alexandre de Moraes”
+    como responsável pela última modificação às 16h30.
+  people:
+    - { name: Daniel Bueno Vorcaro, id: daniel-bueno-vorcaro }
+    - { name: Viviane Barci de Moraes, id: viviane-barci-de-moraes, role: sócia-diretora }
+    - { name: Alexandre de Moraes, id: alexandre-de-moraes, role: usuário da última modificação }
+    - { name: Guilherme de Toledo Benazzi, id: guilherme-benazzi, role: autor da minuta }
+  tags: [contrato, barci, stf, minuta]
+  sources:
+    - url: https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Polícia Federal / Poder360
+      title: IPJ-A 3298613/2026
+      accessed: "2026-09-05"
+      quote: "Conforme conversamos, estou enviando minuta de contrato de prestação de serviços para sua análise"
+    - url: https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/
+      publisher: Poder360
+      title: Saiba o que dizem as mensagens de Vorcaro
+      accessed: "2026-09-05"
+    - url: https://static.poder360.com.br/uploads/2026/09/pet16662-contrato-barci-moraes-banco-master-108milhoes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 (PET 16.662)
+      title: Contrato Banco Master × Barci de Moraes
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+
+- id: faria-careca-12-jan
+  date: "2024-01-12"
+  date_precision: day
+  title: Faria avisa que vai falar com o “homem careca”
+  summary: >
+    No dia seguinte ao envio da minuta, Fábio Faria perguntou se Vorcaro podia falar, porque
+    iria conversar com interlocutor não nominado, referido pelo emoji de “homem careca”.
+    O mesmo apelido reaparece nas cobranças de pagamento e no jantar de 2 de fevereiro.
+  notes: >
+    A PF e a imprensa associam o apelido a Alexandre de Moraes pelo contexto da articulação;
+    o diálogo, em si, não nomeia o destinatário.
+  people:
+    - { name: Daniel Bueno Vorcaro, id: daniel-bueno-vorcaro }
+    - { name: Fábio Faria, id: fabio-faria }
+    - { name: Alexandre de Moraes, id: alexandre-de-moraes, role: associação contextual ao apelido }
+  tags: [whatsapp, fabio-faria, stf, contrato]
+  sources:
+    - url: https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Polícia Federal / Poder360
+      title: IPJ-A 3298613/2026
+      accessed: "2026-09-05"
+    - url: https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/
+      publisher: Poder360
+      title: Saiba o que dizem as mensagens de Vorcaro
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+
+- id: mora-es-edita-minuta-15-jan
+  date: "2024-01-15"
+  date_precision: day
+  title: Minuta devolvida com marcas de revisão; metadados apontam Moraes às 23h04
+  summary: >
+    Em 15 de janeiro de 2024, Vorcaro devolveu a Viviane o contrato com marcas de revisão de
+    Leonardo Palhares. Às 23h04, os metadados do Office 365 registram última modificação pelo
+    perfil “Ministro Alexandre de Moraes”. No fim da tarde, Faria perguntou se Vorcaro “Respondeu
+    a Vivi”; Vorcaro quis saber se Faria “fechou 3 anos”, e Faria disse que “foram 4 anos, mas
+    pode fazer 3”. O escritório Barci confirmou ao Poder360 que o ministro acessou e editou o
+    arquivo, atribuindo o ato a consulta de compliance sobre impedimentos no STF.
+  people:
+    - { name: Daniel Bueno Vorcaro, id: daniel-bueno-vorcaro }
+    - { name: Viviane Barci de Moraes, id: viviane-barci-de-moraes }
+    - { name: Alexandre de Moraes, id: alexandre-de-moraes, role: usuário da última modificação }
+    - { name: Leonardo Palhares, id: leonardo-palhares, role: revisor }
+    - { name: Fábio Faria, id: fabio-faria }
+  tags: [contrato, barci, stf, minuta]
+  sources:
+    - url: https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Polícia Federal / Poder360
+      title: IPJ-A 3298613/2026
+      accessed: "2026-09-05"
+    - url: https://www.poder360.com.br/poder-justica/moraes-editou-contrato-de-r-131-milhoes-entre-sua-mulher-e-vorcaro/
+      publisher: Poder360
+      title: Moraes editou contrato de R$ 131 milhões
+      accessed: "2026-09-05"
+      quote: "Diante da inexistência de previsão de atuação no STF ou de qualquer impedimento legal, uma vez que o Ministro Alexandre de Moraes jamais julgou qualquer causa envolvendo o Banco Master, o contrato foi assinado"
+  evidence_type: primary_document
+  confidence: high
+
+- id: minuta-final-17-jan
+  date: "2024-01-17"
+  date_precision: day
+  title: Viviane devolve a versão final; Faria confirma jantar com o “Careca”
+  summary: >
+    Em 17 de janeiro de 2024, “Vivi Moraes” enviou a versão final do contrato, de parcelas de
+    R$ 3 milhões líquidos ao mês. No mesmo dia, Faria avisou Vorcaro que confirmara jantar com
+    “o Careca” para 2 de fevereiro de 2024.
+  people:
+    - { name: Daniel Bueno Vorcaro, id: daniel-bueno-vorcaro }
+    - { name: Viviane Barci de Moraes, id: viviane-barci-de-moraes }
+    - { name: Fábio Faria, id: fabio-faria }
+    - { name: Alexandre de Moraes, id: alexandre-de-moraes, role: referido como “Careca” }
+  tags: [contrato, barci, encontro, stf]
+  sources:
+    - url: https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Polícia Federal / Poder360
+      title: IPJ-A 3298613/2026
+      accessed: "2026-09-05"
+    - url: https://www.poder360.com.br/poder-justica/saiba-o-que-e-conhecido-sobre-os-2-contratos-da-mulher-de-moraes-com-o-master/
+      publisher: Poder360
+      title: O que é conhecido sobre os 2 contratos
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+
+- id: assinatura-contrato-master-barci
+  date: "2024-01-23"
+  date_precision: day
+  title: Vorcaro e Angelo Silva assinam o contrato Master–Barci
+  summary: >
+    A PF registra assinatura digital de Daniel Bueno Vorcaro em 23 de janeiro de 2024, às 15h15,
+    e de Angelo Antonio Ribeiro da Silva às 15h35. O instrumento previa 36 parcelas de R$ 3 milhões
+    líquidos (cerca de R$ 108 milhões) ou R$ 131,3 milhões brutos em três anos, por advocacia,
+    consultoria e compliance. Viviane, fora do Brasil, pediu vias físicas lacradas a Guilherme
+    Benazzi. O Poder360 também cita a data de 16 de janeiro no corpo do documento; as assinaturas
+    eletrônicas recuperadas no celular são do dia 23.
+  people:
+    - { name: Daniel Bueno Vorcaro, id: daniel-bueno-vorcaro, role: signatário }
+    - { name: Angelo Antonio Ribeiro da Silva, id: angelo-silva, role: signatário }
+    - { name: Viviane Barci de Moraes, id: viviane-barci-de-moraes }
+    - { name: Guilherme de Toledo Benazzi, id: guilherme-benazzi }
+  tags: [contrato, barci, master]
+  sources:
+    - url: https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Polícia Federal / Poder360
+      title: IPJ-A 3298613/2026
+      accessed: "2026-09-05"
+      quote: "O contrato é assinado por DANIEL BUENO VORCARO em 23/01/2024, às 15:15:11 -03:00 e por ANGELO ANTONIO RIBEIRO DA SILVA no mesmo dia às 15:35:38 -03:00."
+    - url: https://static.poder360.com.br/uploads/2026/09/pet16662-contrato-barci-moraes-banco-master-108milhoes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 (PET 16.662)
+      title: Contrato Banco Master × Barci de Moraes
+      accessed: "2026-09-05"
+    - url: https://www.poder360.com.br/poder-justica/moraes-editou-contrato-de-r-131-milhoes-entre-sua-mulher-e-vorcaro/
+      publisher: Poder360
+      title: Moraes editou contrato de R$ 131 milhões
+      accessed: "2026-09-05"
+      quote: "Oi, tudo bem? Como podemos proceder na assinatura? Prefere eletronicamente ou mando as vias físicas assinadas?"
+  evidence_type: primary_document
+  confidence: high
+
+- id: jantar-2-fev-2024
+  date: "2024-02-02"
+  date_precision: day
+  title: Jantar em Brasília combinado “com o Alex”
+  summary: >
+    Faria confirmou o jantar de 2 de fevereiro de 2024 “com o Alex” e, no dia, enviou um endereço
+    em Brasília. A Folha descreve o encontro como o primeiro jantar entre Moraes e Vorcaro, com
+    as respectivas mulheres, na casa de Faria. A PF documenta o convite e o endereço, não uma
+    ata independente dos presentes.
+  people:
+    - { name: Daniel Bueno Vorcaro, id: daniel-bueno-vorcaro }
+    - { name: Fábio Faria, id: fabio-faria, role: anfitrião / articulador }
+    - { name: Alexandre de Moraes, id: alexandre-de-moraes }
+    - { name: Viviane Barci de Moraes, id: viviane-barci-de-moraes }
+  tags: [encontro, stf, fabio-faria]
+  sources:
+    - url: https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Polícia Federal / Poder360
+      title: IPJ-A 3298613/2026
+      accessed: "2026-09-05"
+    - url: https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-vorcaro-citam-moraes-gonet-e-chefe-da-pf-entenda-o-caso.shtml
+      publisher: Folha de S.Paulo
+      title: Mensagens de Vorcaro citam Moraes, Gonet e chefe da PF
+      accessed: "2026-09-05"
+    - url: https://www.cnnbrasil.com.br/politica/veja-a-cronologia-dos-prints-de-conversas-de-vorcaro-sobre-moraes/
+      publisher: CNN Brasil
+      title: Cronologia dos prints de conversas
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+
+- id: primeiro-pagamento-barci
+  date: "2024-02-08"
+  date_precision: day
+  title: Primeiro pagamento ao escritório Barci — R$ 3.422.268,14
+  summary: >
+    Em 8 de fevereiro de 2024, Vorcaro pediu ao cunhado Fabiano Zettel o “contrato barci moraes
+    assinado” e perguntou “Quando era o primeiro pgto?”. No mesmo dia, Angelo Silva enviou
+    comprovante de transferência do Master para o Barci de Moraes, conta no Itaú, de R$ 3.422.268,14.
+  people:
+    - { name: Daniel Bueno Vorcaro, id: daniel-bueno-vorcaro }
+    - { name: Fabiano Zettel, id: fabiano-zettel }
+    - { name: Angelo Antonio Ribeiro da Silva, id: angelo-silva }
+    - { name: Viviane Barci de Moraes, id: viviane-barci-de-moraes }
+  tags: [contrato, barci, pagamento]
+  sources:
+    - url: https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Polícia Federal / Poder360
+      title: IPJ-A 3298613/2026
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+
+- id: careca-nao-pode-atrasar
+  date: "2024-03-15"
+  date_precision: day
+  title: “O careca não pode atrasar” — Vorcaro manda pagar “do jeito que for”
+  summary: >
+    Em 15 de março de 2024, Faria enviou um print e escreveu “O careca não pode atrasar”.
+    Vorcaro cobrou Angelo Silva (“contrato mais importante que temos. Te pedi pra nao falhar.
+    Surreal. Vamos ter problemas. Manda pagar agora”) e disse a Romy que o pagamento a Barci
+    não podia “atrasar um dia”, que era o “pgto mais importante”, que podia “pagar sempre, sem
+    nota” e “Do jeito que for”. Romy reenviou comprovante de R$ 3.422.268,14. Angelo falou em
+    pagar antecipado e depois pegar a NF. O escritório afirmou que prestou os serviços e que
+    Moraes foi consultado só sobre impedimentos legais.
+  people:
+    - { name: Daniel Bueno Vorcaro, id: daniel-bueno-vorcaro }
+    - { name: Fábio Faria, id: fabio-faria }
+    - { name: Angelo Antonio Ribeiro da Silva, id: angelo-silva }
+    - { name: Romy, id: romy-master }
+    - { name: Viviane Barci de Moraes, id: viviane-barci-de-moraes }
+    - { name: Alexandre de Moraes, id: alexandre-de-moraes, role: associação ao apelido “careca” }
+  tags: [contrato, barci, whatsapp, pagamento]
+  sources:
+    - url: https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Polícia Federal / Poder360
+      title: IPJ-A 3298613/2026
+      accessed: "2026-09-05"
+      quote: "É op pgto mais importante que temos"
+    - url: https://www.poder360.com.br/poder-justica/ex-ministro-alertou-vorcaro-sobre-pagamento-a-escritorio-barci-de-moraes/
+      publisher: Poder360
+      title: Ex-ministro alertou Vorcaro sobre pagamento a Barci
+      accessed: "2026-09-05"
+      quote: "O careca não pode atrasar"
+    - url: https://valor.globo.com/politica/noticia/2026/09/01/em-mensagens-a-moraes-vorcaro-pediu-que-ministro-intercedesse-junto-a-pf-e-pgr-diz-relatorio.ghtml
+      publisher: Valor Econômico
+      title: Vorcaro consultou Moraes sobre investigações
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
