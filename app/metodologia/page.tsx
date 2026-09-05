@@ -45,10 +45,11 @@ export default function MetodologiaPage() {
         markdown órfão.
       </p>
       <p>
-        O seed de imprensa do PM (<code>content/events.json</code>, 15 fichas, URLs
-        exatamente como enviadas) está coberto pela timeline — o validador recusa
-        build se alguma URL do seed não aparecer numa ficha da mesma data. Não
-        inventamos eventos além das fontes.
+        O compacto <code>content/events.json</code> é o mesmo corpus em{" "}
+        <code>{"{date, title, summary, sources: string[]}"}</code> — hoje {count}{" "}
+        fichas http, acima do piso de 133 do seed. O validador o regrava a partir do
+        YAML. Lotes PM (batch 1/3 etc.) entram por merge no YAML; não inventamos o que
+        faltar URL. Pastes truncados perdem para o markdown/YAML sourced.
       </p>
 
       <h2>O que não entra</h2>
@@ -85,9 +86,11 @@ export default function MetodologiaPage() {
       <h3>1. Visualização única</h3>
       <p>
         Vorcaro escrevia no app Notas, tirava print e enviava no WhatsApp como imagem de
-        visualização única. A PF reconstrói o envio por logs, screenshot e PDF temporário
-        do iOS. Em regra, a resposta do interlocutor não está no extrato. “Vorcaro perguntou”
-        não implica “Moraes respondeu X”.
+        visualização única. A partir de 17 de setembro de 2025 o chat usa sumiço em 24
+        horas; em 17 de novembro a PF registra 5 envios em visualização única. A PF
+        reconstrói o envio por logs, screenshot e PDF temporário do iOS. Em regra, a
+        resposta do interlocutor não está no extrato. “Vorcaro perguntou” não implica
+        “Moraes respondeu X”.
       </p>
       <h3>2. Rótulo de agenda ≠ perícia de chip</h3>
       <p>

@@ -132,63 +132,40 @@ if (events.length < 170) {
   );
 }
 
-function canonUrl(value) {
-  try {
-    const url = new URL(value);
-    let href = `${url.protocol}//${url.host}${url.pathname}${url.search}`;
-    if (url.pathname !== "/" && href.endsWith("/")) href = href.replace(/\/+$/, "");
-    return href;
-  } catch {
-    return String(value).replace(/\/+$/, "");
-  }
+function compactDate(event) {
+  if (event.date_precision === "year") return event.date.slice(0, 4);
+  if (event.date_precision === "month") return event.date.slice(0, 7);
+  return event.date;
 }
 
-function seedDatePrefix(raw) {
-  const match = String(raw).match(/^(\d{4})(?:-(\d{2})(?:-(\d{2}))?)?/);
-  if (!match) return "";
-  if (match[3]) return `${match[1]}-${match[2]}-${match[3]}`;
-  if (match[2]) return `${match[1]}-${match[2]}`;
-  return match[1];
-}
+const compact = events
+  .filter((event) =>
+    (event.sources ?? []).some((source) => source?.url && isUrl(source.url)),
+  )
+  .map((event) => ({
+    date: compactDate(event),
+    title: String(event.title).trim(),
+    summary: String(event.summary).replace(/\s+/g, " ").trim(),
+    sources: [
+      ...new Set(
+        (event.sources ?? [])
+          .map((source) => source.url)
+          .filter((url) => isUrl(url)),
+      ),
+    ],
+  }));
 
 const seedPath = path.join(root, "content", "events.json");
-if (!fs.existsSync(seedPath)) {
-  errors.push("Falta content/events.json (seed PM, 15 eventos de imprensa).");
-} else {
-  const seed = JSON.parse(fs.readFileSync(seedPath, "utf8"));
-  if (!Array.isArray(seed) || seed.length < 15) {
-    errors.push(
-      `content/events.json incompleto (${Array.isArray(seed) ? seed.length : "?"}/15).`,
-    );
-  } else {
-    const yamlRows = events.flatMap((event) =>
-      (event.sources ?? []).map((source) => ({
-        date: event.date,
-        url: canonUrl(source.url),
-      })),
-    );
-    seed.forEach((item, index) => {
-      const prefix = seedDatePrefix(item.date);
-      const urls = item.sources ?? [];
-      if (!item.title || !prefix || urls.length === 0) {
-        errors.push(`seed[${index}]: faltam date/title/sources.`);
-        return;
-      }
-      for (const url of urls) {
-        if (!isUrl(url)) {
-          errors.push(`seed[${index}] URL inválida (${url}).`);
-          continue;
-        }
-        const covered = yamlRows.some(
-          (row) => row.url === canonUrl(url) && row.date.startsWith(prefix),
-        );
-        if (!covered) {
-          errors.push(
-            `seed[${index}] "${item.title}" (${item.date}) não está na timeline: ${url}`,
-          );
-        }
-      }
-    });
+fs.writeFileSync(seedPath, `${JSON.stringify(compact, null, 2)}\n`);
+
+if (compact.length < 133) {
+  errors.push(
+    `content/events.json incompleto (${compact.length}/133 http-sourced).`,
+  );
+}
+for (const [index, item] of compact.entries()) {
+  if (!item.date || !item.title || !item.summary || !item.sources?.length) {
+    errors.push(`content/events.json[${index}]: faltam date/title/summary/sources.`);
   }
 }
 
@@ -246,5 +223,8 @@ if (errors.length) {
 
 console.log(
   `OK: ${events.length} eventos, ${people.length} pessoas, todos com ao menos uma URL de fonte.`,
+);
+console.log(
+  `Compacto: content/events.json (${compact.length} objetos {date, title, summary, sources})`,
 );
 console.log("Exportado: public/export/events.json e public/export/events.csv");

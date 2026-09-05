@@ -1,124 +1,1536 @@
 [
   {
     "date": "1983-10-06",
-    "title": "Nascimento (reportado)",
-    "summary": "Mineiro; InfoMoney: completou 42 em 6 out; Valor (abr/2025) citava 41 → ~1983/84.",
+    "title": "Nascimento / aniversário reportados pela imprensa",
+    "summary": "InfoMoney states Vorcaro completed 42 years on 6 October (piece dated Mar/2026). Valor’s 3 Apr 2025 profile called him 41, consistent with a late-1983 birth. Family described as mineira with construction/real-estate roots via father Henrique (Multipar).",
     "sources": [
       "https://www.infomoney.com.br/business/quem-e-daniel-vorcaro-dono-do-banco-master-que-foi-preso-pela-pf/",
       "https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml"
     ]
   },
   {
-    "date": "2017-05",
-    "title": "Capitalização / caminho ao controle do Máxima",
-    "summary": "Valor: Vorcaro capitalizaria Máxima (≥R$45 mi, caminho a ~50%); imprensa posterior: negócio de controle em 2017, OK do BC depois.",
+    "date": "2000",
+    "title": "Escola de elite em Belo Horizonte e economia/MBA no Ibmec",
+    "summary": "Valor: studied at Fundação Torino (elite BH school); declined Italy scholarship; took economics at Ibmec Belo Horizonte and an MBA in Finance there. Played guitar and sports. Emphasizes grandparents as public servants without large wealth despite elite school.",
+    "sources": [
+      "https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml"
+    ]
+  },
+  {
+    "date": "2002",
+    "title": "Pai entrega empresa de cursos educacionais; venda rápida; Multipar",
+    "summary": "Valor: entrepreneurial path began at 19 when father gave him an educational-courses company; sold soon after; then worked with Henrique at Multipar (family construction/real estate). InfoMoney: Henrique founded Multipar (ex-Vorcaro Imóveis / Centro Sul).",
+    "sources": [
+      "https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml"
+    ]
+  },
+  {
+    "date": "2006",
+    "title": "Casa com Fabíola; depois os filhos Stella e Tiziano",
+    "summary": "Valor: married Fabíola at 23; father of Stella and Tiziano. Daughter’s 15th birthday party (~2024 relative to Apr/2025 article saying “last year”) reportedly ~R$15 mi with DJ Alok; InfoMoney adds The Chainsmokers and places party in 2023.",
+    "sources": [
+      "https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml"
+    ]
+  },
+  {
+    "date": "2016",
+    "title": "Participação minoritária no Banco Máxima em dificuldades (Saul Sabbá)",
+    "summary": "Valor: banking foray in 2016 when Sabbá’s Máxima faced difficulties and was offered to Vorcaro, who already did FII deals with him. First took a minority stake with brothers Antônio and Vicente Conte; next year took control (BC approval only two years later). Conte later exited; Maurício Quadrado and Augusto Lima joined.",
+    "sources": [
+      "https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml",
+      "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2019/10/24/bc-autoriza-transferncia-de-controle-do-banco-mxima-para-empresrio-daniel-vorcaro.ghtml"
+    ]
+  },
+  {
+    "date": "2017-05-17",
+    "title": "Imprensa reporta capitalização / caminho ao controle",
+    "summary": "Valor Econômico reported Máxima, undercapitalized since prior year, closed deal for Vorcaro to inject capital (figures cited in contemporaneous coverage toward tens of millions) and acquire credits against former partners, potentially ending near 50% of capital. Later profiles say he “assumed control” in 2017 subject to later BC homologation.",
     "sources": [
       "https://valor.globo.com/financas/noticia/2017/05/17/novo-socio-pode-ter-ate-50-do-capital-do-banco-maxima-1.ghtml"
     ]
   },
   {
     "date": "2018-01",
-    "title": "Nova gestão assume o Máxima",
-    "summary": "CNN: nova diretoria jan/2018 sob Vorcaro; narrativa de controle antes da autorização formal do BC.",
+    "title": "Gestão ligada a Vorcaro assume o controle operacional",
+    "summary": "CNN Brazil (rebrand story): after corporate/operational change and later R$400 mi capitalization, Máxima became Master; new management assumed January 2018. Estadão “quem é quem” similarly says Vorcaro took command of Máxima in Jan/2018 (bank founded 1974 as broker).",
     "sources": [
       "https://www.cnnbrasil.com.br/economia/macroeconomia/apos-mudanca-societaria-e-aporte-de-r-400-mi-banco-maxima-agora-e-banco-master/"
     ]
   },
   {
     "date": "2019-10-24",
-    "title": "BC autoriza transferência de controle do Máxima",
-    "summary": "BC autoriza controle a grupo liderado por Vorcaro; capital R$80,4→180,4 mi; sócios Gallo Neto, Simonsen, Augusto Lima.",
+    "title": "Banco Central autoriza transferência de controle do Banco Máxima",
+    "summary": "Valor Investe: BC authorized transfer of control of Banco Máxima and its FX broker to a group led by Daniel Bueno Vorcaro; co-shareholders Armando Miguel Gallo Neto, Felipe Wallace Simonsen and Augusto Ferreira Lima. Also authorized capital change from R$80.4 mi to R$180.4 mi. Valor had reported in 2017 that the mineiro from real estate was preparing to take control; until then controlled by Saul Sabbá.",
     "sources": [
       "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2019/10/24/bc-autoriza-transferncia-de-controle-do-banco-mxima-para-empresrio-daniel-vorcaro.ghtml"
     ]
   },
   {
-    "date": "2023-12-26",
-    "title": "Fábio Faria compartilha contato “Moraes BRASILIA”",
-    "summary": "Número compartilhado ~11h43; salvo por Vorcaro no mesmo minuto (PF/Poder360). Caveat: rótulo de agenda ≠ dono do chip.",
+    "date": "2021",
+    "title": "Mudança de nome para Banco Master; narrativa de capitalização ~R$ 400 mi",
+    "summary": "Valor: in 2021 Daniel renamed the bank Master — a suggestion from his son — and made series of billion-real capital injections over the years. CNN: after corporate change and R$400 mi capitalization, Máxima is now Master; target further R$200 mi and R$1 bi equity by 2023; four fronts including Kovr insurer and investment banking; Vipal investment bank acquired end-2020 pending BC.",
     "sources": [
+      "https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml",
+      "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2019/10/24/bc-autoriza-transferncia-de-controle-do-banco-mxima-para-empresrio-daniel-vorcaro.ghtml"
+    ]
+  },
+  {
+    "date": "2021",
+    "title": "Série de aquisições financeiras sob a marca Master",
+    "summary": "Valor lists acquisitions including insurer Kver/Kovr, bank Voiter (ex-Indusval), Vipal, Banif Brasil and Will. Will Bank deal done with Reag (João Carlos Mansur), who has other businesses with Vorcaro. InfoMoney: Will control Feb/2024; Voiter bought then control sold to Augusto Lima Aug/2025; Kovr later sold to J&F (per InfoMoney).",
+    "sources": [
+      "https://www.infomoney.com.br/business/banco-master-qual-e-a-historia-da-instituicao-financeira"
+    ]
+  },
+  {
+    "date": "2023-12-21",
+    "title": "Fábio Faria pede placa/carro e encontro em Tucumã 99",
+    "summary": "No celular de Daniel Vorcaro, Fábio Faria pede modelo e placa do carro para “autorizar a segurança a acompanhar na garagem”. Vorcaro consulta o motorista Gustavo e responde “Range Rover Vogue”; depois encaminha “Tucumã 99” / “descendo”. Faria envia áudio relatando o encontro que acabara de ocorrer. A PF trata esse episódio como primeiro encontro intermediado no material.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2023-12-26",
+    "title": "Fábio compartilha contato “Alexandre de Moraes BRASILIA”",
+    "summary": "Pela manhã, Fábio Faria e Vorcaro tratam de novo encontro. Cerca de uma hora após a chegada ao local, Faria compartilha o contato salvo como “Alexandre de Moraes BRASILIA” (aliases no mesmo número: “Novo”, “STF TSE NOVO”, “Eu STF”), terminal publicado 556192664093 (+55 61 9266-4093), às 11:43:45 (UTC-3). Vorcaro salva o contato na agenda no mesmo instante (~11:43:58 UTC-3).",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf",
       "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/"
     ]
   },
   {
+    "date": "2023-12-27",
+    "title": "Fábio fala de almoço de “Alex” no Six Senses",
+    "summary": "Fábio Faria encaminha a Vorcaro localização do Hotel Six Senses Botanique (Campos do Jordão/SP) e o contato da funcionária “Thatiane Prime”, em conversa sobre almoço de “Alex”.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2023-12-30",
+    "title": "Michael: ministro pediu fotos com funcionários no hotel",
+    "summary": "Durante o evento em Campos do Jordão, Michael (hotel) informa Vorcaro que o desembargador Airton está presente e, adiante, que “o ministro pediu para tirar foto com todos os funcionários”. Vorcaro responde, segundo a narrativa da PF/reportagens cruzadas no resumo indexado: “Mas se foi o ministro que pediu tudo bem”.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2024-01-11",
+    "title": "Vivi Moraes envia minuta; metadados “Ministro Alexandre de Moraes”",
+    "summary": "Às 16:48:59 (UTC-3), o contato “Vivi Moraes” (Viviane Barci de Moraes) envia a Vorcaro minuta de contrato de prestação de serviços. O contato é salvo na agenda de Vorcaro às 16:53:53. Metadados do arquivo apontam autor Guilherme Benazzi e última modificação por usuário “Ministro Alexandre de Moraes” às 16:30 (UTC-3) do mesmo dia. Não havia troca prévia com “Vivi Moraes” antes dessa data no material analisado.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-contrato-barci-moraes-banco-master-108milhoes-sigiloderrubado-1set2026.pdf",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2024-01-12",
+    "title": "Fábio: vai falar com interlocutor do emoji “homem careca”",
+    "summary": "Fábio Faria pergunta se Vorcaro pode falar, pois irá se encontrar com interlocutor não nominado referido pelo emoji de “homem careca”.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2024-01-15",
+    "title": "Vorcaro devolve minuta revisada; nova edição “Ministro Alexandre de Moraes” 23:04",
+    "summary": "Vorcaro devolve a “Vivi Moraes” a minuta com marcas de revisão (Leonardo Palhares citado no fluxo). No fim da tarde, Fábio pergunta se “Respondeu a Vivi”; há troca sobre prazo “3 anos” / “4 anos, mas pode fazer 3”. Metadados: última modificação pelo usuário “Ministro Alexandre de Moraes” às 23:04 (UTC-3).",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2024-01-17",
+    "title": "Vivi reenvia minuta; Fábio confirma jantar com “o Careca” em 02/02",
+    "summary": "“Vivi Moraes” escreve “Bom dia! Segue a minuta do contrato. Abraço”. No mesmo dia, Fábio Faria informa Vorcaro que confirmou jantar com “o Careca” para 02/02/2024.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2024-01-22",
+    "title": "Vorcaro pergunta como assinar o contrato",
+    "summary": "Vorcaro escreve a Viviane: pergunta se preferem assinatura eletrônica ou vias físicas assinadas.",
+    "sources": [
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2024-01-23",
+    "title": "Assinatura digital contrato Banco Master × Barci de Moraes",
+    "summary": "Contrato de prestação de serviços e honorários advocatícios entre Banco Master S.A. e Barci de Moraes Sociedade de Advogados (Guilherme de Toledo Benazzi). Assinado por Daniel Bueno Vorcaro às 15:15:11 (UTC-3) e por Angelo Antonio Ribeiro da Silva às 15:35:38. Valor reportado pela imprensa a partir do material: R$ 108 milhões líquidos em 3 anos (36× R$ 3 mi) ≈ R$ 131,3 mi brutos; objeto: advocacia/consultoria/compliance. No mesmo dia Fábio lembra jantar “com o Alex” em 02/02.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-contrato-barci-moraes-banco-master-108milhoes-sigiloderrubado-1set2026.pdf",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2024-01-23",
+    "title": "Master × Barci Advogados — ~R$108 mi net / ~R$131.3 mi gross",
+    "summary": "Viviane Barci sends draft 11/01; revised return 15/01 with metadata last-modified by user “Ministro Alexandre de Moraes” (PF); firm tells Poder360 Moraes edited at compliance request on impediments; contract signed ~23/01 (Vorcaro + Ângelo Silva). Object: advocacy, legal consulting, compliance. Monthly ~R$3 mi net × 36.",
+    "sources": [
+      "https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro"
+    ]
+  },
+  {
+    "date": "2024-01-30",
+    "title": "Fábio cita “Alex” e altera local do jantar",
+    "summary": "Fábio Faria cita “Alex” em conversa sobre alteração do local do jantar previsto para 02/02.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2024-02",
+    "title": "Master assume o controle do Will Bank",
+    "summary": "Multiple outlets: Master announced Will Bank purchase in February 2024, expanding digital retail. Later BRB deal perimeter included Will/Credcesta. InfoMoney quotes Vorcaro on complete digital ecosystem.",
+    "sources": [
+      "https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml",
+      "https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb"
+    ]
+  },
+  {
+    "date": "2024-02-02",
+    "title": "Anotações de networking social/político intermediado por Faria",
+    "summary": "Press/PF chronology: Feb/2024 Brasília encounter via Faria; Apr/2024 messages about inviting “DPF Andrei” / closing “PGR and DPF”. Published as PF-extracted notes — not proof of acceptance by named authorities.",
+    "sources": [
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2024-02-02",
+    "title": "Encontro em Brasília — Fábio envia endereço",
+    "summary": "No dia do jantar/encontro, Fábio Faria envia a Vorcaro endereço em Brasília/DF (redigido no PDF público). A PF situa o encontro no fluxo pós-assinatura do contrato Master×Barci.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2024-02-08",
+    "title": "Primeiro pagamento Master → Barci R$ 3.422.268,14",
+    "summary": "Vorcaro pede ao cunhado Fabiano/fluxo interno o pagamento. Angelo Silva envia comprovante de transferência Master → escritório Viviane de Moraes no valor de R$ 3.422.268,14.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2024-03-15",
+    "title": "Fábio: “O careca não pode atrasar”; Vorcaro prioriza pagamento Barci",
+    "summary": "Fábio Faria diz a Vorcaro “O careca não pode atrasar”. Vorcaro orienta Angelo Silva e Romy Banco Master: pagamento ao escritório Barci é o “mais importante”, não pode “atrasar um dia”, “Pode pagar sempre, sem nota”. Romy envia comprovante R$ 3.422.268,14.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2024-03-28",
+    "title": "Convite Moraes para evento Londres (24–27/04/2024)",
+    "summary": "Vorcaro conversa com “Marcio Conjur” sobre convite do ministro Alexandre de Moraes para evento em Londres entre 24 e 27 de abril de 2024.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2024-04-03",
+    "title": "Convite ao “DPF Andrei”; Vorcaro: “Ministro fez convite ao andrei PF”",
+    "summary": "Via Fábio Faria, mensagens de terceiro: “O que acha de eu convidar o DPF Andrei” / “Aí fechamos o PGR e o DPF”; depois “Podem entrar em contato lá na PF. Ele aceitou”. Vorcaro informa “Marcio Conjur”: “Ministro fez convite ao andrei PF” — resposta “ótimo”. Fluxo posterior discute despesas (“Todas as despesas bancadas por nós”) e interesse do DG/PF no evento Londres.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2024-04-06",
+    "title": "Fábio encaminha: reunião “18h na casa do Alexandre” (seg. 10/04)",
+    "summary": "No contexto do evento Londres, Fábio envia mensagem encaminhada agendando reunião às “18h na casa do Alexandre”, na segunda — a PF calcula a próxima segunda como 10/04/2024.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2024-04-10",
+    "title": "Leo Serrano organiza logística Londres; ministros “Alexandre, Toffoli, etc.”",
+    "summary": "Vorcaro fala com Leo Serrano Giunchetti sobre veículos para ministros “mais sensiveis” do STF, citando “Alexandre, Toffoli, etc.”. Leo é descrito como funcionário que organizou o evento em Londres.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2024-04-14",
+    "title": "Ciro Soares: “Gonet é firme”; áudio sobre desistência de candidatura",
+    "summary": "Ciro Soares escreve “Amizade é tudo viu irmão” / “Gonet é firme” / “Fique só com vc”. Encaminha mensagem e áudio: pediu a Gonet que pedisse a “Jarbas” para tirar candidatura; “Aí o Gonet me ligou ontem à noite e falou: Ciro, acabei de ligar para ele, ele vai desistir.”",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2024-04-24",
+    "title": "Janela do evento jurídico Londres 2024 (24–27/04)",
+    "summary": "Evento em Londres (24–27/04/2024) organizado no entorno de Vorcaro/Master. Poder360, cruzando o material, reporta fórum com degustação Macallan (~US$ 640.831,88) e participação citada de Moraes, Gonet e Andrei Rodrigues entre convidados — detalhe de lista/custo vem da reportagem, não só do OCR do IPJ-A.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
     "date": "2024-07",
-    "title": "Início das cessões de carteiras Master→BRB",
-    "summary": "Folha/Estadão: parceria via cessões de consignado a partir de meados/2024; mensagens mostram urgência ago–set/2024.",
+    "title": "Banco de Brasília injeta liquidez via compra de carteiras de crédito do Master",
+    "summary": "Estadão (Apr/2026): dialogues show Master relied on BRB injections at least since Aug/2024 to cover liquidity; cessions of consignado/CCB begin Jul/2024. Folha (Mar/2025 deal story): partnership began Jul/2024 with consignado cessions; acquisition talks late 2024. Later PF thesis: after genuine books, fake Tirreno-linked books from early 2025 (~R$12.2 bi total alleged).",
     "sources": [
       "https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia/"
     ]
   },
   {
+    "date": "2024-11-15",
+    "title": "Vorcaro diz à filha Stella que está “com alexandre moraes”",
+    "summary": "Em troca com a filha Stella, Vorcaro escreve que está “com alexandre moraes”. No mesmo bloco de “outros encontros”, motorista Sidney em Brasília informa “Min Alexandre chegou”.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
     "date": "2024-12-04",
-    "title": "Reunião no Planalto com Lula e Galípolo",
-    "summary": "Lula recebe Vorcaro (com Mantega e Augusto Lima); Rui Costa, Silveira e então diretor Galípolo; queixa de concentração bancária.",
+    "title": "Encontro no Planalto antes do escândalo público do Master",
+    "summary": "Folha: Lula received Vorcaro on 4 Dec 2024; Vorcaro accompanied by Guido Mantega and Augusto Lima. Lula called ministers Rui Costa and Alexandre Silveira plus then-BC director Gabriel Galípolo. Vorcaro complained about bank-market concentration; Lula said BC should analyze technically. At least three SRI gate records of Vorcaro visits. Story confirmed after Lauro Jardim/Metrópoles naming of participants.",
     "sources": [
       "https://www1.folha.uol.com.br/mercado/2026/01/lula-recebeu-vorcaro-em-reuniao-no-palacio-do-planalto-no-fim-de-2024.shtml"
     ]
   },
   {
-    "date": "2025-03-28",
-    "title": "BRB anuncia compra de fatia do Master (58%)",
-    "summary": "Conselho: 49% ON + 100% PN = 58% total; ~75% do patrimônio ajustado / ~R$2 bi; falta BC+Cade.",
+    "date": "2025-03-15",
+    "title": "Ciro envia selfie com Gonet; 4 chamadas com Vorcaro",
+    "summary": "Às 14:13:37 (UTC-3), Ciro Soares envia foto consigo e Paulo Gonet; mensagem “Liga aqui” / “Ele quer falar com você”. Em seguida, 4 chamadas de voz Ciro–Vorcaro: 57s, 27s, 17s e 3min49s.",
     "sources": [
-      "https://ri.brb.com.br/upload/files/3866_Material-Fact-Banco-Master-28-03-2025.pdf"
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2025-03-19",
+    "title": "Vorcaro diz a Martha que está “com o Ministro”; depois “com Moraes”",
+    "summary": "Às 20:23:54 (UTC-3), Vorcaro escreve a Martha Graeff que está com o ministro; minutos depois diz a Paulo Sergio (diretor BC, no rótulo do chat) que está “com Moraes aqui”.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2025-03-20",
+    "title": "Madrugada: Hugo e Ciro “pra falarem com Alexandre”",
+    "summary": "Às 00:32:20 (UTC-3), Vorcaro responde a Martha que “acabou chegando hugo e ciro aqui pra falarem com Alexandre”. A PF estima duração do encontro de ~20:23 do dia 19 até pelo menos 00:32 do dia 20.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2025-03-28",
+    "title": "Anunciado acordo de compra de ações Banco de Brasília–Master",
+    "summary": "BRB board unanimously approved SPA: 49% of common shares, 100% preferred, 58% total capital. Price = 75% of consolidated equity adjusted after PwC diligence (market ~R$2 bi). Subject to Bacen, Cade and others. Aim: incorporate Master into BRB prudential conglomerate; brand to BRB; Vorcaro to BRB board (Folha). Protocol date to BC also cited as 28/03/2025 in later veto notice.",
+    "sources": [
+      "https://ri.brb.com.br/upload/files/3866_Material-Fact-Banco-Master-28-03-2025.pdf",
+      "https://www1.folha.uol.com.br/mercado/2025/03/brb-adquire-controle-do-banco-master-de-daniel-vorcaro.shtml"
+    ]
+  },
+  {
+    "date": "2025-03-28",
+    "title": "Ciro encaminha mensagens atribuídas a Gonet; Londres e Macallan",
+    "summary": "Ciro encaminha textos: “Que bom! Estou na torcida por vocês!”; “Já estou com saudades de você! Estou embarcando para Roma.”; “Manda essa mensagem para ele”; diz que “Gonet mandou”. Também “Oba!!! Tomara que tenha charuto e macalan!”. Ciro: “Ele vai para Londres com a gente”.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2025-03-29",
+    "title": "Gonet pergunta se filho pode ir a Londres — Vorcaro: “Obvio ne”",
+    "summary": "Ciro: “Gonet perguntou se o filho dele pode ir com a gente para Londres”. Vorcaro: “Obvio ne”. Ciro ainda encaminha outra mensagem “Gonet mandou”.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2025-04",
+    "title": "Fasano Itaim stake, Trancoso mansion, Atlético Mineiro SAF",
+    "summary": "Valor: luxury lifestyle — private jet, R$280 mi mansion in Trancoso (BA), substantial stake in Atlético Mineiro, co-investor in fund owning Fasano Itaim hotel building. Self-described “forasteiro” on Faria Lima facing prejudice/envy. G1: Estadão reported ~27% of Atlético Mineiro SAF.",
+    "sources": [
+      "https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml"
+    ]
+  },
+  {
+    "date": "2025-04-03",
+    "title": "Perfil longo no Valor sob holofote do negócio com o Banco de Brasília",
+    "summary": "Long profile after BRB 58% agreement: bio, Multipar, Máxima→Master arc, Quadrado exit (BC pending) seeking Digimais, Tanure intro via Quadrado, Lima marriage to ex-senator Flávia Peres, Fasano/Atlético/Trancoso lifestyle.",
+    "sources": [
+      "https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml",
+      "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2019/10/24/bc-autoriza-transferncia-de-controle-do-banco-mxima-para-empresrio-daniel-vorcaro.ghtml",
+      "https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb"
+    ]
+  },
+  {
+    "date": "2025-04-07",
+    "title": "Ciro: “Estou indo no PG agora” (contexto BRB/Master)",
+    "summary": "Em meio a discussões sobre matéria/operação BRB–Master, Ciro Soares diz a Vorcaro que está “indo no PG”.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2025-04-11",
+    "title": "Vorcaro a Ana Matos: “Pedro e ciro ok” (despesas Londres)",
+    "summary": "Ana Matos Mkt trata lista de pessoas com despesas pagas para Londres. Vorcaro não concorda com a lista plena, mas ressalva “Pedro e ciro ok” — PF interpreta Pedro Gonet e Ciro Soares.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2025-04-19",
+    "title": "Vorcaro a Martha: indo encontrar “alexandre moraes” (feriado)",
+    "summary": "Vorcaro diz que está “indo encontrar alexandre moraes aqui perto de casa”. Martha pergunta se está em Campos; Vorcaro: “Ele ta passando feriado”.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2025-04-29",
+    "title": "Vorcaro a Martha: está com “Alexandre” / “alexandre moraes”",
+    "summary": "Martha pergunta sobre o dia; Vorcaro diz que está com “Alexandre”. Depois, em casa, após chamada de voz, responde que o “primeiro cara” era “alexandre moraes”.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2025-05-12",
+    "title": "Contrato Viking Participações × Barci de Moraes (até R$ 50 mi)",
+    "summary": "Instrumento datado São Paulo, 12 de maio de 2025, entre Viking Participações Ltda. (representada por Daniel Bueno Vorcaro) e Barci de Moraes (Guilherme de Toledo Benazzi). Vigência 3 anos; pró-labore com limite máximo R$ 50.000.000,00 líquidos; objeto inclui consultoria estratégica/jurídica, inquéritos, MP, Receita, PF e Judiciário. Cláusula de sigilo. Vorcaro depois envia o PDF a si e a advogado; há menção a “duas minutas para vc escolher o deal”.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-contrato-viking-barci-moraes-50milhoes-sigiloderrubado-1set2026.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2025-05-12",
+    "title": "Segundo contrato Barci (Viking, até R$ 50 mi) e disputa da dação de aeronaves",
+    "summary": "PF: Viking Participações × Barci up to R$50 mi (12/05/2025); dação ~R$40 mi aviation assets (Legacy 650, EC155) + ~R$10 mi expenses. Firm to Folha (via Poder360): signed only first Master contract; denies transfer/substitution; says quitação proposal not accepted / “nada foi assinado”; Master contract extinguished by liquidation.",
+    "sources": [
+      "https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-contrato-viking-barci-moraes-50milhoes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-05-19",
+    "title": "Termo de Acordo e Dação Viking×Barci (avião/helicóptero)",
+    "summary": "Termo datado 19 de maio de 2025: quitação do contrato de R$ 50 mi via (i) dação de ~R$ 40 mi em ações de F24 (Legacy 650, prefixo PP-NLR) e F53 (EC 155 B1 em aquisição) e (ii) ~R$ 10 mi reembolso de despesas. Leonardo Palhares aparece no fluxo enviando o termo a Vorcaro. Escritório Barci contesta validade/aceitação (ver caveat do contrato Viking).",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-acordo-dacao-viking-barci-aviao-helicoptero-50milhoes-sigiloderrubado.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2025-05-21",
+    "title": "Vorcaro a Martha: em casa com “Ciro e alexandre”",
+    "summary": "Martha pergunta se há muitas reuniões; Vorcaro diz que está em casa com “Ciro e alexandre”.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2025-05-26",
+    "title": "Vorcaro marca encontro com “alexandre” e jantar com “as mulheres”",
+    "summary": "Vorcaro escreve a Martha que teria encontro com “alexandre” e estaria “marcando jantar com as mulheres fabio e dele”.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
     ]
   },
   {
     "date": "2025-06-17",
-    "title": "Cade aprova BRB–Master",
-    "summary": "SG Cade aprova sem restrições; BC ainda pendente.",
+    "title": "Superintendência-Geral do Cade aprova negócio sem restrições",
+    "summary": "G1 DF: Superintendência-Geral of Cade approved BRB–Master deal without restrictions; BC approval still required. Valor International noted possible FGC emergency loan / BTG asset sale context around same period.",
     "sources": [
       "https://g1.globo.com/df/distrito-federal/noticia/2025/06/17/cade-aprova-compra-do-banco-master-pelo-brb-banco-central-ainda-precisa-aprovar.ghtml"
     ]
   },
   {
+    "date": "2025-06-19",
+    "title": "Ciro: “PG confirmou a ida pra Londres”; Pedrinho pode ir?",
+    "summary": "Ciro Soares: “PG confirmou a ida pra Londres” / pergunta se “Pedrinho filho do PG” pode ir — Vorcaro autoriza (“Obvio”).",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2025-07",
+    "title": "Uso de aeronaves Legacy/EC155 por Barci — Viviane: “estamos gostando muito”",
+    "summary": "PF e Poder360: Barci já utilizava Legacy 650 e EC 155 B1 em julho/2025. Contato pergunta a Viviane se estão gostando das cotas; ela: “Sim, estamos gostando muito…”. Vorcaro orienta Thatiane a não deixar de atender “barci”. Há fatura/montante Viking R$ 22.815.120,95 e menção a mudança “Barci” → “Lux”.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2025-07-10",
+    "title": "Ana Matos: “O Andrei PF precisa de um Convite formal para aceitar Londres”",
+    "summary": "No contexto do 2º evento Londres (depois cancelado), Ana Matos Mkt informa que Andrei PF precisa de convite formal; pergunta se Grupo Voto pode mandar; Vorcaro: “Pode”.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2025-07-14",
+    "title": "Diálogo registra outro pagamento Barci R$ 3.422.268,14",
+    "summary": "Diálogo de 14/07/2025 registra pagamento ao escritório Viviane de Moraes no valor de R$ 3.422.268,14; Vorcaro orienta Alberto Felix.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2025-08",
+    "title": "Ibaneis sanctions CLDF law authorizing BRB to buy Master shares",
+    "summary": "Agência Brasil: DF governor Ibaneis Rocha sanctioned a district law (CLDF-approved, after judicial demand) authorizing BRB to acquire 49% ON + 100% PN of Master. G1 conexões: Ibaneis later said he met Vorcaro only socially; Ciro Nogueira/Antonio Rueda described as political bridges for the deal.",
+    "sources": [
+      "https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb",
+      "https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml"
+    ]
+  },
+  {
+    "date": "2025-08-08",
+    "title": "Vorcaro a Martha: está com “alexandre” e depois reunião “Com ciro”",
+    "summary": "Martha pergunta sobre viagem; Vorcaro diz que não deve ir pois está com “alexandre” e depois terá reunião “Com ciro”.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2025-09",
+    "title": "Temer diz ter sido chamado a mediar BRB–Master após bloqueio do Banco Central",
+    "summary": "G1 conexões: ex-president Michel Temer said on Roda Viva (15/09/2025) he was called to Brasília ~two weeks earlier with Vorcaro and Ibaneis wanting mediation to formalize the BRB transaction after the original deal was blocked.",
+    "sources": [
+      "https://www1.folha.uol.com.br/mercado/2025/09/master-e-brb-procuram-temer-para-destravar-negocio-apos-recusa-do-banco-central.shtml",
+      "https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb"
+    ]
+  },
+  {
     "date": "2025-09-03",
-    "title": "BC rejeita compra do Master pelo BRB",
-    "summary": "Fato relevante BRB: Bacen indefere pedido protocolado em 28/03/2025 (49% ON + 100% PN).",
+    "title": "Bacen indefers BRB application filed 28/03/2025",
+    "summary": "BRB fato relevante: informed of Bacen denial of request to acquire 49% ON + 100% PN of Master; BRB sought full decision text. Deal had been controversial (high CDB rates, delayed balance sheet, precatórios). Agência Brasil also notes prior BTG symbolic R$1 offer to take Master with FGC covering liabilities that stalled among FGC member banks. G1: Cade had cleared in June; BC cited missing economic-financial viability docs.",
     "sources": [
       "https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb"
     ]
   },
   {
+    "date": "2025-09-17",
+    "title": "Contato Moraes BRASILIA ativa mensagens temporárias 24h",
+    "summary": "Registro de que o contato “Alexandre de Moraes BRASILIA” passa a adotar, no chat com Vorcaro, configuração padrão de mensagens temporárias com exclusão automática em 24 horas.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf",
+      "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso"
+    ]
+  },
+  {
+    "date": "2025-09-17",
+    "title": "Moraes-labeled contact activates 24h ephemeral messages",
+    "summary": "PF/Poder360: contact configured new chats to auto-delete after 24h, limiting forensic recovery of replies — key caveat for later “13 days” crisis messages.",
+    "sources": [
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro",
+      "https://g1.globo.com/tecnologia/noticia/2026/09/01/mensagens-visualizacao-unica-vorcaro-moraes.ghtml",
+      "https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml"
+    ]
+  },
+  {
+    "date": "2025-10-01",
+    "title": "“Mas nao faz barci pix ne?” — pagamento Barci via Pix",
+    "summary": "Alberto Felix informa que pagou Barci; Vorcaro: “Mas nao faz barci pix ne?”. Felix: “Fez, nao pode? Foi pix para os mesmos dados da ted”. Vorcaro: “Nao e bom”. No mesmo período (resumo/index + imprensa), quatro mensagens do contato Moraes aparecem como “Mensagem apagada pelo remetente” (~22:17–22:18).",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2025-10-01",
+    "title": "Pix warning on Barci payments; four “deleted by sender” bubbles",
+    "summary": "Vorcaro to Felix: “Mas nao faz barci pix ne?”; Felix said Pix already done to same TED data. Same day window: four Moraes-chat messages marked deleted by sender (PF).",
+    "sources": [
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2025-10-28",
+    "title": "Auge da crise: notas pedindo intervenção de Galípolo/Andrei/Paulo",
+    "summary": "O Globo “13 days”: Vorcaro wrote Notes → screenshot → WhatsApp view-once to Moraes-labeled number, seeking to stop liquidation and PF action. Dense 30/10 notes about BC pressure, “G”/directors, lists of people allegedly visiting Bacen, ask to reinforce with Andrei and Paulo. 14–17/11 gratitude and “atrasar”/“banco não quebra”/“estou online” sequence. Interlocutor replies mostly unrecovered (👍, view-once empties).",
+    "sources": [
+      "https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml"
+    ]
+  },
+  {
+    "date": "2025-10-28",
+    "title": "Nota forense → WhatsApp 14:04:14 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~11:04:26 UTC-3. Nota criada em 14:04:14 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-10-28",
+    "title": "Primeira nota forense da janela de crise enviada ao nº Moraes BRASILIA",
+    "summary": "PF registra cadeia Notas→screenshot→PDF temporário→WhatsApp para nota criada ~14:04:14 UTC, com envio ao terminal 556192664093 às ~11:04:26 (UTC-3). Abre a janela de ~52 notas/prints analisados até 17/11.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf",
+      "https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml",
+      "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2025-10-30",
+    "title": "Nota forense → WhatsApp 16:26:00 UTC (cluster Bacen/abertura)",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~13:26:14 UTC-3. Nota criada em 16:26:00 UTC. Tema associado nas transcrições PF/imprensa: cluster Bacen/abertura.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-10-30",
+    "title": "Nota forense → WhatsApp 16:32:31 UTC (Andrei e Paulo / Bacen pressão)",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~13:33:03 UTC-3. Nota criada em 16:32:31 UTC. Tema associado nas transcrições PF/imprensa: Andrei e Paulo / Bacen pressão.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-10-30",
+    "title": "Nota forense → WhatsApp 16:38:17 UTC (lista nomes Bacen)",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~13:38:40 UTC-3. Nota criada em 16:38:17 UTC. Tema associado nas transcrições PF/imprensa: lista nomes Bacen.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-10-30",
+    "title": "Nota forense → WhatsApp 16:40:53 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~13:41:05 UTC-3. Nota criada em 16:40:53 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-10-30",
+    "title": "Nota forense → WhatsApp 16:44:43 UTC (amigos dentro do Bacen / cuidado com G)",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~13:44:56 UTC-3. Nota criada em 16:44:43 UTC. Tema associado nas transcrições PF/imprensa: amigos dentro do Bacen / cuidado com G.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-10-30",
+    "title": "Nota forense → WhatsApp 16:51:38 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Timestamp de envio UTC-3 cruzado nas tabelas do IPJ-A (ver figuras). Nota criada em 16:51:38 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-10-30",
+    "title": "Nota forense → WhatsApp 16:55:29 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~13:55:50 UTC-3. Nota criada em 16:55:29 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-10-30",
+    "title": "Notas densas: Bacen, Andrei/Paulo, lista de nomes, “G” sob pressão",
+    "summary": "Múltiplos envios forenses ao nº 556192664093 (ex.: 13:26, 13:33, 13:38, 13:41, 13:44, 13:55 UTC-3). Nota longa: Vorcaro diz que mudaria ida a Abu Dhabi; colocou “800mm” no banco e esperava mais “400mm”; FGC “começou a fazer aos poucos”; info informal de que “G e os diretores” estão sob pressão máxima da PF/MP; pede reforçar com Andrei e Paulo. Nota seguinte lista nomes (“Pf Dennis cali Wilker / guilherme - sp Janaina…”). Outra: “De pessoas de dentro do bacen… info 100%… so que ter cuidado de como conduzir com o G depois”.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf",
+      "https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml",
+      "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2025-11-04",
+    "title": "Nota forense → WhatsApp 20:41:42 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~17:41:55 UTC-3. Nota criada em 20:41:42 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-04",
+    "title": "Nota forense → WhatsApp 20:43:30 UTC (busca/quebra sig?)",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~17:43:44 UTC-3. Nota criada em 20:43:30 UTC. Tema associado nas transcrições PF/imprensa: busca/quebra sig?.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-04",
+    "title": "Nota forense → WhatsApp 20:51:18 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~17:51:29 UTC-3. Nota criada em 20:51:18 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-04",
+    "title": "Nota forense → WhatsApp 20:52:44 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~17:52:56 UTC-3. Nota criada em 20:52:44 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-04",
+    "title": "Nota forense → WhatsApp 21:15:06 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~18:15:24 UTC-3. Nota criada em 21:15:06 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-04",
+    "title": "Nota forense → WhatsApp 22:09:18 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~19:09:50 UTC-3. Nota criada em 22:09:18 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-04",
+    "title": "Nota forense → WhatsApp 23:44:51 UTC (vai tudo por agua abaixo)",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~20:45:57 UTC-3. Nota criada em 23:44:51 UTC. Tema associado nas transcrições PF/imprensa: vai tudo por agua abaixo.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-04",
+    "title": "Notas: busca/quebra de sigilo? “vai tudo por agua abaixo”",
+    "summary": "Vários prints/notas enviados (envios UTC-3 ~17:41–20:45). O Globo/Poder360 transcrevem: “Medio a grave seria busca ou quebra sig? So vai saber qdo ele chamar ne”; preocupação de que medida “vai tudo por agua abaixo”.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf",
+      "https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml",
+      "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2025-11-05",
+    "title": "Nota forense → WhatsApp 11:16:15 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~08:16:46 UTC-3. Nota criada em 11:16:15 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-05",
+    "title": "Nota forense → WhatsApp 11:17:06 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~08:17:19 UTC-3. Nota criada em 11:17:06 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-05",
+    "title": "Nota forense → WhatsApp 17:10:51 UTC (nao fazer movimento sem aval)",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~14:11:07 UTC-3. Nota criada em 17:10:51 UTC. Tema associado nas transcrições PF/imprensa: nao fazer movimento sem aval.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-05",
+    "title": "Nota forense → WhatsApp 22:05:41 UTC (bloquear maldade/sacanagem)",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~19:05:56 UTC-3. Nota criada em 22:05:41 UTC. Tema associado nas transcrições PF/imprensa: bloquear maldade/sacanagem.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-05",
+    "title": "Notas: “nao vou fazer nenhum movimento que voce não achar produtivo”",
+    "summary": "Envios forenses (~08:16–19:05 UTC-3). Transcrições jornalísticas: Vorcaro diz que Paulo só disse que olhava pessoalmente e “nao teria sacanagem”; pergunta se conseguiu “bloquear a maldade e sacanagem”.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf",
+      "https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml",
+      "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2025-11-06",
+    "title": "Nota forense → WhatsApp 19:26:00 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~16:26:16 UTC-3. Nota criada em 19:26:00 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-06",
+    "title": "Nota forense → WhatsApp 23:56:59 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~20:57:12 UTC-3. Nota criada em 23:56:59 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-06",
+    "title": "Novos envios de notas/prints ao contato Moraes BRASILIA",
+    "summary": "PF registra múltiplas cadeias forenses Notas→WhatsApp neste dia (envios ~16:26–22:33 UTC-3). Texto integral de cada nota não totalmente OCR’d no .txt; episódio documentado pelos timestamps 1:1.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf",
+      "https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml",
+      "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2025-11-07",
+    "title": "Nota forense → WhatsApp 01:18:10 UTC (Pier / estratégia judicial)",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~22:18:29 UTC-3. Nota criada em 01:18:10 UTC. Tema associado nas transcrições PF/imprensa: Pier / estratégia judicial.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-07",
+    "title": "Nota forense → WhatsApp 01:33:18 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~22:33:41 UTC-3. Nota criada em 01:33:18 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-07",
+    "title": "Nota sobre estratégia judicial e “Pier”",
+    "summary": "Envios forenses de madrugada (~UTC). O Globo: Vorcaro pergunta sobre ação na Justiça e “Pier” (Pierpaolo Bottini, segundo O Globo).",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf",
+      "https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml",
+      "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2025-11-10",
+    "title": "Envio forense de nota ao nº Moraes BRASILIA",
+    "summary": "PF registra cadeia com nota criada ~20:50:41 UTC e envio ~17:50:57 UTC-3 ao terminal 556192664093.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf",
+      "https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml",
+      "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2025-11-10",
+    "title": "Nota forense → WhatsApp 20:50:41 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~17:50:57 UTC-3. Nota criada em 20:50:41 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-11",
+    "title": "Envio forense de nota ao nº Moraes BRASILIA",
+    "summary": "PF registra nota ~23:44:30 UTC e envio ~20:44:45 UTC-3.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf",
+      "https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml",
+      "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2025-11-11",
+    "title": "Nota forense → WhatsApp 23:44:30 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~20:44:45 UTC-3. Nota criada em 23:44:30 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-12",
+    "title": "Cluster de notas/prints pela manhã (4 envios forenses)",
+    "summary": "Múltiplos envios UTC-3 ~08:55–09:37. Metadados forenses no IPJ-A; teores específicos pouco legíveis no OCR local.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf",
+      "https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml",
+      "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2025-11-12",
+    "title": "Nota forense → WhatsApp 11:55:16 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~08:55:40 UTC-3. Nota criada em 11:55:16 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-12",
+    "title": "Nota forense → WhatsApp 12:20:33 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~09:20:46 UTC-3. Nota criada em 12:20:33 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-12",
+    "title": "Nota forense → WhatsApp 12:21:07 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~09:21:18 UTC-3. Nota criada em 12:21:07 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-12",
+    "title": "Nota forense → WhatsApp 12:37:25 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~09:37:42 UTC-3. Nota criada em 12:37:25 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-14",
+    "title": "Nota de gratidão: “dívida de vida contigo e com a sua família”",
+    "summary": "Envios forenses (incl. ~22:40 UTC-3 do dia 13 / madrugada 14, e 10:03 / 18:19 UTC-3). Transcrição O Globo/Poder360 da nota de gratidão.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf",
+      "https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml",
+      "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2025-11-14",
+    "title": "Nota forense → WhatsApp 01:40:17 UTC (gratidão / dívida de vida)",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~22:40:33 UTC-3. Nota criada em 01:40:17 UTC. Tema associado nas transcrições PF/imprensa: gratidão / dívida de vida.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-14",
+    "title": "Nota forense → WhatsApp 13:03:36 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~10:03:49 UTC-3. Nota criada em 13:03:36 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-14",
+    "title": "Nota forense → WhatsApp 21:19:42 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~18:19:53 UTC-3. Nota criada em 21:19:42 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-15",
+    "title": "“Acha que segunda ja tenho que estar fora?” — Ricardo, Galípolo, Paulo/Andrei",
+    "summary": "Cluster intenso de envios (~18:22–22:43 UTC-3). Vorcaro pergunta sobre juiz Ricardo, se Galípolo sabe, se deve estar fora na segunda, e se dá para reverter com Paulo ou Andrei.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf",
+      "https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml",
+      "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2025-11-15",
+    "title": "Nota forense → WhatsApp 21:22:07 UTC (juiz Ricardo / Galípolo / estar fora)",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~18:22:18 UTC-3. Nota criada em 21:22:07 UTC. Tema associado nas transcrições PF/imprensa: juiz Ricardo / Galípolo / estar fora.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-15",
+    "title": "Nota forense → WhatsApp 21:23:12 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Timestamp de envio UTC-3 cruzado nas tabelas do IPJ-A (ver figuras). Nota criada em 21:23:12 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-15",
+    "title": "Nota forense → WhatsApp 22:43:40 UTC (Paulo ou Andrei reverter)",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~19:43:51 UTC-3. Nota criada em 22:43:40 UTC. Tema associado nas transcrições PF/imprensa: Paulo ou Andrei reverter.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-16",
+    "title": "Auge: “atrasar” com Andrei, Galípolo, “bomba atômica”, “desarmar”",
+    "summary": "Dezena de notas forenses (noite 15→16 e dia 16). O Globo/Poder360: pedido para sensibilizar Andrei a “atrasar pra outra semana”; perguntas se “acontecer amanhã de manha”; se “com Andrei da pra segurar”; se Galípolo pressiona intervenção; “Não podem estourar uma bomba atômica…”; “Muita sacanagem… desarmar isso”.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf",
+      "https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml",
+      "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
+    ]
+  },
+  {
+    "date": "2025-11-16",
+    "title": "Nota forense → WhatsApp 00:23:27 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~21:23:37 UTC-3. Nota criada em 00:23:27 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-16",
+    "title": "Nota forense → WhatsApp 00:33:44 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~21:33:59 UTC-3. Nota criada em 00:33:44 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-16",
+    "title": "Nota forense → WhatsApp 00:41:23 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~21:41:33 UTC-3. Nota criada em 00:41:23 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-16",
+    "title": "Nota forense → WhatsApp 00:49:24 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~21:49:45 UTC-3. Nota criada em 00:49:24 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-16",
+    "title": "Nota forense → WhatsApp 01:03:07 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~22:03:16 UTC-3. Nota criada em 01:03:07 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-16",
+    "title": "Nota forense → WhatsApp 01:05:55 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~22:06:07 UTC-3. Nota criada em 01:05:55 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-16",
+    "title": "Nota forense → WhatsApp 01:12:15 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~22:12:27 UTC-3. Nota criada em 01:12:15 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-16",
+    "title": "Nota forense → WhatsApp 01:28:17 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~22:28:29 UTC-3. Nota criada em 01:28:17 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-16",
+    "title": "Nota forense → WhatsApp 01:43:41 UTC",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~22:43:52 UTC-3. Nota criada em 01:43:41 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-16",
+    "title": "Nota forense → WhatsApp 16:39:51 UTC (Andrei atrasar / banco não quebra)",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~13:40:19 UTC-3. Nota criada em 16:39:51 UTC. Tema associado nas transcrições PF/imprensa: Andrei atrasar / banco não quebra.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-16",
+    "title": "Nota forense → WhatsApp 19:57:22 UTC (amanhã de manhã?)",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~16:57:47 UTC-3. Nota criada em 19:57:22 UTC. Tema associado nas transcrições PF/imprensa: amanhã de manhã?.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-16",
+    "title": "Nota forense → WhatsApp 21:19:59 UTC (Galípolo / bomba atômica / desarmar)",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~18:20:18 UTC-3. Nota criada em 21:19:59 UTC. Tema associado nas transcrições PF/imprensa: Galípolo / bomba atômica / desarmar.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
     "date": "2025-11-17",
-    "title": "Fictor anuncia compra do Master + R$3 bi",
-    "summary": "Consórcio + investidores Emirados; ainda precisa BC/Cade; véspera da liquidação.",
+    "title": "Dia da decisão de prisão + chat “estou online” + 5 view-once",
+    "summary": "Manhã 07:19 (UTC-3): 👍 e nota sobre “turma do brb” / “movimento de sacanagem”. 15:29: juiz Ricardo Augusto Soares Leite (10ª VF/DF) assina prisão preventiva (Poder360). Tarde: “Fiz uma correria… vou anunciar parte da transação”; 17:26 “Alguma novidade? Conseguiu ter notícia ou bloquear?”; ~19:58 “Alguma novidade?”; 20:48 última mensagem reproduzida terminando em “estou online”. PF: 5 envios em visualização única; logs 1:1. Anexo WhatsApp mostra 👍 do interlocutor em mensagem de 20:48. Destino citado do jato: Malta→Dubai (imprensa).",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf",
+      "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso/",
+      "https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml"
+    ]
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Nota forense → WhatsApp 10:18:39 UTC (turma do BRB / sacanagem)",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~07:19:01 UTC-3. Nota criada em 10:18:39 UTC. Tema associado nas transcrições PF/imprensa: turma do BRB / sacanagem.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Nota forense → WhatsApp 20:22:22 UTC (anunciar parte da transação)",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~17:22:40 UTC-3. Nota criada em 20:22:22 UTC. Tema associado nas transcrições PF/imprensa: anunciar parte da transação.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Nota forense → WhatsApp 20:26:02 UTC (Alguma novidade? bloquear?)",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~17:26:12 UTC-3. Nota criada em 20:26:02 UTC. Tema associado nas transcrições PF/imprensa: Alguma novidade? bloquear?.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Nota forense → WhatsApp 22:58:38 UTC (Alguma novidade? (reprise))",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~19:58 UTC-3. Nota criada em 22:58:38 UTC. Tema associado nas transcrições PF/imprensa: Alguma novidade? (reprise).",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Nota forense → WhatsApp 23:48:12 UTC (estou online)",
+    "summary": "Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~20:48:31 UTC-3. Nota criada em 23:48:12 UTC. Tema associado nas transcrições PF/imprensa: estou online.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Última linha de WhatsApp reproduzida antes da prisão",
+    "summary": "Poder360: at 20:48 (UTC-3) Vorcaro wrote he was going to sign with foreign investors and was “online”; reaction logged as 👍. Prison warrant signed 15:29 same day (Poder360) by judge Ricardo Augusto Soares Leite; arrest at GRU while preparing private jet (Malta then Dubai per Poder360; Dubai per O Globo).",
+    "sources": [
+      "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso"
+    ]
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Última tentativa de oferta de consórcio privado",
+    "summary": "G1/Valor: Fictor Holding Financeira + UAE investors announce acquisition with immediate R$3 bi capital injection; still needs BC/Cade. Same day Vorcaro messages about announcing part of transaction and “batidas do esteves.” Arrest/liquidation next day kill the deal; Fictor suspends.",
     "sources": [
       "https://g1.globo.com/economia/noticia/2025/11/17/fictor-anuncia-compra-do-banco-master.ghtml"
     ]
   },
   {
-    "date": "2025-11-17",
-    "title": "“Estou online” ao contato Moraes",
-    "summary": "Última mensagem reproduzida naquela noite; prisão horas depois (cronologia varia por veículo).",
+    "date": "2025-11-18",
+    "title": "Compliance Zero deflagrada; prisão em Guarulhos; liquidação do Master",
+    "summary": "PF deflagra Operação Compliance Zero (suspeita de fraudes em cessões de carteiras ~R$ 12 bi Master→BRB). Vorcaro preso no Aeroporto de Guarulhos ao tentar embarcar (jato; destino Malta/Dubai conforme cobertura). Celular iPhone 17 Pro apreendido (Termo 4473731/2025); prisão pela 10ª Vara Federal Criminal da SJDF. No mesmo dia, BC decreta liquidação extrajudicial do Banco Master (cobertura jornalística).",
     "sources": [
-      "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso/"
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso",
+      "https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml",
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf"
     ]
   },
   {
     "date": "2025-11-18",
-    "title": "Compliance Zero + prisão em Guarulhos",
-    "summary": "PF mira títulos de crédito falsos / carteiras Master→BRB; Vorcaro preso no GRU ao tentar saída em jato.",
+    "title": "Liquidação extrajudicial + RAET on Master Múltiplo (Will continuity)",
+    "summary": "CNN/G1: BC (Galípolo) decrees liquidação of Banco Master S/A, Master de Investimento, Letsbank, Master Corretora; RAET on Banco Master Múltiplo to preserve Will Financeira path. Controllers’/ex-admins’ assets unavailable. Motive: liquidity crisis, economic-financial deterioration, serious norm violations. Ends Fictor path. Conglomerate ~0.57% SFN assets (BC note in G1).",
+    "sources": [
+      "https://www.cnnbrasil.com.br/economia/negocios/banco-central-decreta-liquidacao-extrajudicial-do-banco-master/",
+      "https://g1.globo.com/economia/noticia/2025/11/18/banco-central-determina-a-liquidacao-extrajudicial-do-banco-master.ghtml"
+    ]
+  },
+  {
+    "date": "2025-11-18",
+    "title": "PF deflagrates Compliance Zero; Vorcaro arrested",
+    "summary": "Valor: PF op against false credit titles in SFN; Vorcaro arrested; four other directors also targets (Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva named by day’s end). Five preventive + two temporary warrants, 25 searches across RJ/SP/MG/BA/DF. Probes began 2024 after MPF request: alleged manufacture of weak credit books sold to another bank, later swapped after BC inspection. Crimes: fraudulent/temerarious management, criminal organization, etc. Alleged Master→BRB false portfolios ~R$12 bi (resumo/Estadão).",
     "sources": [
       "https://valor.globo.com/financas/noticia/2025/11/18/operacao-da-pf-que-prendeu-dono-do-master-mira-emissao-de-titulos-de-credito-falsos.ghtml"
     ]
   },
   {
-    "date": "2025-11-18",
-    "title": "BC decreta liquidação extrajudicial do Master",
-    "summary": "Decreto assinado por Galípolo; bens de controladores indisponíveis; negócio Fictor cai.",
+    "date": "2025-11-28",
+    "title": "Soltura com tornozeleira eletrônica e restrições",
+    "summary": "G1: Desembargadora Solange Salgado da Silva orders release of Vorcaro, Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva. Conditions: ankle monitor, periodic court appearance, no contact among investigated / BRB-Master staff, no leaving home city without leave, passports remain surrendered. Defense argued liquidation already removed bank control / flight risk.",
     "sources": [
-      "https://www.cnnbrasil.com.br/economia/negocios/banco-central-decreta-liquidacao-extrajudicial-do-banco-master/"
+      "https://g1.globo.com/df/distrito-federal/noticia/2025/11/28/trf-1-manda-soltar-daniel-vorcaro-dono-do-banco-master.ghtml"
+    ]
+  },
+  {
+    "date": "2025-12-03",
+    "title": "Toffoli coloca inquérito do Master sob sigilo no STF",
+    "summary": "G1: after defense forum claims, Min. Dias Toffoli on ~3 Dec put case under secrecy and pulled inquiry to STF citing a federal deputy with privileged forum; justified by sensitive economic info. Same week press noted Toffoli travel with Master-linked lawyer Arruda Botelho (Toffoli said process not discussed).",
+    "sources": [
+      "https://www1.folha.uol.com.br/mercado/2026/02/entenda-em-5-pontos-por-que-a-pf-investiga-relacao-entre-toffoli-e-banco-master.shtml",
+      "https://valor.globo.com/politica/noticia/2026/02/12/o-que-se-sabe-e-o-que-falta-esclarecer-sobre-a-ligacao-de-toffoli-e-vorcaro-no-caso-master.ghtml"
+    ]
+  },
+  {
+    "date": "2026-01-14",
+    "title": "Searches at Vorcaro family, Zettel, Tanure, Mansur",
+    "summary": "G1: second phase — searches at addresses linked to Vorcaro, father, sister, brother-in-law Fabiano Zettel; also Nelson Tanure and João Carlos Mansur (Reag). ~42 addresses; Toffoli-authorized; asset freezes >R$5.7 bi. Haddad called it possibly Brazil’s largest bank fraud; FGC exposure ~R$41 bi CDBs / ~1.6 mi investors cited.",
+    "sources": [
+      "https://www.cnnbrasil.com.br/economia/macroeconomia/nova-fase-de-operacao-contra-vorcaro-bloqueia-r-57-bi-em-bens",
+      "https://valor.globo.com/financas/noticia/2026/01/14/pf-apreendeu-r-645-mil-em-espcie-e-veculos-avaliados-em-r-16-milhes-em-nova-operao-no-caso-master.ghtml"
+    ]
+  },
+  {
+    "date": "2026-02-19",
+    "title": "Decisão autoriza perícias/workflow do material apreendido",
+    "summary": "Despacho de André Mendonça (PET 16.662) recorda decisão de 19/02/2026 que autorizou a PF a seguir workflow padrão e realizar exames periciais nas mídias apreendidas nas primeiras fases.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-derruba-sigilo-e-leva-caso-plenario-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2026-03-04",
+    "title": "3ª fase ostensiva da Compliance Zero / PET 15.556",
+    "summary": "Despacho: análises técnicas levaram ao ajuizamento/andamento da PET 15.556 e à deflagração da 3ª fase em 04/03/2026. PF alega rede de monitoramento e influência atribuída a Vorcaro.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-derruba-sigilo-e-leva-caso-plenario-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2026-03-04",
+    "title": "Second preventive prison; Zettel also held",
+    "summary": "Valor/CNN/G1: new STF warrants; Vorcaro and Zettel arrested in SP/MG; PF alleges continued concealment of billions after first release. Custody hearing keeps them in state prison (CDP Guarulhos). Later STF 2ª Turma maintains (13/03 per CNN timeline).",
+    "sources": [
+      "https://valor.globo.com/financas/noticia/2026/03/04/vorcaro-dono-do-banco-master-e-preso-em-nova-operacao-da-pf.ghtml"
+    ]
+  },
+  {
+    "date": "2026-04-16",
+    "title": "4ª fase: PH Costa arrested over Master portfolio deals",
+    "summary": "Estadão: ex-BRB president Paulo Henrique Costa arrested in 4th Compliance Zero phase on suspicion of corruption / irregularities in purchase of R$12.2 bi alleged false Master portfolios. Piece publishes 2024 Vorcaro–Lima urgency chats on BRB money.",
+    "sources": [
+      "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-cumpre-prisao-de-ex-presidente-do-brb-em-nova-fase-de-operacao-sobre-crimes-do-banco-master",
+      "https://www1.folha.uol.com.br/mercado/2026/04/pf-prende-ex-presidente-do-brb-envolvido-no-caso-master.shtml"
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "title": "6ª fase da Compliance Zero",
+    "summary": "Despacho cita deflagração da 6ª fase em 14/05/2026, lastreada em informações de polícia judiciária derivadas do celular e desdobramentos.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-derruba-sigilo-e-leva-caso-plenario-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2026-06-05",
+    "title": "Ofício de polícia judiciária citado no despacho",
+    "summary": "Despacho menciona Ofício (nº redigido) remetido em 05/06/2026 como peça relevante do histórico investigativo sobre a rede de influência/monitoramento.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-derruba-sigilo-e-leva-caso-plenario-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2026-06-19",
+    "title": "Decisão prévia citada antes da autuação autônoma PET 16.662",
+    "summary": "Despacho (p.4) refere decisão de 19/06/2026 no histórico que culmina no pedido de atualização à CINQ/DICOR/PF sobre a rede atribuída a Vorcaro e, depois, no desentranhamento para PET 16.662.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-derruba-sigilo-e-leva-caso-plenario-sigiloderrubado-1set2026.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-manda-pf-identificar-rede-influencia-vorcaro-sigiloderrubado-1set2026.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-mandado-intimacao-pf-prazo-72h-sigiloderrubado-1set2026.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-desentranhamento-autuacao-processo-autonomo-copia-sigiloderrubado-1set2026.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-certidao-autuacao-distribuicao-andre-mendonca-sigiloderrubado-1set2026.pdf"
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "title": "IPJ-A 3298613/2026 on Vorcaro iPhone → PET 16.662",
+    "summary": "Poder360: after Mendonça’s 72h order to map “rede de influência e monitoramento,” PF delivers non-exhaustive 218-p analysis of iPhone 17 Pro seized at arrest (Cellebrite/IPED). Covers Moraes-labeled chat, Barci contracts, Gonet/Andrei/Ciro threads, notes methodology.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "title": "PF entrega IPJ-A 3298613/2026 (relatório 218 p.) a Mendonça",
+    "summary": "Ofício nº 3305795/2026-CINQ/CGRC/DICOR/PF, Brasília 27/08/2026, encaminha ao Min. André Mendonça a Informação de Polícia Judiciária nº 3298613/2026 (atendimento à requisição na PET 15.556). Relatório: extração Cellebrite Reader 10.7.1 + IPED 4.2.2 do iPhone 17 Pro; análise em 72h, “não possui caráter exaustivo”. Assinado por agentes/delegados (Bruno Cavalcanti Teixeira, Lucas Daniel de Sá Soares de Matos, Paulo Danilo Batista Diniz Leite, Guilherme Alves de Siqueira et al. no ofício/capa).",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/1pet16662-oficio-pf-envio-relatorio-3298613-2026-sigiloderrubado-1set2026.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-recibo-peticao-pf-documentos-27ago2026-sigiloderrubado-1set2026.pdf.pdf"
     ]
   },
   {
     "date": "2026-09-01",
-    "title": "Mendonça derruba sigilo / caminho do plenário",
-    "summary": "Documentos públicos; cobertura O Globo “13 dias” no mesmo ciclo.",
+    "title": "Caveats metodológicos cristalizados na cobertura do mesmo dia",
+    "summary": "Across outlets: (1) “Alexandre de Moraes BRASILIA” is Vorcaro’s address-book label + Brasília number shared by Faria — not alone proof of who held the chip; (2) 24h ephemeral + view-once (5 on 17/11) leave most interlocutor content unrecovered; (3) Barci firm disputes 2nd Viking contract/dação while confirming 1st Master contract and Moraes compliance edit.",
+    "sources": [
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+      "https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-contrato-viking-barci-moraes-50milhoes-sigiloderrubado-1set2026.pdf",
+      "https://g1.globo.com/tecnologia/noticia/2026/09/01/mensagens-visualizacao-unica-vorcaro-moraes.ghtml",
+      "https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml"
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "title": "Mendonça levanta sigilo da PET 16.662 e manda ao plenário",
+    "summary": "Despacho PET 16.662/DF, Brasília 1º/09/2026, Min. André Mendonça (relator): determina levantamento do sigilo; diz ser inevitável análise pelo Plenário do STF, em sessão presencial pública e transparente, data a cargo do presidente (Edson Fachin); vista à PGR não obsta. Material (relatório, contratos, anexo WhatsApp) torna-se público — base das reportagens Poder360/O Globo/G1.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-derruba-sigilo-e-leva-caso-plenario-sigiloderrubado-1set2026.pdf",
+      "https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro",
+      "https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml"
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "title": "Sigilo derrubado; discussão no plenário indicada",
+    "summary": "Poder360/CNN: Mendonça removes secrecy on PET 16.662 materials and signals in-person public plenary (date by Fachin). Wave of coverage: O Globo 13-day appeals, Poder360 “estou online,” G1 view-once tech, Folha full report, Estadão joinha/deleted msgs.",
     "sources": [
       "https://www.poder360.com.br/poder-justica/mendonca-retira-sigilo-de-acao-sobre-vorcaro-e-moraes/",
-      "https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml"
+      "https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml",
+      "https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro"
+    ]
+  },
+  {
+    "date": "2022",
+    "title": "Zettel, cunhado de Vorcaro, maior doador pessoa física de Bolsonaro em 2022",
+    "summary": "Valor (3 abr 2025): a irmã Natália é casada com o advogado-pastor Fabiano Zettel (fundo Moriah); na campanha presidencial de 2022, Zettel foi o maior financiador pessoa física de Jair Bolsonaro. O perfil descreve ainda a linhagem Batista da Lagoinha (avô Serafim) e a TV em que Henrique Vorcaro ajudou a investir. A ficha registra a caracterização do Valor, não um julgamento eleitoral.",
+    "sources": [
+      "https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml"
+    ]
+  },
+  {
+    "date": "2023",
+    "title": "Participação no Fasano Itaim e entrada na SAF do Atlético Mineiro",
+    "summary": "UOL/Estadão (nov/2025): Vorcaro entrou na SAF do Atlético Mineiro em 2023 via Galo Forte FIP, com cerca de R$ 100 milhões por cerca de 8,2%. No mesmo ano, disse ao Valor ter comprado o Fasano Itaim “na pessoa física” via fundos (o perfil de abr/2025 ainda o lista como coinvestidor do prédio). O Tempo (fev/2026) também data a narrativa Fasano/Atlético a 2023, com percentuais que divergem entre veículos. A mansão de Trancoso (~R$ 280 mi no Valor) permanece sem data de compra publicada.",
+    "sources": [
+      "https://economia.uol.com.br/noticias/redacao/2025/11/18/socio-do-atletico-mineiro-e-dono-de-mansoes-quem-e-daniel-vorcaro.htm",
+      "https://www.otempo.com.br/economia/2026/2/5/veja-quais-ativos-seriam-de-daniel-vorcaro-e-quais-foram-vendidos"
+    ]
+  },
+  {
+    "date": "2024-02-06",
+    "title": "Master anuncia compra do Voiter (ex-Indusval)",
+    "summary": "Valor/Pipeline: o Master fecha a compra do Banco Voiter (ex-Indusval; controlador Roberto de Rezende Barbosa). Plano: Voiter como plataforma de atacado (e agro); patrimônio líquido então citado em cerca de R$ 3,5 bi (meta de R$ 5 bi); Maurício Quadrado na vertical de atacado e Augusto Lima no varejo. Ainda dependia de BC e Cade. Negócio distinto da compra do Will Bank duas semanas depois.",
+    "sources": [
+      "https://valor.globo.com/financas/noticia/2024/02/06/banco-master-compra-voiter-antigo-indusval.ghtml",
+      "https://pipelinevalor.globo.com/negocios/noticia/com-voiter-master-estrutura-plataforma-de-atacado-e-mira-o-agro.ghtml"
+    ]
+  },
+  {
+    "date": "2024-02-23",
+    "title": "Master anuncia o controle do Will Bank",
+    "summary": "Valor: o Master fecha o controle do banco digital Will Bank — segundo negócio em cerca de duas semanas, depois do Voiter. Pipeline/Exame teriam noticiado em 22/02; a matéria impressa do Valor é de 23/02. Expande a base de varejo. Perfil posterior do Valor associa a parceria da Reag (João Carlos Mansur) ao Will. A ficha mensal já existente (fev/2024) permanece; esta densifica o dia da publicação do Valor.",
+    "sources": [
+      "https://valor.globo.com/financas/noticia/2024/02/23/banco-master-compra-will-bank-e-amplia-posicao-no-varejo.ghtml"
+    ]
+  },
+  {
+    "date": "2024",
+    "title": "Segundo aporte na SAF do Atlético / Galo Holding",
+    "summary": "UOL/Estadão (nov/2025): depois da entrada de 2023, Vorcaro aportou cerca de R$ 200 milhões a mais em 2024 e chegou a cerca de 26,9% da Galo Holding (atrás de Rubens Menin, cerca de 55,7%). Alinha-se à cifra de ~27% da SAF citada em G1/Estadão. O perfil do Valor (abr/2025) já falava em participação substancial no clube, sem o percentual deste segundo aporte.",
+    "sources": [
+      "https://economia.uol.com.br/noticias/redacao/2025/11/18/socio-do-atletico-mineiro-e-dono-de-mansoes-quem-e-daniel-vorcaro.htm",
+      "https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml"
+    ]
+  },
+  {
+    "date": "2024-09-02",
+    "title": "Vorcaro a Lima — “usar compulsório” se o dinheiro do BRB não vier",
+    "summary": "Estadão (18 abr 2026) publica mensagem de 2 set 2024: Vorcaro pergunta a Augusto Lima se há notícia do BRB; se o caixa não chegar, terá de devolver o dinheiro de sexta e “usar compulsório hoje”. No dia seguinte, cobra CCB pendente há cerca de 15 dias; Lima responde que “fazem até quinta”. Marco pontual dentro do fluxo de cessões iniciado em meados de 2024.",
+    "sources": [
+      "https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia"
+    ]
+  },
+  {
+    "date": "2025-01",
+    "title": "Vinte contratos Master→BRB antes do anúncio de 28/03",
+    "summary": "Estadão: antes do anúncio oficial de compra, o Master já havia passado R$ 4,6 bilhões ao BRB em 20 contratos — seis em janeiro (R$ 1,66 bi), seis em fevereiro (R$ 1,82 bi) e oito em março (R$ 1,12 bi). A mesma linha investigativa situa livros ligados à Tirreno a partir de jan/2025 e o total alegado de carteiras falsas em cerca de R$ 12,2 bi. A cronologia da Folha (4 set 2025) percorre o mesmo intervalo pré-SPA.",
+    "sources": [
+      "https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia",
+      "https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml"
+    ]
+  },
+  {
+    "date": "2025-03-31",
+    "title": "Galípolo reúne-se com Paulo Henrique Costa após o SPA Master–BRB",
+    "summary": "Cronologia da Folha (4 set 2025): em 31 mar 2025, depois do anúncio da compra do Master pelo BRB, o presidente do Banco Central, Gabriel Galípolo, faz a primeira reunião com o então presidente do BRB, Paulo Henrique Costa, sobre o negócio.",
+    "sources": [
+      "https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml"
+    ]
+  },
+  {
+    "date": "2025-04-11",
+    "title": "Galípolo reúne-se com Vorcaro na janela de análise do BC",
+    "summary": "Cronologia da Folha: em 11 abr 2025 Galípolo encontra Daniel Vorcaro; a mesma linha do tempo registra outros contatos de Vorcaro com diretores do BC durante a análise da aquisição. Distinto da ficha do mesmo dia sobre despesas de Londres (“Pedro e ciro ok”), que sai do celular (PET 16.662).",
+    "sources": [
+      "https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml"
+    ]
+  },
+  {
+    "date": "2025-05-27",
+    "title": "Negociação com o BTG (~R$ 1,5 bi) inclui Fasano, Light e Méliuz",
+    "summary": "Cronologia da Folha: em 27 mai 2025 Vorcaro fecha negociação com o BTG Pactual (cerca de R$ 1,5 bi) abrangendo Light, Méliuz e o interesse no prédio do Fasano Itaim. O Tempo (fev/2026) confirma a narrativa de desinvestimento do Fasano em meados de 2025.",
+    "sources": [
+      "https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml",
+      "https://www.otempo.com.br/economia/2026/2/5/veja-quais-ativos-seriam-de-daniel-vorcaro-e-quais-foram-vendidos"
+    ]
+  },
+  {
+    "date": "2025-07-29",
+    "title": "BRB apresenta proposta reduzida — cerca de um terço do Master",
+    "summary": "Cronologia da Folha: em 29 jul 2025 o BRB protocola nova proposta no BC para comprar só cerca de um terço do Master, com perímetro de ativos de cerca de R$ 25 bi (cerca de metade do plano original); os ativos restantes do Master são citados em cerca de R$ 48 bi.",
+    "sources": [
+      "https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml"
+    ]
+  },
+  {
+    "date": "2025-08-19",
+    "title": "CLDF autoriza o BRB a comprar o Master",
+    "summary": "Folha/G1: em 19 ago 2025 a Câmara Legislativa do DF autoriza o BRB a adquirir 49% das ON e 100% das PN do Master (votação em dois turnos relatada em outros veículos como 14 a 7). Remove a exigência judicial que impedia a assinatura. No dia seguinte o governador sanciona a lei; o BC ainda precisava homologar.",
+    "sources": [
+      "https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml",
+      "https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb"
+    ]
+  },
+  {
+    "date": "2025-08-20",
+    "title": "Ibaneis sanciona a lei que autoriza a compra do Master pelo BRB",
+    "summary": "Cronologias (Agência Brasil: “há pouco mais de 10 dias” antes do veto do BC em 3 set; Folha): Ibaneis Rocha sanciona em torno de 20 ago 2025 a lei da CLDF que autoriza o BRB a comprar ações do Master, restando só a homologação do Bacen. A ficha mensal de ago/2025 permanece; esta densifica o dia da sanção.",
+    "sources": [
+      "https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb",
+      "https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml"
+    ]
+  },
+  {
+    "date": "2025-11-20",
+    "title": "TRF-1 indefere o primeiro habeas e mantém a prisão preventiva",
+    "summary": "G1/Valor: em 20 nov 2025 o TRF-1 rejeita habeas corpus e mantém Vorcaro preso, citando indícios de gestão fraudulenta / organização criminosa. A desembargadora Solange Salgado, relatora, inverterá o entendimento em 28/11, determinando a soltura com tornozeleira.",
+    "sources": [
+      "https://valor.globo.com/financas/noticia/2025/11/24/vorcaro-transferido-para-presdio-em-guarulhos.ghtml",
+      "https://g1.globo.com/df/distrito-federal/noticia/2025/11/28/trf-1-manda-soltar-daniel-vorcaro-dono-do-banco-master.ghtml"
+    ]
+  },
+  {
+    "date": "2025-11-24",
+    "title": "Vorcaro é transferido ao CDP 2 de Guarulhos",
+    "summary": "Valor/G1: em 24 nov 2025 Vorcaro deixa a Superintendência da PF em São Paulo rumo ao CDP 2 de Guarulhos; Luiz Antônio Bull e Alberto Felix também são transferidos; Augusto Lima e Angelo Silva permanecem na PF, segundo o G1. A defesa protocola novo habeas no STJ no mesmo dia.",
+    "sources": [
+      "https://valor.globo.com/financas/noticia/2025/11/24/vorcaro-transferido-para-presdio-em-guarulhos.ghtml"
+    ]
+  },
+  {
+    "date": "2025-11-29",
+    "title": "Saída física do CDP de Guarulhos com tornozeleira",
+    "summary": "G1: por volta das 11h40 de 29 nov 2025 Vorcaro deixa o CDP 2 de Guarulhos com tornozeleira eletrônica, em cumprimento à ordem do TRF-1 de 28/11 (Solange Salgado) — apresentação periódica, vedação de contato entre investigados, proibição de deixar a cidade e recolhimento de passaportes. Distinto da ficha de 28/11, que registra a decisão, não a saída física.",
+    "sources": [
+      "https://g1.globo.com/sp/sao-paulo/noticia/2025/11/29/daniel-vorcaro-do-banco-master-deixa-cdp-de-guarulhos-apos-decisao-da-justica-ele-tera-de-usar-tornozeleira-eletronica.ghtml"
+    ]
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Fachin abre a PET 16.704 após a avalanche do sigilo",
+    "summary": "Cobertura R7/Correio da Manhã (3–4 set 2026): depois da publicação do relatório da PF, Moraes questiona a condução de Mendonça; o presidente Edson Fachin abre trilha autônoma de esclarecimentos (PET 16.704 citada) com cerca de cinco dias úteis para Moraes, Mendonça, Gonet e Andrei Rodrigues. Em 4 set a cobertura relata Fachin retirando o pedido de Moraes do inquérito das fake news para tramitação autônoma.",
+    "sources": [
+      "https://noticias.r7.com/brasilia/fachin-tira-do-inquerito-das-fake-news-pedido-de-moraes-para-investigar-mendonca-04092026"
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Mendonça abre vista à PGR por cinco dias (PET 16.662)",
+    "summary": "PDFs das íntegras do Poder360: despacho e termo de vista datados de 31 ago 2026 — André Mendonça concede cinco dias à PGR para opinar sobre o material da PF (IPJ-A 3298613/2026). No dia seguinte (1º set) levanta o sigilo e indica análise pelo plenário presencial, com data a cargo de Edson Fachin. A vista, segundo o despacho de 1º/09, não obsta o levantamento do sigilo.",
+    "sources": [
+      "https://static.poder360.com.br/uploads/2026/09/1pet16662-despacho-vista-pgr-5dias-sigiloderrubado-1set2026.pdf",
+      "https://static.poder360.com.br/uploads/2026/09/pet16662-termo-vista-pgr-sigiloderrubado-1set2026.pdf"
     ]
   }
 ]

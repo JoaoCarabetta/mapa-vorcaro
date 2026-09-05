@@ -25,9 +25,9 @@ export default function ExportPage() {
         </a>
       </div>
       <p>
-        O seed compacto de imprensa (<code>content/events.json</code>, 15 fatos, URLs
-        na forma enviada pelo PM) vive no repositório. O corpus completo — YAML
-        validado — é o que estas rotas exportam.
+        O compacto <code>content/events.json</code> espelha o YAML em{" "}
+        <code>{"{date, title, summary, sources}"}</code>. O corpus completo destas
+        rotas é o YAML validado.
       </p>
       <p className="muted">
         O build roda <code>validate</code> antes do <code>next build</code> e grava
