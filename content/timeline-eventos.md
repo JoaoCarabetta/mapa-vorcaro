@@ -3,6 +3,7 @@
 **Merged from:** `/workspace/vorcaro/events-from-press.md` (40) + `/workspace/vorcaro/events-from-primary.md` (62).
 **Compiled:** 4–5 Sep 2026 (America/Sao_Paulo).
 **Editor punch (2026-09-05):** Compact wrong-URL rows retargeted; forensic micro-card cluster note added; ~20 EN compact titles → Portuguese. No full rewrite.
+**Editor titles (2026-09-05):** 18 EN full-card `title` fields → Portuguese. Bodies untouched. Clustering = cloud UI.
 **Editor punch verify (2026-09-05 23:16 BRT):** sha bump — Compact L53/64/66/68/69/142–148/155 and full Ibaneis/Temer/PH Costa no longer use Valor-bio URL for non-bio claims. Re-audit THIS file (md5 below changes).
 **Method:** Deduplicate by date+title overlap; on WhatsApp/PET days prefer primary PDF sourcing (Poder360 static PET 16.662 uploads) and keep press http URLs as corroboration.
 
@@ -182,7 +183,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 1983-10-06 — Nascimento em Belo Horizonte (idade na imprensa)
 - **date:** 1983-10-06 (reported)
-- **title:** Birth year / birthday reported by press
+- **title:** Nascimento / aniversário reportados pela imprensa
 - **summary:** InfoMoney states Vorcaro completed 42 years on 6 October (piece dated Mar/2026). Valor’s 3 Apr 2025 profile called him 41, consistent with a late-1983 birth. Family described as mineira with construction/real-estate roots via father Henrique (Multipar).
 - **people:** Daniel Bueno Vorcaro; Henrique Vorcaro
 - **tags:** bio
@@ -193,7 +194,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### ~1990s–2000s — Education: Fundação Torino + Ibmec BH
 - **date:** undated decade (pre-career)
-- **title:** Elite BH schooling and Ibmec economics/MBA
+- **title:** Escola de elite em Belo Horizonte e economia/MBA no Ibmec
 - **summary:** Valor: studied at Fundação Torino (elite BH school); declined Italy scholarship; took economics at Ibmec Belo Horizonte and an MBA in Finance there. Played guitar and sports. Emphasizes grandparents as public servants without large wealth despite elite school.
 - **people:** Daniel Vorcaro
 - **tags:** bio|education
@@ -203,7 +204,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### ~2002–2003 — First firm at ~19 (educational courses)
 - **date:** ~2002–2003 (age 19 per Valor Apr/2025)
-- **title:** Father hands educational-courses company; quick sale; Multipar
+- **title:** Pai entrega empresa de cursos educacionais; venda rápida; Multipar
 - **summary:** Valor: entrepreneurial path began at 19 when father gave him an educational-courses company; sold soon after; then worked with Henrique at Multipar (family construction/real estate). InfoMoney: Henrique founded Multipar (ex-Vorcaro Imóveis / Centro Sul).
 - **people:** Daniel Vorcaro; Henrique Vorcaro
 - **tags:** bio|multipar|first-business
@@ -214,7 +215,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### ~2006–2007 — Marriage at 23; children Stella & Tiziano
 - **date:** ~2006–2007 (age 23 per Valor)
-- **title:** Marries Fabíola; later children Stella and Tiziano
+- **title:** Casa com Fabíola; depois os filhos Stella e Tiziano
 - **summary:** Valor: married Fabíola at 23; father of Stella and Tiziano. Daughter’s 15th birthday party (~2024 relative to Apr/2025 article saying “last year”) reportedly ~R$15 mi with DJ Alok; InfoMoney adds The Chainsmokers and places party in 2023.
 - **people:** Daniel Vorcaro; Fabíola; Stella; Tiziano
 - **tags:** bio
@@ -225,7 +226,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2016 — Entrada minoritária no Banco Máxima
 - **date:** 2016
-- **title:** Minority stake in troubled Banco Máxima (Saul Sabbá)
+- **title:** Participação minoritária no Banco Máxima em dificuldades (Saul Sabbá)
 - **summary:** Valor: banking foray in 2016 when Sabbá’s Máxima faced difficulties and was offered to Vorcaro, who already did FII deals with him. First took a minority stake with brothers Antônio and Vicente Conte; next year took control (BC approval only two years later). Conte later exited; Maurício Quadrado and Augusto Lima joined.
 - **people:** Daniel Vorcaro; Saul Sabbá; Antônio Conte; Vicente Conte; Maurício Quadrado; Augusto Lima
 - **tags:** bio|master|maxima
@@ -235,7 +236,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2017-05-17 — Valor: new partner may take up to ~50% of Máxima
 - **date:** 2017-05-17
-- **title:** Press reports capitalization / path toward control
+- **title:** Imprensa reporta capitalização / caminho ao controle
 - **summary:** Valor Econômico reported Máxima, undercapitalized since prior year, closed deal for Vorcaro to inject capital (figures cited in contemporaneous coverage toward tens of millions) and acquire credits against former partners, potentially ending near 50% of capital. Later profiles say he “assumed control” in 2017 subject to later BC homologation.
 - **people:** Daniel Vorcaro; Saul Sabbá
 - **tags:** master|maxima
@@ -246,7 +247,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2018-01 — New board/management at Máxima
 - **date:** 2018-01
-- **title:** Vorcaro-linked management takes operational control
+- **title:** Gestão ligada a Vorcaro assume o controle operacional
 - **summary:** CNN Brazil (rebrand story): after corporate/operational change and later R$400 mi capitalization, Máxima became Master; new management assumed January 2018. Estadão “quem é quem” similarly says Vorcaro took command of Máxima in Jan/2018 (bank founded 1974 as broker).
 - **people:** Daniel Vorcaro
 - **tags:** master|maxima
@@ -267,7 +268,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2021 — Rebrand Máxima → Banco Master + growth capital
 - **date:** 2021
-- **title:** Name change to Banco Master; ~R$400 mi capitalization narrative
+- **title:** Mudança de nome para Banco Master; narrativa de capitalização ~R$ 400 mi
 - **summary:** Valor: in 2021 Daniel renamed the bank Master — a suggestion from his son — and made series of billion-real capital injections over the years. CNN: after corporate change and R$400 mi capitalization, Máxima is now Master; target further R$200 mi and R$1 bi equity by 2023; four fronts including Kovr insurer and investment banking; Vipal investment bank acquired end-2020 pending BC.
 - **people:** Daniel Vorcaro; son (unnamed in Valor)
 - **tags:** master
@@ -277,7 +278,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2021–2024 — Acquisition wave (Kovr, Voiter, Banif, Will, Vipal)
 - **date:** 2021–2024 (span)
-- **title:** Series of financial acquisitions under Master brand
+- **title:** Série de aquisições financeiras sob a marca Master
 - **summary:** Valor lists acquisitions including insurer Kver/Kovr, bank Voiter (ex-Indusval), Vipal, Banif Brasil and Will. Will Bank deal done with Reag (João Carlos Mansur), who has other businesses with Vorcaro. InfoMoney: Will control Feb/2024; Voiter bought then control sold to Augusto Lima Aug/2025; Kovr later sold to J&F (per InfoMoney).
 - **people:** Vorcaro; João Carlos Mansur; Augusto Lima; Maurício Quadrado
 - **tags:** master|growth
@@ -449,7 +450,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2024-02 — Anunciada aquisição do controle do Will Bank
 - **date:** 2024-02
-- **title:** Master takes control of will bank
+- **title:** Master assume o controle do Will Bank
 - **summary:** Multiple outlets: Master announced Will Bank purchase in February 2024, expanding digital retail. Later BRB deal perimeter included Will/Credcesta. InfoMoney quotes Vorcaro on complete digital ecosystem.
 - **people:** Daniel Vorcaro; Reag / João Carlos Mansur (Valor: Will deal with Reag)
 - **tags:** master|growth
@@ -534,7 +535,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2024-07 onward — Master cessions of credit books to BRB
 - **date:** 2024-07 (start per Estadão)
-- **title:** BRB injects liquidity via credit-portfolio purchases from Master
+- **title:** Banco de Brasília injeta liquidez via compra de carteiras de crédito do Master
 - **summary:** Estadão (Apr/2026): dialogues show Master relied on BRB injections at least since Aug/2024 to cover liquidity; cessions of consignado/CCB begin Jul/2024. Folha (Mar/2025 deal story): partnership began Jul/2024 with consignado cessions; acquisition talks late 2024. Later PF thesis: after genuine books, fake Tirreno-linked books from early 2025 (~R$12.2 bi total alleged).
 - **people:** Daniel Vorcaro; Augusto Lima; Paulo Henrique Costa (BRB)
 - **tags:** brb|master|compliance-zero
@@ -596,7 +597,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2025-03-28 — BRB material fact: buys 58% of Master
 - **date:** 2025-03-28
-- **title:** BRB–Master share purchase agreement announced
+- **title:** Anunciado acordo de compra de ações Banco de Brasília–Master
 - **summary:** BRB board unanimously approved SPA: 49% of common shares, 100% preferred, 58% total capital. Price = 75% of consolidated equity adjusted after PwC diligence (market ~R$2 bi). Subject to Bacen, Cade and others. Aim: incorporate Master into BRB prudential conglomerate; brand to BRB; Vorcaro to BRB board (Folha). Protocol date to BC also cited as 28/03/2025 in later veto notice.
 - **people:** Paulo Henrique Costa (BRB CEO contemporaneous); Daniel Vorcaro; BRB board
 - **tags:** brb|master
@@ -629,7 +630,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2025-04-03 — Valor profile “Quem é o dono do Banco Master”
 - **date:** 2025-04-03
-- **title:** Major Valor biography under BRB-deal spotlight
+- **title:** Perfil longo no Valor sob holofote do negócio com o Banco de Brasília
 - **summary:** Long profile after BRB 58% agreement: bio, Multipar, Máxima→Master arc, Quadrado exit (BC pending) seeking Digimais, Tanure intro via Quadrado, Lima marriage to ex-senator Flávia Peres, Fasano/Atlético/Trancoso lifestyle.
 - **people:** Vorcaro; Henrique; Quadrado; Lima; Tanure; Flávia Peres
 - **tags:** bio|master|brb
@@ -692,7 +693,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2025-05 — Viking × Barci second contract + aircraft dação dispute
 - **date:** 2025-05-12 (contract date per PF/resumo)
-- **title:** Second Barci contract (Viking, up to R$50 mi) and aircraft settlement dispute
+- **title:** Segundo contrato Barci (Viking, até R$ 50 mi) e disputa da dação de aeronaves
 - **summary:** PF: Viking Participações × Barci up to R$50 mi (12/05/2025); dação ~R$40 mi aviation assets (Legacy 650, EC155) + ~R$10 mi expenses. Firm to Folha (via Poder360): signed only first Master contract; denies transfer/substitution; says quitação proposal not accepted / “nada foi assinado”; Master contract extinguished by liquidation.
 - **people:** Viviane Barci; Viking Participações; Vorcaro
 - **tags:** power-interlocutor|barci|compliance-zero
@@ -881,7 +882,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2025-10-28 to 2025-11-17 — Crisis notes to Moraes contact (~52 notes / 13 days)
 - **date:** 2025-10-28 → 2025-11-17
-- **title:** Apex crisis: notes begging for Galípolo/Andrei/Paulo intervention
+- **title:** Auge da crise: notas pedindo intervenção de Galípolo/Andrei/Paulo
 - **summary:** O Globo “13 days”: Vorcaro wrote Notes → screenshot → WhatsApp view-once to Moraes-labeled number, seeking to stop liquidation and PF action. Dense 30/10 notes about BC pressure, “G”/directors, lists of people allegedly visiting Bacen, ask to reinforce with Andrei and Paulo. 14–17/11 gratitude and “atrasar”/“banco não quebra”/“estou online” sequence. Interlocutor replies mostly unrecovered (👍, view-once empties).
 - **people:** Vorcaro; contact Moraes; Andrei (Passos/Rodrigues per PF/press); Paulo Gonet (interpretation); Gabriel Galípolo; judge Ricardo Soares Leite
 - **tags:** compliance-zero|power-interlocutor|seal-lift
@@ -1561,7 +1562,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2025-11-17 20:48 — “Estou online”
 - **date:** 2025-11-17
-- **title:** Final reproduced WhatsApp line before arrest
+- **title:** Última linha de WhatsApp reproduzida antes da prisão
 - **summary:** Poder360: at 20:48 (UTC-3) Vorcaro wrote he was going to sign with foreign investors and was “online”; reaction logged as 👍. Prison warrant signed 15:29 same day (Poder360) by judge Ricardo Augusto Soares Leite; arrest at GRU while preparing private jet (Malta then Dubai per Poder360; Dubai per O Globo).
 - **people:** Vorcaro; contact Moraes; Ricardo Soares Leite
 - **tags:** compliance-zero|seal-lift
@@ -1573,7 +1574,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2025-11-17 — Fictor Holding announces Master purchase (R$3 bi)
 - **date:** 2025-11-17
-- **title:** Last-ditch private consortium bid
+- **title:** Última tentativa de oferta de consórcio privado
 - **summary:** G1/Valor: Fictor Holding Financeira + UAE investors announce acquisition with immediate R$3 bi capital injection; still needs BC/Cade. Same day Vorcaro messages about announcing part of transaction and “batidas do esteves.” Arrest/liquidation next day kill the deal; Fictor suspends.
 - **people:** Rafael Góis / Fictor; Vorcaro; UAE investors (unnamed in press)
 - **tags:** master|brb|crisis
@@ -1803,7 +1804,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2026-09-01 — Press caveat cluster (agenda / view-once / Barci dispute)
 - **date:** 2026-09-01
-- **title:** Methodological caveats crystallized in same-day coverage
+- **title:** Caveats metodológicos cristalizados na cobertura do mesmo dia
 - **summary:** Across outlets: (1) “Alexandre de Moraes BRASILIA” is Vorcaro’s address-book label + Brasília number shared by Faria — not alone proof of who held the chip; (2) 24h ephemeral + view-once (5 on 17/11) leave most interlocutor content unrecovered; (3) Barci firm disputes 2nd Viking contract/dação while confirming 1st Master contract and Moraes compliance edit.
 - **people:** Moraes; Barci firm; PF; press
 - **tags:** caveats|seal-lift|barci
