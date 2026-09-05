@@ -3,6 +3,8 @@
 **Merged from:** `/workspace/vorcaro/events-from-press.md` (40) + `/workspace/vorcaro/events-from-primary.md` (62).
 **Compiled:** 4–5 Sep 2026 (America/Sao_Paulo).
 **Editor punch (2026-09-05):** Compact wrong-URL rows retargeted; forensic micro-card cluster note added; ~20 EN compact titles → Portuguese. No full rewrite.
+**Titles 18 (2026-09-05):** audit-quality 18 EN full-card strings already absent (prior PT); residual EN ### swept.
+**Proxy punch (2026-09-05):** compact PT titles (3 EN from pass2) + residual EN title sweep. Source parity + dispute hedges already PASS.
 **Editor gap list patch (2026-09-05b):** restored compact ephemeral 09-17 PF row after over-dedupe.
 **Editor gap list patch (2026-09-05):** Estou-online caveats; compact Viking dispute blurbs; twin URL dedupe check. Valor-bio only on bio rows.
 **Editor titles (2026-09-05):** 18 EN full-card `title` fields → Portuguese. Bodies untouched. Clustering = cloud UI.
@@ -32,7 +34,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 | ~2002–2003 (age 19 per Valor Apr/2025) | Pai entrega empresa de cursos; venda rápida; Multipar | Valor: entrepreneurial path began at 19 when father gave him an educational-courses company; sold soon after; then worked with Henrique at Multipar (family construction/real estate). | https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml |
 | ~2006–2007 (age 23 per Valor) | Casa com Fabíola; depois os filhos Stella e Tiziano | Valor: married Fabíola at 23; father of Stella and Tiziano. Daughter’s 15th birthday party (~2024 relative to Apr/2025 article saying “last year”) reportedly ~R$15 mi with DJ Alok; | https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml |
 | 2016 | Participação minoritária no Banco Máxima em dificuldades (Saul Sabbá) | Valor: banking foray in 2016 when Sabbá’s Máxima faced difficulties and was offered to Vorcaro, who already did FII deals with him. | https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml |
-| 2017-05-17 | Press reports capitalization / path toward control | Valor Econômico reported Máxima, undercapitalized since prior year, closed deal for Vorcaro to inject capital (figures cited in contemporaneous coverage toward tens of millions) and acquire credits against former… | https://valor.globo.com/financas/noticia/2017/05/17/novo-socio-pode-ter-ate-50-do-capital-do-banco-maxima-1.ghtml |
+| 2017-05-17 | Imprensa reporta capitalização / caminho ao controle | Valor Econômico reported Máxima, undercapitalized since prior year, closed deal for Vorcaro to inject capital (figures cited in contemporaneous coverage toward tens of millions) and acquire credits against former… | https://valor.globo.com/financas/noticia/2017/05/17/novo-socio-pode-ter-ate-50-do-capital-do-banco-maxima-1.ghtml |
 | 2018-01 | Gestão ligada a Vorcaro assume o controle operacional | CNN Brazil (rebrand story): after corporate/operational change and later R$400 mi capitalization, Máxima became Master; new management assumed January 2018. | https://www.cnnbrasil.com.br/economia/macroeconomia/apos-mudanca-societaria-e-aporte-de-r-400-mi-banco-maxima-agora-e-banco-master |
 | 2019-10-24 | Banco Central autoriza transferência de controle do Banco Máxima | Valor Investe: BC authorized transfer of control of Banco Máxima and its FX broker to a group led by Daniel Bueno Vorcaro; co-shareholders Armando Miguel Gallo Neto, Felipe Wallace Simonsen and Augusto Ferreira Lima. | https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2019/10/24/bc-autoriza-transferncia-de-controle-do-banco-mxima-para-empresrio-daniel-vorcaro.ghtml |
 | 2021 | Mudança de nome para Banco Master; narrativa de capitalização ~R$ 400 mi | Valor: in 2021 Daniel renamed the bank Master — a suggestion from his son — and made series of billion-real capital injections over the years. | https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml |
@@ -91,7 +93,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 | ~Sep 2025 (Temer on Roda Viva 15/09/2025) | Temer diz que foi chamado a mediar Master–Banco de Brasília após bloqueio do Banco Central | G1 conexões: ex-president Michel Temer said on Roda Viva (15/09/2025) he was called to Brasília ~two weeks earlier with Vorcaro and Ibaneis wanting mediation to formalize the BRB transaction after the original deal was… | https://www1.folha.uol.com.br/mercado/2025/09/master-e-brb-procuram-temer-para-destravar-negocio-apos-recusa-do-banco-central.shtml ; https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb |
 | 2025-09-17 | Contato rotulado “Moraes” ativa mensagens efêmeras 24h | Chat WhatsApp; rótulo de agenda ≠ dono do chip. View-once incompletas. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro.pdf | high |
 | 2025-10-01 | Alerta sobre Pix a Barci; quatro bolhas “apagada pelo remetente” | Vorcaro to Felix: “Mas nao faz barci pix ne?”; Felix said Pix already done to same TED data. Same day window: four Moraes-chat messages marked deleted by sender (PF). | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
-| 2025-10-28 → 2025-11-17 | Apex crisis: notes begging for Galípolo/Andrei/Paulo intervention | O Globo “13 days”: Vorcaro wrote Notes → screenshot → WhatsApp view-once to Moraes-labeled number, seeking to stop liquidation and PF action. | https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml |
+| 2025-10-28 → 2025-11-17 | Ápice da crise: notas pedindo intervenção de Galípolo/Andrei/Paulo | O Globo “13 days”: Vorcaro wrote Notes → screenshot → WhatsApp view-once to Moraes-labeled number, seeking to stop liquidation and PF action. | https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml |
 | 2025-10-28 | Nota forense → WhatsApp 14:04:14 UTC | Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~11:04:26 UTC-3. Nota criada em 14:04:14 UTC. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-10-28 | Primeira nota forense da janela de crise enviada ao nº Moraes BRASILIA | PF registra cadeia Notas→screenshot→PDF temporário→WhatsApp para nota criada ~14:04:14 UTC, com envio ao terminal 556192664093 às ~11:04:26 (UTC-3). Abre a janela de ~52 notas/prints analisados até 17/11. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-10-30 | Nota forense → WhatsApp 16:26:00 UTC (cluster Bacen/abertura) | Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~13:26:14 UTC-3. Nota criada em 16:26:00 UTC. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
@@ -153,7 +155,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 | 2025-11-16 | Nota forense → WhatsApp 21:19:59 UTC (Galípolo / bomba atômica / desarmar) | Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~18:20:18 UTC-3. Nota criada em 21:19:59 UTC. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-11-17 | Dia da decisão de prisão + chat “estou online” + 5 view-once | Manhã 07:19 (UTC-3): 👍 e nota sobre “turma do brb” / “movimento de sacanagem”. 15:29: juiz Ricardo Augusto Soares Leite (10ª VF/DF) assina prisão preventiva (Poder360). | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-11-17 | Última linha de WhatsApp reproduzida antes da prisão | Poder360: at 20:48 (UTC-3) Vorcaro wrote he was going to sign with foreign investors and was “online”; reaction logged as 👍. | https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso |
-| 2025-11-17 | Last-ditch private consortium bid | G1/Valor: Fictor Holding Financeira + UAE investors announce acquisition with immediate R$3 bi capital injection; still needs BC/Cade. | https://g1.globo.com/economia/noticia/2025/11/17/fictor-anuncia-compra-do-banco-master.ghtml |
+| 2025-11-17 | Última tentativa de consórcio privado | G1/Valor: Fictor Holding Financeira + UAE investors announce acquisition with immediate R$3 bi capital injection; still needs BC/Cade. | https://g1.globo.com/economia/noticia/2025/11/17/fictor-anuncia-compra-do-banco-master.ghtml |
 | 2025-11-17 | Nota forense → WhatsApp 10:18:39 UTC (turma do BRB / sacanagem) | Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~07:19:01 UTC-3. Nota criada em 10:18:39 UTC. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-11-17 | Nota forense → WhatsApp 20:22:22 UTC (anunciar parte da transação) | Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~17:22:40 UTC-3. Nota criada em 20:22:22 UTC. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-11-17 | Nota forense → WhatsApp 20:26:02 UTC (Alguma novidade? bloquear?) | Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~17:26:12 UTC-3. Nota criada em 20:26:02 UTC. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
@@ -234,7 +236,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** press
 - **confidence:** high
 
-### 2017-05-17 — Valor: new partner may take up to ~50% of Máxima
+### 2017-05-17 — Valor: novo sócio pode ficar com até ~50% do Máxima
 - **date:** 2017-05-17
 - **title:** Imprensa reporta capitalização / caminho ao controle
 - **summary:** Valor Econômico reported Máxima, undercapitalized since prior year, closed deal for Vorcaro to inject capital (figures cited in contemporaneous coverage toward tens of millions) and acquire credits against former partners, potentially ending near 50% of capital. Later profiles say he “assumed control” in 2017 subject to later BC homologation.
@@ -276,7 +278,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** press
 - **confidence:** high for year/rebrand; medium for exact capital figures (bank PR via CNN)
 
-### 2021–2024 — Acquisition wave (Kovr, Voiter, Banif, Will, Vipal)
+### 2021–2024 — Onda de aquisições (Kovr, Voiter, Banif, Will, Vipal)
 - **date:** 2021–2024 (span)
 - **title:** Série de aquisições financeiras sob a marca Master
 - **summary:** Valor lists acquisitions including insurer Kver/Kovr, bank Voiter (ex-Indusval), Vipal, Banif Brasil and Will. Will Bank deal done with Reag (João Carlos Mansur), who has other businesses with Vorcaro. InfoMoney: Will control Feb/2024; Voiter bought then control sold to Augusto Lima Aug/2025; Kovr later sold to J&F (per InfoMoney).
@@ -396,7 +398,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **confidence:** high
 - **caveats:** OCR do PDF local do contrato Master está fragmentado (camadas); valor líquido/bruto vem do relatório/reportagens que leram o anexo. Escritório confirma assinatura do 1º contrato.
 
-### 2024-01-11 to 2024-01-23 — Barci de Moraes first contract (Master)
+### 2024-01-11 a 2024-01-23 — Primeiro contrato Barci de Moraes (Master)
 - **date:** 2024-01-23 (signature day per PF chronology); drafts from 11–22 Jan
 - **title:** Master × Barci Advogados — ~R$108 mi net / ~R$131.3 mi gross
 - **summary:** Viviane Barci sends draft 11/01; revised return 15/01 with metadata last-modified by user “Ministro Alexandre de Moraes” (PF); firm tells Poder360 Moraes edited at compliance request on impediments; contract signed ~23/01 (Vorcaro + Ângelo Silva). Object: advocacy, legal consulting, compliance. Monthly ~R$3 mi net × 36.
@@ -533,7 +535,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **confidence:** medium
 - **caveats:** Confiança medium para a lista nominativa de participantes e o valor em dólares (Poder360); high para a existência/organização do evento no relatório PF.
 
-### 2024-07 onward — Master cessions of credit books to BRB
+### 2024-07 em diante — Cessões de carteiras de crédito do Master ao BRB
 - **date:** 2024-07 (start per Estadão)
 - **title:** Banco de Brasília injeta liquidez via compra de carteiras de crédito do Master
 - **summary:** Estadão (Apr/2026): dialogues show Master relied on BRB injections at least since Aug/2024 to cover liquidity; cessions of consignado/CCB begin Jul/2024. Folha (Mar/2025 deal story): partnership began Jul/2024 with consignado cessions; acquisition talks late 2024. Later PF thesis: after genuine books, fake Tirreno-linked books from early 2025 (~R$12.2 bi total alleged).
@@ -691,7 +693,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **confidence:** high
 - **caveats:** Barci disputes 2nd contract: escritório disse à Folha (via Poder360) ter assinado só o 1º (Master); nega transferência/substituição; afirma que proposta de quitação “não foi aceita”, “nada foi assinado”, e que o contrato Master extinguiu-se com a liquidação.
 
-### 2025-05 — Viking × Barci second contract + aircraft dação dispute
+### 2025-05 — Segundo contrato Viking × Barci + disputa dação de aeronaves
 - **date:** 2025-05-12 (contract date per PF/resumo)
 - **title:** Segundo contrato Barci (Viking, até R$ 50 mi) e disputa da dação de aeronaves
 - **summary:** PF: Viking Participações × Barci up to R$50 mi (12/05/2025); dação ~R$40 mi aviation assets (Legacy 650, EC155) + ~R$10 mi expenses. Firm to Folha (via Poder360): signed only first Master contract; denies transfer/substitution; says quitação proposal not accepted / “nada foi assinado”; Master contract extinguished by liquidation.
@@ -847,7 +849,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **confidence:** high
 - **caveats:** View-once / disappearing messages incomplete: a partir daqui o histórico do chat fica estruturalmente incompleto; respostas do interlocutor em geral não recuperadas.
 
-### 2025-09-17 — Chat enables 24h disappearing messages
+### 2025-09-17 — Chat ativa mensagens temporárias de 24h
 - **date:** 2025-09-17
 - **title:** Moraes-labeled contact activates 24h ephemeral messages
 - **summary:** PF/Poder360: contact configured new chats to auto-delete after 24h, limiting forensic recovery of replies — key caveat for later “13 days” crisis messages.
@@ -858,7 +860,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **confidence:** high (PF report claim)
 - **caveats:** view-once incompleteness
 
-### 2025-10-01 — “Não faz barci pix”; deleted msgs on Moraes chat
+### 2025-10-01 — “Não faz barci pix”; mensagens apagadas no chat Moraes
 - **date:** 2025-10-01
 - **title:** Pix warning on Barci payments; four “deleted by sender” bubbles
 - **summary:** Vorcaro to Felix: “Mas nao faz barci pix ne?”; Felix said Pix already done to same TED data. Same day window: four Moraes-chat messages marked deleted by sender (PF).
@@ -1658,7 +1660,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** press
 - **confidence:** high
 
-### 2025-11-18 — Operação Compliance Zero (arrests + searches)
+### 2025-11-18 — Operação Compliance Zero (prisões + buscas)
 - **date:** 2025-11-18
 - **title:** PF deflagrates Compliance Zero; Vorcaro arrested
 - **summary:** Valor: PF op against false credit titles in SFN; Vorcaro arrested; four other directors also targets (Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva named by day’s end). Five preventive + two temporary warrants, 25 searches across RJ/SP/MG/BA/DF. Probes began 2024 after MPF request: alleged manufacture of weak credit books sold to another bank, later swapped after BC inspection. Crimes: fraudulent/temerarious management, criminal organization, etc. Alleged Master→BRB false portfolios ~R$12 bi (resumo/Estadão).
@@ -1688,7 +1690,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** press
 - **confidence:** medium-high (secondary synthesis piece)
 
-### 2026-01-14 — Compliance Zero 2ª fase: searches / R$5.7 bi freeze
+### 2026-01-14 — Compliance Zero 2ª fase: buscas / bloqueio de R$ 5,7 bi
 - **date:** 2026-01-14
 - **title:** Searches at Vorcaro family, Zettel, Tanure, Mansur
 - **summary:** G1: second phase — searches at addresses linked to Vorcaro, father, sister, brother-in-law Fabiano Zettel; also Nelson Tanure and João Carlos Mansur (Reag). ~42 addresses; Toffoli-authorized; asset freezes >R$5.7 bi. Haddad called it possibly Brazil’s largest bank fraud; FGC exposure ~R$41 bi CDBs / ~1.6 mi investors cited.
@@ -1728,7 +1730,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** press
 - **confidence:** high
 
-### 2026-04-16 — Ex-BRB president Paulo Henrique Costa arrested
+### 2026-04-16 — Ex-presidente do BRB Paulo Henrique Costa preso
 - **date:** 2026-04-16
 - **title:** 4ª fase: PH Costa arrested over Master portfolio deals
 - **summary:** Estadão: ex-BRB president Paulo Henrique Costa arrested in 4th Compliance Zero phase on suspicion of corruption / irregularities in purchase of R$12.2 bi alleged false Master portfolios. Piece publishes 2024 Vorcaro–Lima urgency chats on BRB money.
@@ -1802,7 +1804,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **confidence:** high
 - **quote:** Com base em tais razões, determino o levantamento do sigilo dos presentes autos.
 
-### 2026-09-01 — Press caveat cluster (agenda / view-once / Barci dispute)
+### 2026-09-01 — Cluster de caveats da imprensa (agenda / view-once / disputa Barci)
 - **date:** 2026-09-01
 - **title:** Caveats metodológicos cristalizados na cobertura do mesmo dia
 - **summary:** Across outlets: (1) “Alexandre de Moraes BRASILIA” is Vorcaro’s address-book label + Brasília number shared by Faria — not alone proof of who held the chip; (2) 24h ephemeral + view-once (5 on 17/11) leave most interlocutor content unrecovered; (3) Barci firm disputes 2nd Viking contract/dação while confirming 1st Master contract and Moraes compliance edit.
