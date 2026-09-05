@@ -9,6 +9,7 @@
 **Editor gap list patch (2026-09-05):** Estou-online caveats; compact Viking dispute blurbs; twin URL dedupe check. Valor-bio only on bio rows.
 **Editor titles (2026-09-05):** 18 EN full-card `title` fields → Portuguese. Bodies untouched. Clustering = cloud UI.
 **Editor punch verify (2026-09-05 23:16 BRT):** sha bump — Compact L53/64/66/68/69/142–148/155 and full Ibaneis/Temer/PH Costa no longer use Valor-bio URL for non-bio claims. Re-audit THIS file (md5 below changes).
+**Mash fix (2026-09-05):** title PF deflagra… → `PF deflagra Compliance Zero; Vorcaro preso` only.
 **EN titles wave2 (2026-09-05):** CoS remaining EN punch → PT (Bacen/BC rejects/Barci líquido/First firm/New board/Moraes 24h/PH Costa/PF 218/BRB fato/BC liquidação/PF deflagra/RAET).
 **Post-B smoke titles (2026-09-05):** 5 EN full-card titles → PT (Ibaneis/Pix/Searches/2ª prisão/IPJ-A).
 **Path B merge (2026-09-05):** +14 PASS cards (items 3–16 minus Voiter/Will TRIM); compulsório quote deduped from Jul/2024 cessões; CLDF voto ≠ Ibaneis sanção.
@@ -175,7 +176,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 | 2025-11-17 | Nota forense → WhatsApp 23:48:12 UTC (estou online) | Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no IPJ-A. Envio ao 556192664093 ~20:48:31 UTC-3. Nota criada em 23:48:12 UTC. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-11-18 | Compliance Zero deflagrada; prisão em Guarulhos; liquidação do Master | PF deflagra Operação Compliance Zero (suspeita de fraudes em cessões de carteiras ~R$ 12 bi Master→BRB). Vorcaro preso no Aeroporto de Guarulhos ao tentar embarcar (jato; destino Malta/Dubai conforme cobertura). | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-11-18 | Liquidação extrajudicial e RAET no Master Múltiplo (Will) | CNN/G1: BC (Galípolo) decrees liquidação of Banco Master S/A, Master de Investimento, Letsbank, Master Corretora; RAET on Banco Master Múltiplo to preserve Will Financeira path. | https://www.cnnbrasil.com.br/economia/negocios/banco-central-decreta-liquidacao-extrajudicial-do-banco-master |
-| 2025-11-18 | Polícia Federal deflagra Compliance Zero; Vorcaro é preso | Valor: PF op against false credit titles in SFN; Vorcaro arrested; four other directors also targets (Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva named by day’s end). | https://valor.globo.com/financas/noticia/2025/11/18/operacao-da-pf-que-prendeu-dono-do-master-mira-emissao-de-titulos-de-credito-falsos.ghtml |
+| 2025-11-18 | PF deflagra Compliance Zero; Vorcaro preso | Valor: PF op against false credit titles in SFN; Vorcaro é preso; four other directors also targets (Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva named by day’s end). | https://valor.globo.com/financas/noticia/2025/11/18/operacao-da-pf-que-prendeu-dono-do-master-mira-emissao-de-titulos-de-credito-falsos.ghtml |
 | 2025-11-20 | TRF-1 indefere 1º habeas; mantém prisão preventiva | Desembargadora Solange Salgado (TRF-1) nega HC; cita “fraude sistêmica”. ≠ soltura 28/11. | https://valor.globo.com/financas/noticia/2025/11/20/priso-de-daniel-vorcaro-dono-do-banco-master-mantida-pela-justia.ghtml | high |
 | 2025-11-24 | Vorcaro transferido ao CDP 2 Guarulhos | Transferência da Superintendência PF SP ao CDP Guarulhos; defesa protocola HC no STJ. ≠ prisão GRU 17–18/11. | https://valor.globo.com/financas/noticia/2025/11/24/vorcaro-transferido-para-presdio-em-guarulhos.ghtml | high |
 | 2025-11-28 | Soltura com tornozeleira eletrônica e restrições (Tribunal Regional Federal da 1ª Região) | G1: Desembargadora Solange Salgado da Silva orders release of Vorcaro, Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva. | https://g1.globo.com/df/distrito-federal/noticia/2025/11/28/trf-1-manda-soltar-daniel-vorcaro-dono-do-banco-master.ghtml |
@@ -1781,7 +1782,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2025-11-18 — Operação Compliance Zero (prisões + buscas)
 - **date:** 2025-11-18
-- **title:** PF deflagra Compliance Zero; Vorcaro preso Compliance Zero; Vorcaro arrested
+- **title:** PF deflagra Compliance Zero; Vorcaro preso
 - **summary:** Valor: PF op against false credit titles in SFN; Vorcaro arrested; four other directors also targets (Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva named by day’s end). Five preventive + two temporary warrants, 25 searches across RJ/SP/MG/BA/DF. Probes began 2024 after MPF request: alleged manufacture of weak credit books sold to another bank, later swapped after BC inspection. Crimes: fraudulent/temerarious management, criminal organization, etc. Alleged Master→BRB false portfolios ~R$12 bi (resumo/Estadão).
 - **people:** Vorcaro; Lima; Bull; Felix; Ângelo Silva; MPF; PF; judge Ricardo Leite
 - **tags:** compliance-zero|brb|master
