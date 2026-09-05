@@ -131,47 +131,6 @@
   notes: >-
     Citação completa da resposta de Vorcaro aparece de forma mais limpa em reportagens que
     transcrevem a figura; no txt OCR o diálogo aparece em figuras.
-- id: 2024-01-01-segundo-aporte-saf-atletico-galo-holding-r-200-mi-26-9
-  date: "2024-01-01"
-  date_precision: year
-  title: Segundo aporte SAF Atlético / Galo Holding (~R$200 mi → ~26,9%)
-  summary: >-
-    Após entrada em 2023 (~R$100 mi / ~8,2% via Galo Forte FIP), Vorcaro injeta cerca de
-    R$200 milhões em 2024 e chega a ~26,9% da Galo Holding (atrás de Rubens/Rafael Menin
-    ~55,7%). UOL (18/11/2025, com Estadão Conteúdo) consolida os dois aportes; ge
-    (mar–jun/2024) documenta a expectativa contemporânea do aporte de R$200 mi parcelado
-    (abatimento de dívidas / base). Alinha-se à fatia ~27% citada em perfis posteriores.
-  people:
-    - name: Daniel Bueno Vorcaro
-      id: daniel-bueno-vorcaro
-    - name: Rubens Menin
-    - name: Rafael Menin
-  tags:
-    - bio
-    - atletico
-    - galo-holding
-    - saf
-  sources:
-    - url: >-
-        https://economia.uol.com.br/noticias/redacao/2025/11/18/socio-do-atletico-mineiro-e-dono-de-mansoes-quem-e-daniel-vorcaro.htm
-      publisher: economia.uol.com.br
-      accessed: "2026-09-05"
-      quote: —
-    - url: >-
-        https://ge.globo.com/futebol/times/atletico-mg/noticia/2024/06/01/atletico-mg-espera-parcela-de-aporte-de-r-200-milhoes-do-fundo-galo-forte-neste-mes.ghtml
-      publisher: ge.globo.com
-      accessed: "2026-09-05"
-    - url: >-
-        https://ge.globo.com/futebol/times/atletico-mg/noticia/2024/03/11/saf-do-atletico-mg-ainda-aguarda-r-200-milhoes-do-fundo-galo-forte-cair-na-conta-entende.ghtml
-      publisher: ge.globo.com
-      accessed: "2026-09-05"
-  evidence_type: press
-  confidence: medium
-  notes: >-
-    Data produto `2024-01-01` é placeholder de ano — usar **2024** (sem dia). Percentuais/R$
-    variam levemente entre outlets (~26,9% / 26,88% / ~27%). Não confundir com o cluster SoT
-    Fasano/Trancoso/SAF (cita fatia, não o 2º aporte). Controvérsias posteriores sobre
-    origem do Galo Forte FIP (2025–2026) são fatos separados.
 - id: 2024-01-11-vivi-moraes-envia-minuta-metadados-ministro-alexandre-de-moraes
   date: "2024-01-11"
   date_precision: day
@@ -810,42 +769,11 @@
         https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia
       publisher: Estadão
       accessed: "2026-09-05"
-      quote: — (compulsório 02/09/2024 moved to day-card `### 2024-09-02`)
-  evidence_type: press
-  confidence: high
-- id: 2024-09-02-vorcaro-lima-usar-compulsorio-se-dinheiro-do-brb-nao-vier
-  date: "2024-09-02"
-  date_precision: day
-  title: "Vorcaro→Lima: “usar compulsório” se dinheiro do BRB não vier"
-  summary: >-
-    Estadão (18/04/2026) publica mensagem de 2/09/2024 em que Daniel Vorcaro pergunta a
-    Augusto Lima se há notícia do BRB; se o recurso não entrar, terá de devolver o dinheiro
-    de sexta e “usar compulsório hoje”. No dia seguinte cobra CCB pendente há ~15 dias;
-    Lima: “fazem até quinta.” Marco pontual dentro do fluxo de cessões Master→BRB iniciado
-    em jul/2024, evidência de tensão de liquidez meses antes do SPA.
-  people:
-    - name: Daniel Bueno Vorcaro
-      id: daniel-bueno-vorcaro
-    - name: Augusto Ferreira Lima
-      id: augusto-lima
-  tags:
-    - brb
-    - master
-    - liquidity
-    - messages
-  sources:
-    - url: >-
-        https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia
-      publisher: Estadão
-      accessed: "2026-09-05"
       quote: >-
         Tem notícia do BRB? Se não vier vou ter que devolver a grana de sexta e vamos usar
-        compulsório hoje
+        compulsório hoje” (02/09/2024, Vorcaro→Lima, Estadão)
   evidence_type: press
   confidence: high
-  notes: >-
-    Quote isolada neste card (dedupe do card SoT Jul/2024 cessões). Mensagens = extratos de
-    celular via imprensa/PF — não julgamento.
 - id: 2024-11-15-vorcaro-diz-a-filha-stella-que-esta-com-alexandre-moraes
   date: "2024-11-15"
   date_precision: day
@@ -905,37 +833,3 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
-- id: 2025-01-01-vinte-contratos-master-brb-r-4-6-bi-antes-do-anuncio-de-compra
-  date: "2025-01-01"
-  date_precision: month
-  title: Vinte contratos Master→BRB (~R$4,6 bi) antes do anúncio de compra
-  summary: >-
-    Segundo o Estadão, antes do anúncio oficial da oferta de compra, o Master já havia
-    repassado R$4,6 bilhões ao BRB em 20 contratos: seis em janeiro (R$1,66 bi), seis em
-    fevereiro (R$1,82 bi) e oito em março (R$1,12 bi). A mesma linha investigativa situa
-    carteiras ligadas à Tirreno a partir de jan/2025 e total alegado de carteiras podres
-    ~R$12,2 bi. Reforça que a relação financeira bilionária antecede o SPA de 28/03/2025.
-  people:
-    - name: Daniel Bueno Vorcaro
-      id: daniel-bueno-vorcaro
-    - name: Paulo Henrique Costa
-      id: paulo-henrique-costa
-      role: contexto BRB
-    - name: Tirreno
-  tags:
-    - brb
-    - master
-    - tirreno
-    - compliance-zero
-  sources:
-    - url: >-
-        https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia
-      publisher: Estadão
-      accessed: "2026-09-05"
-      quote: —
-  evidence_type: press
-  confidence: high
-  notes: >-
-    Data produto `2025-01-01` é placeholder — preferir span **2025-01→2025-03**. “Carteiras
-    falsas” / Tirreno = tese PF/imprensa. Não duplica o card SoT de início das cessões
-    (Jul/2024) nem o SPA 28/03.

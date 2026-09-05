@@ -336,8 +336,8 @@ function main() {
   const md = fs.readFileSync(mdPath, "utf8");
   const { entries } = loadPeopleIndex();
   const cards = parseCards(md);
-  if (cards.length !== 166) {
-    console.warn(`Esperado 166 cards; encontrados ${cards.length}.`);
+  if (cards.length !== 152) {
+    console.warn(`Esperado 152 cards; encontrados ${cards.length}.`);
   }
 
   const usedIds = new Set();

@@ -247,18 +247,18 @@ if (!firstTimed || eventClock(firstTimed) !== "101839") {
   );
 }
 
-if (events.length !== 166) {
+if (events.length !== 152) {
   errors.push(
-    `Corpus deve ter exatamente 166 eventos da timeline SoT (bce0053a); encontrados ${events.length}.`,
+    `Corpus deve ter exatamente 152 eventos da timeline SoT (0d52501f); encontrados ${events.length}.`,
   );
 }
 
 const timelineCards = parseTimelineCards(
   fs.readFileSync(path.join(root, "content", "timeline-eventos.md"), "utf8"),
 );
-if (timelineCards.length !== 166) {
+if (timelineCards.length !== 152) {
   errors.push(
-    `content/timeline-eventos.md deveria ter 166 cards completos; encontrados ${timelineCards.length}.`,
+    `content/timeline-eventos.md deveria ter 152 cards completos; encontrados ${timelineCards.length}.`,
   );
 }
 const primaryCards = parseMarkdownCards(
