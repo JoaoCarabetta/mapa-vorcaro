@@ -32,7 +32,7 @@
     ],
     "evidence_type": "press",
     "confidence": "high",
-    "notes": "Exact civil birth certificate not in local press dumps."
+    "notes": "Certidão civil de nascimento não está nos dumps de imprensa locais."
   },
   {
     "id": "2000-01-01-escola-de-elite-em-belo-horizonte-e-economia-mba-no-ibmec",
@@ -90,7 +90,7 @@
     ],
     "evidence_type": "press",
     "confidence": "medium",
-    "notes": "Exact sale year not given."
+    "notes": "O ano exato da venda não é informado."
   },
   {
     "id": "2006-01-01-casa-com-fabiola-depois-os-filhos-stella-e-tiziano",
@@ -126,7 +126,7 @@
     ],
     "evidence_type": "press",
     "confidence": "medium",
-    "notes": "Party cost is press estimate (“teria custado”)."
+    "notes": "O custo da festa é estimativa da imprensa (“teria custado”)."
   },
   {
     "id": "2016-01-01-participacao-minoritaria-no-banco-maxima-em-dificuldades-saul-sabba",
@@ -207,7 +207,7 @@
     ],
     "evidence_type": "press",
     "confidence": "high",
-    "notes": "Exact closing percentages evolved in later 2017–2019 coverage."
+    "notes": "Os percentuais finais mudam na cobertura posterior de 2017–2019."
   },
   {
     "id": "2018-01-01-gestao-ligada-a-vorcaro-assume-o-controle-operacional",
@@ -484,7 +484,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Agenda label ≠ proven chip owner: a PF atribui o terminal ao rótulo salvo; o celular de Moraes não foi periciado neste IPJ-A.; mandatory agenda≠owner warning"
+    "notes": "Rótulo de agenda ≠ dono do chip comprovado: a PF atribui o terminal ao rótulo salvo; o celular de Moraes não foi periciado neste IPJ-A.; mandatory agenda≠owner warning"
   },
   {
     "id": "2023-12-27-fabio-fala-de-almoco-de-alex-no-six-senses",
@@ -2235,7 +2235,7 @@
     ],
     "evidence_type": "press",
     "confidence": "high",
-    "notes": "Barci 2nd-contract dispute — report both sides"
+    "notes": "Disputa do segundo contrato Barci — registrar os dois lados."
   },
   {
     "id": "2025-05-19-termo-de-acordo-e-dacao-viking-barci-aviao-helicoptero",
@@ -2866,7 +2866,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "View-once / disappearing messages incomplete: a partir daqui o histórico do chat fica estruturalmente incompleto; respostas do interlocutor em geral não recuperadas."
+    "notes": "Visualização única / mensagens efêmeras incompletas: a partir daqui o histórico do chat fica estruturalmente incompleto; respostas do interlocutor em geral não recuperadas."
   },
   {
     "id": "2025-09-17-contato-rotulado-moraes-ativa-mensagens-efemeras-de-24h-2",
@@ -2920,7 +2920,7 @@
     ],
     "evidence_type": "press",
     "confidence": "high",
-    "notes": "view-once incompleteness"
+    "notes": "Histórico incompleto por visualização única."
   },
   {
     "id": "2025-10-01-alerta-sobre-pix-a-barci-quatro-bolhas-apagadas-pelo-remetente",
@@ -3058,7 +3058,7 @@
     ],
     "evidence_type": "press",
     "confidence": "high",
-    "notes": "agenda≠owner; view-once; PF non-exhaustive 72h analysis",
+    "notes": "Rótulo de agenda ≠ dono do chip; visualização única; análise da PF em 72h não é exaustiva.",
     "date_end": "2025-11-17"
   },
   {
@@ -3099,7 +3099,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-10-28",
     "cluster_role": "child"
   },
@@ -3156,7 +3156,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor em geral não recuperadas. Texto integral desta nota específica não está OCR’d de forma legível no .txt; evento ancorado nos metadados forenses.",
+    "notes": "Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor em geral não recuperadas. Texto integral desta nota específica não está em OCR de forma legível no .txt; evento ancorado nos metadados forenses.",
     "cluster_id": "forense-2025-10-28",
     "cluster_role": "parent"
   },
@@ -3198,7 +3198,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-10-30",
     "cluster_role": "child"
   },
@@ -3240,7 +3240,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-10-30",
     "cluster_role": "child"
   },
@@ -3282,7 +3282,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-10-30",
     "cluster_role": "child"
   },
@@ -3324,7 +3324,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-10-30",
     "cluster_role": "child"
   },
@@ -3366,7 +3366,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-10-30",
     "cluster_role": "child"
   },
@@ -3408,7 +3408,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-10-30",
     "cluster_role": "child"
   },
@@ -3450,7 +3450,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-10-30",
     "cluster_role": "child"
   },
@@ -3508,7 +3508,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor em geral não recuperadas. PF interpreta Andrei≈Andrei Passos (DG/PF) e Paulo≈Paulo Gonet (PGR); “G” pode ser Galípolo — hipótese, não prova biográfica.",
+    "notes": "Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor em geral não recuperadas. PF interpreta Andrei≈Andrei Passos (DG/PF) e Paulo≈Paulo Gonet (PGR); “G” pode ser Galípolo — hipótese, não prova biográfica.",
     "cluster_id": "forense-2025-10-30",
     "cluster_role": "parent"
   },
@@ -3550,7 +3550,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-04",
     "cluster_role": "child"
   },
@@ -3592,7 +3592,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-04",
     "cluster_role": "child"
   },
@@ -3634,7 +3634,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-04",
     "cluster_role": "child"
   },
@@ -3676,7 +3676,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-04",
     "cluster_role": "child"
   },
@@ -3718,7 +3718,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-04",
     "cluster_role": "child"
   },
@@ -3760,7 +3760,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-04",
     "cluster_role": "child"
   },
@@ -3802,7 +3802,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-04",
     "cluster_role": "child"
   },
@@ -3860,7 +3860,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor em geral não recuperadas.",
+    "notes": "Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor em geral não recuperadas.",
     "cluster_id": "forense-2025-11-04",
     "cluster_role": "parent"
   },
@@ -3902,7 +3902,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-05",
     "cluster_role": "child"
   },
@@ -3944,7 +3944,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-05",
     "cluster_role": "child"
   },
@@ -3986,7 +3986,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-05",
     "cluster_role": "child"
   },
@@ -4028,7 +4028,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-05",
     "cluster_role": "child"
   },
@@ -4086,7 +4086,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor em geral não recuperadas.",
+    "notes": "Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor em geral não recuperadas.",
     "cluster_id": "forense-2025-11-05",
     "cluster_role": "parent"
   },
@@ -4128,7 +4128,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-06",
     "cluster_role": "child"
   },
@@ -4170,7 +4170,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-06",
     "cluster_role": "child"
   },
@@ -4179,7 +4179,7 @@
     "date": "2025-11-06",
     "date_precision": "day",
     "title": "Novos envios de notas/prints ao contato Moraes BRASILIA",
-    "summary": "PF registra múltiplas cadeias forenses Notas→WhatsApp neste dia (envios ~16:26–22:33 UTC-3). Texto integral de cada nota não totalmente OCR’d no .txt; episódio documentado pelos timestamps 1:1.",
+    "summary": "PF registra múltiplas cadeias forenses Notas→WhatsApp neste dia (envios ~16:26–22:33 UTC-3). Texto integral de cada nota não está todo em OCR no .txt; episódio documentado pelos timestamps 1:1.",
     "people": [
       {
         "name": "Daniel Bueno Vorcaro",
@@ -4227,7 +4227,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor em geral não recuperadas. Sem transcrição jornalística específica isolada para 06/11 nas fontes locais; high para o fato do envio, medium para o teor.",
+    "notes": "Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor em geral não recuperadas. Sem transcrição jornalística específica isolada para 06/11 nas fontes locais; alta para o fato do envio, média para o teor.",
     "cluster_id": "forense-2025-11-06",
     "cluster_role": "parent"
   },
@@ -4269,7 +4269,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-07",
     "cluster_role": "child"
   },
@@ -4311,7 +4311,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-07",
     "cluster_role": "child"
   },
@@ -4369,7 +4369,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor em geral não recuperadas.",
+    "notes": "Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor em geral não recuperadas.",
     "cluster_id": "forense-2025-11-07",
     "cluster_role": "parent"
   },
@@ -4426,7 +4426,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor em geral não recuperadas. Teor não transcrito nas fontes locais usadas.",
+    "notes": "Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor em geral não recuperadas. Teor não transcrito nas fontes locais usadas.",
     "cluster_id": "forense-2025-11-10",
     "cluster_role": "parent"
   },
@@ -4468,7 +4468,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-10",
     "cluster_role": "child"
   },
@@ -4525,7 +4525,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor em geral não recuperadas. Teor não transcrito nas fontes locais usadas.",
+    "notes": "Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor em geral não recuperadas. Teor não transcrito nas fontes locais usadas.",
     "cluster_id": "forense-2025-11-11",
     "cluster_role": "parent"
   },
@@ -4567,7 +4567,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-11",
     "cluster_role": "child"
   },
@@ -4624,7 +4624,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor em geral não recuperadas.",
+    "notes": "Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor em geral não recuperadas.",
     "cluster_id": "forense-2025-11-12",
     "cluster_role": "parent"
   },
@@ -4666,7 +4666,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-12",
     "cluster_role": "child"
   },
@@ -4708,7 +4708,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-12",
     "cluster_role": "child"
   },
@@ -4750,7 +4750,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-12",
     "cluster_role": "child"
   },
@@ -4792,7 +4792,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-12",
     "cluster_role": "child"
   },
@@ -4850,7 +4850,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor em geral não recuperadas.",
+    "notes": "Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor em geral não recuperadas.",
     "cluster_id": "forense-2025-11-14",
     "cluster_role": "parent"
   },
@@ -4892,7 +4892,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-14",
     "cluster_role": "child"
   },
@@ -4934,7 +4934,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-14",
     "cluster_role": "child"
   },
@@ -4976,7 +4976,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-14",
     "cluster_role": "child"
   },
@@ -5034,7 +5034,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor em geral não recuperadas.",
+    "notes": "Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor em geral não recuperadas.",
     "cluster_id": "forense-2025-11-15",
     "cluster_role": "parent"
   },
@@ -5076,7 +5076,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-15",
     "cluster_role": "child"
   },
@@ -5118,7 +5118,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-15",
     "cluster_role": "child"
   },
@@ -5160,7 +5160,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-15",
     "cluster_role": "child"
   },
@@ -5218,7 +5218,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor em geral não recuperadas.",
+    "notes": "Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor em geral não recuperadas.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "parent"
   },
@@ -5260,7 +5260,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -5302,7 +5302,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -5344,7 +5344,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -5386,7 +5386,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -5428,7 +5428,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -5470,7 +5470,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -5512,7 +5512,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -5554,7 +5554,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -5596,7 +5596,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -5638,7 +5638,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -5680,7 +5680,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -5722,7 +5722,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -5779,7 +5779,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "View-once incomplete. Preferir 20h48 (UTC-3) do relatório/anexo; algumas matérias citam 23h48. Agenda label ≠ chip owner.",
+    "notes": "Visualização única incompleta. Preferir 20h48 (UTC-3) do relatório/anexo; algumas matérias citam 23h48. Rótulo de agenda ≠ dono do chip.",
     "cluster_id": "forense-2025-11-17",
     "cluster_role": "parent"
   },
@@ -5821,7 +5821,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-17",
     "cluster_role": "child"
   },
@@ -5863,7 +5863,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-17",
     "cluster_role": "child"
   },
@@ -5905,7 +5905,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-17",
     "cluster_role": "child"
   },
@@ -5947,7 +5947,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-17",
     "cluster_role": "child"
   },
@@ -5989,7 +5989,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do carimbo/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-17",
     "cluster_role": "child"
   },
@@ -6026,7 +6026,7 @@
     ],
     "evidence_type": "press",
     "confidence": "high",
-    "notes": "View-once / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip comprovado. some outlets say arrest night of 17 vs morning 18 — use PF/Poder360 chronology"
+    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip comprovado. Parte da imprensa situa a prisão na noite do dia 17, parte na manhã do dia 18 — usar a cronologia da PF/Poder360."
   },
   {
     "id": "2025-11-17-ultima-tentativa-de-oferta-de-consorcio-privado",
@@ -6723,7 +6723,7 @@
     ],
     "evidence_type": "press",
     "confidence": "high",
-    "notes": "PF itself: analysis “não possui caráter exaustivo”"
+    "notes": "A própria PF: a análise “não possui caráter exaustivo”."
   },
   {
     "id": "2026-08-27-pf-entrega-ipj-a-3298613-2026-relatorio-218-p-a-mendonca",
@@ -6860,7 +6860,7 @@
     ],
     "evidence_type": "press",
     "confidence": "high",
-    "notes": "this card is meta — do not treat as a discrete “event” of influence"
+    "notes": "Esta ficha é meta — não tratar como um “evento” discreto de influência."
   },
   {
     "id": "2026-09-01-mendonca-levanta-sigilo-da-pet-16-662-e-manda-ao-plenario",
