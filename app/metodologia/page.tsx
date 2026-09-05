@@ -11,6 +11,8 @@ export default function MetodologiaPage() {
     ["primary_document", "court", "official"].includes(e.evidence_type),
   ).length;
   const nov16 = events.filter((e) => e.date === "2025-11-16").length;
+  const forensicChildren = events.filter((e) => e.cluster_role === "child").length;
+  const forensicParents = events.filter((e) => e.cluster_role === "parent").length;
 
   return (
     <div className="wrap prose">
@@ -60,6 +62,14 @@ export default function MetodologiaPage() {
         divergir do markdown da <code>main</code>, o markdown/YAML sourced ganha. Sem
         URL http, o evento não entra.
       </p>
+      <p>
+        A tabela compacta do markdown (~150 linhas) também <strong>não</strong> é o
+        esquema do site. Um audit editorial flagrou URL do perfil Valor “forasteiro”
+        (3 abr 2025) colada em fichas que não são bio. Os cards completos (152) e o
+        YAML é que mandam. A diferença 150 vs 152 é dedupe suave (gêmeos compactos /
+        linhas fundidas), não perda de fato. A URL do perfil Valor só entra em ficha
+        de bio ou como corroboração explícita (ex.: Reag/Mansur no Will).
+      </p>
 
       <h2>O que não entra</h2>
       <p>
@@ -89,6 +99,12 @@ export default function MetodologiaPage() {
         Aberto: linhas (título, evidência, editora). A ficha completa fica em{" "}
         <code>/eventos/…</code>. Não inventamos teor de nota cujo OCR não está no
         material.
+      </p>
+      <p>
+        Contagem honesta: {forensicChildren} microfichas-filhas (carimbo de tempo)
+        sob {forensicParents} pais do dia na janela 28/out–17/nov/2025. A nota de
+        esquema no markdown falava em “cerca de 53”; o YAML deste site tem{" "}
+        {forensicChildren} filhos. Não arredondamos de volta para 53.
       </p>
 
       <h2 id="ressalvas">Ressalvas que não podem sumir</h2>

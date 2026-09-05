@@ -439,15 +439,20 @@
     - growth
   sources:
     - url: >-
+        https://valor.globo.com/financas/noticia/2024/02/23/banco-master-compra-will-bank-e-amplia-posicao-no-varejo.ghtml
+      publisher: Valor Econômico
+      accessed: "2026-09-05"
+      title: Banco Master compra Will Bank e amplia posição no varejo
+    - url: >-
         https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml
       publisher: Valor Econômico
       accessed: "2026-09-05"
-    - url: >-
-        https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb
-      publisher: Agência Brasil
-      accessed: "2026-09-05"
+      title: Forasteiro na Faria Lima (Reag / Mansur no perfil)
   evidence_type: press
   confidence: high
+  notes: >-
+    Anúncio do controle: Valor 23/02/2024. O perfil de abr/2025 entra só para a
+    associação Reag/Mansur — não como URL-curinga de bio em ficha que não é bio.
 - id: 2024-02-02-anotacoes-de-networking-social-politico-intermediado-por-faria
   date: "2024-02-02"
   date_precision: day
