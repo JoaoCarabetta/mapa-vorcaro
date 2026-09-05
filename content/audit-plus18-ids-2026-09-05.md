@@ -1,5 +1,6 @@
 # +18 classify — ids + urls (tip `982035e`, SoT `0d52501f` = 152)
-Method: greedy match export↔full-card titles; leftovers = extras. Count leftover **24** (matcher); editorial DUPE/NEW below for A trim vs B. Default SoT=152.
+Method: greedy match export↔full-card titles; leftovers = extras. Default SoT=152.
+Proxy amend 2026-09-05: Will + Voiter → A TRIM.
 
 ## DUPE → A TRIM NOW (same fact as SoT card; drop from export)
 | id | url | SoT twin |
@@ -14,12 +15,12 @@ Method: greedy match export↔full-card titles; leftovers = extras. Count leftov
 | `2026-04-16-4-fase-ph-costa-arrested-over-master-portfolio-deals` | https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-cumpre-prisao-de-ex-presidente-do-brb-em-nova-fase-de-operacao-sobre-crimes-do-banco-master/ | PH Costa 4ª fase |
 | `2023-01-01-fasano-itaim-e-primeira-tranche-saf-atletico` | https://economia.uol.com.br/noticias/redacao/2025/11/18/socio-do-atletico-mineiro-e-dono-de-mansoes-e-empresas-parceiro-de-vorcaro.htm | Fasano/SAF lifestyle SoT |
 | `2022-01-01-zettel-maior-doador-pessoa-fisica-campanha-bolsonaro` | https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml | **DUPE/weak** — Valor bio URL; fold into lifestyle/Zettel or cut |
+| `2024-02-23-master-anuncia-controle-do-will-bank` | https://valor.globo.com/financas/noticia/2024/02/23/banco-master-compra-will-bank-e-amplia-posicao-no-varejo.ghtml | SoT Will Bank Feb/2024 |
+| `2024-02-06-master-anuncia-compra-do-voiter-ex-indusval` | https://valor.globo.com/financas/noticia/2024/02/06/banco-master-compra-voiter-antigo-indusval.ghtml | TRIM into 2021–2024 wave (proxy); optional B split later, not blocking |
 
 ## NEW → B only (https ok; add to timeline + Editor PASS before keep in export)
 | id | url |
 |---|---|
-| `2024-02-06-master-anuncia-compra-do-voiter-ex-indusval` | https://valor.globo.com/financas/noticia/2024/02/06/banco-master-compra-voiter-antigo-indusval.ghtml |
-| `2024-02-23-master-anuncia-controle-do-will-bank` | https://valor.globo.com/financas/noticia/2024/02/23/banco-master-compra-will-bank-e-amplia-posicao-no-varejo.ghtml |
 | `2024-01-01-segundo-aporte-galo-holding-saf-atletico` | https://economia.uol.com.br/noticias/redacao/2025/11/18/socio-do-atletico-mineiro-e-dono-de-mansoes-e-empresas-parceiro-de-vorcaro.htm |
 | `2024-09-02-vorcaro-a-lima-usar-compulsorio-se-dinheiro-do-brb-nao-vier` | https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia/ |
 | `2025-01-01-vinte-contratos-master-brb-antes-do-anuncio-de-compra` | https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia/ |
@@ -34,7 +35,7 @@ Method: greedy match export↔full-card titles; leftovers = extras. Count leftov
 | `2026-09-03-fachin-abre-pet-16-704-esclarecimentos-apos-avalanche-de-sigilo` | https://noticias.r7.com/brasilia/fachin-tira-do-inquerito-das-fake-news-pedido-de-moraes-para-investigar-vorcaro/ |
 
 ## Note on count
-Export 170 − SoT 152 = **+18**. Table lists **10 DUPE + 14 NEW = 24** unmatched by matcher (includes retitle duplicates of Ibaneis×3). Net: trim all DUPE (+ overlapping Ibaneis retitles); B-track NEW only with proxy reopen. After A trim of DUPEs, remaining NEW must not stay in export until B.
+Export 170 − SoT 152 = **+18**. After proxy amend: **12 DUPE TRIM** (Ibaneis×3 + Will + Voiter + …) + **12 NEW B**. A trim DUPEs → export 152. NEW stay out until B.
 
 ## Verdict
-No silent trim until this list acted. Still REJEITADO.
+Still REJEITADO on trim+chrome+UX. B parallel remaining NEW.
