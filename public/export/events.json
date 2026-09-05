@@ -349,6 +349,59 @@
     "confidence": "high"
   },
   {
+    "id": "2022-10-01-fabiano-zettel-maior-doador-pf-das-campanhas-bolsonaro-e-tarcisio-2022",
+    "date": "2022-10-01",
+    "date_precision": "month",
+    "title": "Fabiano Zettel maior doador PF das campanhas Bolsonaro e Tarcísio 2022",
+    "summary": "Valor (19/10/2022): o advogado e pastor Fabiano Campos Zettel torna-se o maior financiador pessoa física da campanha de reeleição de Jair Bolsonaro e também o maior doador individual de Tarcísio de Freitas (governo SP), com ~R$5,01 mi no total a três candidaturas (4º maior doador do país naquele ciclo, atrás de Ometto/Grendene/Mattar). CBN (15/01/2026): R$3 mi a Bolsonaro + R$2 mi a Tarcísio (TSE). Zettel é cunhado de Daniel Vorcaro (casado com Natália).",
+    "people": [
+      {
+        "name": "Fabiano Campos Zettel"
+      },
+      {
+        "name": "Natália Vorcaro",
+        "id": "natalia-vorcaro"
+      },
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Jair Bolsonaro"
+      },
+      {
+        "name": "Tarcísio de Freitas"
+      }
+    ],
+    "tags": [
+      "bio",
+      "politics",
+      "zettel",
+      "power-interlocutor"
+    ],
+    "sources": [
+      {
+        "url": "https://valor.globo.com/politica/eleicoes-2022/noticia/2022/10/19/pastor-e-maior-doador-bolsonarista.ghtml",
+        "publisher": "Valor Econômico",
+        "accessed": "2026-09-05",
+        "quote": "—"
+      },
+      {
+        "url": "https://cbn.globo.com/politica/noticia/2026/01/15/cunhado-do-dono-do-banco-master-destinou-r-5-milhoes-as-campanhas-de-bolsonaro-e-tarcisio-em-2022.ghtml",
+        "publisher": "cbn.globo.com",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml",
+        "publisher": "Valor Econômico",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high",
+    "notes": "(1) Data produto `2022-01-01` é falsa precisão — preferir **2022-10** ou **2022**. (2) “Maior doador” = ranking PF daquelas campanhas na janela Valor (out/2022), não prova de elo operacional Master↔campanha. (3) Doações legais sob regras TSE; não implica crime. (4) Não é twin dos cards SoT de prisão/buscas Zettel 2026."
+  },
+  {
     "id": "2023-12-21-fabio-faria-pede-placa-carro-e-encontro-em-tucuma-99",
     "date": "2023-12-21",
     "date_precision": "day",
@@ -510,6 +563,52 @@
     "evidence_type": "primary_document",
     "confidence": "medium",
     "notes": "Citação completa da resposta de Vorcaro aparece de forma mais limpa em reportagens que transcrevem a figura; no txt OCR o diálogo aparece em figuras."
+  },
+  {
+    "id": "2024-01-01-segundo-aporte-saf-atletico-galo-holding-r-200-mi-26-9",
+    "date": "2024-01-01",
+    "date_precision": "year",
+    "title": "Segundo aporte SAF Atlético / Galo Holding (~R$200 mi → ~26,9%)",
+    "summary": "Após entrada em 2023 (~R$100 mi / ~8,2% via Galo Forte FIP), Vorcaro injeta cerca de R$200 milhões em 2024 e chega a ~26,9% da Galo Holding (atrás de Rubens/Rafael Menin ~55,7%). UOL (18/11/2025, com Estadão Conteúdo) consolida os dois aportes; ge (mar–jun/2024) documenta a expectativa contemporânea do aporte de R$200 mi parcelado (abatimento de dívidas / base). Alinha-se à fatia ~27% citada em perfis posteriores.",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Rubens Menin"
+      },
+      {
+        "name": "Rafael Menin"
+      }
+    ],
+    "tags": [
+      "bio",
+      "atletico",
+      "galo-holding",
+      "saf"
+    ],
+    "sources": [
+      {
+        "url": "https://economia.uol.com.br/noticias/redacao/2025/11/18/socio-do-atletico-mineiro-e-dono-de-mansoes-quem-e-daniel-vorcaro.htm",
+        "publisher": "economia.uol.com.br",
+        "accessed": "2026-09-05",
+        "quote": "—"
+      },
+      {
+        "url": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2024/06/01/atletico-mg-espera-parcela-de-aporte-de-r-200-milhoes-do-fundo-galo-forte-neste-mes.ghtml",
+        "publisher": "ge.globo.com",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2024/03/11/saf-do-atletico-mg-ainda-aguarda-r-200-milhoes-do-fundo-galo-forte-cair-na-conta-entende.ghtml",
+        "publisher": "ge.globo.com",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "medium",
+    "notes": "Data produto `2024-01-01` é placeholder de ano — usar **2024** (sem dia). Percentuais/R$ variam levemente entre outlets (~26,9% / 26,88% / ~27%). Não confundir com o cluster SoT Fasano/Trancoso/SAF (cita fatia, não o 2º aporte). Controvérsias posteriores sobre origem do Galo Forte FIP (2025–2026) são fatos separados."
   },
   {
     "id": "2024-01-11-vivi-moraes-envia-minuta-metadados-ministro-alexandre-de-moraes",
@@ -1319,11 +1418,45 @@
         "url": "https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia",
         "publisher": "Estadão",
         "accessed": "2026-09-05",
-        "quote": "Tem notícia do BRB? Se não vier vou ter que devolver a grana de sexta e vamos usar compulsório hoje” (02/09/2024, Vorcaro→Lima, Estadão)"
+        "quote": "— (compulsório 02/09/2024 moved to day-card `### 2024-09-02`)"
       }
     ],
     "evidence_type": "press",
     "confidence": "high"
+  },
+  {
+    "id": "2024-09-02-vorcaro-lima-usar-compulsorio-se-dinheiro-do-brb-nao-vier",
+    "date": "2024-09-02",
+    "date_precision": "day",
+    "title": "Vorcaro→Lima: “usar compulsório” se dinheiro do BRB não vier",
+    "summary": "Estadão (18/04/2026) publica mensagem de 2/09/2024 em que Daniel Vorcaro pergunta a Augusto Lima se há notícia do BRB; se o recurso não entrar, terá de devolver o dinheiro de sexta e “usar compulsório hoje”. No dia seguinte cobra CCB pendente há ~15 dias; Lima: “fazem até quinta.” Marco pontual dentro do fluxo de cessões Master→BRB iniciado em jul/2024, evidência de tensão de liquidez meses antes do SPA.",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Augusto Ferreira Lima",
+        "id": "augusto-lima"
+      }
+    ],
+    "tags": [
+      "brb",
+      "master",
+      "liquidity",
+      "messages"
+    ],
+    "sources": [
+      {
+        "url": "https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia",
+        "publisher": "Estadão",
+        "accessed": "2026-09-05",
+        "quote": "Tem notícia do BRB? Se não vier vou ter que devolver a grana de sexta e vamos usar compulsório hoje"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high",
+    "notes": "Quote isolada neste card (dedupe do card SoT Jul/2024 cessões). Mensagens = extratos de celular via imprensa/PF — não julgamento."
   },
   {
     "id": "2024-11-15-vorcaro-diz-a-filha-stella-que-esta-com-alexandre-moraes",
@@ -1409,6 +1542,44 @@
     ],
     "evidence_type": "press",
     "confidence": "high"
+  },
+  {
+    "id": "2025-01-01-vinte-contratos-master-brb-r-4-6-bi-antes-do-anuncio-de-compra",
+    "date": "2025-01-01",
+    "date_precision": "month",
+    "title": "Vinte contratos Master→BRB (~R$4,6 bi) antes do anúncio de compra",
+    "summary": "Segundo o Estadão, antes do anúncio oficial da oferta de compra, o Master já havia repassado R$4,6 bilhões ao BRB em 20 contratos: seis em janeiro (R$1,66 bi), seis em fevereiro (R$1,82 bi) e oito em março (R$1,12 bi). A mesma linha investigativa situa carteiras ligadas à Tirreno a partir de jan/2025 e total alegado de carteiras podres ~R$12,2 bi. Reforça que a relação financeira bilionária antecede o SPA de 28/03/2025.",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Paulo Henrique Costa",
+        "id": "paulo-henrique-costa",
+        "role": "contexto BRB"
+      },
+      {
+        "name": "Tirreno"
+      }
+    ],
+    "tags": [
+      "brb",
+      "master",
+      "tirreno",
+      "compliance-zero"
+    ],
+    "sources": [
+      {
+        "url": "https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia",
+        "publisher": "Estadão",
+        "accessed": "2026-09-05",
+        "quote": "—"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high",
+    "notes": "Data produto `2025-01-01` é placeholder — preferir span **2025-01→2025-03**. “Carteiras falsas” / Tirreno = tese PF/imprensa. Não duplica o card SoT de início das cessões (Jul/2024) nem o SPA 28/03."
   },
   {
     "id": "2025-03-15-ciro-envia-selfie-com-gonet-4-chamadas-com-vorcaro",
@@ -1656,6 +1827,45 @@
     "confidence": "high"
   },
   {
+    "id": "2025-03-31-galipolo-paulo-henrique-costa-primeira-reuniao-bc-brb-pos-spa",
+    "date": "2025-03-31",
+    "date_precision": "day",
+    "title": "Galípolo × Paulo Henrique Costa — primeira reunião BC–BRB pós-SPA",
+    "summary": "Um dia após o anúncio BRB–Master (28/03), o presidente do Banco Central, Gabriel Galípolo, altera a agenda e se reúne com o presidente do BRB, Paulo Henrique Costa, sobre o negócio. Folha (cronologia 04/09/2025, atualizada) registra como primeira reunião BC–BRB pós-anúncio; O Globo (31/03/2025) descreve o encontro na sede do BC (com diretores de Fiscalização e de Organização do SFN/Resolução previstos).",
+    "people": [
+      {
+        "name": "Gabriel Galípolo",
+        "id": "gabriel-galipolo"
+      },
+      {
+        "name": "Paulo Henrique Costa",
+        "id": "paulo-henrique-costa"
+      }
+    ],
+    "tags": [
+      "galipolo",
+      "brb",
+      "bc",
+      "master"
+    ],
+    "sources": [
+      {
+        "url": "https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml",
+        "publisher": "Folha de S.Paulo",
+        "accessed": "2026-09-05",
+        "quote": "—"
+      },
+      {
+        "url": "https://oglobo.globo.com/economia/noticia/2025/03/31/galipolo-altera-agenda-e-se-reune-com-presidente-do-brb-apos-anuncio-de-negocio-com-banco-master.ghtml",
+        "publisher": "O Globo",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high",
+    "notes": "Agenda oficial / cobertura jornalística = ocorrência da reunião; não prova conteúdo deliberativo nem “chip”/WhatsApp."
+  },
+  {
     "id": "2025-04-01-fasano-itaim-stake-trancoso-mansion-atletico-mineiro-saf",
     "date": "2025-04-01",
     "date_precision": "month",
@@ -1771,6 +1981,68 @@
     "evidence_type": "primary_document",
     "confidence": "high",
     "notes": "“PG” interpretado como Paulo Gonet no relatório."
+  },
+  {
+    "id": "2025-04-11-galipolo-vorcaro-na-janela-bc-analise-brb-master",
+    "date": "2025-04-11",
+    "date_precision": "day",
+    "title": "Galípolo × Vorcaro na janela BC (análise BRB–Master)",
+    "summary": "Folha cronologia: em 11/04/2025 Galípolo se reúne com Daniel Vorcaro; o banqueiro também fala com outros diretores do BC. Valor: reunião com Galípolo 9h–10h; em seguida audiência 10h–12h com diretores de Fiscalização e OSF/Resolução e procurador-geral do BC, com presença de Paulo Henrique Costa (BRB) e Augusto Lima (Master). Estadão antecipara a agenda das 9h (Vorcaro + Lima).",
+    "people": [
+      {
+        "name": "Gabriel Galípolo",
+        "id": "gabriel-galipolo"
+      },
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Augusto Ferreira Lima",
+        "id": "augusto-lima"
+      },
+      {
+        "name": "Paulo Henrique Costa",
+        "id": "paulo-henrique-costa"
+      },
+      {
+        "name": "Ailton de Aquino Santos"
+      },
+      {
+        "name": "Renato Gomes"
+      },
+      {
+        "name": "Cristiano Cozer"
+      }
+    ],
+    "tags": [
+      "galipolo",
+      "bc",
+      "master",
+      "brb",
+      "power-interlocutor"
+    ],
+    "sources": [
+      {
+        "url": "https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml",
+        "publisher": "Folha de S.Paulo",
+        "accessed": "2026-09-05",
+        "quote": "—"
+      },
+      {
+        "url": "https://valor.globo.com/financas/noticia/2025/04/11/alem-de-galipolo-executivos-do-master-se-reunem-com-diretores-do-bc.ghtml",
+        "publisher": "Valor Econômico",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www.estadao.com.br/economia/negocios/galipolo-se-reune-vorcaro-e-ceo-banco-master",
+        "publisher": "Estadão",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high",
+    "notes": "**Não twin** do card SoT `### 2025-04-11 — Vorcaro a Ana Matos: “Pedro e ciro ok”` (despesas Londres / PF). Agenda BC ≠ prova de decisão; conteúdo da reunião não publicado na íntegra nestas fontes."
   },
   {
     "id": "2025-04-11-vorcaro-a-ana-matos-pedro-e-ciro-ok-despesas-londres",
@@ -2087,6 +2359,43 @@
     "confidence": "high"
   },
   {
+    "id": "2025-05-27-negociacao-btg-r-1-5-bi-fasano-light-meliuz-precatorios",
+    "date": "2025-05-27",
+    "date_precision": "day",
+    "title": "Negociação BTG ~R$1,5 bi (Fasano/Light/Méliuz + precatórios)",
+    "summary": "Folha (cronologia BRB–Master, 04/09/2025, atualizada): em 27/05/2025 Vorcaro fecha negociação com o BTG Pactual (André Esteves) para venda de ativos de cerca de R$1,5 bilhão. O pacote inclui ações de Light e Méliuz, precatórios e imóveis — entre eles o prédio do Hotel Fasano em São Paulo. Marco de desinvestimento paralelo à janela regulatória BRB–Master (Cade/BC), distinto da oferta simbólica BTG/FGC citada depois no veto do BC.",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "André Esteves"
+      },
+      {
+        "name": "BTG Pactual"
+      }
+    ],
+    "tags": [
+      "master",
+      "btg",
+      "fasano",
+      "liquidity",
+      "desinvestimento"
+    ],
+    "sources": [
+      {
+        "url": "https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml",
+        "publisher": "Folha de S.Paulo",
+        "accessed": "2026-09-05",
+        "quote": "—"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high",
+    "notes": "Não confundir com a oferta simbólica de R$1 do BTG para assumir o Master com FGC (contexto do veto BC 03/09 — SoT). Valores/ativos = relato Folha; status de fechamento/registro não detalhado nesta fonte. Cluster SoT Fasano/lifestyle é cotas/perfil, não esta venda 27/05."
+  },
+  {
     "id": "2025-06-17-superintendencia-geral-do-cade-aprova-negocio-sem-restricoes",
     "date": "2025-06-17",
     "date_precision": "day",
@@ -2274,6 +2583,40 @@
     "confidence": "high"
   },
   {
+    "id": "2025-07-29-brb-proposta-reduzida-1-3-master-r-25-bi-remanescentes-r-48-bi",
+    "date": "2025-07-29",
+    "date_precision": "day",
+    "title": "BRB proposta reduzida ~1/3 Master (~R$25 bi; remanescentes ~R$48 bi)",
+    "summary": "Folha cronologia: em 29/07/2025 o BRB apresenta nova proposta ao Banco Central para comprar apenas cerca de um terço do Master, numa aquisição envolvendo R$25 bilhões — cerca de metade do plano inicial. O valor de ativos remanescentes do Master sobe para cerca de R$48 bilhões. Em 22/08 a Folha registra o BRB informando ativo de partida ~R$24 bi, confirmando a diminuição. Antecede o veto do BC em 03/09/2025.",
+    "people": [
+      {
+        "name": "Gabriel Galípolo",
+        "id": "gabriel-galipolo",
+        "role": "contexto BC"
+      },
+      {
+        "name": "Daniel Vorcaro / Master"
+      }
+    ],
+    "tags": [
+      "brb",
+      "master",
+      "bc",
+      "deal-structure"
+    ],
+    "sources": [
+      {
+        "url": "https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml",
+        "publisher": "Folha de S.Paulo",
+        "accessed": "2026-09-05",
+        "quote": "—"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high",
+    "notes": "Números (~1/3, R$25 bi / R$48 bi / depois ~R$24 bi de partida) = Folha; não há card SoT deste dia. Não twin do SPA 28/03 nem do veto 03/09. Perímetro de ativos ≠ redução da participação acionária de 58%."
+  },
+  {
     "id": "2025-08-01-ibaneis-sanctions-cldf-law-authorizing-brb-to-buy-master-shares",
     "date": "2025-08-01",
     "date_precision": "month",
@@ -2309,7 +2652,8 @@
       }
     ],
     "evidence_type": "press",
-    "confidence": "high"
+    "confidence": "high",
+    "notes": "Soft-link: voto legislativo CLDF é card distinto `### 2025-08-19` (≠ esta sanção)."
   },
   {
     "id": "2025-08-08-vorcaro-a-martha-esta-com-alexandre-e-depois-reuniao-com-ciro",
@@ -2346,6 +2690,65 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high"
+  },
+  {
+    "id": "2025-08-19-cldf-autoriza-brb-a-comprar-fatia-do-master",
+    "date": "2025-08-19",
+    "date_precision": "day",
+    "title": "CLDF autoriza BRB a comprar fatia do Master",
+    "summary": "Em 19/08/2025, a Câmara Legislativa do Distrito Federal aprovou o projeto de lei 1882/2025 (dois turnos; portal CLDF: 14 a favor e 7 contra na redação final) autorizando o BRB a adquirir 49% das ações ordinárias e 100% das ações preferenciais do Banco Master. A votação atendeu exigência judicial (TJDFT) de autorização legislativa antes da assinatura definitiva. O texto voltou ao Executivo para sanção do governador Ibaneis Rocha (reportada no dia seguinte / ~20/08). A aprovação do Bacen ainda era necessária e seria negada em 03/09/2025.",
+    "people": [
+      {
+        "name": "CLDF"
+      },
+      {
+        "name": "Ibaneis Rocha",
+        "id": "ibaneis-rocha",
+        "role": "autor do PL / sanção posterior"
+      },
+      {
+        "name": "Paulo Henrique Costa",
+        "id": "paulo-henrique-costa",
+        "role": "reunião com líderes citada pela imprensa"
+      },
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      }
+    ],
+    "tags": [
+      "cldf",
+      "brb",
+      "master",
+      "politica",
+      "autorizacao-legislativa"
+    ],
+    "sources": [
+      {
+        "url": "https://www.cl.df.gov.br/-/cldf-autoriza-brb-a-comprar-banco-master",
+        "publisher": "cl.df.gov.br",
+        "accessed": "2026-09-05",
+        "quote": "—"
+      },
+      {
+        "url": "https://valor.globo.com/financas/noticia/2025/08/19/cmara-do-df-aprova-projeto-de-lei-que-autoriza-brb-a-comprar-parte-do-master.ghtml",
+        "publisher": "Valor Econômico",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www1.folha.uol.com.br/mercado/2025/08/camara-legislativa-do-distrito-federal-autoriza-brb-a-comprar-master.shtml",
+        "publisher": "Folha de S.Paulo",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://oglobo.globo.com/economia/financas/noticia/2025/08/19/legislativo-do-distrito-federal-autoriza-brb-a-comprar-master.ghtml",
+        "publisher": "O Globo",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high",
+    "notes": "Distinto do card SoT “Ibaneis sanciona lei…” (~mid-Aug): aqui o fato atômico é o **voto CLDF** de 19/08, não a sanção. Placar: CLDF oficial 14×7 (redação final); Valor cita 15×7 no 1º turno e 14×7 no 2º. ≠ sanção Ibaneis."
   },
   {
     "id": "2025-09-01-temer-diz-ter-sido-chamado-a-mediar-brb-master-apos-bloqueio-do-banco-central",
@@ -5796,6 +6199,99 @@
     "confidence": "high"
   },
   {
+    "id": "2025-11-20-trf-1-indefere-1-habeas-corpus-mantem-prisao-preventiva",
+    "date": "2025-11-20",
+    "date_precision": "day",
+    "title": "TRF-1 indefere 1º habeas corpus; mantém prisão preventiva",
+    "summary": "Valor (20/11/2025): a desembargadora Solange Salgado da Silva (TRF-1) nega o habeas corpus da defesa de Daniel Vorcaro e mantém a prisão preventiva decretada na Operação Compliance Zero. Estadão (Fausto Macedo): decisão de ~22 páginas fala em “cenário de fraude sistêmica” e risco concreto à ordem pública/econômica; rejeita a tese de que a liquidação do Master eliminaria o perigo. Vorcaro seguia custodiado desde a prisão no Aeroporto de Guarulhos (17–18/11). Oito dias depois a mesma magistrada reconsidera e concede soltura cautelar (SoT 28/11).",
+    "people": [
+      {
+        "name": "Solange Salgado",
+        "id": "solange-salgado"
+      },
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "TRF-1"
+      }
+    ],
+    "tags": [
+      "compliance-zero",
+      "habeas",
+      "trf-1",
+      "prisao"
+    ],
+    "sources": [
+      {
+        "url": "https://valor.globo.com/financas/noticia/2025/11/20/priso-de-daniel-vorcaro-dono-do-banco-master-mantida-pela-justia.ghtml",
+        "publisher": "Valor Econômico",
+        "accessed": "2026-09-05",
+        "quote": "—"
+      },
+      {
+        "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/desembargadora-ve-cenario-de-fraude-sistemica-e-nega-habeas-corpus-a-daniel-vorcaro",
+        "publisher": "Estadão",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://valor.globo.com/financas/noticia/2025/11/24/vorcaro-transferido-para-presdio-em-guarulhos.ghtml",
+        "publisher": "Valor Econômico",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high",
+    "notes": "Seed URL Valor Guarulhos (24/11) só menciona o indeferimento; Preferir Valor 20/11 + Estadão como fontes do dia. Bloomberg Línea situou a decisão na noite de 19/11 — Folha/Valor usam 20/11 como data de reportagem; manter **2025-11-20** alinhado a Valor. Alegações de fraude = tese investigativa/decisão cautelar, não condenação. ≠ soltura 28/11."
+  },
+  {
+    "id": "2025-11-24-vorcaro-transferido-da-superintendencia-da-pf-ao-cdp-2-guarulhos",
+    "date": "2025-11-24",
+    "date_precision": "day",
+    "title": "Vorcaro transferido da Superintendência da PF ao CDP 2 Guarulhos",
+    "summary": "Valor (24/11/2025): Daniel Vorcaro é transferido da Superintendência da Polícia Federal em São Paulo (onde cumpria preventiva desde a noite de 17/11) para um presídio em Guarulhos (CDP). No mesmo dia a defesa ingressa com novo habeas no STJ, após o TRF-1 ter negado o pedido anterior. Também saem da PF SP Luiz Antônio Bull e Alberto Felix (destino não confirmado pelo Valor); Augusto Lima e Ângelo Silva permanecem na Superintendência. Dois temporários (Seixas Maia / Peretto, Cartos/Tirreno) já haviam sido soltos na quinta anterior.",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Luiz Antônio Bull",
+        "id": "luiz-antonio-bull"
+      },
+      {
+        "name": "Alberto Felix de Oliveira Neto",
+        "id": "alberto-felix"
+      },
+      {
+        "name": "Augusto Ferreira Lima",
+        "id": "augusto-lima"
+      },
+      {
+        "name": "Angelo Antonio Ribeiro da Silva",
+        "id": "angelo-silva"
+      }
+    ],
+    "tags": [
+      "compliance-zero",
+      "cdp",
+      "guarulhos",
+      "prisao"
+    ],
+    "sources": [
+      {
+        "url": "https://valor.globo.com/financas/noticia/2025/11/24/vorcaro-transferido-para-presdio-em-guarulhos.ghtml",
+        "publisher": "Valor Econômico",
+        "accessed": "2026-09-05",
+        "quote": "—"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high",
+    "notes": "Não twin da 2ª prisão/CDP em 2026-03-04 (SoT). Nome “CDP 2” confirma-se nas matérias de saída 29/11 (Estadão/Poder360); Valor 24/11 diz “presídio em Guarulhos”. ≠ prisão GRU 17–18/11."
+  },
+  {
     "id": "2025-11-28-soltura-com-tornozeleira-eletronica-e-restricoes",
     "date": "2025-11-28",
     "date_precision": "day",
@@ -5837,6 +6333,50 @@
     ],
     "evidence_type": "press",
     "confidence": "high"
+  },
+  {
+    "id": "2025-11-29-saida-fisica-do-cdp-2-guarulhos-com-tornozeleira-eletronica",
+    "date": "2025-11-29",
+    "date_precision": "day",
+    "title": "Saída física do CDP 2 Guarulhos com tornozeleira eletrônica",
+    "summary": "Valor/Estadão/Poder360: na manhã de sábado 29/11/2025 Vorcaro deixa o Centro de Detenção Provisória 2 de Guarulhos após liminar da desembargadora Solange Salgado (TRF-1) na noite de 28/11, que substituiu a preventiva por cautelares — tornozeleira, comparecimento periódico, proibição de contato com investigados/ex-funcionários Master–BRB, restrição de deslocamento, retenção de passaporte e (Estadão/Poder360) suspensão de atividades financeiras. Estadão: saída ~11h50, após ~11 dias preso; camiseta branca, bíblia na mão, testa a tornozeleira e não fala à imprensa.",
+    "people": [
+      {
+        "name": "Daniel Bueno Vorcaro",
+        "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Solange Salgado",
+        "id": "solange-salgado"
+      }
+    ],
+    "tags": [
+      "compliance-zero",
+      "soltura",
+      "tornozeleira",
+      "cdp"
+    ],
+    "sources": [
+      {
+        "url": "https://valor.globo.com/financas/noticia/2025/11/29/daniel-vorcaro-deixa-centro-de-deteno-em-guarulhos.ghtml",
+        "publisher": "Valor Econômico",
+        "accessed": "2026-09-05",
+        "quote": "—"
+      },
+      {
+        "url": "https://www.estadao.com.br/economia/vorcaro-deixa-a-cadeia-com-tornozeleira-eletronica-e-impedido-de-realizar-operacoes-financeiras",
+        "publisher": "Estadão",
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://www.poder360.com.br/poder-justica/daniel-vorcaro-deixa-prisao-em-sp-com-tornozeleira-eletronica",
+        "publisher": "Poder360",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "press",
+    "confidence": "high",
+    "notes": "**Não twin** do card SoT `### 2025-11-28 — Soltura com tornozeleira…` (fato jurídico da ordem). Este card isola o egresso físico 29/11."
   },
   {
     "id": "2025-12-03-toffoli-coloca-inquerito-do-master-sob-sigilo-no-stf",
@@ -6227,6 +6767,42 @@
     "notes": "Própria PF: análise não exaustiva (prazo 72h)."
   },
   {
+    "id": "2026-08-31-mendonca-abre-vista-a-pgr-por-5-dias-pet-16-662",
+    "date": "2026-08-31",
+    "date_precision": "day",
+    "title": "Mendonça abre vista à PGR por 5 dias (PET 16.662)",
+    "summary": "Despacho primário PET 16.662/DF (Poder360 PDF, sigilo derrubado): em 31/08/2026 o relator Min. André Mendonça determina “Abra-se vista à Procuradoria-Geral da República, para manifestação sobre as informações remetidas pela autoridade policial, pelo prazo de cinco dias.” Antecede o despacho de 1º/09 que levanta o sigilo e manda a matéria ao plenário (SoT), no qual se lê que a vista à PGR “não obsta” a publicidade/pleno.",
+    "people": [
+      {
+        "name": "André Mendonça",
+        "id": "andre-mendonca"
+      },
+      {
+        "name": "PGR"
+      },
+      {
+        "name": "Polícia Federal"
+      }
+    ],
+    "tags": [
+      "pet-16662",
+      "stf",
+      "pgr",
+      "mendonca"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/1pet16662-despacho-vista-pgr-5dias-sigiloderrubado-1set2026.pdf",
+        "publisher": "Poder360 / PET 16.662",
+        "accessed": "2026-09-05",
+        "quote": "Abra-se vista à Procuradoria-Geral da República, para manifestação sobre as informações remetidas pela autoridade policial, pelo prazo de cinco dias."
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high",
+    "notes": "Não duplicar o card SoT 2026-09-01 (levantamento de sigilo). Este é o ato de vista de 31/08. Prazo = cinco dias corridos no despacho (não “úteis” neste PDF). ≠ sigilo 01/09."
+  },
+  {
     "id": "2026-09-01-caveats-metodologicos-cristalizados-na-cobertura-do-mesmo-dia",
     "date": "2026-09-01",
     "date_precision": "day",
@@ -6375,5 +6951,57 @@
     ],
     "evidence_type": "press",
     "confidence": "high"
+  },
+  {
+    "id": "2026-09-03-fachin-abre-pet-16-704-e-pede-esclarecimentos-moraes-mendonca-gonet-andrei",
+    "date": "2026-09-03",
+    "date_precision": "day",
+    "title": "Fachin abre PET 16.704 e pede esclarecimentos (Moraes, Mendonça, Gonet, Andrei)",
+    "summary": "Despacho da Presidência do STF (PET 16.704/DF, 03/09/2026, PDF Poder360): após peças públicas da PET 16.662 e parecer da PGR opinando pela extinção, Min. Edson Fachin autua novo procedimento de ofício, junta cópia integral da PET 16.662 e nota Secom (06/03/2026), e dá prazo comum de 5 dias úteis a Alexandre de Moraes, André Mendonça, Paulo Gonet Branco (PGR) e Andrei Rodrigues (diretor-geral PF) para esclarecimentos sobre pontos ligados a foro/LOMAN, sigilo e controle externo. Migalhas (03/09): Fachin “manda autuar” a Pet 16.704. Desdobramento 04/09 (desentranhamento do Inq 4.781 / fake news) é fato separado.",
+    "people": [
+      {
+        "name": "Edson Fachin",
+        "id": "edson-fachin"
+      },
+      {
+        "name": "Alexandre de Moraes",
+        "id": "alexandre-de-moraes"
+      },
+      {
+        "name": "André Mendonça",
+        "id": "andre-mendonca"
+      },
+      {
+        "name": "Paulo Gonet Branco",
+        "id": "paulo-gonet"
+      },
+      {
+        "name": "Andrei Rodrigues",
+        "id": "andrei-rodrigues"
+      }
+    ],
+    "tags": [
+      "pet-16704",
+      "stf",
+      "fachin",
+      "pet-16662",
+      "crisis"
+    ],
+    "sources": [
+      {
+        "url": "https://static.poder360.com.br/uploads/2026/09/Fachin-da-5-dias-para-Moraes-e-Mendonca-3set2026.pdf",
+        "publisher": "Poder360 / PET 16.662",
+        "accessed": "2026-09-05",
+        "quote": "—"
+      },
+      {
+        "url": "https://www.migalhas.com.br/quentes/463885/fachin-cobra-explicacoes-de-moraes-mendonca-gonet-e-diretor-da-pf",
+        "publisher": "migalhas.com.br",
+        "accessed": "2026-09-05"
+      }
+    ],
+    "evidence_type": "primary_document",
+    "confidence": "high",
+    "notes": "Título produto misturava “tira do inquérito fake news” (movimento reportado em 04/09) com a abertura 03/09; Path B data **2026-09-03** = autuação + pedido de esclarecimentos. Não twin dos cards SoT PET 16.662 / sigilo 01/09. ≠ PET 16.662."
   }
 ]

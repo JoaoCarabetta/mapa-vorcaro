@@ -181,6 +181,41 @@
       accessed: "2026-09-05"
   evidence_type: primary_document
   confidence: high
+- id: 2025-03-31-galipolo-paulo-henrique-costa-primeira-reuniao-bc-brb-pos-spa
+  date: "2025-03-31"
+  date_precision: day
+  title: Galípolo × Paulo Henrique Costa — primeira reunião BC–BRB pós-SPA
+  summary: >-
+    Um dia após o anúncio BRB–Master (28/03), o presidente do Banco Central, Gabriel
+    Galípolo, altera a agenda e se reúne com o presidente do BRB, Paulo Henrique Costa,
+    sobre o negócio. Folha (cronologia 04/09/2025, atualizada) registra como primeira
+    reunião BC–BRB pós-anúncio; O Globo (31/03/2025) descreve o encontro na sede do BC (com
+    diretores de Fiscalização e de Organização do SFN/Resolução previstos).
+  people:
+    - name: Gabriel Galípolo
+      id: gabriel-galipolo
+    - name: Paulo Henrique Costa
+      id: paulo-henrique-costa
+  tags:
+    - galipolo
+    - brb
+    - bc
+    - master
+  sources:
+    - url: >-
+        https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml
+      publisher: Folha de S.Paulo
+      accessed: "2026-09-05"
+      quote: —
+    - url: >-
+        https://oglobo.globo.com/economia/noticia/2025/03/31/galipolo-altera-agenda-e-se-reune-com-presidente-do-brb-apos-anuncio-de-negocio-com-banco-master.ghtml
+      publisher: O Globo
+      accessed: "2026-09-05"
+  evidence_type: press
+  confidence: high
+  notes: >-
+    Agenda oficial / cobertura jornalística = ocorrência da reunião; não prova conteúdo
+    deliberativo nem “chip”/WhatsApp.
 - id: 2025-04-01-fasano-itaim-stake-trancoso-mansion-atletico-mineiro-saf
   date: "2025-04-01"
   date_precision: month
@@ -267,6 +302,54 @@
   evidence_type: primary_document
   confidence: high
   notes: “PG” interpretado como Paulo Gonet no relatório.
+- id: 2025-04-11-galipolo-vorcaro-na-janela-bc-analise-brb-master
+  date: "2025-04-11"
+  date_precision: day
+  title: Galípolo × Vorcaro na janela BC (análise BRB–Master)
+  summary: >-
+    Folha cronologia: em 11/04/2025 Galípolo se reúne com Daniel Vorcaro; o banqueiro também
+    fala com outros diretores do BC. Valor: reunião com Galípolo 9h–10h; em seguida
+    audiência 10h–12h com diretores de Fiscalização e OSF/Resolução e procurador-geral do
+    BC, com presença de Paulo Henrique Costa (BRB) e Augusto Lima (Master). Estadão
+    antecipara a agenda das 9h (Vorcaro + Lima).
+  people:
+    - name: Gabriel Galípolo
+      id: gabriel-galipolo
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Augusto Ferreira Lima
+      id: augusto-lima
+    - name: Paulo Henrique Costa
+      id: paulo-henrique-costa
+    - name: Ailton de Aquino Santos
+    - name: Renato Gomes
+    - name: Cristiano Cozer
+  tags:
+    - galipolo
+    - bc
+    - master
+    - brb
+    - power-interlocutor
+  sources:
+    - url: >-
+        https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml
+      publisher: Folha de S.Paulo
+      accessed: "2026-09-05"
+      quote: —
+    - url: >-
+        https://valor.globo.com/financas/noticia/2025/04/11/alem-de-galipolo-executivos-do-master-se-reunem-com-diretores-do-bc.ghtml
+      publisher: Valor Econômico
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.estadao.com.br/economia/negocios/galipolo-se-reune-vorcaro-e-ceo-banco-master
+      publisher: Estadão
+      accessed: "2026-09-05"
+  evidence_type: press
+  confidence: high
+  notes: >-
+    **Não twin** do card SoT `### 2025-04-11 — Vorcaro a Ana Matos: “Pedro e ciro ok”`
+    (despesas Londres / PF). Agenda BC ≠ prova de decisão; conteúdo da reunião não publicado
+    na íntegra nestas fontes.
 - id: 2025-04-11-vorcaro-a-ana-matos-pedro-e-ciro-ok-despesas-londres
   date: "2025-04-11"
   date_precision: day
@@ -510,6 +593,41 @@
       title: IPJ-A 3298613/2026
   evidence_type: primary_document
   confidence: high
+- id: 2025-05-27-negociacao-btg-r-1-5-bi-fasano-light-meliuz-precatorios
+  date: "2025-05-27"
+  date_precision: day
+  title: Negociação BTG ~R$1,5 bi (Fasano/Light/Méliuz + precatórios)
+  summary: >-
+    Folha (cronologia BRB–Master, 04/09/2025, atualizada): em 27/05/2025 Vorcaro fecha
+    negociação com o BTG Pactual (André Esteves) para venda de ativos de cerca de R$1,5
+    bilhão. O pacote inclui ações de Light e Méliuz, precatórios e imóveis — entre eles o
+    prédio do Hotel Fasano em São Paulo. Marco de desinvestimento paralelo à janela
+    regulatória BRB–Master (Cade/BC), distinto da oferta simbólica BTG/FGC citada depois no
+    veto do BC.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: André Esteves
+    - name: BTG Pactual
+  tags:
+    - master
+    - btg
+    - fasano
+    - liquidity
+    - desinvestimento
+  sources:
+    - url: >-
+        https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml
+      publisher: Folha de S.Paulo
+      accessed: "2026-09-05"
+      quote: —
+  evidence_type: press
+  confidence: high
+  notes: >-
+    Não confundir com a oferta simbólica de R$1 do BTG para assumir o Master com FGC
+    (contexto do veto BC 03/09 — SoT). Valores/ativos = relato Folha; status de
+    fechamento/registro não detalhado nesta fonte. Cluster SoT Fasano/lifestyle é
+    cotas/perfil, não esta venda 27/05.
 - id: 2025-06-17-superintendencia-geral-do-cade-aprova-negocio-sem-restricoes
   date: "2025-06-17"
   date_precision: day
@@ -653,6 +771,38 @@
       title: IPJ-A 3298613/2026
   evidence_type: primary_document
   confidence: high
+- id: 2025-07-29-brb-proposta-reduzida-1-3-master-r-25-bi-remanescentes-r-48-bi
+  date: "2025-07-29"
+  date_precision: day
+  title: BRB proposta reduzida ~1/3 Master (~R$25 bi; remanescentes ~R$48 bi)
+  summary: >-
+    Folha cronologia: em 29/07/2025 o BRB apresenta nova proposta ao Banco Central para
+    comprar apenas cerca de um terço do Master, numa aquisição envolvendo R$25 bilhões —
+    cerca de metade do plano inicial. O valor de ativos remanescentes do Master sobe para
+    cerca de R$48 bilhões. Em 22/08 a Folha registra o BRB informando ativo de partida ~R$24
+    bi, confirmando a diminuição. Antecede o veto do BC em 03/09/2025.
+  people:
+    - name: Gabriel Galípolo
+      id: gabriel-galipolo
+      role: contexto BC
+    - name: Daniel Vorcaro / Master
+  tags:
+    - brb
+    - master
+    - bc
+    - deal-structure
+  sources:
+    - url: >-
+        https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml
+      publisher: Folha de S.Paulo
+      accessed: "2026-09-05"
+      quote: —
+  evidence_type: press
+  confidence: high
+  notes: >-
+    Números (~1/3, R$25 bi / R$48 bi / depois ~R$24 bi de partida) = Folha; não há card SoT
+    deste dia. Não twin do SPA 28/03 nem do veto 03/09. Perímetro de ativos ≠ redução da
+    participação acionária de 58%.
 - id: 2025-08-01-ibaneis-sanctions-cldf-law-authorizing-brb-to-buy-master-shares
   date: "2025-08-01"
   date_precision: month
@@ -682,6 +832,7 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
+  notes: "Soft-link: voto legislativo CLDF é card distinto `### 2025-08-19` (≠ esta sanção)."
 - id: 2025-08-08-vorcaro-a-martha-esta-com-alexandre-e-depois-reuniao-com-ciro
   date: "2025-08-08"
   date_precision: day
@@ -708,6 +859,57 @@
       title: IPJ-A 3298613/2026
   evidence_type: primary_document
   confidence: high
+- id: 2025-08-19-cldf-autoriza-brb-a-comprar-fatia-do-master
+  date: "2025-08-19"
+  date_precision: day
+  title: CLDF autoriza BRB a comprar fatia do Master
+  summary: >-
+    Em 19/08/2025, a Câmara Legislativa do Distrito Federal aprovou o projeto de lei
+    1882/2025 (dois turnos; portal CLDF: 14 a favor e 7 contra na redação final) autorizando
+    o BRB a adquirir 49% das ações ordinárias e 100% das ações preferenciais do Banco
+    Master. A votação atendeu exigência judicial (TJDFT) de autorização legislativa antes da
+    assinatura definitiva. O texto voltou ao Executivo para sanção do governador Ibaneis
+    Rocha (reportada no dia seguinte / ~20/08). A aprovação do Bacen ainda era necessária e
+    seria negada em 03/09/2025.
+  people:
+    - name: CLDF
+    - name: Ibaneis Rocha
+      id: ibaneis-rocha
+      role: autor do PL / sanção posterior
+    - name: Paulo Henrique Costa
+      id: paulo-henrique-costa
+      role: reunião com líderes citada pela imprensa
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+  tags:
+    - cldf
+    - brb
+    - master
+    - politica
+    - autorizacao-legislativa
+  sources:
+    - url: https://www.cl.df.gov.br/-/cldf-autoriza-brb-a-comprar-banco-master
+      publisher: cl.df.gov.br
+      accessed: "2026-09-05"
+      quote: —
+    - url: >-
+        https://valor.globo.com/financas/noticia/2025/08/19/cmara-do-df-aprova-projeto-de-lei-que-autoriza-brb-a-comprar-parte-do-master.ghtml
+      publisher: Valor Econômico
+      accessed: "2026-09-05"
+    - url: >-
+        https://www1.folha.uol.com.br/mercado/2025/08/camara-legislativa-do-distrito-federal-autoriza-brb-a-comprar-master.shtml
+      publisher: Folha de S.Paulo
+      accessed: "2026-09-05"
+    - url: >-
+        https://oglobo.globo.com/economia/financas/noticia/2025/08/19/legislativo-do-distrito-federal-autoriza-brb-a-comprar-master.ghtml
+      publisher: O Globo
+      accessed: "2026-09-05"
+  evidence_type: press
+  confidence: high
+  notes: >-
+    Distinto do card SoT “Ibaneis sanciona lei…” (~mid-Aug): aqui o fato atômico é o **voto
+    CLDF** de 19/08, não a sanção. Placar: CLDF oficial 14×7 (redação final); Valor cita
+    15×7 no 1º turno e 14×7 no 2º. ≠ sanção Ibaneis.
 - id: 2025-09-01-temer-diz-ter-sido-chamado-a-mediar-brb-master-apos-bloqueio-do-banco-central
   date: "2025-09-01"
   date_precision: month
