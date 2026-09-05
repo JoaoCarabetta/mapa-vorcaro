@@ -23,6 +23,9 @@ export default function HomePage() {
           <span className="pill">{events.length} eventos</span>
           <span className="pill">{people.length} pessoas</span>
           <span className="pill">{primary} com documento primário, peça ou fonte oficial</span>
+          <span className="pill">
+            {events.filter((e) => e.cluster_role === "parent").length} clusters forenses
+          </span>
         </div>
         <div className="caveat">
           <strong>Ressalvas permanentes.</strong> Mensagens de visualização única não

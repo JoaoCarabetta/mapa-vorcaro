@@ -2,17 +2,28 @@ import Link from "next/link";
 import { confidenceLabel, evidenceLabel, formatDate } from "@/lib/format";
 import type { EventRecord } from "@/lib/types";
 
-export function EventCard({ event }: { event: EventRecord }) {
+type Props = {
+  event: EventRecord;
+  compact?: boolean;
+};
+
+export function EventCard({ event, compact = false }: Props) {
+  const source = event.sources[0];
+  const summaryLen = compact ? 160 : 280;
+  const summary = event.summary.replace(/\s+/g, " ").trim();
+
   return (
-    <Link className="event-card" href={`/eventos/${event.id}`}>
+    <article className={compact ? "event-card event-card-compact" : "event-card"}>
       <time className="event-date" dateTime={event.date}>
         {formatDate(event.date, event.date_precision)}
       </time>
       <div>
-        <h2 className="event-title">{event.title}</h2>
+        <h2 className="event-title">
+          <Link href={`/eventos/${event.id}`}>{event.title}</Link>
+        </h2>
         <p className="event-summary">
-          {event.summary.replace(/\s+/g, " ").trim().slice(0, 280)}
-          {event.summary.length > 280 ? "…" : ""}
+          {summary.slice(0, summaryLen)}
+          {summary.length > summaryLen ? "…" : ""}
         </p>
         <div className="chips">
           <span className="chip">{evidenceLabel(event.evidence_type)}</span>
@@ -21,13 +32,22 @@ export function EventCard({ event }: { event: EventRecord }) {
               confiança {confidenceLabel(event.confidence)}
             </span>
           ) : null}
-          {event.tags.slice(0, 4).map((tag) => (
+          {event.tags.slice(0, compact ? 2 : 4).map((tag) => (
             <span className="chip" key={tag}>
               {tag}
             </span>
           ))}
         </div>
+        {source?.url ? (
+          <p className="event-source">
+            Fonte:{" "}
+            <a href={source.url} rel="noopener noreferrer">
+              {source.publisher}
+              {source.title ? ` — ${source.title}` : ""}
+            </a>
+          </p>
+        ) : null}
       </div>
-    </Link>
+    </article>
   );
 }

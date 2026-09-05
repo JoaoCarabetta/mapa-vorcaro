@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { confidenceLabel, evidenceLabel, formatDate } from "@/lib/format";
-import { getEventById, loadEvents, loadPeople } from "@/lib/load";
+import { forensicChildrenOf, getEventById, loadEvents, loadPeople } from "@/lib/load";
 import type { Metadata } from "next";
 
 type Props = { params: Promise<{ id: string }> };
@@ -22,6 +22,19 @@ export default async function EventPage({ params }: Props) {
   if (!event) notFound();
   const people = loadPeople();
   const quotes = event.sources.filter((s) => s.quote);
+  const all = loadEvents();
+  const clusterParent =
+    event.cluster_role === "child"
+      ? all.find(
+          (candidate) =>
+            candidate.cluster_id === event.cluster_id &&
+            candidate.cluster_role === "parent",
+        )
+      : undefined;
+  const clusterChildren =
+    event.cluster_role === "parent"
+      ? forensicChildrenOf(all, event.cluster_id)
+      : [];
 
   return (
     <div className="wrap">
@@ -52,6 +65,24 @@ export default async function EventPage({ params }: Props) {
           {event.notes ? (
             <div className="caveat">
               <strong>Nota de método.</strong> {event.notes}
+            </div>
+          ) : null}
+          {clusterParent ? (
+            <p>
+              Micro-card forense deste dia. Agrupado em{" "}
+              <Link href={`/eventos/${clusterParent.id}`}>{clusterParent.title}</Link>.
+            </p>
+          ) : null}
+          {clusterChildren.length > 0 ? (
+            <div>
+              <h2>Micro-cards forenses deste dia ({clusterChildren.length})</h2>
+              <ul>
+                {clusterChildren.map((child) => (
+                  <li key={child.id}>
+                    <Link href={`/eventos/${child.id}`}>{child.title}</Link>
+                  </li>
+                ))}
+              </ul>
             </div>
           ) : null}
           {quotes.map((source) => (

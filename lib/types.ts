@@ -27,10 +27,13 @@ export type Source = {
   quote?: string;
 };
 
+export type ClusterRole = "parent" | "child";
+
 export type EventRecord = {
   id: string;
   date: string;
   date_precision: DatePrecision;
+  date_end?: string;
   title: string;
   summary: string;
   notes?: string;
@@ -39,6 +42,8 @@ export type EventRecord = {
   sources: Source[];
   evidence_type: EvidenceType;
   confidence?: Confidence;
+  cluster_id?: string;
+  cluster_role?: ClusterRole;
 };
 
 export type PersonRecord = {

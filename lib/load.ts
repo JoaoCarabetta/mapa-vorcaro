@@ -73,3 +73,16 @@ export function uniqueYears(events: EventRecord[]): number[] {
     ...new Set(events.map((event) => Number(event.date.slice(0, 4)))),
   ].sort((a, b) => a - b);
 }
+
+export function forensicChildrenOf(
+  events: EventRecord[],
+  clusterId?: string,
+): EventRecord[] {
+  if (!clusterId) return [];
+  return events
+    .filter(
+      (event) =>
+        event.cluster_id === clusterId && event.cluster_role === "child",
+    )
+    .sort((a, b) => a.title.localeCompare(b.title, "pt-BR"));
+}

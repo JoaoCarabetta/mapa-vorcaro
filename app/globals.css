@@ -192,7 +192,55 @@ button, input, select { font: inherit; }
   color: inherit;
   text-decoration: none;
 }
-.event-card:hover .event-title { text-decoration: underline; }
+.event-card:hover .event-title a { text-decoration: underline; }
+.event-title a {
+  color: inherit;
+  text-decoration: none;
+}
+.event-source {
+  margin: 8px 0 0;
+  font-size: 13px;
+}
+.event-card-compact {
+  padding: 10px 0;
+  grid-template-columns: 100px 1fr;
+  gap: 12px;
+}
+.event-card-compact .event-title {
+  font-size: 1.05rem;
+}
+.cluster-card {
+  border: 1px solid var(--line);
+  background: var(--white);
+  padding: 8px 16px 12px;
+  margin: 12px 0;
+}
+.cluster-kicker {
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--oxblood);
+  font-weight: 600;
+  margin: 8px 0 0;
+}
+.cluster-details {
+  border-top: 1px dashed var(--line);
+  margin-top: 4px;
+  padding-top: 8px;
+}
+.cluster-summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--ink);
+  padding: 8px 0;
+}
+.cluster-summary:hover { color: var(--oxblood); }
+.cluster-children {
+  list-style: none;
+  margin: 0;
+  padding: 0 0 8px 12px;
+  border-left: 3px solid var(--gold);
+}
 .event-date {
   font-family: var(--mono);
   font-size: 13px;

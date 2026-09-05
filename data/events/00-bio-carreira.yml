@@ -1,0 +1,260 @@
+- id: 1983-10-06-nascimento-aniversario-reportados-pela-imprensa
+  date: "1983-10-06"
+  date_precision: day
+  title: Nascimento / aniversário reportados pela imprensa
+  summary: >-
+    InfoMoney states Vorcaro completed 42 years on 6 October (piece dated Mar/2026). Valor’s
+    3 Apr 2025 profile called him 41, consistent with a late-1983 birth. Family described as
+    mineira with construction/real-estate roots via father Henrique (Multipar).
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+  tags:
+    - bio
+  sources:
+    - url: >-
+        https://www.infomoney.com.br/business/quem-e-daniel-vorcaro-dono-do-banco-master-que-foi-preso-pela-pf
+      publisher: InfoMoney
+      accessed: "2026-09-05"
+    - url: >-
+        https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml
+      publisher: Valor Econômico
+      accessed: "2026-09-05"
+  evidence_type: press
+  confidence: high
+  notes: Exact civil birth certificate not in local press dumps.
+- id: 2000-01-01-escola-de-elite-em-belo-horizonte-e-economia-mba-no-ibmec
+  date: "2000-01-01"
+  date_precision: year
+  title: Escola de elite em Belo Horizonte e economia/MBA no Ibmec
+  summary: >-
+    Valor: studied at Fundação Torino (elite BH school); declined Italy scholarship; took
+    economics at Ibmec Belo Horizonte and an MBA in Finance there. Played guitar and sports.
+    Emphasizes grandparents as public servants without large wealth despite elite school.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+  tags:
+    - bio
+    - education
+  sources:
+    - url: >-
+        https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml
+      publisher: Valor Econômico
+      accessed: "2026-09-05"
+  evidence_type: press
+  confidence: high
+- id: 2002-01-01-pai-entrega-empresa-de-cursos-educacionais-venda-rapida-multipar
+  date: "2002-01-01"
+  date_precision: year
+  title: Pai entrega empresa de cursos educacionais; venda rápida; Multipar
+  summary: >-
+    Valor: entrepreneurial path began at 19 when father gave him an educational-courses
+    company; sold soon after; then worked with Henrique at Multipar (family
+    construction/real estate). InfoMoney: Henrique founded Multipar (ex-Vorcaro Imóveis /
+    Centro Sul).
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+  tags:
+    - bio
+    - multipar
+    - first-business
+  sources:
+    - url: >-
+        https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml
+      publisher: Valor Econômico
+      accessed: "2026-09-05"
+  evidence_type: press
+  confidence: medium
+  notes: Exact sale year not given.
+- id: 2006-01-01-casa-com-fabiola-depois-os-filhos-stella-e-tiziano
+  date: "2006-01-01"
+  date_precision: year
+  title: Casa com Fabíola; depois os filhos Stella e Tiziano
+  summary: >-
+    Valor: married Fabíola at 23; father of Stella and Tiziano. Daughter’s 15th birthday
+    party (~2024 relative to Apr/2025 article saying “last year”) reportedly ~R$15 mi with
+    DJ Alok; InfoMoney adds The Chainsmokers and places party in 2023.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Fabíola
+    - name: Stella Vorcaro
+      id: stella-vorcaro
+    - name: Tiziano
+  tags:
+    - bio
+  sources:
+    - url: >-
+        https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml
+      publisher: Valor Econômico
+      accessed: "2026-09-05"
+  evidence_type: press
+  confidence: medium
+  notes: Party cost is press estimate (“teria custado”).
+- id: 2016-01-01-participacao-minoritaria-no-banco-maxima-em-dificuldades-saul-sabba
+  date: "2016-01-01"
+  date_precision: year
+  title: Participação minoritária no Banco Máxima em dificuldades (Saul Sabbá)
+  summary: >-
+    Valor: banking foray in 2016 when Sabbá’s Máxima faced difficulties and was offered to
+    Vorcaro, who already did FII deals with him. First took a minority stake with brothers
+    Antônio and Vicente Conte; next year took control (BC approval only two years later).
+    Conte later exited; Maurício Quadrado and Augusto Lima joined.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Saul Sabbá
+    - name: Antônio Conte
+    - name: Vicente Conte
+    - name: Maurício Quadrado
+    - name: Augusto Ferreira Lima
+      id: augusto-lima
+  tags:
+    - bio
+    - master
+    - maxima
+  sources:
+    - url: >-
+        https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml
+      publisher: Valor Econômico
+      accessed: "2026-09-05"
+    - url: >-
+        https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2019/10/24/bc-autoriza-transferncia-de-controle-do-banco-mxima-para-empresrio-daniel-vorcaro.ghtml
+      publisher: Valor Investe
+      accessed: "2026-09-05"
+  evidence_type: press
+  confidence: high
+- id: 2017-05-17-imprensa-reporta-capitalizacao-caminho-ao-controle
+  date: "2017-05-17"
+  date_precision: day
+  title: Imprensa reporta capitalização / caminho ao controle
+  summary: >-
+    Valor Econômico reported Máxima, undercapitalized since prior year, closed deal for
+    Vorcaro to inject capital (figures cited in contemporaneous coverage toward tens of
+    millions) and acquire credits against former partners, potentially ending near 50% of
+    capital. Later profiles say he “assumed control” in 2017 subject to later BC
+    homologation.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Saul Sabbá
+  tags:
+    - master
+    - maxima
+  sources:
+    - url: >-
+        https://valor.globo.com/financas/noticia/2017/05/17/novo-socio-pode-ter-ate-50-do-capital-do-banco-maxima-1.ghtml
+      publisher: Valor Econômico
+      accessed: "2026-09-05"
+  evidence_type: press
+  confidence: high
+  notes: Exact closing percentages evolved in later 2017–2019 coverage.
+- id: 2018-01-01-gestao-ligada-a-vorcaro-assume-o-controle-operacional
+  date: "2018-01-01"
+  date_precision: month
+  title: Gestão ligada a Vorcaro assume o controle operacional
+  summary: >-
+    CNN Brazil (rebrand story): after corporate/operational change and later R$400 mi
+    capitalization, Máxima became Master; new management assumed January 2018. Estadão “quem
+    é quem” similarly says Vorcaro took command of Máxima in Jan/2018 (bank founded 1974 as
+    broker).
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+  tags:
+    - master
+    - maxima
+  sources:
+    - url: >-
+        https://www.cnnbrasil.com.br/economia/macroeconomia/apos-mudanca-societaria-e-aporte-de-r-400-mi-banco-maxima-agora-e-banco-master
+      publisher: CNN Brasil
+      accessed: "2026-09-05"
+  evidence_type: press
+  confidence: high
+- id: 2019-10-24-banco-central-autoriza-transferencia-de-controle-do-banco-maxima
+  date: "2019-10-24"
+  date_precision: day
+  title: Banco Central autoriza transferência de controle do Banco Máxima
+  summary: >-
+    Valor Investe: BC authorized transfer of control of Banco Máxima and its FX broker to a
+    group led by Daniel Bueno Vorcaro; co-shareholders Armando Miguel Gallo Neto, Felipe
+    Wallace Simonsen and Augusto Ferreira Lima. Also authorized capital change from R$80.4
+    mi to R$180.4 mi. Valor had reported in 2017 that the mineiro from real estate was
+    preparing to take control; until then controlled by Saul Sabbá.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Armando Miguel Gallo Neto
+    - name: Felipe Wallace Simonsen
+    - name: Augusto Ferreira Lima
+      id: augusto-lima
+    - name: Saul Sabbá
+  tags:
+    - master
+    - maxima
+    - bc
+  sources:
+    - url: >-
+        https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2019/10/24/bc-autoriza-transferncia-de-controle-do-banco-mxima-para-empresrio-daniel-vorcaro.ghtml
+      publisher: Valor Investe
+      accessed: "2026-09-05"
+      quote: >-
+        O Banco Central autorizou a transferência de controle do Banco Máxima e da sua
+        corretora de câmbio para um grupo de empresários liderado por Daniel Bueno Vorcaro.
+  evidence_type: press
+  confidence: high
+- id: 2021-01-01-mudanca-de-nome-para-banco-master-narrativa-de-capitalizacao-r-400-mi
+  date: "2021-01-01"
+  date_precision: year
+  title: Mudança de nome para Banco Master; narrativa de capitalização ~R$ 400 mi
+  summary: >-
+    Valor: in 2021 Daniel renamed the bank Master — a suggestion from his son — and made
+    series of billion-real capital injections over the years. CNN: after corporate change
+    and R$400 mi capitalization, Máxima is now Master; target further R$200 mi and R$1 bi
+    equity by 2023; four fronts including Kovr insurer and investment banking; Vipal
+    investment bank acquired end-2020 pending BC.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: son
+  tags:
+    - master
+  sources:
+    - url: >-
+        https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml
+      publisher: Valor Econômico
+      accessed: "2026-09-05"
+    - url: >-
+        https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2019/10/24/bc-autoriza-transferncia-de-controle-do-banco-mxima-para-empresrio-daniel-vorcaro.ghtml
+      publisher: Valor Investe
+      accessed: "2026-09-05"
+  evidence_type: press
+  confidence: high
+- id: 2021-01-01-serie-de-aquisicoes-financeiras-sob-a-marca-master
+  date: "2021-01-01"
+  date_precision: year
+  title: Série de aquisições financeiras sob a marca Master
+  summary: >-
+    Valor lists acquisitions including insurer Kver/Kovr, bank Voiter (ex-Indusval), Vipal,
+    Banif Brasil and Will. Will Bank deal done with Reag (João Carlos Mansur), who has other
+    businesses with Vorcaro. InfoMoney: Will control Feb/2024; Voiter bought then control
+    sold to Augusto Lima Aug/2025; Kovr later sold to J&F (per InfoMoney).
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: João Carlos Mansur
+    - name: Augusto Ferreira Lima
+      id: augusto-lima
+    - name: Maurício Quadrado
+  tags:
+    - master
+    - growth
+  sources:
+    - url: >-
+        https://www.infomoney.com.br/business/banco-master-qual-e-a-historia-da-instituicao-financeira
+      publisher: InfoMoney
+      accessed: "2026-09-05"
+  evidence_type: press
+  confidence: high

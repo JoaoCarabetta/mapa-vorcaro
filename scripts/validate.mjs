@@ -126,8 +126,10 @@ for (const event of events) {
   }
 }
 
-if (events.length < 15) {
-  errors.push(`Corpus pequeno demais (${events.length}).`);
+if (events.length < 152) {
+  errors.push(
+    `Corpus incompleto (${events.length}/152). A timeline sourced em content/timeline-eventos.md tem 152 cards; o YAML precisa cobrir todos.`,
+  );
 }
 
 const exportDir = path.join(root, "public", "export");

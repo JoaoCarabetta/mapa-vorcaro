@@ -1,0 +1,2618 @@
+- id: 2025-10-28-auge-da-crise-notas-pedindo-intervencao-de-galipolo-andrei-paulo
+  date: "2025-10-28"
+  date_precision: day
+  title: "Auge da crise: notas pedindo intervenção de Galípolo/Andrei/Paulo"
+  summary: >-
+    O Globo “13 days”: Vorcaro wrote Notes → screenshot → WhatsApp view-once to
+    Moraes-labeled number, seeking to stop liquidation and PF action. Dense 30/10 notes
+    about BC pressure, “G”/directors, lists of people allegedly visiting Bacen, ask to
+    reinforce with Andrei and Paulo. 14–17/11 gratitude and “atrasar”/“banco não
+    quebra”/“estou online” sequence. Interlocutor replies mostly unrecovered (👍, view-once
+    empties).
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+    - name: Andrei Rodrigues
+      id: andrei-rodrigues
+      role: Passos/Rodrigues per PF/press
+    - name: Paulo Gonet Branco
+      id: paulo-gonet
+      role: interpretation
+    - name: Gabriel Galípolo
+      id: gabriel-galipolo
+    - name: judge Ricardo Soares Leite
+  tags:
+    - compliance-zero
+    - power-interlocutor
+    - seal-lift
+  sources:
+    - url: >-
+        https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml
+      publisher: O Globo
+      accessed: "2026-09-05"
+      quote: >-
+        Se o Andrei conseguir atrasar pra outra semana, pois tem feriado, o banco não
+        quebra…” (16/11, O Globo)
+  evidence_type: press
+  confidence: high
+  notes: agenda≠owner; view-once; PF non-exhaustive 72h analysis
+  date_end: "2025-11-17"
+- id: 2025-10-28-nota-forense-whatsapp-14-04-14-utc
+  date: "2025-10-28"
+  date_precision: day
+  title: Nota forense → WhatsApp 14:04:14 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~11:04:26 UTC-3. Nota criada em 14:04:14 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-10-28
+  cluster_role: child
+- id: 2025-10-28-primeira-nota-forense-da-janela-de-crise-enviada-ao-n-moraes-brasilia
+  date: "2025-10-28"
+  date_precision: day
+  title: Primeira nota forense da janela de crise enviada ao nº Moraes BRASILIA
+  summary: >-
+    PF registra cadeia Notas→screenshot→PDF temporário→WhatsApp para nota criada ~14:04:14
+    UTC, com envio ao terminal 556192664093 às ~11:04:26 (UTC-3). Abre a janela de ~52
+    notas/prints analisados até 17/11.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: +55 61 9266-4093
+  tags:
+    - notas
+    - whatsapp
+    - crise-master
+    - view-once
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+    - url: >-
+        https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml
+      publisher: O Globo
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso
+      publisher: Poder360
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
+      publisher: Poder360
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
+    em geral não recuperadas. Texto integral desta nota específica não está OCR’d de forma
+    legível no .txt; evento ancorado nos metadados forenses.
+  cluster_id: forense-2025-10-28
+  cluster_role: parent
+- id: 2025-10-30-nota-forense-whatsapp-16-26-00-utc-cluster-bacen-abertura
+  date: "2025-10-30"
+  date_precision: day
+  title: Nota forense → WhatsApp 16:26:00 UTC (cluster Bacen/abertura)
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~13:26:14 UTC-3. Nota criada em 16:26:00 UTC. Tema
+    associado nas transcrições PF/imprensa: cluster Bacen/abertura.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-10-30
+  cluster_role: child
+- id: 2025-10-30-nota-forense-whatsapp-16-32-31-utc-andrei-e-paulo-bacen-pressao
+  date: "2025-10-30"
+  date_precision: day
+  title: Nota forense → WhatsApp 16:32:31 UTC (Andrei e Paulo / Bacen pressão)
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~13:33:03 UTC-3. Nota criada em 16:32:31 UTC. Tema
+    associado nas transcrições PF/imprensa: Andrei e Paulo / Bacen pressão.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-10-30
+  cluster_role: child
+- id: 2025-10-30-nota-forense-whatsapp-16-38-17-utc-lista-nomes-bacen
+  date: "2025-10-30"
+  date_precision: day
+  title: Nota forense → WhatsApp 16:38:17 UTC (lista nomes Bacen)
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~13:38:40 UTC-3. Nota criada em 16:38:17 UTC. Tema
+    associado nas transcrições PF/imprensa: lista nomes Bacen.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-10-30
+  cluster_role: child
+- id: 2025-10-30-nota-forense-whatsapp-16-40-53-utc
+  date: "2025-10-30"
+  date_precision: day
+  title: Nota forense → WhatsApp 16:40:53 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~13:41:05 UTC-3. Nota criada em 16:40:53 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-10-30
+  cluster_role: child
+- id: 2025-10-30-nota-forense-whatsapp-16-44-43-utc-amigos-dentro-do-bacen-cuidado-com-g
+  date: "2025-10-30"
+  date_precision: day
+  title: Nota forense → WhatsApp 16:44:43 UTC (amigos dentro do Bacen / cuidado com G)
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~13:44:56 UTC-3. Nota criada em 16:44:43 UTC. Tema
+    associado nas transcrições PF/imprensa: amigos dentro do Bacen / cuidado com G.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-10-30
+  cluster_role: child
+- id: 2025-10-30-nota-forense-whatsapp-16-51-38-utc
+  date: "2025-10-30"
+  date_precision: day
+  title: Nota forense → WhatsApp 16:51:38 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Timestamp de envio UTC-3 cruzado nas tabelas do IPJ-A (ver figuras). Nota criada
+    em 16:51:38 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-10-30
+  cluster_role: child
+- id: 2025-10-30-nota-forense-whatsapp-16-55-29-utc
+  date: "2025-10-30"
+  date_precision: day
+  title: Nota forense → WhatsApp 16:55:29 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~13:55:50 UTC-3. Nota criada em 16:55:29 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-10-30
+  cluster_role: child
+- id: 2025-10-30-notas-densas-bacen-andrei-paulo-lista-de-nomes-g-sob-pressao
+  date: "2025-10-30"
+  date_precision: day
+  title: "Notas densas: Bacen, Andrei/Paulo, lista de nomes, “G” sob pressão"
+  summary: >-
+    Múltiplos envios forenses ao nº 556192664093 (ex.: 13:26, 13:33, 13:38, 13:41, 13:44,
+    13:55 UTC-3). Nota longa: Vorcaro diz que mudaria ida a Abu Dhabi; colocou “800mm” no
+    banco e esperava mais “400mm”; FGC “começou a fazer aos poucos”; info informal de que “G
+    e os diretores” estão sob pressão máxima da PF/MP; pede reforçar com Andrei e Paulo.
+    Nota seguinte lista nomes (“Pf Dennis cali Wilker / guilherme - sp Janaina…”). Outra:
+    “De pessoas de dentro do bacen… info 100%… so que ter cuidado de como conduzir com o G
+    depois”.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: +55 61 9266-4093
+  tags:
+    - notas
+    - whatsapp
+    - crise-master
+    - view-once
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+      quote: >-
+        É importante reforçar com Andrei e Paulo pra nao deixar ninguem de baixo fazer uma
+        sacanagem que ai vai tudo pro saco… Vou te mandar os nomes que tem ido ao Bacen
+        alegando que farao algo em breve
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+    - url: >-
+        https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml
+      publisher: O Globo
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso
+      publisher: Poder360
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
+      publisher: Poder360
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
+    em geral não recuperadas. PF interpreta Andrei≈Andrei Passos (DG/PF) e Paulo≈Paulo Gonet
+    (PGR); “G” pode ser Galípolo — hipótese, não prova biográfica.
+  cluster_id: forense-2025-10-30
+  cluster_role: parent
+- id: 2025-11-04-nota-forense-whatsapp-20-41-42-utc
+  date: "2025-11-04"
+  date_precision: day
+  title: Nota forense → WhatsApp 20:41:42 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~17:41:55 UTC-3. Nota criada em 20:41:42 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-04
+  cluster_role: child
+- id: 2025-11-04-nota-forense-whatsapp-20-43-30-utc-busca-quebra-sig
+  date: "2025-11-04"
+  date_precision: day
+  title: Nota forense → WhatsApp 20:43:30 UTC (busca/quebra sig?)
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~17:43:44 UTC-3. Nota criada em 20:43:30 UTC. Tema
+    associado nas transcrições PF/imprensa: busca/quebra sig?.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-04
+  cluster_role: child
+- id: 2025-11-04-nota-forense-whatsapp-20-51-18-utc
+  date: "2025-11-04"
+  date_precision: day
+  title: Nota forense → WhatsApp 20:51:18 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~17:51:29 UTC-3. Nota criada em 20:51:18 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-04
+  cluster_role: child
+- id: 2025-11-04-nota-forense-whatsapp-20-52-44-utc
+  date: "2025-11-04"
+  date_precision: day
+  title: Nota forense → WhatsApp 20:52:44 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~17:52:56 UTC-3. Nota criada em 20:52:44 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-04
+  cluster_role: child
+- id: 2025-11-04-nota-forense-whatsapp-21-15-06-utc
+  date: "2025-11-04"
+  date_precision: day
+  title: Nota forense → WhatsApp 21:15:06 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~18:15:24 UTC-3. Nota criada em 21:15:06 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-04
+  cluster_role: child
+- id: 2025-11-04-nota-forense-whatsapp-22-09-18-utc
+  date: "2025-11-04"
+  date_precision: day
+  title: Nota forense → WhatsApp 22:09:18 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~19:09:50 UTC-3. Nota criada em 22:09:18 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-04
+  cluster_role: child
+- id: 2025-11-04-nota-forense-whatsapp-23-44-51-utc-vai-tudo-por-agua-abaixo
+  date: "2025-11-04"
+  date_precision: day
+  title: Nota forense → WhatsApp 23:44:51 UTC (vai tudo por agua abaixo)
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~20:45:57 UTC-3. Nota criada em 23:44:51 UTC. Tema
+    associado nas transcrições PF/imprensa: vai tudo por agua abaixo.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-04
+  cluster_role: child
+- id: 2025-11-04-notas-busca-quebra-de-sigilo-vai-tudo-por-agua-abaixo
+  date: "2025-11-04"
+  date_precision: day
+  title: "Notas: busca/quebra de sigilo? “vai tudo por agua abaixo”"
+  summary: >-
+    Vários prints/notas enviados (envios UTC-3 ~17:41–20:45). O Globo/Poder360 transcrevem:
+    “Medio a grave seria busca ou quebra sig? So vai saber qdo ele chamar ne”; preocupação
+    de que medida “vai tudo por agua abaixo”.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: +55 61 9266-4093
+  tags:
+    - notas
+    - whatsapp
+    - crise-master
+    - view-once
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+      quote: Medio a grave seria busca ou quebra sig? So vai saber qdo ele chamar ne
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+    - url: >-
+        https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml
+      publisher: O Globo
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso
+      publisher: Poder360
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
+      publisher: Poder360
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
+    em geral não recuperadas.
+  cluster_id: forense-2025-11-04
+  cluster_role: parent
+- id: 2025-11-05-nota-forense-whatsapp-11-16-15-utc
+  date: "2025-11-05"
+  date_precision: day
+  title: Nota forense → WhatsApp 11:16:15 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~08:16:46 UTC-3. Nota criada em 11:16:15 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-05
+  cluster_role: child
+- id: 2025-11-05-nota-forense-whatsapp-11-17-06-utc
+  date: "2025-11-05"
+  date_precision: day
+  title: Nota forense → WhatsApp 11:17:06 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~08:17:19 UTC-3. Nota criada em 11:17:06 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-05
+  cluster_role: child
+- id: 2025-11-05-nota-forense-whatsapp-17-10-51-utc-nao-fazer-movimento-sem-aval
+  date: "2025-11-05"
+  date_precision: day
+  title: Nota forense → WhatsApp 17:10:51 UTC (nao fazer movimento sem aval)
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~14:11:07 UTC-3. Nota criada em 17:10:51 UTC. Tema
+    associado nas transcrições PF/imprensa: nao fazer movimento sem aval.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-05
+  cluster_role: child
+- id: 2025-11-05-nota-forense-whatsapp-22-05-41-utc-bloquear-maldade-sacanagem
+  date: "2025-11-05"
+  date_precision: day
+  title: Nota forense → WhatsApp 22:05:41 UTC (bloquear maldade/sacanagem)
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~19:05:56 UTC-3. Nota criada em 22:05:41 UTC. Tema
+    associado nas transcrições PF/imprensa: bloquear maldade/sacanagem.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-05
+  cluster_role: child
+- id: 2025-11-05-notas-nao-vou-fazer-nenhum-movimento-que-voce-nao-achar-produtivo
+  date: "2025-11-05"
+  date_precision: day
+  title: "Notas: “nao vou fazer nenhum movimento que voce não achar produtivo”"
+  summary: >-
+    Envios forenses (~08:16–19:05 UTC-3). Transcrições jornalísticas: Vorcaro diz que Paulo
+    só disse que olhava pessoalmente e “nao teria sacanagem”; pergunta se conseguiu
+    “bloquear a maldade e sacanagem”.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: +55 61 9266-4093
+  tags:
+    - notas
+    - whatsapp
+    - crise-master
+    - view-once
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+      quote: >-
+        Acha que vale a pena? Nao vou fazer nenhum movimento que voce não achar produtivo…
+        Como estamos aí? Conseguiu bloquear a maldade e sacanagem?
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+    - url: >-
+        https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml
+      publisher: O Globo
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso
+      publisher: Poder360
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
+      publisher: Poder360
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
+    em geral não recuperadas.
+  cluster_id: forense-2025-11-05
+  cluster_role: parent
+- id: 2025-11-06-nota-forense-whatsapp-19-26-00-utc
+  date: "2025-11-06"
+  date_precision: day
+  title: Nota forense → WhatsApp 19:26:00 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~16:26:16 UTC-3. Nota criada em 19:26:00 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-06
+  cluster_role: child
+- id: 2025-11-06-nota-forense-whatsapp-23-56-59-utc
+  date: "2025-11-06"
+  date_precision: day
+  title: Nota forense → WhatsApp 23:56:59 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~20:57:12 UTC-3. Nota criada em 23:56:59 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-06
+  cluster_role: child
+- id: 2025-11-06-novos-envios-de-notas-prints-ao-contato-moraes-brasilia
+  date: "2025-11-06"
+  date_precision: day
+  title: Novos envios de notas/prints ao contato Moraes BRASILIA
+  summary: >-
+    PF registra múltiplas cadeias forenses Notas→WhatsApp neste dia (envios ~16:26–22:33
+    UTC-3). Texto integral de cada nota não totalmente OCR’d no .txt; episódio documentado
+    pelos timestamps 1:1.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: +55 61 9266-4093
+  tags:
+    - notas
+    - whatsapp
+    - crise-master
+    - view-once
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+    - url: >-
+        https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml
+      publisher: O Globo
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso
+      publisher: Poder360
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
+      publisher: Poder360
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
+    em geral não recuperadas. Sem transcrição jornalística específica isolada para 06/11 nas
+    fontes locais; high para o fato do envio, medium para o teor.
+  cluster_id: forense-2025-11-06
+  cluster_role: parent
+- id: 2025-11-07-nota-forense-whatsapp-01-18-10-utc-pier-estrategia-judicial
+  date: "2025-11-07"
+  date_precision: day
+  title: Nota forense → WhatsApp 01:18:10 UTC (Pier / estratégia judicial)
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~22:18:29 UTC-3. Nota criada em 01:18:10 UTC. Tema
+    associado nas transcrições PF/imprensa: Pier / estratégia judicial.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-07
+  cluster_role: child
+- id: 2025-11-07-nota-forense-whatsapp-01-33-18-utc
+  date: "2025-11-07"
+  date_precision: day
+  title: Nota forense → WhatsApp 01:33:18 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~22:33:41 UTC-3. Nota criada em 01:33:18 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-07
+  cluster_role: child
+- id: 2025-11-07-nota-sobre-estrategia-judicial-e-pier
+  date: "2025-11-07"
+  date_precision: day
+  title: Nota sobre estratégia judicial e “Pier”
+  summary: >-
+    Envios forenses de madrugada (~UTC). O Globo: Vorcaro pergunta sobre ação na Justiça e
+    “Pier” (Pierpaolo Bottini, segundo O Globo).
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: +55 61 9266-4093
+  tags:
+    - notas
+    - whatsapp
+    - crise-master
+    - view-once
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+      quote: >-
+        O Pier acha que se entrar do nada pode acelerar algo, se justifica… O que acha? Tem
+        ideia se esta controlado?
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+    - url: >-
+        https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml
+      publisher: O Globo
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso
+      publisher: Poder360
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
+      publisher: Poder360
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
+    em geral não recuperadas.
+  cluster_id: forense-2025-11-07
+  cluster_role: parent
+- id: 2025-11-10-envio-forense-de-nota-ao-n-moraes-brasilia
+  date: "2025-11-10"
+  date_precision: day
+  title: Envio forense de nota ao nº Moraes BRASILIA
+  summary: >-
+    PF registra cadeia com nota criada ~20:50:41 UTC e envio ~17:50:57 UTC-3 ao terminal
+    556192664093.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: +55 61 9266-4093
+  tags:
+    - notas
+    - whatsapp
+    - crise-master
+    - view-once
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+    - url: >-
+        https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml
+      publisher: O Globo
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso
+      publisher: Poder360
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
+      publisher: Poder360
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
+    em geral não recuperadas. Teor não transcrito nas fontes locais usadas.
+  cluster_id: forense-2025-11-10
+  cluster_role: parent
+- id: 2025-11-10-nota-forense-whatsapp-20-50-41-utc
+  date: "2025-11-10"
+  date_precision: day
+  title: Nota forense → WhatsApp 20:50:41 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~17:50:57 UTC-3. Nota criada em 20:50:41 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-10
+  cluster_role: child
+- id: 2025-11-11-envio-forense-de-nota-ao-n-moraes-brasilia
+  date: "2025-11-11"
+  date_precision: day
+  title: Envio forense de nota ao nº Moraes BRASILIA
+  summary: PF registra nota ~23:44:30 UTC e envio ~20:44:45 UTC-3.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: +55 61 9266-4093
+  tags:
+    - notas
+    - whatsapp
+    - crise-master
+    - view-once
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+    - url: >-
+        https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml
+      publisher: O Globo
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso
+      publisher: Poder360
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
+      publisher: Poder360
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
+    em geral não recuperadas. Teor não transcrito nas fontes locais usadas.
+  cluster_id: forense-2025-11-11
+  cluster_role: parent
+- id: 2025-11-11-nota-forense-whatsapp-23-44-30-utc
+  date: "2025-11-11"
+  date_precision: day
+  title: Nota forense → WhatsApp 23:44:30 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~20:44:45 UTC-3. Nota criada em 23:44:30 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-11
+  cluster_role: child
+- id: 2025-11-12-cluster-de-notas-prints-pela-manha-4-envios-forenses
+  date: "2025-11-12"
+  date_precision: day
+  title: Cluster de notas/prints pela manhã (4 envios forenses)
+  summary: >-
+    Múltiplos envios UTC-3 ~08:55–09:37. Metadados forenses no IPJ-A; teores específicos
+    pouco legíveis no OCR local.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: +55 61 9266-4093
+  tags:
+    - notas
+    - whatsapp
+    - crise-master
+    - view-once
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+    - url: >-
+        https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml
+      publisher: O Globo
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso
+      publisher: Poder360
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
+      publisher: Poder360
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
+    em geral não recuperadas.
+  cluster_id: forense-2025-11-12
+  cluster_role: parent
+- id: 2025-11-12-nota-forense-whatsapp-11-55-16-utc
+  date: "2025-11-12"
+  date_precision: day
+  title: Nota forense → WhatsApp 11:55:16 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~08:55:40 UTC-3. Nota criada em 11:55:16 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-12
+  cluster_role: child
+- id: 2025-11-12-nota-forense-whatsapp-12-20-33-utc
+  date: "2025-11-12"
+  date_precision: day
+  title: Nota forense → WhatsApp 12:20:33 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~09:20:46 UTC-3. Nota criada em 12:20:33 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-12
+  cluster_role: child
+- id: 2025-11-12-nota-forense-whatsapp-12-21-07-utc
+  date: "2025-11-12"
+  date_precision: day
+  title: Nota forense → WhatsApp 12:21:07 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~09:21:18 UTC-3. Nota criada em 12:21:07 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-12
+  cluster_role: child
+- id: 2025-11-12-nota-forense-whatsapp-12-37-25-utc
+  date: "2025-11-12"
+  date_precision: day
+  title: Nota forense → WhatsApp 12:37:25 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~09:37:42 UTC-3. Nota criada em 12:37:25 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-12
+  cluster_role: child
+- id: 2025-11-14-nota-de-gratidao-divida-de-vida-contigo-e-com-a-sua-familia
+  date: "2025-11-14"
+  date_precision: day
+  title: "Nota de gratidão: “dívida de vida contigo e com a sua família”"
+  summary: >-
+    Envios forenses (incl. ~22:40 UTC-3 do dia 13 / madrugada 14, e 10:03 / 18:19 UTC-3).
+    Transcrição O Globo/Poder360 da nota de gratidão.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: +55 61 9266-4093
+  tags:
+    - notas
+    - whatsapp
+    - crise-master
+    - view-once
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+      quote: >-
+        Estamos juntos sempre. Você sabe que tenho gratidão da minha vida a você. Toda minha
+        família, funcionários, parceiros, amigos que dependem de nos tem uma dívida de vida
+        contigo e com a sua família…
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+    - url: >-
+        https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml
+      publisher: O Globo
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso
+      publisher: Poder360
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
+      publisher: Poder360
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
+    em geral não recuperadas.
+  cluster_id: forense-2025-11-14
+  cluster_role: parent
+- id: 2025-11-14-nota-forense-whatsapp-01-40-17-utc-gratidao-divida-de-vida
+  date: "2025-11-14"
+  date_precision: day
+  title: Nota forense → WhatsApp 01:40:17 UTC (gratidão / dívida de vida)
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~22:40:33 UTC-3. Nota criada em 01:40:17 UTC. Tema
+    associado nas transcrições PF/imprensa: gratidão / dívida de vida.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-14
+  cluster_role: child
+- id: 2025-11-14-nota-forense-whatsapp-13-03-36-utc
+  date: "2025-11-14"
+  date_precision: day
+  title: Nota forense → WhatsApp 13:03:36 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~10:03:49 UTC-3. Nota criada em 13:03:36 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-14
+  cluster_role: child
+- id: 2025-11-14-nota-forense-whatsapp-21-19-42-utc
+  date: "2025-11-14"
+  date_precision: day
+  title: Nota forense → WhatsApp 21:19:42 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~18:19:53 UTC-3. Nota criada em 21:19:42 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-14
+  cluster_role: child
+- id: 2025-11-15-acha-que-segunda-ja-tenho-que-estar-fora-ricardo-galipolo-paulo-andrei
+  date: "2025-11-15"
+  date_precision: day
+  title: “Acha que segunda ja tenho que estar fora?” — Ricardo, Galípolo, Paulo/Andrei
+  summary: >-
+    Cluster intenso de envios (~18:22–22:43 UTC-3). Vorcaro pergunta sobre juiz Ricardo, se
+    Galípolo sabe, se deve estar fora na segunda, e se dá para reverter com Paulo ou Andrei.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: +55 61 9266-4093
+  tags:
+    - notas
+    - whatsapp
+    - crise-master
+    - view-once
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+      quote: >-
+        Que loucura, bem na semana que estou resolvendo tudo. Aquele mesmo juiz Ricardo? E o
+        Galipolo ta sabendo? Conseguimos fazer algo? Acha que segunda ja tenho que estar
+        fora?
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+    - url: >-
+        https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml
+      publisher: O Globo
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso
+      publisher: Poder360
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
+      publisher: Poder360
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
+    em geral não recuperadas.
+  cluster_id: forense-2025-11-15
+  cluster_role: parent
+- id: 2025-11-15-nota-forense-whatsapp-21-22-07-utc-juiz-ricardo-galipolo-estar-fora
+  date: "2025-11-15"
+  date_precision: day
+  title: Nota forense → WhatsApp 21:22:07 UTC (juiz Ricardo / Galípolo / estar fora)
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~18:22:18 UTC-3. Nota criada em 21:22:07 UTC. Tema
+    associado nas transcrições PF/imprensa: juiz Ricardo / Galípolo / estar fora.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-15
+  cluster_role: child
+- id: 2025-11-15-nota-forense-whatsapp-21-23-12-utc
+  date: "2025-11-15"
+  date_precision: day
+  title: Nota forense → WhatsApp 21:23:12 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Timestamp de envio UTC-3 cruzado nas tabelas do IPJ-A (ver figuras). Nota criada
+    em 21:23:12 UTC. Teor completo pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-15
+  cluster_role: child
+- id: 2025-11-15-nota-forense-whatsapp-22-43-40-utc-paulo-ou-andrei-reverter
+  date: "2025-11-15"
+  date_precision: day
+  title: Nota forense → WhatsApp 22:43:40 UTC (Paulo ou Andrei reverter)
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~19:43:51 UTC-3. Nota criada em 22:43:40 UTC. Tema
+    associado nas transcrições PF/imprensa: Paulo ou Andrei reverter.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-15
+  cluster_role: child
+- id: 2025-11-16-auge-atrasar-com-andrei-galipolo-bomba-atomica-desarmar
+  date: "2025-11-16"
+  date_precision: day
+  title: "Auge: “atrasar” com Andrei, Galípolo, “bomba atômica”, “desarmar”"
+  summary: >-
+    Dezena de notas forenses (noite 15→16 e dia 16). O Globo/Poder360: pedido para
+    sensibilizar Andrei a “atrasar pra outra semana”; perguntas se “acontecer amanhã de
+    manha”; se “com Andrei da pra segurar”; se Galípolo pressiona intervenção; “Não podem
+    estourar uma bomba atômica…”; “Muita sacanagem… desarmar isso”.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: +55 61 9266-4093
+  tags:
+    - notas
+    - whatsapp
+    - crise-master
+    - view-once
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+      quote: >-
+        Se o Andrei conseguir atrasar pra outra semana, pois tem feriado, o banco não
+        quebra. Tenta chamar ele e sensibilizar isso se achar possível
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+    - url: >-
+        https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml
+      publisher: O Globo
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso
+      publisher: Poder360
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
+      publisher: Poder360
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
+    em geral não recuperadas.
+  cluster_id: forense-2025-11-16
+  cluster_role: parent
+- id: 2025-11-16-nota-forense-whatsapp-00-23-27-utc
+  date: "2025-11-16"
+  date_precision: day
+  title: Nota forense → WhatsApp 00:23:27 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~21:23:37 UTC-3. Nota criada em 00:23:27 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-16
+  cluster_role: child
+- id: 2025-11-16-nota-forense-whatsapp-00-33-44-utc
+  date: "2025-11-16"
+  date_precision: day
+  title: Nota forense → WhatsApp 00:33:44 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~21:33:59 UTC-3. Nota criada em 00:33:44 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-16
+  cluster_role: child
+- id: 2025-11-16-nota-forense-whatsapp-00-41-23-utc
+  date: "2025-11-16"
+  date_precision: day
+  title: Nota forense → WhatsApp 00:41:23 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~21:41:33 UTC-3. Nota criada em 00:41:23 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-16
+  cluster_role: child
+- id: 2025-11-16-nota-forense-whatsapp-00-49-24-utc
+  date: "2025-11-16"
+  date_precision: day
+  title: Nota forense → WhatsApp 00:49:24 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~21:49:45 UTC-3. Nota criada em 00:49:24 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-16
+  cluster_role: child
+- id: 2025-11-16-nota-forense-whatsapp-01-03-07-utc
+  date: "2025-11-16"
+  date_precision: day
+  title: Nota forense → WhatsApp 01:03:07 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~22:03:16 UTC-3. Nota criada em 01:03:07 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-16
+  cluster_role: child
+- id: 2025-11-16-nota-forense-whatsapp-01-05-55-utc
+  date: "2025-11-16"
+  date_precision: day
+  title: Nota forense → WhatsApp 01:05:55 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~22:06:07 UTC-3. Nota criada em 01:05:55 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-16
+  cluster_role: child
+- id: 2025-11-16-nota-forense-whatsapp-01-12-15-utc
+  date: "2025-11-16"
+  date_precision: day
+  title: Nota forense → WhatsApp 01:12:15 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~22:12:27 UTC-3. Nota criada em 01:12:15 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-16
+  cluster_role: child
+- id: 2025-11-16-nota-forense-whatsapp-01-28-17-utc
+  date: "2025-11-16"
+  date_precision: day
+  title: Nota forense → WhatsApp 01:28:17 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~22:28:29 UTC-3. Nota criada em 01:28:17 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-16
+  cluster_role: child
+- id: 2025-11-16-nota-forense-whatsapp-01-43-41-utc
+  date: "2025-11-16"
+  date_precision: day
+  title: Nota forense → WhatsApp 01:43:41 UTC
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~22:43:52 UTC-3. Nota criada em 01:43:41 UTC. Teor completo
+    pode estar só em figura/UFED Body; não inventado aqui.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: medium
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-16
+  cluster_role: child
+- id: 2025-11-16-nota-forense-whatsapp-16-39-51-utc-andrei-atrasar-banco-nao-quebra
+  date: "2025-11-16"
+  date_precision: day
+  title: Nota forense → WhatsApp 16:39:51 UTC (Andrei atrasar / banco não quebra)
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~13:40:19 UTC-3. Nota criada em 16:39:51 UTC. Tema
+    associado nas transcrições PF/imprensa: Andrei atrasar / banco não quebra.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-16
+  cluster_role: child
+- id: 2025-11-16-nota-forense-whatsapp-19-57-22-utc-amanha-de-manha
+  date: "2025-11-16"
+  date_precision: day
+  title: Nota forense → WhatsApp 19:57:22 UTC (amanhã de manhã?)
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~16:57:47 UTC-3. Nota criada em 19:57:22 UTC. Tema
+    associado nas transcrições PF/imprensa: amanhã de manhã?.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-16
+  cluster_role: child
+- id: 2025-11-16-nota-forense-whatsapp-21-19-59-utc-galipolo-bomba-atomica-desarmar
+  date: "2025-11-16"
+  date_precision: day
+  title: Nota forense → WhatsApp 21:19:59 UTC (Galípolo / bomba atômica / desarmar)
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~18:20:18 UTC-3. Nota criada em 21:19:59 UTC. Tema
+    associado nas transcrições PF/imprensa: Galípolo / bomba atômica / desarmar.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-16
+  cluster_role: child
+- id: 2025-11-17-dia-da-decisao-de-prisao-chat-estou-online-5-view-once
+  date: "2025-11-17"
+  date_precision: day
+  title: Dia da decisão de prisão + chat “estou online” + 5 view-once
+  summary: >-
+    Manhã 07:19 (UTC-3): 👍 e nota sobre “turma do brb” / “movimento de sacanagem”. 15:29:
+    juiz Ricardo Augusto Soares Leite (10ª VF/DF) assina prisão preventiva (Poder360).
+    Tarde: “Fiz uma correria… vou anunciar parte da transação”; 17:26 “Alguma novidade?
+    Conseguiu ter notícia ou bloquear?”; ~19:58 “Alguma novidade?”; 20:48 última mensagem
+    reproduzida terminando em “estou online”. PF: 5 envios em visualização única; logs 1:1.
+    Anexo WhatsApp mostra 👍 do interlocutor em mensagem de 20:48. Destino citado do jato:
+    Malta→Dubai (imprensa).
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+    - name: Ricardo Augusto Soares Leite
+  tags:
+    - prisao
+    - estou-online
+    - view-once
+    - compliance-zero
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+      quote: >-
+        Foi. Seria melhor na sexta junto com os gringos mas foi o que deu pra fazer dentro
+        da situação. Acho que pode inibir. Amanhã começam as batidas do esteves. To indo
+        assinar com os investidores de fora e estou online
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso
+      publisher: Poder360
+      accessed: "2026-09-05"
+    - url: >-
+        https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml
+      publisher: O Globo
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    View-once incomplete. Preferir 20h48 (UTC-3) do relatório/anexo; algumas matérias citam
+    23h48. Agenda label ≠ chip owner.
+  cluster_id: forense-2025-11-17
+  cluster_role: parent
+- id: 2025-11-17-nota-forense-whatsapp-10-18-39-utc-turma-do-brb-sacanagem
+  date: "2025-11-17"
+  date_precision: day
+  title: Nota forense → WhatsApp 10:18:39 UTC (turma do BRB / sacanagem)
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~07:19:01 UTC-3. Nota criada em 10:18:39 UTC. Tema
+    associado nas transcrições PF/imprensa: turma do BRB / sacanagem.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-17
+  cluster_role: child
+- id: 2025-11-17-nota-forense-whatsapp-20-22-22-utc-anunciar-parte-da-transacao
+  date: "2025-11-17"
+  date_precision: day
+  title: Nota forense → WhatsApp 20:22:22 UTC (anunciar parte da transação)
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~17:22:40 UTC-3. Nota criada em 20:22:22 UTC. Tema
+    associado nas transcrições PF/imprensa: anunciar parte da transação.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-17
+  cluster_role: child
+- id: 2025-11-17-nota-forense-whatsapp-20-26-02-utc-alguma-novidade-bloquear
+  date: "2025-11-17"
+  date_precision: day
+  title: Nota forense → WhatsApp 20:26:02 UTC (Alguma novidade? bloquear?)
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~17:26:12 UTC-3. Nota criada em 20:26:02 UTC. Tema
+    associado nas transcrições PF/imprensa: Alguma novidade? bloquear?.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-17
+  cluster_role: child
+- id: 2025-11-17-nota-forense-whatsapp-22-58-38-utc-alguma-novidade-reprise
+  date: "2025-11-17"
+  date_precision: day
+  title: Nota forense → WhatsApp 22:58:38 UTC (Alguma novidade? (reprise))
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~19:58 UTC-3. Nota criada em 22:58:38 UTC. Tema associado
+    nas transcrições PF/imprensa: Alguma novidade? (reprise).
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-17
+  cluster_role: child
+- id: 2025-11-17-nota-forense-whatsapp-23-48-12-utc-estou-online
+  date: "2025-11-17"
+  date_precision: day
+  title: Nota forense → WhatsApp 23:48:12 UTC (estou online)
+  summary: >-
+    Cadeia forense Apple Notas → screenshot → PDF temporário iOS → WhatsApp, documentada no
+    IPJ-A. Envio ao 556192664093 ~20:48:31 UTC-3. Nota criada em 23:48:12 UTC. Tema
+    associado nas transcrições PF/imprensa: estou online.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+      role: rótulo de agenda
+  tags:
+    - nota-forense
+    - whatsapp
+    - view-once
+    - crise
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      title: IPJ-A 3298613/2026
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
+  cluster_id: forense-2025-11-17
+  cluster_role: child
+- id: 2025-11-17-ultima-linha-de-whatsapp-reproduzida-antes-da-prisao
+  date: "2025-11-17"
+  date_precision: day
+  title: Última linha de WhatsApp reproduzida antes da prisão
+  summary: >-
+    Poder360: at 20:48 (UTC-3) Vorcaro wrote he was going to sign with foreign investors and
+    was “online”; reaction logged as 👍. Prison warrant signed 15:29 same day (Poder360) by
+    judge Ricardo Augusto Soares Leite; arrest at GRU while preparing private jet (Malta
+    then Dubai per Poder360; Dubai per O Globo).
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+    - name: Ricardo Soares Leite
+  tags:
+    - compliance-zero
+    - seal-lift
+  sources:
+    - url: >-
+        https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso
+      publisher: Poder360
+      accessed: "2026-09-05"
+      quote: To indo assinar com os investidores de fora e estou online
+  evidence_type: press
+  confidence: high
+  notes: >-
+    View-once / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip comprovado.
+    some outlets say arrest night of 17 vs morning 18 — use PF/Poder360 chronology
+- id: 2025-11-17-ultima-tentativa-de-oferta-de-consorcio-privado
+  date: "2025-11-17"
+  date_precision: day
+  title: Última tentativa de oferta de consórcio privado
+  summary: >-
+    G1/Valor: Fictor Holding Financeira + UAE investors announce acquisition with immediate
+    R$3 bi capital injection; still needs BC/Cade. Same day Vorcaro messages about
+    announcing part of transaction and “batidas do esteves.” Arrest/liquidation next day
+    kill the deal; Fictor suspends.
+  people:
+    - name: Rafael Góis / Fictor
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: UAE investors
+  tags:
+    - master
+    - brb
+    - crisis
+  sources:
+    - url: >-
+        https://g1.globo.com/economia/noticia/2025/11/17/fictor-anuncia-compra-do-banco-master.ghtml
+      publisher: G1
+      accessed: "2026-09-05"
+  evidence_type: press
+  confidence: high

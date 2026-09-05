@@ -3,6 +3,7 @@
 import { useMemo, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import { EventCard } from "@/components/EventCard";
+import { ForensicCluster } from "@/components/ForensicCluster";
 import type { EventRecord } from "@/lib/types";
 
 type Props = {
@@ -11,6 +12,21 @@ type Props = {
   tags: string[];
   years: number[];
 };
+
+function matchesQuery(event: EventRecord, query: string) {
+  if (!query) return true;
+  const hay = [
+    event.title,
+    event.summary,
+    event.notes ?? "",
+    event.tags.join(" "),
+    event.people.map((p) => p.name).join(" "),
+    event.sources.map((s) => `${s.publisher} ${s.title ?? ""} ${s.quote ?? ""}`).join(" "),
+  ]
+    .join(" ")
+    .toLowerCase();
+  return hay.includes(query);
+}
 
 export function TimelineExplorer({ events, people, tags, years }: Props) {
   const params = useSearchParams();
@@ -34,31 +50,65 @@ export function TimelineExplorer({ events, people, tags, years }: Props) {
         );
         if (!match) return false;
       }
-      if (!query) return true;
-      const hay = [
-        event.title,
-        event.summary,
-        event.notes ?? "",
-        event.tags.join(" "),
-        event.people.map((p) => p.name).join(" "),
-        event.sources.map((s) => `${s.publisher} ${s.title ?? ""} ${s.quote ?? ""}`).join(" "),
-      ]
-        .join(" ")
-        .toLowerCase();
-      return hay.includes(query);
+      return matchesQuery(event, query);
     });
   }, [events, q, person, tag, year, evidence, confidence]);
 
+  const byId = useMemo(
+    () => new Map(events.map((event) => [event.id, event])),
+    [events],
+  );
+
+  const childrenByCluster = useMemo(() => {
+    const map = new Map<string, EventRecord[]>();
+    for (const event of events) {
+      if (event.cluster_role !== "child" || !event.cluster_id) continue;
+      const list = map.get(event.cluster_id) ?? [];
+      list.push(event);
+      map.set(event.cluster_id, list);
+    }
+    for (const list of map.values()) {
+      list.sort((a, b) => a.title.localeCompare(b.title, "pt-BR"));
+    }
+    return map;
+  }, [events]);
+
+  const topLevel = useMemo(() => {
+    const filteredIds = new Set(filtered.map((event) => event.id));
+    const extraParents = new Set<string>();
+    const openClusters = new Set<string>();
+
+    for (const event of filtered) {
+      if (event.cluster_role === "child" && event.cluster_id) {
+        openClusters.add(event.cluster_id);
+        const parent = events.find(
+          (candidate) =>
+            candidate.cluster_id === event.cluster_id &&
+            candidate.cluster_role === "parent",
+        );
+        if (parent) extraParents.add(parent.id);
+      }
+    }
+
+    const visible = events.filter((event) => {
+      if (event.cluster_role === "child") return false;
+      if (filteredIds.has(event.id) || extraParents.has(event.id)) return true;
+      return false;
+    });
+
+    return { visible, openClusters };
+  }, [events, filtered]);
+
   const grouped = useMemo(() => {
     const map = new Map<string, EventRecord[]>();
-    for (const event of filtered) {
+    for (const event of topLevel.visible) {
       const key = event.date.slice(0, 4);
       const list = map.get(key) ?? [];
       list.push(event);
       map.set(key, list);
     }
     return [...map.entries()];
-  }, [filtered]);
+  }, [topLevel.visible]);
 
   const reset = () => {
     setQ("");
@@ -70,6 +120,11 @@ export function TimelineExplorer({ events, people, tags, years }: Props) {
   };
 
   const active = q || person || tag || year || evidence || confidence;
+  const clusterCount = [...childrenByCluster.keys()].length;
+  const microCount = [...childrenByCluster.values()].reduce(
+    (sum, list) => sum + list.length,
+    0,
+  );
 
   return (
     <section>
@@ -131,13 +186,13 @@ export function TimelineExplorer({ events, people, tags, years }: Props) {
             </button>
           ) : (
             <p className="muted" style={{ margin: 0 }}>
-              {events.length} eventos sourced
+              {events.length} eventos sourced · {clusterCount} clusters forenses · {microCount} micro-cards agrupados
             </p>
           )}
         </div>
       </form>
 
-      {filtered.length === 0 ? (
+      {topLevel.visible.length === 0 ? (
         <div className="empty">
           <p>Nenhum evento corresponde a esses filtros.</p>
           <button type="button" className="btn secondary" onClick={reset}>
@@ -151,9 +206,23 @@ export function TimelineExplorer({ events, people, tags, years }: Props) {
               <h2 className="year-head" id={`ano-${yearKey}`}>
                 {yearKey}
               </h2>
-              {list.map((event) => (
-                <EventCard key={event.id} event={event} />
-              ))}
+              {list.map((event) => {
+                const children =
+                  event.cluster_role === "parent"
+                    ? (childrenByCluster.get(event.cluster_id ?? "") ?? [])
+                    : [];
+                if (children.length > 0 && event.cluster_id) {
+                  return (
+                    <ForensicCluster
+                      key={event.id}
+                      parent={event}
+                      children={children}
+                      defaultOpen={topLevel.openClusters.has(event.cluster_id)}
+                    />
+                  );
+                }
+                return <EventCard key={event.id} event={byId.get(event.id) ?? event} />;
+              })}
             </section>
           ))}
         </div>
