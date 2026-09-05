@@ -11,8 +11,7 @@
       id: daniel-bueno-vorcaro
     - name: Ciro Soares
       id: ciro-soares
-    - name: Paulo Gonet Branco
-      id: paulo-gonet
+    - name: Paulo Gonet
   tags:
     - gonet
     - ciro
@@ -25,14 +24,11 @@
       accessed: "2026-09-05"
       title: IPJ-A 3298613/2026
     - url: >-
-        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
       publisher: Poder360
       accessed: "2026-09-05"
   evidence_type: primary_document
   confidence: high
-  notes: >-
-    Foto e recado chegam via Ciro Soares no IPJ-A publicado; não há contato “Paulo Gonet”
-    na agenda de Vorcaro neste material. Análise da PF não é exaustiva.
 - id: 2025-03-19-vorcaro-diz-a-martha-que-esta-com-o-ministro-depois-com-moraes
   date: "2025-03-19"
   date_precision: day
@@ -45,7 +41,7 @@
       id: daniel-bueno-vorcaro
     - name: Martha Graeff
       id: martha-graeff
-    - name: Paulo Sergio
+    - name: Paulo Sérgio Neves de Souza
       id: paulo-sergio-neves
   tags:
     - encontro
@@ -58,9 +54,6 @@
       title: IPJ-A 3298613/2026
   evidence_type: primary_document
   confidence: high
-  notes: >-
-    Afirmação unilateral de Vorcaro a Martha e a Paulo Sergio (rótulo do chat). Não é prova
-    fotográfica da presença. Trecho do IPJ-A publicado (PET 16.662).
 - id: 2025-03-20-madrugada-hugo-e-ciro-pra-falarem-com-alexandre
   date: "2025-03-20"
   date_precision: day
@@ -74,12 +67,11 @@
       id: daniel-bueno-vorcaro
     - name: Martha Graeff
       id: martha-graeff
-    - name: Hugo
+    - name: Hugo Motta
       id: hugo-motta
     - name: Ciro Soares
       id: ciro-soares
     - name: Alexandre
-      id: alexandre-de-moraes
   tags:
     - encontro
     - ciro
@@ -92,10 +84,6 @@
       title: IPJ-A 3298613/2026
   evidence_type: primary_document
   confidence: high
-  notes: >-
-    Duração do encontro (~20:23 do dia 19 até ao menos 00:32 do dia 20) é estimativa da PF
-    a partir dos diálogos. Afirmação unilateral de Vorcaro a Martha. Análise da PF não é
-    exaustiva.
 - id: 2025-03-28-anunciado-acordo-de-compra-de-acoes-banco-de-brasilia-master
   date: "2025-03-28"
   date_precision: day
@@ -126,9 +114,6 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
-  notes: >-
-    Fato relevante do BRB e reportagem da Folha. Negócio ainda sujeito a Bacen, Cade e
-    outros órgãos.
 - id: 2025-03-28-ciro-encaminha-mensagens-atribuidas-a-gonet-londres-e-macallan
   date: "2025-03-28"
   date_precision: day
@@ -143,9 +128,7 @@
       id: daniel-bueno-vorcaro
     - name: Ciro Soares
       id: ciro-soares
-    - name: Paulo Gonet Branco
-      id: paulo-gonet
-      role: atribuído
+    - name: Paulo Gonet
   tags:
     - gonet
     - londres-2025
@@ -158,7 +141,7 @@
       title: IPJ-A 3298613/2026
       quote: Oba!!! Tomara que tenha charuto e macalan!
     - url: >-
-        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
       publisher: Poder360
       accessed: "2026-09-05"
   evidence_type: primary_document
@@ -181,9 +164,7 @@
     - name: Pedro Gonet
       id: pedro-gonet
       role: filho, citado
-    - name: Paulo Gonet Branco
-      id: paulo-gonet
-      role: citado
+    - name: Paulo Gonet
   tags:
     - pedro-gonet
     - londres-2025
@@ -195,18 +176,15 @@
       title: IPJ-A 3298613/2026
       quote: Obvio ne
     - url: >-
-        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
       publisher: Poder360
       accessed: "2026-09-05"
   evidence_type: primary_document
   confidence: high
-  notes: >-
-    Pedido chega via Ciro (“Gonet mandou” / “Gonet perguntou”); não é mensagem direta de
-    um contato Gonet na agenda. IPJ-A publicado.
 - id: 2025-04-01-fasano-itaim-stake-trancoso-mansion-atletico-mineiro-saf
   date: "2025-04-01"
   date_precision: month
-  title: Cota no Fasano Itaim, mansão em Trancoso, SAF do Atlético Mineiro
+  title: Fasano Itaim stake, Trancoso mansion, Atlético Mineiro SAF
   summary: >-
     Valor: luxury lifestyle — private jet, R$280 mi mansion in Trancoso (BA), substantial
     stake in Atlético Mineiro, co-investor in fund owning Fasano Itaim hotel building.
@@ -236,12 +214,11 @@
   people:
     - name: Daniel Bueno Vorcaro
       id: daniel-bueno-vorcaro
-    - name: Henrique
+    - name: Henrique Vorcaro
       id: henrique-vorcaro
-    - name: Quadrado
+    - name: Maurício Quadrado
       id: mauricio-quadrado
     - name: Lima
-      id: augusto-lima
     - name: Nelson Tanure
       id: nelson-tanure
     - name: Flávia Peres
@@ -276,9 +253,7 @@
       id: daniel-bueno-vorcaro
     - name: Ciro Soares
       id: ciro-soares
-    - name: Paulo Gonet Branco
-      id: paulo-gonet
-      role: PG, hipótese
+    - name: Paulo Gonet
   tags:
     - gonet
     - brb
@@ -322,9 +297,6 @@
       quote: Pedro e ciro ok
   evidence_type: primary_document
   confidence: high
-  notes: >-
-    “Pedro” interpretado pela PF como Pedro Gonet. Não há contato Gonet na agenda neste
-    material. IPJ-A publicado; análise da PF não é exaustiva.
 - id: 2025-04-19-vorcaro-a-martha-indo-encontrar-alexandre-moraes-feriado
   date: "2025-04-19"
   date_precision: day
@@ -349,9 +321,6 @@
       title: IPJ-A 3298613/2026
   evidence_type: primary_document
   confidence: high
-  notes: >-
-    Afirmação unilateral de Vorcaro a Martha; não é prova fotográfica da presença. Trecho
-    do IPJ-A publicado (PET 16.662).
 - id: 2025-04-29-vorcaro-a-martha-esta-com-alexandre-alexandre-moraes
   date: "2025-04-29"
   date_precision: day
@@ -375,9 +344,6 @@
       title: IPJ-A 3298613/2026
   evidence_type: primary_document
   confidence: high
-  notes: >-
-    Afirmação unilateral de Vorcaro a Martha; não é prova fotográfica da presença. Trecho
-    do IPJ-A publicado (PET 16.662).
 - id: 2025-05-12-contrato-viking-participacoes-barci-de-moraes-ate-r-50-mi
   date: "2025-05-12"
   date_precision: day
@@ -396,8 +362,7 @@
     - name: Viviane Barci de Moraes
       id: viviane-barci-de-moraes
       role: escritório
-    - name: Guilherme de Toledo Benazzi
-      id: guilherme-benazzi
+    - name: Guilherme Benazzi
   tags:
     - contrato-viking-barci
     - r-50mi
@@ -418,11 +383,9 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    O escritório Barci disse à Folha (via Poder360) ter assinado só o 1º contrato (Master);
-    nega transferência/substituição; afirma que a proposta de quitação “não foi aceita”,
-    “nada foi assinado”, e que o contrato Master extinguiu-se com a liquidação. O PDF existe
-    no material publicado — a disputa é sobre aceite/validade, não sobre a existência do
-    arquivo.
+    Barci disputes 2nd contract: escritório disse à Folha (via Poder360) ter assinado só o
+    1º (Master); nega transferência/substituição; afirma que proposta de quitação “não foi
+    aceita”, “nada foi assinado”, e que o contrato Master extinguiu-se com a liquidação.
 - id: 2025-05-12-segundo-contrato-barci-viking-ate-r-50-mi-e-disputa-da-dacao-de-aeronaves
   date: "2025-05-12"
   date_precision: day
@@ -453,9 +416,7 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
-  notes: >-
-    Disputa do 2º contrato Barci: registrar os dois lados. O escritório nega aceite e
-    diz que “nada foi assinado”; a PF anexa o PDF.
+  notes: Barci 2nd-contract dispute — report both sides
 - id: 2025-05-19-termo-de-acordo-e-dacao-viking-barci-aviao-helicoptero
   date: "2025-05-19"
   date_precision: day
@@ -495,9 +456,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    O escritório Barci contesta o 2º contrato e a dação (Folha/Poder360). O documento existe
-    no material apreendido; a disputa é sobre assinatura/aceitação pelo escritório, não
-    sobre a existência do arquivo.
+    Barci disputes 2nd contract/dação (Folha/Poder360). Documento existe no material
+    apreendido; disputa é sobre assinatura/aceitação pelo escritório.
 - id: 2025-05-21-vorcaro-a-martha-em-casa-com-ciro-e-alexandre
   date: "2025-05-21"
   date_precision: day
@@ -524,9 +484,6 @@
       title: IPJ-A 3298613/2026
   evidence_type: primary_document
   confidence: high
-  notes: >-
-    Afirmação unilateral de Vorcaro a Martha; não é prova fotográfica da presença. Trecho
-    do IPJ-A publicado (PET 16.662).
 - id: 2025-05-26-vorcaro-marca-encontro-com-alexandre-e-jantar-com-as-mulheres
   date: "2025-05-26"
   date_precision: day
@@ -553,9 +510,6 @@
       title: IPJ-A 3298613/2026
   evidence_type: primary_document
   confidence: high
-  notes: >-
-    Afirmação unilateral de Vorcaro a Martha; não é prova fotográfica da presença. Trecho
-    do IPJ-A publicado (PET 16.662).
 - id: 2025-06-17-superintendencia-geral-do-cade-aprova-negocio-sem-restricoes
   date: "2025-06-17"
   date_precision: day
@@ -576,9 +530,6 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
-  notes: >-
-    Reportagem pública (G1 DF). Aprovação da Superintendência-Geral do Cade não é
-    autorização do Banco Central.
 - id: 2025-06-19-ciro-pg-confirmou-a-ida-pra-londres-pedrinho-pode-ir
   date: "2025-06-19"
   date_precision: day
@@ -591,8 +542,7 @@
       id: daniel-bueno-vorcaro
     - name: Ciro Soares
       id: ciro-soares
-    - name: Paulo Gonet Branco
-      id: paulo-gonet
+    - name: Paulo Gonet
     - name: Pedro Gonet
       id: pedro-gonet
   tags:
@@ -607,9 +557,6 @@
       title: IPJ-A 3298613/2026
   evidence_type: primary_document
   confidence: high
-  notes: >-
-    “PG”/Pedrinho: interpretação da PF no relatório publicado; não é mensagem direta de
-    Gonet na agenda. Análise da PF não é exaustiva.
 - id: 2025-07-01-uso-de-aeronaves-legacy-ec155-por-barci-viviane-estamos-gostando-muito
   date: "2025-07-01"
   date_precision: month
@@ -625,12 +572,10 @@
     - name: Viviane Barci de Moraes
       id: viviane-barci-de-moraes
       role: escritório
-    - name: Marcus
+    - name: Marcus Vinicius da Mata
       id: marcos-prime
     - name: Thatiane
       id: thatiane-prime
-    - name: Marcos da Mata
-      id: marcos-prime
   tags:
     - aeronaves
     - barci
@@ -646,7 +591,7 @@
         Sim, estamos gostando muito, todos que nos atenderam sempre foram muito educados e
         atenciosos.
     - url: >-
-        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
       publisher: Poder360
       accessed: "2026-09-05"
   evidence_type: primary_document
@@ -682,9 +627,6 @@
       quote: O Andrei PF precisa de um Convite formal para aceitar Londres
   evidence_type: primary_document
   confidence: high
-  notes: >-
-    PF interpreta “Andrei PF” como Andrei Passos (DG/PF); o 2º evento Londres foi depois
-    cancelado. IPJ-A publicado; análise da PF não é exaustiva.
 - id: 2025-07-14-dialogo-registra-outro-pagamento-barci-r-3-422-268-14
   date: "2025-07-14"
   date_precision: day
@@ -711,12 +653,10 @@
       title: IPJ-A 3298613/2026
   evidence_type: primary_document
   confidence: high
-  notes: >-
-    Comprovante citado no IPJ-A publicado (PET 16.662); análise da PF não é exaustiva.
 - id: 2025-08-01-ibaneis-sanctions-cldf-law-authorizing-brb-to-buy-master-shares
   date: "2025-08-01"
   date_precision: month
-  title: Lei distrital / autorização de Ibaneis para compra pelo Banco de Brasília
+  title: Ibaneis sanctions CLDF law authorizing BRB to buy Master shares
   summary: >-
     Agência Brasil: DF governor Ibaneis Rocha sanctioned a district law (CLDF-approved,
     after judicial demand) authorizing BRB to acquire 49% ON + 100% PN of Master. G1
@@ -726,7 +666,6 @@
     - name: Ibaneis Rocha
       id: ibaneis-rocha
     - name: Ciro Nogueira
-      role: ponte política citada na imprensa; não é Ciro Soares
     - name: Antonio Rueda
   tags:
     - brb
@@ -769,9 +708,6 @@
       title: IPJ-A 3298613/2026
   evidence_type: primary_document
   confidence: high
-  notes: >-
-    Afirmação unilateral de Vorcaro a Martha; não é prova fotográfica da presença. Trecho
-    do IPJ-A publicado (PET 16.662).
 - id: 2025-09-01-temer-diz-ter-sido-chamado-a-mediar-brb-master-apos-bloqueio-do-banco-central
   date: "2025-09-01"
   date_precision: month
@@ -805,7 +741,7 @@
 - id: 2025-09-03-bacen-indefers-brb-application-filed-28-03-2025
   date: "2025-09-03"
   date_precision: day
-  title: BC rejeita a compra do Master pelo Banco de Brasília
+  title: Bacen indefers BRB application filed 28/03/2025
   summary: >-
     BRB fato relevante: informed of Bacen denial of request to acquire 49% ON + 100% PN of
     Master; BRB sought full decision text. Deal had been controversial (high CDB rates,
@@ -829,8 +765,6 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
-  notes: >-
-    Reportagem pública (Agência Brasil) sobre o fato relevante do BRB.
 - id: 2025-09-17-contato-moraes-brasilia-ativa-mensagens-temporarias-24h
   date: "2025-09-17"
   date_precision: day
@@ -866,12 +800,12 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / mensagens que somem: a partir daqui o histórico do chat fica
+    View-once / disappearing messages incomplete: a partir daqui o histórico do chat fica
     estruturalmente incompleto; respostas do interlocutor em geral não recuperadas.
 - id: 2025-09-17-moraes-labeled-contact-activates-24h-ephemeral-messages
   date: "2025-09-17"
   date_precision: day
-  title: Contato rotulado “Moraes” ativa mensagens efêmeras 24h
+  title: Moraes-labeled contact activates 24h ephemeral messages
   summary: >-
     PF/Poder360: contact configured new chats to auto-delete after 24h, limiting forensic
     recovery of replies — key caveat for later “13 days” crisis messages.
@@ -909,7 +843,7 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
-  notes: Visualização única / registro incompleto.
+  notes: view-once incompleteness
 - id: 2025-10-01-mas-nao-faz-barci-pix-ne-pagamento-barci-via-pix
   date: "2025-10-01"
   date_precision: day
@@ -942,7 +876,7 @@
       title: IPJ-A 3298613/2026
       quote: Mas nao faz barci pix ne?
     - url: >-
-        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
       publisher: Poder360
       accessed: "2026-09-05"
   evidence_type: primary_document
@@ -953,7 +887,7 @@
 - id: 2025-10-01-pix-warning-on-barci-payments-four-deleted-by-sender-bubbles
   date: "2025-10-01"
   date_precision: day
-  title: Alerta sobre Pix a Barci; quatro bolhas “apagada pelo remetente”
+  title: Pix warning on Barci payments; four “deleted by sender” bubbles
   summary: >-
     Vorcaro to Felix: “Mas nao faz barci pix ne?”; Felix said Pix already done to same TED
     data. Same day window: four Moraes-chat messages marked deleted by sender (PF).

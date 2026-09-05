@@ -25,7 +25,7 @@
       accessed: "2026-09-05"
       title: IPJ-A 3298613/2026
     - url: >-
-        https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso/
+        https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso
       publisher: Poder360
       accessed: "2026-09-05"
     - url: >-
@@ -44,7 +44,7 @@
 - id: 2025-11-18-liquidacao-extrajudicial-raet-on-master-multiplo-will-continuity
   date: "2025-11-18"
   date_precision: day
-  title: Liquidação extrajudicial e RAET no Master Múltiplo (continuidade do Will)
+  title: Liquidação extrajudicial + RAET on Master Múltiplo (Will continuity)
   summary: >-
     CNN/G1: BC (Galípolo) decrees liquidação of Banco Master S/A, Master de Investimento,
     Letsbank, Master Corretora; RAET on Banco Master Múltiplo to preserve Will Financeira
@@ -63,7 +63,7 @@
     - compliance-zero
   sources:
     - url: >-
-        https://www.cnnbrasil.com.br/economia/negocios/banco-central-decreta-liquidacao-extrajudicial-do-banco-master/
+        https://www.cnnbrasil.com.br/economia/negocios/banco-central-decreta-liquidacao-extrajudicial-do-banco-master
       publisher: CNN Brasil
       accessed: "2026-09-05"
     - url: >-
@@ -75,7 +75,7 @@
 - id: 2025-11-18-pf-deflagrates-compliance-zero-vorcaro-arrested
   date: "2025-11-18"
   date_precision: day
-  title: Polícia Federal deflagra Compliance Zero; Vorcaro é preso
+  title: PF deflagrates Compliance Zero; Vorcaro arrested
   summary: >-
     Valor: PF op against false credit titles in SFN; Vorcaro arrested; four other directors
     also targets (Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva named by
@@ -88,12 +88,9 @@
     - name: Daniel Bueno Vorcaro
       id: daniel-bueno-vorcaro
     - name: Lima
-      id: augusto-lima
     - name: Bull
-      id: luiz-antonio-bull
     - name: Felix
-      id: alberto-felix
-    - name: Ângelo Silva
+    - name: Angelo Antonio Ribeiro da Silva
       id: angelo-silva
     - name: MPF
     - name: Ricardo Leite
@@ -125,12 +122,9 @@
     - name: Daniel Bueno Vorcaro
       id: daniel-bueno-vorcaro
     - name: Lima
-      id: augusto-lima
     - name: Bull
-      id: luiz-antonio-bull
     - name: Felix
-      id: alberto-felix
-    - name: Ângelo
+    - name: Angelo Antonio Ribeiro da Silva
       id: angelo-silva
   tags:
     - compliance-zero
@@ -155,8 +149,7 @@
     - name: Dias Toffoli
       id: dias-toffoli
     - name: Augusto de Arruda Botelho
-    - name: Daniel Bueno Vorcaro
-      id: daniel-bueno-vorcaro
+    - name: Vorcaro defense
   tags:
     - compliance-zero
     - politics
@@ -175,7 +168,7 @@
 - id: 2026-01-14-searches-at-vorcaro-family-zettel-tanure-mansur
   date: "2026-01-14"
   date_precision: day
-  title: "Compliance Zero 2ª fase: buscas / bloqueio de R$ 5,7 bi"
+  title: Searches at Vorcaro family, Zettel, Tanure, Mansur
   summary: >-
     G1: second phase — searches at addresses linked to Vorcaro, father, sister,
     brother-in-law Fabiano Zettel; also Nelson Tanure and João Carlos Mansur (Reag). ~42
@@ -261,7 +254,7 @@
 - id: 2026-03-04-second-preventive-prison-zettel-also-held
   date: "2026-03-04"
   date_precision: day
-  title: Vorcaro e Zettel presos de novo (3ª fase da Compliance Zero)
+  title: Second preventive prison; Zettel also held
   summary: >-
     Valor/CNN/G1: new STF warrants; Vorcaro and Zettel arrested in SP/MG; PF alleges
     continued concealment of billions after first release. Custody hearing keeps them in
@@ -283,7 +276,7 @@
 - id: 2026-04-16-4-fase-ph-costa-arrested-over-master-portfolio-deals
   date: "2026-04-16"
   date_precision: day
-  title: "4ª fase: Paulo Henrique Costa preso por negócios de carteiras com o Master"
+  title: "4ª fase: PH Costa arrested over Master portfolio deals"
   summary: >-
     Estadão: ex-BRB president Paulo Henrique Costa arrested in 4th Compliance Zero phase on
     suspicion of corruption / irregularities in purchase of R$12.2 bi alleged false Master
@@ -372,36 +365,12 @@
         https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-derruba-sigilo-e-leva-caso-plenario-sigiloderrubado-1set2026.pdf
       publisher: Poder360 / PET 16.662
       accessed: "2026-09-05"
-    - url: >-
-        https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-manda-pf-identificar-rede-influencia-vorcaro-sigiloderrubado-1set2026.pdf
-      publisher: Poder360 / PET 16.662
-      accessed: "2026-09-05"
-      title: Despacho — PF identificar rede de influência
-    - url: >-
-        https://static.poder360.com.br/uploads/2026/09/pet16662-mandado-intimacao-pf-prazo-72h-sigiloderrubado-1set2026.pdf
-      publisher: Poder360 / PET 16.662
-      accessed: "2026-09-05"
-      title: Mandado de intimação PF — prazo 72h
-    - url: >-
-        https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-desentranhamento-autuacao-processo-autonomo-copia-sigiloderrubado-1set2026.pdf
-      publisher: Poder360 / PET 16.662
-      accessed: "2026-09-05"
-      title: Desentranhamento / autuação autônoma
-    - url: >-
-        https://static.poder360.com.br/uploads/2026/09/pet16662-certidao-autuacao-distribuicao-andre-mendonca-sigiloderrubado-1set2026.pdf
-      publisher: Poder360 / PET 16.662
-      accessed: "2026-09-05"
-      title: Certidão de autuação e distribuição a André Mendonça
   evidence_type: primary_document
   confidence: high
-  notes: >-
-    Os PDFs de identificação da rede e do mandado de 72h não trazem, no resumo
-    público, data autônoma distinta desta decisão prévia; entram como peças do
-    mesmo histórico, sem data inventada.
 - id: 2026-08-27-ipj-a-3298613-2026-on-vorcaro-iphone-pet-16-662
   date: "2026-08-27"
   date_precision: day
-  title: IPJ-A 3298613/2026 sobre o iPhone de Vorcaro → PET 16.662
+  title: IPJ-A 3298613/2026 on Vorcaro iPhone → PET 16.662
   summary: >-
     Poder360: after Mendonça’s 72h order to map “rede de influência e monitoramento,” PF
     delivers non-exhaustive 218-p analysis of iPhone 17 Pro seized at arrest
@@ -425,7 +394,7 @@
       title: IPJ-A 3298613/2026
   evidence_type: press
   confidence: high
-  notes: "A própria PF: a análise “não possui caráter exaustivo”."
+  notes: "PF itself: analysis “não possui caráter exaustivo”"
 - id: 2026-08-27-pf-entrega-ipj-a-3298613-2026-relatorio-218-p-a-mendonca
   date: "2026-08-27"
   date_precision: day
@@ -457,11 +426,6 @@
       publisher: Poder360 / PET 16.662
       accessed: "2026-09-05"
       title: IPJ-A 3298613/2026
-    - url: >-
-        https://static.poder360.com.br/uploads/2026/09/pet16662-recibo-peticao-pf-documentos-27ago2026-sigiloderrubado-1set2026.pdf.pdf
-      publisher: Poder360 / PET 16.662
-      accessed: "2026-09-05"
-      title: Recibo de petição PF — 27 ago 2026
   evidence_type: primary_document
   confidence: high
   notes: "Própria PF: análise não exaustiva (prazo 72h)."
@@ -512,7 +476,7 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
-  notes: Esta ficha é meta — não tratar como um “evento” discreto de influência.
+  notes: this card is meta — do not treat as a discrete “event” of influence
 - id: 2026-09-01-mendonca-levanta-sigilo-da-pet-16-662-e-manda-ao-plenario
   date: "2026-09-01"
   date_precision: day
@@ -541,7 +505,7 @@
       accessed: "2026-09-05"
       quote: Com base em tais razões, determino o levantamento do sigilo dos presentes autos.
     - url: >-
-        https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro/
+        https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro
       publisher: Poder360
       accessed: "2026-09-05"
     - url: >-
@@ -573,15 +537,11 @@
     - power-interlocutor
   sources:
     - url: >-
-        https://www.poder360.com.br/poder-justica/mendonca-retira-sigilo-de-acao-sobre-vorcaro-e-moraes/
+        https://www.poder360.com.br/poder-justica/mendonca-retira-sigilo-de-acao-sobre-vorcaro-e-moraes
       publisher: Poder360
       accessed: "2026-09-05"
     - url: >-
-        https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml
-      publisher: O Globo
-      accessed: "2026-09-05"
-    - url: >-
-        https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro/
+        https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro
       publisher: Poder360
       accessed: "2026-09-05"
   evidence_type: press

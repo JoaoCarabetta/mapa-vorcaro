@@ -12,17 +12,14 @@
   people:
     - name: Daniel Bueno Vorcaro
       id: daniel-bueno-vorcaro
-    - name: Alexandre de Moraes
-      id: alexandre-de-moraes
+    - name: contact Moraes
     - name: Andrei Rodrigues
       id: andrei-rodrigues
       role: Passos/Rodrigues per PF/press
-    - name: Paulo Gonet Branco
-      id: paulo-gonet
-      role: interpretation
+    - name: Paulo Gonet
     - name: Gabriel Galípolo
       id: gabriel-galipolo
-    - name: judge Ricardo Soares Leite
+    - name: Ricardo Leite
       id: ricardo-leite
   tags:
     - compliance-zero
@@ -38,7 +35,7 @@
         quebra…” (16/11, O Globo)
   evidence_type: press
   confidence: high
-  notes: Rótulo de agenda ≠ titularidade da linha; visualização única; análise da PF em 72h não é exaustiva.
+  notes: agenda≠owner; view-once; PF non-exhaustive 72h analysis
   date_end: "2025-11-17"
 - id: 2025-10-28-nota-forense-whatsapp-14-04-14-utc
   date: "2025-10-28"
@@ -72,7 +69,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-10-28
   cluster_role: child
@@ -157,7 +154,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-10-30
   cluster_role: child
@@ -193,7 +190,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-10-30
   cluster_role: child
@@ -229,7 +226,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-10-30
   cluster_role: child
@@ -265,7 +262,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-10-30
   cluster_role: child
@@ -301,7 +298,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-10-30
   cluster_role: child
@@ -337,7 +334,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-10-30
   cluster_role: child
@@ -373,7 +370,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-10-30
   cluster_role: child
@@ -466,7 +463,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-04
   cluster_role: child
@@ -502,7 +499,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-04
   cluster_role: child
@@ -538,7 +535,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-04
   cluster_role: child
@@ -574,7 +571,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-04
   cluster_role: child
@@ -610,7 +607,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-04
   cluster_role: child
@@ -646,7 +643,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-04
   cluster_role: child
@@ -682,7 +679,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-04
   cluster_role: child
@@ -767,7 +764,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-05
   cluster_role: child
@@ -803,7 +800,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-05
   cluster_role: child
@@ -839,7 +836,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-05
   cluster_role: child
@@ -875,7 +872,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-05
   cluster_role: child
@@ -962,7 +959,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-06
   cluster_role: child
@@ -998,7 +995,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-06
   cluster_role: child
@@ -1083,7 +1080,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-07
   cluster_role: child
@@ -1119,7 +1116,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-07
   cluster_role: child
@@ -1252,7 +1249,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-10
   cluster_role: child
@@ -1333,7 +1330,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-11
   cluster_role: child
@@ -1416,7 +1413,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-12
   cluster_role: child
@@ -1452,7 +1449,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-12
   cluster_role: child
@@ -1488,7 +1485,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-12
   cluster_role: child
@@ -1524,7 +1521,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-12
   cluster_role: child
@@ -1611,7 +1608,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-14
   cluster_role: child
@@ -1647,7 +1644,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-14
   cluster_role: child
@@ -1683,7 +1680,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-14
   cluster_role: child
@@ -1770,7 +1767,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-15
   cluster_role: child
@@ -1806,7 +1803,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-15
   cluster_role: child
@@ -1842,7 +1839,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-15
   cluster_role: child
@@ -1930,7 +1927,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
@@ -1966,7 +1963,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
@@ -2002,7 +1999,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
@@ -2038,7 +2035,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
@@ -2074,7 +2071,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
@@ -2110,7 +2107,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
@@ -2146,7 +2143,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
@@ -2182,7 +2179,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
@@ -2218,7 +2215,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
@@ -2254,7 +2251,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
@@ -2290,7 +2287,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
@@ -2326,7 +2323,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
@@ -2348,7 +2345,7 @@
     - name: Alexandre de Moraes
       id: alexandre-de-moraes
       role: rótulo de agenda
-    - name: Ricardo Augusto Soares Leite
+    - name: Ricardo Leite
       id: ricardo-leite
   tags:
     - prisao
@@ -2370,7 +2367,7 @@
       publisher: Poder360 / PET 16.662
       accessed: "2026-09-05"
     - url: >-
-        https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso/
+        https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso
       publisher: Poder360
       accessed: "2026-09-05"
     - url: >-
@@ -2380,8 +2377,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única incompleta. Preferir 20h48 (UTC-3) do relatório/anexo; algumas
-    matérias citam 23h48. Rótulo de agenda ≠ titularidade da linha.
+    View-once incomplete. Preferir 20h48 (UTC-3) do relatório/anexo; algumas matérias citam
+    23h48. Agenda label ≠ chip owner.
   cluster_id: forense-2025-11-17
   cluster_role: parent
 - id: 2025-11-17-nota-forense-whatsapp-10-18-39-utc-turma-do-brb-sacanagem
@@ -2416,7 +2413,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-17
   cluster_role: child
@@ -2452,7 +2449,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-17
   cluster_role: child
@@ -2488,7 +2485,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-17
   cluster_role: child
@@ -2524,7 +2521,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-17
   cluster_role: child
@@ -2560,7 +2557,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
     timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-17
   cluster_role: child
@@ -2576,25 +2573,23 @@
   people:
     - name: Daniel Bueno Vorcaro
       id: daniel-bueno-vorcaro
-    - name: Alexandre de Moraes
-      id: alexandre-de-moraes
-    - name: Ricardo Soares Leite
+    - name: contact Moraes
+    - name: Ricardo Leite
       id: ricardo-leite
   tags:
     - compliance-zero
     - seal-lift
   sources:
     - url: >-
-        https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso/
+        https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso
       publisher: Poder360
       accessed: "2026-09-05"
       quote: To indo assinar com os investidores de fora e estou online
   evidence_type: press
   confidence: high
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ titularidade
-    comprovada da linha. Algumas matérias dizem prisão na noite do dia 17 vs manhã do 18 —
-    usar a cronologia PF/Poder360.
+    View-once / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip comprovado.
+    some outlets say arrest night of 17 vs morning 18 — use PF/Poder360 chronology
 - id: 2025-11-17-ultima-tentativa-de-oferta-de-consorcio-privado
   date: "2025-11-17"
   date_precision: day

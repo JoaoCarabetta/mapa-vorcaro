@@ -11,12 +11,11 @@
       id: daniel-bueno-vorcaro
     - name: Henrique Vorcaro
       id: henrique-vorcaro
-      role: pai; Multipar
   tags:
     - bio
   sources:
     - url: >-
-        https://www.infomoney.com.br/business/quem-e-daniel-vorcaro-dono-do-banco-master-que-foi-preso-pela-pf/
+        https://www.infomoney.com.br/business/quem-e-daniel-vorcaro-dono-do-banco-master-que-foi-preso-pela-pf
       publisher: InfoMoney
       accessed: "2026-09-05"
     - url: >-
@@ -25,7 +24,7 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
-  notes: Certidão civil de nascimento não está nos dumps de imprensa locais.
+  notes: Exact civil birth certificate not in local press dumps.
 - id: 2000-01-01-escola-de-elite-em-belo-horizonte-e-economia-mba-no-ibmec
   date: "2000-01-01"
   date_precision: year
@@ -59,6 +58,8 @@
   people:
     - name: Daniel Bueno Vorcaro
       id: daniel-bueno-vorcaro
+    - name: Henrique Vorcaro
+      id: henrique-vorcaro
   tags:
     - bio
     - multipar
@@ -70,7 +71,7 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: medium
-  notes: O ano exato da venda não é dado na fonte.
+  notes: Exact sale year not given.
 - id: 2006-01-01-casa-com-fabiola-depois-os-filhos-stella-e-tiziano
   date: "2006-01-01"
   date_precision: year
@@ -95,7 +96,7 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: medium
-  notes: O custo da festa é estimativa da imprensa (“teria custado”).
+  notes: Party cost is press estimate (“teria custado”).
 - id: 2016-01-01-participacao-minoritaria-no-banco-maxima-em-dificuldades-saul-sabba
   date: "2016-01-01"
   date_precision: year
@@ -156,7 +157,7 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
-  notes: Percentuais exatos de fechamento mudam na cobertura posterior (2017–2019).
+  notes: Exact closing percentages evolved in later 2017–2019 coverage.
 - id: 2018-01-01-gestao-ligada-a-vorcaro-assume-o-controle-operacional
   date: "2018-01-01"
   date_precision: month
@@ -174,7 +175,7 @@
     - maxima
   sources:
     - url: >-
-        https://www.cnnbrasil.com.br/economia/macroeconomia/apos-mudanca-societaria-e-aporte-de-r-400-mi-banco-maxima-agora-e-banco-master/
+        https://www.cnnbrasil.com.br/economia/macroeconomia/apos-mudanca-societaria-e-aporte-de-r-400-mi-banco-maxima-agora-e-banco-master
       publisher: CNN Brasil
       accessed: "2026-09-05"
   evidence_type: press
@@ -262,7 +263,7 @@
     - growth
   sources:
     - url: >-
-        https://www.infomoney.com.br/business/banco-master-qual-e-a-historia-da-instituicao-financeira/
+        https://www.infomoney.com.br/business/banco-master-qual-e-a-historia-da-instituicao-financeira
       publisher: InfoMoney
       accessed: "2026-09-05"
   evidence_type: press

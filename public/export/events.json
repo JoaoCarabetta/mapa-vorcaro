@@ -12,8 +12,7 @@
       },
       {
         "name": "Henrique Vorcaro",
-        "id": "henrique-vorcaro",
-        "role": "pai; Multipar"
+        "id": "henrique-vorcaro"
       }
     ],
     "tags": [
@@ -21,7 +20,7 @@
     ],
     "sources": [
       {
-        "url": "https://www.infomoney.com.br/business/quem-e-daniel-vorcaro-dono-do-banco-master-que-foi-preso-pela-pf/",
+        "url": "https://www.infomoney.com.br/business/quem-e-daniel-vorcaro-dono-do-banco-master-que-foi-preso-pela-pf",
         "publisher": "InfoMoney",
         "accessed": "2026-09-05"
       },
@@ -33,7 +32,7 @@
     ],
     "evidence_type": "press",
     "confidence": "high",
-    "notes": "Certidão civil de nascimento não está nos dumps de imprensa locais."
+    "notes": "Exact civil birth certificate not in local press dumps."
   },
   {
     "id": "2000-01-01-escola-de-elite-em-belo-horizonte-e-economia-mba-no-ibmec",
@@ -71,6 +70,10 @@
       {
         "name": "Daniel Bueno Vorcaro",
         "id": "daniel-bueno-vorcaro"
+      },
+      {
+        "name": "Henrique Vorcaro",
+        "id": "henrique-vorcaro"
       }
     ],
     "tags": [
@@ -87,7 +90,7 @@
     ],
     "evidence_type": "press",
     "confidence": "medium",
-    "notes": "O ano exato da venda não é dado na fonte."
+    "notes": "Exact sale year not given."
   },
   {
     "id": "2006-01-01-casa-com-fabiola-depois-os-filhos-stella-e-tiziano",
@@ -123,7 +126,7 @@
     ],
     "evidence_type": "press",
     "confidence": "medium",
-    "notes": "O custo da festa é estimativa da imprensa (“teria custado”)."
+    "notes": "Party cost is press estimate (“teria custado”)."
   },
   {
     "id": "2016-01-01-participacao-minoritaria-no-banco-maxima-em-dificuldades-saul-sabba",
@@ -204,7 +207,7 @@
     ],
     "evidence_type": "press",
     "confidence": "high",
-    "notes": "Percentuais exatos de fechamento mudam na cobertura posterior (2017–2019)."
+    "notes": "Exact closing percentages evolved in later 2017–2019 coverage."
   },
   {
     "id": "2018-01-01-gestao-ligada-a-vorcaro-assume-o-controle-operacional",
@@ -224,7 +227,7 @@
     ],
     "sources": [
       {
-        "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/apos-mudanca-societaria-e-aporte-de-r-400-mi-banco-maxima-agora-e-banco-master/",
+        "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/apos-mudanca-societaria-e-aporte-de-r-400-mi-banco-maxima-agora-e-banco-master",
         "publisher": "CNN Brasil",
         "accessed": "2026-09-05"
       }
@@ -337,7 +340,7 @@
     ],
     "sources": [
       {
-        "url": "https://www.infomoney.com.br/business/banco-master-qual-e-a-historia-da-instituicao-financeira/",
+        "url": "https://www.infomoney.com.br/business/banco-master-qual-e-a-historia-da-instituicao-financeira",
         "publisher": "InfoMoney",
         "accessed": "2026-09-05"
       }
@@ -421,14 +424,14 @@
         "accessed": "2026-09-05"
       },
       {
-        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf//",
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
         "publisher": "Poder360",
         "accessed": "2026-09-05"
       }
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Rótulo de agenda ≠ titularidade comprovada da linha: a PF atribui o terminal ao rótulo salvo; o celular de Moraes não foi periciado neste IPJ-A. Ressalva obrigatória."
+    "notes": "Agenda label ≠ proven chip owner: a PF atribui o terminal ao rótulo salvo; o celular de Moraes não foi periciado neste IPJ-A.; mandatory agenda≠owner warning"
   },
   {
     "id": "2023-12-27-fabio-fala-de-almoco-de-alex-no-six-senses",
@@ -499,7 +502,7 @@
         "quote": "Mas se foi o ministro que pediu tudo bem"
       },
       {
-        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
         "publisher": "Poder360",
         "accessed": "2026-09-05"
       }
@@ -525,8 +528,7 @@
         "role": "escritório"
       },
       {
-        "name": "Guilherme de Toledo Benazzi",
-        "id": "guilherme-benazzi"
+        "name": "Guilherme Benazzi"
       },
       {
         "name": "Alexandre de Moraes",
@@ -552,7 +554,7 @@
         "accessed": "2026-09-05"
       },
       {
-        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
         "publisher": "Poder360",
         "accessed": "2026-09-05"
       }
@@ -590,7 +592,7 @@
         "title": "IPJ-A 3298613/2026"
       },
       {
-        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
         "publisher": "Poder360",
         "accessed": "2026-09-05"
       }
@@ -637,7 +639,7 @@
         "title": "IPJ-A 3298613/2026"
       },
       {
-        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
         "publisher": "Poder360",
         "accessed": "2026-09-05"
       }
@@ -680,7 +682,7 @@
         "quote": "Bom dia! Segue a minuta do contrato. Abraço"
       },
       {
-        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
         "publisher": "Poder360",
         "accessed": "2026-09-05"
       }
@@ -711,7 +713,7 @@
     ],
     "sources": [
       {
-        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
         "publisher": "Poder360",
         "accessed": "2026-09-05",
         "quote": "Oi, tudo bem? Como podemos proceder na assinatura? Prefere eletronicamente ou mando as vias físicas assinadas?"
@@ -772,7 +774,7 @@
         "accessed": "2026-09-05"
       },
       {
-        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
         "publisher": "Poder360",
         "accessed": "2026-09-05"
       }
@@ -803,12 +805,11 @@
         "role": "metadata/edit"
       },
       {
-        "name": "Ângelo Antônio Ribeiro da Silva",
+        "name": "Angelo Antonio Ribeiro da Silva",
         "id": "angelo-silva"
       },
       {
-        "name": "Guilherme de Toledo Benazzi",
-        "id": "guilherme-benazzi"
+        "name": "Guilherme Benazzi"
       }
     ],
     "tags": [
@@ -818,15 +819,14 @@
     ],
     "sources": [
       {
-        "url": "https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro/",
+        "url": "https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro",
         "publisher": "Poder360",
         "accessed": "2026-09-05",
         "quote": "Prezado Daniel, boa tarde. Conforme conversamos, estou enviando minuta de contrato…” (11/01/2024, Viviane)"
       }
     ],
     "evidence_type": "press",
-    "confidence": "high",
-    "notes": "Reportagem pública (Poder360) e extratos do IPJ-A publicado. Escritório Barci (nota ao Poder360) diz que Moraes editou a pedido do compliance sobre impedimentos; afirma inexistência de atuação no STF / impedimento legal. Metadados last-modified são leitura da PF no documento publicado."
+    "confidence": "high"
   },
   {
     "id": "2024-01-30-fabio-cita-alex-e-altera-local-do-jantar",
@@ -857,8 +857,7 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high",
-    "notes": "PF/imprensa associam o apelido “careca”/“Alex” a Moraes nos diálogos; o nome neste recado não prova identidade. Trecho do IPJ-A publicado (PET 16.662); análise da PF não é exaustiva."
+    "confidence": "high"
   },
   {
     "id": "2024-02-01-master-assume-o-controle-do-will-bank",
@@ -872,7 +871,9 @@
         "id": "daniel-bueno-vorcaro"
       },
       {
-        "name": "Reag / João Carlos Mansur"
+        "name": "João Carlos Mansur",
+        "id": "joao-carlos-mansur",
+        "role": "Valor: Will deal with Reag"
       }
     ],
     "tags": [
@@ -881,21 +882,18 @@
     ],
     "sources": [
       {
-        "url": "https://valor.globo.com/financas/noticia/2024/02/23/banco-master-compra-will-bank-e-amplia-posicao-no-varejo.ghtml",
-        "publisher": "Valor Econômico",
-        "accessed": "2026-09-05",
-        "title": "Banco Master compra Will Bank e amplia posição no varejo"
-      },
-      {
         "url": "https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml",
         "publisher": "Valor Econômico",
-        "accessed": "2026-09-05",
-        "title": "Forasteiro na Faria Lima (Reag / Mansur no perfil)"
+        "accessed": "2026-09-05"
+      },
+      {
+        "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb",
+        "publisher": "Agência Brasil",
+        "accessed": "2026-09-05"
       }
     ],
     "evidence_type": "press",
-    "confidence": "high",
-    "notes": "Anúncio do controle: Valor 23/02/2024. O perfil de abr/2025 entra só para a associação Reag/Mansur — não como URL-curinga de bio em ficha que não é bio."
+    "confidence": "high"
   },
   {
     "id": "2024-02-02-anotacoes-de-networking-social-politico-intermediado-por-faria",
@@ -917,8 +915,7 @@
         "id": "ciro-soares"
       },
       {
-        "name": "Andrei Rodrigues",
-        "id": "andrei-rodrigues"
+        "name": "names Andrei / Gonet as labeled in notes"
       }
     ],
     "tags": [
@@ -927,7 +924,7 @@
     ],
     "sources": [
       {
-        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
         "publisher": "Poder360",
         "accessed": "2026-09-05"
       },
@@ -992,8 +989,7 @@
         "id": "angelo-silva"
       },
       {
-        "name": "Fabiano",
-        "id": "fabiano-zettel"
+        "name": "Fabiano"
       },
       {
         "name": "Viviane Barci de Moraes",
@@ -1015,8 +1011,7 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high",
-    "notes": "Comprovante citado no IPJ-A publicado (PET 16.662); análise da PF não é exaustiva."
+    "confidence": "high"
   },
   {
     "id": "2024-03-15-fabio-o-careca-nao-pode-atrasar-vorcaro-prioriza-pagamento-barci",
@@ -1038,8 +1033,7 @@
         "id": "angelo-silva"
       },
       {
-        "name": "Romy",
-        "id": "romy-master"
+        "name": "Romy Banco Master"
       }
     ],
     "tags": [
@@ -1056,14 +1050,13 @@
         "quote": "O careca não pode atrasar"
       },
       {
-        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
         "publisher": "Poder360",
         "accessed": "2026-09-05"
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high",
-    "notes": "PF/imprensa associam o apelido “careca”/“Alex” a Moraes nos diálogos; o apelido sozinho não prova identidade. Trechos do IPJ-A publicado e da reportagem Poder360."
+    "confidence": "high"
   },
   {
     "id": "2024-03-28-convite-moraes-para-evento-londres-24-27-04-2024",
@@ -1099,8 +1092,7 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high",
-    "notes": "Convite citado em diálogo no IPJ-A publicado (PET 16.662); não é, por si, comprovante de presença no evento. Análise da PF não é exaustiva."
+    "confidence": "high"
   },
   {
     "id": "2024-04-03-convite-ao-dpf-andrei-vorcaro-ministro-fez-convite-ao-andrei-pf",
@@ -1161,8 +1153,7 @@
         "id": "fabio-faria"
       },
       {
-        "name": "Alexandre",
-        "id": "alexandre-de-moraes"
+        "name": "Alexandre"
       }
     ],
     "tags": [
@@ -1179,8 +1170,7 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high",
-    "notes": "Mensagem encaminhada no IPJ-A publicado; a data 10/04 é cálculo da PF (“próxima segunda”). Análise da PF não é exaustiva."
+    "confidence": "high"
   },
   {
     "id": "2024-04-10-leo-serrano-organiza-logistica-londres-ministros-alexandre-toffoli-etc",
@@ -1211,8 +1201,7 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high",
-    "notes": "Nomes de ministros saem da fala de Vorcaro no IPJ-A publicado; não é lista de presença independente. Análise da PF não é exaustiva."
+    "confidence": "high"
   },
   {
     "id": "2024-04-14-ciro-soares-gonet-e-firme-audio-sobre-desistencia-de-candidatura",
@@ -1230,9 +1219,7 @@
         "id": "ciro-soares"
       },
       {
-        "name": "Paulo Gonet Branco",
-        "id": "paulo-gonet",
-        "role": "citado"
+        "name": "Paulo Gonet"
       },
       {
         "name": "Jarbas"
@@ -1272,8 +1259,7 @@
         "id": "alexandre-de-moraes"
       },
       {
-        "name": "Paulo Gonet Branco",
-        "id": "paulo-gonet"
+        "name": "Paulo Gonet"
       },
       {
         "name": "Andrei Rodrigues",
@@ -1293,7 +1279,7 @@
         "title": "IPJ-A 3298613/2026"
       },
       {
-        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
         "publisher": "Poder360",
         "accessed": "2026-09-05"
       }
@@ -1330,14 +1316,14 @@
     ],
     "sources": [
       {
-        "url": "https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia/",
+        "url": "https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia",
         "publisher": "Estadão",
-        "accessed": "2026-09-05"
+        "accessed": "2026-09-05",
+        "quote": "Tem notícia do BRB? Se não vier vou ter que devolver a grana de sexta e vamos usar compulsório hoje” (02/09/2024, Vorcaro→Lima, Estadão)"
       }
     ],
     "evidence_type": "press",
-    "confidence": "high",
-    "notes": "A citação “usar compulsório hoje” é de 2 set 2024 — ficha própria na densificação da imprensa, para não datar a fala em julho."
+    "confidence": "high"
   },
   {
     "id": "2024-11-15-vorcaro-diz-a-filha-stella-que-esta-com-alexandre-moraes",
@@ -1422,8 +1408,7 @@
       }
     ],
     "evidence_type": "press",
-    "confidence": "high",
-    "notes": "Reportagem pública da Folha (jan/2026) sobre reunião de 4 dez 2024; não é documento da PF."
+    "confidence": "high"
   },
   {
     "id": "2025-03-15-ciro-envia-selfie-com-gonet-4-chamadas-com-vorcaro",
@@ -1441,8 +1426,7 @@
         "id": "ciro-soares"
       },
       {
-        "name": "Paulo Gonet Branco",
-        "id": "paulo-gonet"
+        "name": "Paulo Gonet"
       }
     ],
     "tags": [
@@ -1459,14 +1443,13 @@
         "title": "IPJ-A 3298613/2026"
       },
       {
-        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
         "publisher": "Poder360",
         "accessed": "2026-09-05"
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high",
-    "notes": "Foto e recado chegam via Ciro Soares no IPJ-A publicado; não há contato “Paulo Gonet” na agenda de Vorcaro neste material. Análise da PF não é exaustiva."
+    "confidence": "high"
   },
   {
     "id": "2025-03-19-vorcaro-diz-a-martha-que-esta-com-o-ministro-depois-com-moraes",
@@ -1484,7 +1467,7 @@
         "id": "martha-graeff"
       },
       {
-        "name": "Paulo Sergio",
+        "name": "Paulo Sérgio Neves de Souza",
         "id": "paulo-sergio-neves"
       }
     ],
@@ -1501,8 +1484,7 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high",
-    "notes": "Afirmação unilateral de Vorcaro a Martha e a Paulo Sergio (rótulo do chat). Não é prova fotográfica da presença. Trecho do IPJ-A publicado (PET 16.662)."
+    "confidence": "high"
   },
   {
     "id": "2025-03-20-madrugada-hugo-e-ciro-pra-falarem-com-alexandre",
@@ -1520,7 +1502,7 @@
         "id": "martha-graeff"
       },
       {
-        "name": "Hugo",
+        "name": "Hugo Motta",
         "id": "hugo-motta"
       },
       {
@@ -1528,8 +1510,7 @@
         "id": "ciro-soares"
       },
       {
-        "name": "Alexandre",
-        "id": "alexandre-de-moraes"
+        "name": "Alexandre"
       }
     ],
     "tags": [
@@ -1546,8 +1527,7 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high",
-    "notes": "Duração do encontro (~20:23 do dia 19 até ao menos 00:32 do dia 20) é estimativa da PF a partir dos diálogos. Afirmação unilateral de Vorcaro a Martha. Análise da PF não é exaustiva."
+    "confidence": "high"
   },
   {
     "id": "2025-03-28-anunciado-acordo-de-compra-de-acoes-banco-de-brasilia-master",
@@ -1586,8 +1566,7 @@
       }
     ],
     "evidence_type": "press",
-    "confidence": "high",
-    "notes": "Fato relevante do BRB e reportagem da Folha. Negócio ainda sujeito a Bacen, Cade e outros órgãos."
+    "confidence": "high"
   },
   {
     "id": "2025-03-28-ciro-encaminha-mensagens-atribuidas-a-gonet-londres-e-macallan",
@@ -1605,9 +1584,7 @@
         "id": "ciro-soares"
       },
       {
-        "name": "Paulo Gonet Branco",
-        "id": "paulo-gonet",
-        "role": "atribuído"
+        "name": "Paulo Gonet"
       }
     ],
     "tags": [
@@ -1624,7 +1601,7 @@
         "quote": "Oba!!! Tomara que tenha charuto e macalan!"
       },
       {
-        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
         "publisher": "Poder360",
         "accessed": "2026-09-05"
       }
@@ -1654,9 +1631,7 @@
         "role": "filho, citado"
       },
       {
-        "name": "Paulo Gonet Branco",
-        "id": "paulo-gonet",
-        "role": "citado"
+        "name": "Paulo Gonet"
       }
     ],
     "tags": [
@@ -1672,20 +1647,19 @@
         "quote": "Obvio ne"
       },
       {
-        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
         "publisher": "Poder360",
         "accessed": "2026-09-05"
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high",
-    "notes": "Pedido chega via Ciro (“Gonet mandou” / “Gonet perguntou”); não é mensagem direta de um contato Gonet na agenda. IPJ-A publicado."
+    "confidence": "high"
   },
   {
     "id": "2025-04-01-fasano-itaim-stake-trancoso-mansion-atletico-mineiro-saf",
     "date": "2025-04-01",
     "date_precision": "month",
-    "title": "Cota no Fasano Itaim, mansão em Trancoso, SAF do Atlético Mineiro",
+    "title": "Fasano Itaim stake, Trancoso mansion, Atlético Mineiro SAF",
     "summary": "Valor: luxury lifestyle — private jet, R$280 mi mansion in Trancoso (BA), substantial stake in Atlético Mineiro, co-investor in fund owning Fasano Itaim hotel building. Self-described “forasteiro” on Faria Lima facing prejudice/envy. G1: Estadão reported ~27% of Atlético Mineiro SAF.",
     "people": [
       {
@@ -1719,16 +1693,15 @@
         "id": "daniel-bueno-vorcaro"
       },
       {
-        "name": "Henrique",
+        "name": "Henrique Vorcaro",
         "id": "henrique-vorcaro"
       },
       {
-        "name": "Quadrado",
+        "name": "Maurício Quadrado",
         "id": "mauricio-quadrado"
       },
       {
-        "name": "Lima",
-        "id": "augusto-lima"
+        "name": "Lima"
       },
       {
         "name": "Nelson Tanure",
@@ -1779,9 +1752,7 @@
         "id": "ciro-soares"
       },
       {
-        "name": "Paulo Gonet Branco",
-        "id": "paulo-gonet",
-        "role": "PG, hipótese"
+        "name": "Paulo Gonet"
       }
     ],
     "tags": [
@@ -1840,8 +1811,7 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high",
-    "notes": "“Pedro” interpretado pela PF como Pedro Gonet. Não há contato Gonet na agenda neste material. IPJ-A publicado; análise da PF não é exaustiva."
+    "confidence": "high"
   },
   {
     "id": "2025-04-19-vorcaro-a-martha-indo-encontrar-alexandre-moraes-feriado",
@@ -1873,8 +1843,7 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high",
-    "notes": "Afirmação unilateral de Vorcaro a Martha; não é prova fotográfica da presença. Trecho do IPJ-A publicado (PET 16.662)."
+    "confidence": "high"
   },
   {
     "id": "2025-04-29-vorcaro-a-martha-esta-com-alexandre-alexandre-moraes",
@@ -1905,8 +1874,7 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high",
-    "notes": "Afirmação unilateral de Vorcaro a Martha; não é prova fotográfica da presença. Trecho do IPJ-A publicado (PET 16.662)."
+    "confidence": "high"
   },
   {
     "id": "2025-05-12-contrato-viking-participacoes-barci-de-moraes-ate-r-50-mi",
@@ -1928,8 +1896,7 @@
         "role": "escritório"
       },
       {
-        "name": "Guilherme de Toledo Benazzi",
-        "id": "guilherme-benazzi"
+        "name": "Guilherme Benazzi"
       }
     ],
     "tags": [
@@ -1956,7 +1923,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "O escritório Barci disse à Folha (via Poder360) ter assinado só o 1º contrato (Master); nega transferência/substituição; afirma que a proposta de quitação “não foi aceita”, “nada foi assinado”, e que o contrato Master extinguiu-se com a liquidação. O PDF existe no material publicado — a disputa é sobre aceite/validade, não sobre a existência do arquivo."
+    "notes": "Barci disputes 2nd contract: escritório disse à Folha (via Poder360) ter assinado só o 1º (Master); nega transferência/substituição; afirma que proposta de quitação “não foi aceita”, “nada foi assinado”, e que o contrato Master extinguiu-se com a liquidação."
   },
   {
     "id": "2025-05-12-segundo-contrato-barci-viking-ate-r-50-mi-e-disputa-da-dacao-de-aeronaves",
@@ -1996,7 +1963,7 @@
     ],
     "evidence_type": "press",
     "confidence": "high",
-    "notes": "Disputa do 2º contrato Barci: registrar os dois lados. O escritório nega aceite e diz que “nada foi assinado”; a PF anexa o PDF."
+    "notes": "Barci 2nd-contract dispute — report both sides"
   },
   {
     "id": "2025-05-19-termo-de-acordo-e-dacao-viking-barci-aviao-helicoptero",
@@ -2045,7 +2012,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "O escritório Barci contesta o 2º contrato e a dação (Folha/Poder360). O documento existe no material apreendido; a disputa é sobre assinatura/aceitação pelo escritório, não sobre a existência do arquivo."
+    "notes": "Barci disputes 2nd contract/dação (Folha/Poder360). Documento existe no material apreendido; disputa é sobre assinatura/aceitação pelo escritório."
   },
   {
     "id": "2025-05-21-vorcaro-a-martha-em-casa-com-ciro-e-alexandre",
@@ -2081,8 +2048,7 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high",
-    "notes": "Afirmação unilateral de Vorcaro a Martha; não é prova fotográfica da presença. Trecho do IPJ-A publicado (PET 16.662)."
+    "confidence": "high"
   },
   {
     "id": "2025-05-26-vorcaro-marca-encontro-com-alexandre-e-jantar-com-as-mulheres",
@@ -2118,8 +2084,7 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high",
-    "notes": "Afirmação unilateral de Vorcaro a Martha; não é prova fotográfica da presença. Trecho do IPJ-A publicado (PET 16.662)."
+    "confidence": "high"
   },
   {
     "id": "2025-06-17-superintendencia-geral-do-cade-aprova-negocio-sem-restricoes",
@@ -2144,8 +2109,7 @@
       }
     ],
     "evidence_type": "press",
-    "confidence": "high",
-    "notes": "Reportagem pública (G1 DF). Aprovação da Superintendência-Geral do Cade não é autorização do Banco Central."
+    "confidence": "high"
   },
   {
     "id": "2025-06-19-ciro-pg-confirmou-a-ida-pra-londres-pedrinho-pode-ir",
@@ -2163,8 +2127,7 @@
         "id": "ciro-soares"
       },
       {
-        "name": "Paulo Gonet Branco",
-        "id": "paulo-gonet"
+        "name": "Paulo Gonet"
       },
       {
         "name": "Pedro Gonet",
@@ -2185,8 +2148,7 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high",
-    "notes": "“PG”/Pedrinho: interpretação da PF no relatório publicado; não é mensagem direta de Gonet na agenda. Análise da PF não é exaustiva."
+    "confidence": "high"
   },
   {
     "id": "2025-07-01-uso-de-aeronaves-legacy-ec155-por-barci-viviane-estamos-gostando-muito",
@@ -2205,16 +2167,12 @@
         "role": "escritório"
       },
       {
-        "name": "Marcus",
+        "name": "Marcus Vinicius da Mata",
         "id": "marcos-prime"
       },
       {
         "name": "Thatiane",
         "id": "thatiane-prime"
-      },
-      {
-        "name": "Marcos da Mata",
-        "id": "marcos-prime"
       }
     ],
     "tags": [
@@ -2232,7 +2190,7 @@
         "quote": "Sim, estamos gostando muito, todos que nos atenderam sempre foram muito educados e atenciosos."
       },
       {
-        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
         "publisher": "Poder360",
         "accessed": "2026-09-05"
       }
@@ -2277,8 +2235,7 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high",
-    "notes": "PF interpreta “Andrei PF” como Andrei Passos (DG/PF); o 2º evento Londres foi depois cancelado. IPJ-A publicado; análise da PF não é exaustiva."
+    "confidence": "high"
   },
   {
     "id": "2025-07-14-dialogo-registra-outro-pagamento-barci-r-3-422-268-14",
@@ -2314,14 +2271,13 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high",
-    "notes": "Comprovante citado no IPJ-A publicado (PET 16.662); análise da PF não é exaustiva."
+    "confidence": "high"
   },
   {
     "id": "2025-08-01-ibaneis-sanctions-cldf-law-authorizing-brb-to-buy-master-shares",
     "date": "2025-08-01",
     "date_precision": "month",
-    "title": "Lei distrital / autorização de Ibaneis para compra pelo Banco de Brasília",
+    "title": "Ibaneis sanctions CLDF law authorizing BRB to buy Master shares",
     "summary": "Agência Brasil: DF governor Ibaneis Rocha sanctioned a district law (CLDF-approved, after judicial demand) authorizing BRB to acquire 49% ON + 100% PN of Master. G1 conexões: Ibaneis later said he met Vorcaro only socially; Ciro Nogueira/Antonio Rueda described as political bridges for the deal.",
     "people": [
       {
@@ -2329,8 +2285,7 @@
         "id": "ibaneis-rocha"
       },
       {
-        "name": "Ciro Nogueira",
-        "role": "ponte política citada na imprensa; não é Ciro Soares"
+        "name": "Ciro Nogueira"
       },
       {
         "name": "Antonio Rueda"
@@ -2390,8 +2345,7 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high",
-    "notes": "Afirmação unilateral de Vorcaro a Martha; não é prova fotográfica da presença. Trecho do IPJ-A publicado (PET 16.662)."
+    "confidence": "high"
   },
   {
     "id": "2025-09-01-temer-diz-ter-sido-chamado-a-mediar-brb-master-apos-bloqueio-do-banco-central",
@@ -2437,7 +2391,7 @@
     "id": "2025-09-03-bacen-indefers-brb-application-filed-28-03-2025",
     "date": "2025-09-03",
     "date_precision": "day",
-    "title": "BC rejeita a compra do Master pelo Banco de Brasília",
+    "title": "Bacen indefers BRB application filed 28/03/2025",
     "summary": "BRB fato relevante: informed of Bacen denial of request to acquire 49% ON + 100% PN of Master; BRB sought full decision text. Deal had been controversial (high CDB rates, delayed balance sheet, precatórios). Agência Brasil also notes prior BTG symbolic R$1 offer to take Master with FGC covering liabilities that stalled among FGC member banks. G1: Cade had cleared in June; BC cited missing economic-financial viability docs.",
     "people": [
       {
@@ -2465,8 +2419,7 @@
       }
     ],
     "evidence_type": "press",
-    "confidence": "high",
-    "notes": "Reportagem pública (Agência Brasil) sobre o fato relevante do BRB."
+    "confidence": "high"
   },
   {
     "id": "2025-09-17-contato-moraes-brasilia-ativa-mensagens-temporarias-24h",
@@ -2510,13 +2463,13 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Visualização única / mensagens que somem: a partir daqui o histórico do chat fica estruturalmente incompleto; respostas do interlocutor em geral não recuperadas."
+    "notes": "View-once / disappearing messages incomplete: a partir daqui o histórico do chat fica estruturalmente incompleto; respostas do interlocutor em geral não recuperadas."
   },
   {
     "id": "2025-09-17-moraes-labeled-contact-activates-24h-ephemeral-messages",
     "date": "2025-09-17",
     "date_precision": "day",
-    "title": "Contato rotulado “Moraes” ativa mensagens efêmeras 24h",
+    "title": "Moraes-labeled contact activates 24h ephemeral messages",
     "summary": "PF/Poder360: contact configured new chats to auto-delete after 24h, limiting forensic recovery of replies — key caveat for later “13 days” crisis messages.",
     "people": [
       {
@@ -2564,7 +2517,7 @@
     ],
     "evidence_type": "press",
     "confidence": "high",
-    "notes": "Visualização única / registro incompleto."
+    "notes": "view-once incompleteness"
   },
   {
     "id": "2025-10-01-mas-nao-faz-barci-pix-ne-pagamento-barci-via-pix",
@@ -2606,7 +2559,7 @@
         "quote": "Mas nao faz barci pix ne?"
       },
       {
-        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
         "publisher": "Poder360",
         "accessed": "2026-09-05"
       }
@@ -2619,7 +2572,7 @@
     "id": "2025-10-01-pix-warning-on-barci-payments-four-deleted-by-sender-bubbles",
     "date": "2025-10-01",
     "date_precision": "day",
-    "title": "Alerta sobre Pix a Barci; quatro bolhas “apagada pelo remetente”",
+    "title": "Pix warning on Barci payments; four “deleted by sender” bubbles",
     "summary": "Vorcaro to Felix: “Mas nao faz barci pix ne?”; Felix said Pix already done to same TED data. Same day window: four Moraes-chat messages marked deleted by sender (PF).",
     "people": [
       {
@@ -2668,8 +2621,7 @@
         "id": "daniel-bueno-vorcaro"
       },
       {
-        "name": "Alexandre de Moraes",
-        "id": "alexandre-de-moraes"
+        "name": "contact Moraes"
       },
       {
         "name": "Andrei Rodrigues",
@@ -2677,16 +2629,14 @@
         "role": "Passos/Rodrigues per PF/press"
       },
       {
-        "name": "Paulo Gonet Branco",
-        "id": "paulo-gonet",
-        "role": "interpretation"
+        "name": "Paulo Gonet"
       },
       {
         "name": "Gabriel Galípolo",
         "id": "gabriel-galipolo"
       },
       {
-        "name": "judge Ricardo Soares Leite",
+        "name": "Ricardo Leite",
         "id": "ricardo-leite"
       }
     ],
@@ -2705,7 +2655,7 @@
     ],
     "evidence_type": "press",
     "confidence": "high",
-    "notes": "Rótulo de agenda ≠ titularidade da linha; visualização única; análise da PF em 72h não é exaustiva.",
+    "notes": "agenda≠owner; view-once; PF non-exhaustive 72h analysis",
     "date_end": "2025-11-17"
   },
   {
@@ -2746,7 +2696,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-10-28",
     "cluster_role": "child"
   },
@@ -2845,7 +2795,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-10-30",
     "cluster_role": "child"
   },
@@ -2887,7 +2837,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-10-30",
     "cluster_role": "child"
   },
@@ -2929,7 +2879,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-10-30",
     "cluster_role": "child"
   },
@@ -2971,7 +2921,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-10-30",
     "cluster_role": "child"
   },
@@ -3013,7 +2963,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-10-30",
     "cluster_role": "child"
   },
@@ -3055,7 +3005,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-10-30",
     "cluster_role": "child"
   },
@@ -3097,7 +3047,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-10-30",
     "cluster_role": "child"
   },
@@ -3197,7 +3147,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-04",
     "cluster_role": "child"
   },
@@ -3239,7 +3189,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-04",
     "cluster_role": "child"
   },
@@ -3281,7 +3231,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-04",
     "cluster_role": "child"
   },
@@ -3323,7 +3273,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-04",
     "cluster_role": "child"
   },
@@ -3365,7 +3315,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-04",
     "cluster_role": "child"
   },
@@ -3407,7 +3357,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-04",
     "cluster_role": "child"
   },
@@ -3449,7 +3399,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-04",
     "cluster_role": "child"
   },
@@ -3549,7 +3499,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-05",
     "cluster_role": "child"
   },
@@ -3591,7 +3541,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-05",
     "cluster_role": "child"
   },
@@ -3633,7 +3583,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-05",
     "cluster_role": "child"
   },
@@ -3675,7 +3625,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-05",
     "cluster_role": "child"
   },
@@ -3775,7 +3725,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-06",
     "cluster_role": "child"
   },
@@ -3817,7 +3767,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-06",
     "cluster_role": "child"
   },
@@ -3916,7 +3866,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-07",
     "cluster_role": "child"
   },
@@ -3958,7 +3908,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-07",
     "cluster_role": "child"
   },
@@ -4115,7 +4065,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-10",
     "cluster_role": "child"
   },
@@ -4214,7 +4164,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-11",
     "cluster_role": "child"
   },
@@ -4313,7 +4263,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-12",
     "cluster_role": "child"
   },
@@ -4355,7 +4305,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-12",
     "cluster_role": "child"
   },
@@ -4397,7 +4347,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-12",
     "cluster_role": "child"
   },
@@ -4439,7 +4389,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-12",
     "cluster_role": "child"
   },
@@ -4539,7 +4489,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-14",
     "cluster_role": "child"
   },
@@ -4581,7 +4531,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-14",
     "cluster_role": "child"
   },
@@ -4623,7 +4573,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-14",
     "cluster_role": "child"
   },
@@ -4723,7 +4673,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-15",
     "cluster_role": "child"
   },
@@ -4765,7 +4715,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-15",
     "cluster_role": "child"
   },
@@ -4807,7 +4757,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-15",
     "cluster_role": "child"
   },
@@ -4907,7 +4857,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -4949,7 +4899,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -4991,7 +4941,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -5033,7 +4983,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -5075,7 +5025,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -5117,7 +5067,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -5159,7 +5109,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -5201,7 +5151,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -5243,7 +5193,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "medium",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -5285,7 +5235,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -5327,7 +5277,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -5369,7 +5319,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-16",
     "cluster_role": "child"
   },
@@ -5390,7 +5340,7 @@
         "role": "rótulo de agenda"
       },
       {
-        "name": "Ricardo Augusto Soares Leite",
+        "name": "Ricardo Leite",
         "id": "ricardo-leite"
       }
     ],
@@ -5414,7 +5364,7 @@
         "accessed": "2026-09-05"
       },
       {
-        "url": "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso/",
+        "url": "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso",
         "publisher": "Poder360",
         "accessed": "2026-09-05"
       },
@@ -5426,7 +5376,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Visualização única incompleta. Preferir 20h48 (UTC-3) do relatório/anexo; algumas matérias citam 23h48. Rótulo de agenda ≠ titularidade da linha.",
+    "notes": "View-once incomplete. Preferir 20h48 (UTC-3) do relatório/anexo; algumas matérias citam 23h48. Agenda label ≠ chip owner.",
     "cluster_id": "forense-2025-11-17",
     "cluster_role": "parent"
   },
@@ -5468,7 +5418,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-17",
     "cluster_role": "child"
   },
@@ -5510,7 +5460,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-17",
     "cluster_role": "child"
   },
@@ -5552,7 +5502,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-17",
     "cluster_role": "child"
   },
@@ -5594,7 +5544,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-17",
     "cluster_role": "child"
   },
@@ -5636,7 +5586,7 @@
     ],
     "evidence_type": "primary_document",
     "confidence": "high",
-    "notes": "Visualização única / sumiço incompleto; rótulo de agenda ≠ titularidade da linha. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
+    "notes": "View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do timestamp/tema já citado nas seções temáticas do dia.",
     "cluster_id": "forense-2025-11-17",
     "cluster_role": "child"
   },
@@ -5652,11 +5602,10 @@
         "id": "daniel-bueno-vorcaro"
       },
       {
-        "name": "Alexandre de Moraes",
-        "id": "alexandre-de-moraes"
+        "name": "contact Moraes"
       },
       {
-        "name": "Ricardo Soares Leite",
+        "name": "Ricardo Leite",
         "id": "ricardo-leite"
       }
     ],
@@ -5666,7 +5615,7 @@
     ],
     "sources": [
       {
-        "url": "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso/",
+        "url": "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso",
         "publisher": "Poder360",
         "accessed": "2026-09-05",
         "quote": "To indo assinar com os investidores de fora e estou online"
@@ -5674,7 +5623,7 @@
     ],
     "evidence_type": "press",
     "confidence": "high",
-    "notes": "Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ titularidade comprovada da linha. Algumas matérias dizem prisão na noite do dia 17 vs manhã do 18 — usar a cronologia PF/Poder360."
+    "notes": "View-once / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip comprovado. some outlets say arrest night of 17 vs morning 18 — use PF/Poder360 chronology"
   },
   {
     "id": "2025-11-17-ultima-tentativa-de-oferta-de-consorcio-privado",
@@ -5741,7 +5690,7 @@
         "title": "IPJ-A 3298613/2026"
       },
       {
-        "url": "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso/",
+        "url": "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso",
         "publisher": "Poder360",
         "accessed": "2026-09-05"
       },
@@ -5764,7 +5713,7 @@
     "id": "2025-11-18-liquidacao-extrajudicial-raet-on-master-multiplo-will-continuity",
     "date": "2025-11-18",
     "date_precision": "day",
-    "title": "Liquidação extrajudicial e RAET no Master Múltiplo (continuidade do Will)",
+    "title": "Liquidação extrajudicial + RAET on Master Múltiplo (Will continuity)",
     "summary": "CNN/G1: BC (Galípolo) decrees liquidação of Banco Master S/A, Master de Investimento, Letsbank, Master Corretora; RAET on Banco Master Múltiplo to preserve Will Financeira path. Controllers’/ex-admins’ assets unavailable. Motive: liquidity crisis, economic-financial deterioration, serious norm violations. Ends Fictor path. Conglomerate ~0.57% SFN assets (BC note in G1).",
     "people": [
       {
@@ -5786,7 +5735,7 @@
     ],
     "sources": [
       {
-        "url": "https://www.cnnbrasil.com.br/economia/negocios/banco-central-decreta-liquidacao-extrajudicial-do-banco-master/",
+        "url": "https://www.cnnbrasil.com.br/economia/negocios/banco-central-decreta-liquidacao-extrajudicial-do-banco-master",
         "publisher": "CNN Brasil",
         "accessed": "2026-09-05"
       },
@@ -5803,7 +5752,7 @@
     "id": "2025-11-18-pf-deflagrates-compliance-zero-vorcaro-arrested",
     "date": "2025-11-18",
     "date_precision": "day",
-    "title": "Polícia Federal deflagra Compliance Zero; Vorcaro é preso",
+    "title": "PF deflagrates Compliance Zero; Vorcaro arrested",
     "summary": "Valor: PF op against false credit titles in SFN; Vorcaro arrested; four other directors also targets (Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva named by day’s end). Five preventive + two temporary warrants, 25 searches across RJ/SP/MG/BA/DF. Probes began 2024 after MPF request: alleged manufacture of weak credit books sold to another bank, later swapped after BC inspection. Crimes: fraudulent/temerarious management, criminal organization, etc. Alleged Master→BRB false portfolios ~R$12 bi (resumo/Estadão).",
     "people": [
       {
@@ -5811,19 +5760,16 @@
         "id": "daniel-bueno-vorcaro"
       },
       {
-        "name": "Lima",
-        "id": "augusto-lima"
+        "name": "Lima"
       },
       {
-        "name": "Bull",
-        "id": "luiz-antonio-bull"
+        "name": "Bull"
       },
       {
-        "name": "Felix",
-        "id": "alberto-felix"
+        "name": "Felix"
       },
       {
-        "name": "Ângelo Silva",
+        "name": "Angelo Antonio Ribeiro da Silva",
         "id": "angelo-silva"
       },
       {
@@ -5865,19 +5811,16 @@
         "id": "daniel-bueno-vorcaro"
       },
       {
-        "name": "Lima",
-        "id": "augusto-lima"
+        "name": "Lima"
       },
       {
-        "name": "Bull",
-        "id": "luiz-antonio-bull"
+        "name": "Bull"
       },
       {
-        "name": "Felix",
-        "id": "alberto-felix"
+        "name": "Felix"
       },
       {
-        "name": "Ângelo",
+        "name": "Angelo Antonio Ribeiro da Silva",
         "id": "angelo-silva"
       }
     ],
@@ -5910,8 +5853,7 @@
         "name": "Augusto de Arruda Botelho"
       },
       {
-        "name": "Daniel Bueno Vorcaro",
-        "id": "daniel-bueno-vorcaro"
+        "name": "Vorcaro defense"
       }
     ],
     "tags": [
@@ -5938,7 +5880,7 @@
     "id": "2026-01-14-searches-at-vorcaro-family-zettel-tanure-mansur",
     "date": "2026-01-14",
     "date_precision": "day",
-    "title": "Compliance Zero 2ª fase: buscas / bloqueio de R$ 5,7 bi",
+    "title": "Searches at Vorcaro family, Zettel, Tanure, Mansur",
     "summary": "G1: second phase — searches at addresses linked to Vorcaro, father, sister, brother-in-law Fabiano Zettel; also Nelson Tanure and João Carlos Mansur (Reag). ~42 addresses; Toffoli-authorized; asset freezes >R$5.7 bi. Haddad called it possibly Brazil’s largest bank fraud; FGC exposure ~R$41 bi CDBs / ~1.6 mi investors cited.",
     "people": [
       {
@@ -6057,7 +5999,7 @@
     "id": "2026-03-04-second-preventive-prison-zettel-also-held",
     "date": "2026-03-04",
     "date_precision": "day",
-    "title": "Vorcaro e Zettel presos de novo (3ª fase da Compliance Zero)",
+    "title": "Second preventive prison; Zettel also held",
     "summary": "Valor/CNN/G1: new STF warrants; Vorcaro and Zettel arrested in SP/MG; PF alleges continued concealment of billions after first release. Custody hearing keeps them in state prison (CDP Guarulhos). Later STF 2ª Turma maintains (13/03 per CNN timeline).",
     "people": [
       {
@@ -6086,7 +6028,7 @@
     "id": "2026-04-16-4-fase-ph-costa-arrested-over-master-portfolio-deals",
     "date": "2026-04-16",
     "date_precision": "day",
-    "title": "4ª fase: Paulo Henrique Costa preso por negócios de carteiras com o Master",
+    "title": "4ª fase: PH Costa arrested over Master portfolio deals",
     "summary": "Estadão: ex-BRB president Paulo Henrique Costa arrested in 4th Compliance Zero phase on suspicion of corruption / irregularities in purchase of R$12.2 bi alleged false Master portfolios. Piece publishes 2024 Vorcaro–Lima urgency chats on BRB money.",
     "people": [
       {
@@ -6202,41 +6144,16 @@
         "url": "https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-derruba-sigilo-e-leva-caso-plenario-sigiloderrubado-1set2026.pdf",
         "publisher": "Poder360 / PET 16.662",
         "accessed": "2026-09-05"
-      },
-      {
-        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-manda-pf-identificar-rede-influencia-vorcaro-sigiloderrubado-1set2026.pdf",
-        "publisher": "Poder360 / PET 16.662",
-        "accessed": "2026-09-05",
-        "title": "Despacho — PF identificar rede de influência"
-      },
-      {
-        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662-mandado-intimacao-pf-prazo-72h-sigiloderrubado-1set2026.pdf",
-        "publisher": "Poder360 / PET 16.662",
-        "accessed": "2026-09-05",
-        "title": "Mandado de intimação PF — prazo 72h"
-      },
-      {
-        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-desentranhamento-autuacao-processo-autonomo-copia-sigiloderrubado-1set2026.pdf",
-        "publisher": "Poder360 / PET 16.662",
-        "accessed": "2026-09-05",
-        "title": "Desentranhamento / autuação autônoma"
-      },
-      {
-        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662-certidao-autuacao-distribuicao-andre-mendonca-sigiloderrubado-1set2026.pdf",
-        "publisher": "Poder360 / PET 16.662",
-        "accessed": "2026-09-05",
-        "title": "Certidão de autuação e distribuição a André Mendonça"
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high",
-    "notes": "Os PDFs de identificação da rede e do mandado de 72h não trazem, no resumo público, data autônoma distinta desta decisão prévia; entram como peças do mesmo histórico, sem data inventada."
+    "confidence": "high"
   },
   {
     "id": "2026-08-27-ipj-a-3298613-2026-on-vorcaro-iphone-pet-16-662",
     "date": "2026-08-27",
     "date_precision": "day",
-    "title": "IPJ-A 3298613/2026 sobre o iPhone de Vorcaro → PET 16.662",
+    "title": "IPJ-A 3298613/2026 on Vorcaro iPhone → PET 16.662",
     "summary": "Poder360: after Mendonça’s 72h order to map “rede de influência e monitoramento,” PF delivers non-exhaustive 218-p analysis of iPhone 17 Pro seized at arrest (Cellebrite/IPED). Covers Moraes-labeled chat, Barci contracts, Gonet/Andrei/Ciro threads, notes methodology.",
     "people": [
       {
@@ -6266,7 +6183,7 @@
     ],
     "evidence_type": "press",
     "confidence": "high",
-    "notes": "A própria PF: a análise “não possui caráter exaustivo”."
+    "notes": "PF itself: analysis “não possui caráter exaustivo”"
   },
   {
     "id": "2026-08-27-pf-entrega-ipj-a-3298613-2026-relatorio-218-p-a-mendonca",
@@ -6303,12 +6220,6 @@
         "publisher": "Poder360 / PET 16.662",
         "accessed": "2026-09-05",
         "title": "IPJ-A 3298613/2026"
-      },
-      {
-        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662-recibo-peticao-pf-documentos-27ago2026-sigiloderrubado-1set2026.pdf.pdf",
-        "publisher": "Poder360 / PET 16.662",
-        "accessed": "2026-09-05",
-        "title": "Recibo de petição PF — 27 ago 2026"
       }
     ],
     "evidence_type": "primary_document",
@@ -6373,7 +6284,7 @@
     ],
     "evidence_type": "press",
     "confidence": "high",
-    "notes": "Esta ficha é meta — não tratar como um “evento” discreto de influência."
+    "notes": "this card is meta — do not treat as a discrete “event” of influence"
   },
   {
     "id": "2026-09-01-mendonca-levanta-sigilo-da-pet-16-662-e-manda-ao-plenario",
@@ -6408,7 +6319,7 @@
         "quote": "Com base em tais razões, determino o levantamento do sigilo dos presentes autos."
       },
       {
-        "url": "https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro/",
+        "url": "https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro",
         "publisher": "Poder360",
         "accessed": "2026-09-05"
       },
@@ -6452,17 +6363,12 @@
     ],
     "sources": [
       {
-        "url": "https://www.poder360.com.br/poder-justica/mendonca-retira-sigilo-de-acao-sobre-vorcaro-e-moraes/",
+        "url": "https://www.poder360.com.br/poder-justica/mendonca-retira-sigilo-de-acao-sobre-vorcaro-e-moraes",
         "publisher": "Poder360",
         "accessed": "2026-09-05"
       },
       {
-        "url": "https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml",
-        "publisher": "O Globo",
-        "accessed": "2026-09-05"
-      },
-      {
-        "url": "https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro/",
+        "url": "https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro",
         "publisher": "Poder360",
         "accessed": "2026-09-05"
       }

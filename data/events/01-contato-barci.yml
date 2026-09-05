@@ -61,14 +61,14 @@
       publisher: Poder360 / PET 16.662
       accessed: "2026-09-05"
     - url: >-
-        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf//
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
       publisher: Poder360
       accessed: "2026-09-05"
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Rótulo de agenda ≠ titularidade comprovada da linha: a PF atribui o terminal ao rótulo
-    salvo; o celular de Moraes não foi periciado neste IPJ-A. Ressalva obrigatória.
+    Agenda label ≠ proven chip owner: a PF atribui o terminal ao rótulo salvo; o celular de
+    Moraes não foi periciado neste IPJ-A.; mandatory agenda≠owner warning
 - id: 2023-12-27-fabio-fala-de-almoco-de-alex-no-six-senses
   date: "2023-12-27"
   date_precision: day
@@ -123,7 +123,7 @@
       title: IPJ-A 3298613/2026
       quote: Mas se foi o ministro que pediu tudo bem
     - url: >-
-        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
       publisher: Poder360
       accessed: "2026-09-05"
   evidence_type: primary_document
@@ -147,8 +147,7 @@
     - name: Viviane Barci de Moraes
       id: viviane-barci-de-moraes
       role: escritório
-    - name: Guilherme de Toledo Benazzi
-      id: guilherme-benazzi
+    - name: Guilherme Benazzi
     - name: Alexandre de Moraes
       id: alexandre-de-moraes
   tags:
@@ -170,7 +169,7 @@
       publisher: Poder360 / PET 16.662
       accessed: "2026-09-05"
     - url: >-
-        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
       publisher: Poder360
       accessed: "2026-09-05"
   evidence_type: primary_document
@@ -201,7 +200,7 @@
       accessed: "2026-09-05"
       title: IPJ-A 3298613/2026
     - url: >-
-        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
       publisher: Poder360
       accessed: "2026-09-05"
   evidence_type: primary_document
@@ -240,7 +239,7 @@
       accessed: "2026-09-05"
       title: IPJ-A 3298613/2026
     - url: >-
-        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
       publisher: Poder360
       accessed: "2026-09-05"
   evidence_type: primary_document
@@ -272,7 +271,7 @@
       title: IPJ-A 3298613/2026
       quote: Bom dia! Segue a minuta do contrato. Abraço
     - url: >-
-        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
       publisher: Poder360
       accessed: "2026-09-05"
   evidence_type: primary_document
@@ -295,7 +294,7 @@
     - assinatura
   sources:
     - url: >-
-        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
       publisher: Poder360
       accessed: "2026-09-05"
       quote: >-
@@ -345,7 +344,7 @@
       publisher: Poder360 / PET 16.662
       accessed: "2026-09-05"
     - url: >-
-        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
       publisher: Poder360
       accessed: "2026-09-05"
   evidence_type: primary_document
@@ -372,17 +371,16 @@
     - name: Alexandre de Moraes
       id: alexandre-de-moraes
       role: metadata/edit
-    - name: Ângelo Antônio Ribeiro da Silva
+    - name: Angelo Antonio Ribeiro da Silva
       id: angelo-silva
-    - name: Guilherme de Toledo Benazzi
-      id: guilherme-benazzi
+    - name: Guilherme Benazzi
   tags:
     - power-interlocutor
     - compliance-zero
     - barci
   sources:
     - url: >-
-        https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro/
+        https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro
       publisher: Poder360
       accessed: "2026-09-05"
       quote: >-
@@ -390,11 +388,6 @@
         (11/01/2024, Viviane)
   evidence_type: press
   confidence: high
-  notes: >-
-    Reportagem pública (Poder360) e extratos do IPJ-A publicado. Escritório Barci (nota ao
-    Poder360) diz que Moraes editou a pedido do compliance sobre impedimentos; afirma
-    inexistência de atuação no STF / impedimento legal. Metadados last-modified são leitura
-    da PF no documento publicado.
 - id: 2024-01-30-fabio-cita-alex-e-altera-local-do-jantar
   date: "2024-01-30"
   date_precision: day
@@ -418,10 +411,6 @@
       title: IPJ-A 3298613/2026
   evidence_type: primary_document
   confidence: high
-  notes: >-
-    PF/imprensa associam o apelido “careca”/“Alex” a Moraes nos diálogos; o nome neste recado
-    não prova identidade. Trecho do IPJ-A publicado (PET 16.662); análise da PF não é
-    exaustiva.
 - id: 2024-02-01-master-assume-o-controle-do-will-bank
   date: "2024-02-01"
   date_precision: month
@@ -433,26 +422,23 @@
   people:
     - name: Daniel Bueno Vorcaro
       id: daniel-bueno-vorcaro
-    - name: Reag / João Carlos Mansur
+    - name: João Carlos Mansur
+      id: joao-carlos-mansur
+      role: "Valor: Will deal with Reag"
   tags:
     - master
     - growth
   sources:
     - url: >-
-        https://valor.globo.com/financas/noticia/2024/02/23/banco-master-compra-will-bank-e-amplia-posicao-no-varejo.ghtml
-      publisher: Valor Econômico
-      accessed: "2026-09-05"
-      title: Banco Master compra Will Bank e amplia posição no varejo
-    - url: >-
         https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml
       publisher: Valor Econômico
       accessed: "2026-09-05"
-      title: Forasteiro na Faria Lima (Reag / Mansur no perfil)
+    - url: >-
+        https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb
+      publisher: Agência Brasil
+      accessed: "2026-09-05"
   evidence_type: press
   confidence: high
-  notes: >-
-    Anúncio do controle: Valor 23/02/2024. O perfil de abr/2025 entra só para a
-    associação Reag/Mansur — não como URL-curinga de bio em ficha que não é bio.
 - id: 2024-02-02-anotacoes-de-networking-social-politico-intermediado-por-faria
   date: "2024-02-02"
   date_precision: day
@@ -468,14 +454,13 @@
       id: daniel-bueno-vorcaro
     - name: Ciro Soares
       id: ciro-soares
-    - name: Andrei Rodrigues
-      id: andrei-rodrigues
+    - name: names Andrei / Gonet as labeled in notes
   tags:
     - power-interlocutor
     - compliance-zero
   sources:
     - url: >-
-        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
       publisher: Poder360
       accessed: "2026-09-05"
     - url: >-
@@ -526,7 +511,6 @@
     - name: Angelo Antonio Ribeiro da Silva
       id: angelo-silva
     - name: Fabiano
-      id: fabiano-zettel
     - name: Viviane Barci de Moraes
       id: viviane-barci-de-moraes
       role: escritório
@@ -542,8 +526,6 @@
       title: IPJ-A 3298613/2026
   evidence_type: primary_document
   confidence: high
-  notes: >-
-    Comprovante citado no IPJ-A publicado (PET 16.662); análise da PF não é exaustiva.
 - id: 2024-03-15-fabio-o-careca-nao-pode-atrasar-vorcaro-prioriza-pagamento-barci
   date: "2024-03-15"
   date_precision: day
@@ -559,8 +541,7 @@
       id: fabio-faria
     - name: Angelo Antonio Ribeiro da Silva
       id: angelo-silva
-    - name: Romy
-      id: romy-master
+    - name: Romy Banco Master
   tags:
     - pagamento
     - careca
@@ -573,14 +554,11 @@
       title: IPJ-A 3298613/2026
       quote: O careca não pode atrasar
     - url: >-
-        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
       publisher: Poder360
       accessed: "2026-09-05"
   evidence_type: primary_document
   confidence: high
-  notes: >-
-    PF/imprensa associam o apelido “careca”/“Alex” a Moraes nos diálogos; o apelido sozinho
-    não prova identidade. Trechos do IPJ-A publicado e da reportagem Poder360.
 - id: 2024-03-28-convite-moraes-para-evento-londres-24-27-04-2024
   date: "2024-03-28"
   date_precision: day
@@ -607,9 +585,6 @@
       title: IPJ-A 3298613/2026
   evidence_type: primary_document
   confidence: high
-  notes: >-
-    Convite citado em diálogo no IPJ-A publicado (PET 16.662); não é, por si, comprovante de
-    presença no evento. Análise da PF não é exaustiva.
 - id: 2024-04-03-convite-ao-dpf-andrei-vorcaro-ministro-fez-convite-ao-andrei-pf
   date: "2024-04-03"
   date_precision: day
@@ -659,7 +634,6 @@
     - name: Fábio Faria
       id: fabio-faria
     - name: Alexandre
-      id: alexandre-de-moraes
   tags:
     - reuniao
     - alexandre
@@ -672,9 +646,6 @@
       title: IPJ-A 3298613/2026
   evidence_type: primary_document
   confidence: high
-  notes: >-
-    Mensagem encaminhada no IPJ-A publicado; a data 10/04 é cálculo da PF (“próxima
-    segunda”). Análise da PF não é exaustiva.
 - id: 2024-04-10-leo-serrano-organiza-logistica-londres-ministros-alexandre-toffoli-etc
   date: "2024-04-10"
   date_precision: day
@@ -699,9 +670,6 @@
       title: IPJ-A 3298613/2026
   evidence_type: primary_document
   confidence: high
-  notes: >-
-    Nomes de ministros saem da fala de Vorcaro no IPJ-A publicado; não é lista de presença
-    independente. Análise da PF não é exaustiva.
 - id: 2024-04-14-ciro-soares-gonet-e-firme-audio-sobre-desistencia-de-candidatura
   date: "2024-04-14"
   date_precision: day
@@ -716,9 +684,7 @@
       id: daniel-bueno-vorcaro
     - name: Ciro Soares
       id: ciro-soares
-    - name: Paulo Gonet Branco
-      id: paulo-gonet
-      role: citado
+    - name: Paulo Gonet
     - name: Jarbas
   tags:
     - gonet
@@ -753,8 +719,7 @@
       id: daniel-bueno-vorcaro
     - name: Alexandre de Moraes
       id: alexandre-de-moraes
-    - name: Paulo Gonet Branco
-      id: paulo-gonet
+    - name: Paulo Gonet
     - name: Andrei Rodrigues
       id: andrei-rodrigues
       role: reportado
@@ -768,7 +733,7 @@
       accessed: "2026-09-05"
       title: IPJ-A 3298613/2026
     - url: >-
-        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
       publisher: Poder360
       accessed: "2026-09-05"
   evidence_type: primary_document
@@ -801,14 +766,14 @@
     - compliance-zero
   sources:
     - url: >-
-        https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia/
+        https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia
       publisher: Estadão
       accessed: "2026-09-05"
+      quote: >-
+        Tem notícia do BRB? Se não vier vou ter que devolver a grana de sexta e vamos usar
+        compulsório hoje” (02/09/2024, Vorcaro→Lima, Estadão)
   evidence_type: press
   confidence: high
-  notes: >-
-    A citação “usar compulsório hoje” é de 2 set 2024 — ficha própria na densificação
-    da imprensa, para não datar a fala em julho.
 - id: 2024-11-15-vorcaro-diz-a-filha-stella-que-esta-com-alexandre-moraes
   date: "2024-11-15"
   date_precision: day
@@ -868,6 +833,3 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
-  notes: >-
-    Reportagem pública da Folha (jan/2026) sobre reunião de 4 dez 2024; não é documento da
-    PF.
