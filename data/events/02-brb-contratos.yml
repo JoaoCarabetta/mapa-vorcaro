@@ -641,7 +641,7 @@
         Sim, estamos gostando muito, todos que nos atenderam sempre foram muito educados e
         atenciosos.
     - url: >-
-        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/
       publisher: Poder360
       accessed: "2026-09-05"
   evidence_type: primary_document
@@ -677,6 +677,9 @@
       quote: O Andrei PF precisa de um Convite formal para aceitar Londres
   evidence_type: primary_document
   confidence: high
+  notes: >-
+    PF interpreta “Andrei PF” como Andrei Passos (DG/PF); o 2º evento Londres foi depois
+    cancelado. IPJ-A publicado; análise da PF não é exaustiva.
 - id: 2025-07-14-dialogo-registra-outro-pagamento-barci-r-3-422-268-14
   date: "2025-07-14"
   date_precision: day
@@ -703,6 +706,8 @@
       title: IPJ-A 3298613/2026
   evidence_type: primary_document
   confidence: high
+  notes: >-
+    Comprovante citado no IPJ-A publicado (PET 16.662); análise da PF não é exaustiva.
 - id: 2025-08-01-ibaneis-sanctions-cldf-law-authorizing-brb-to-buy-master-shares
   date: "2025-08-01"
   date_precision: month
@@ -759,6 +764,9 @@
       title: IPJ-A 3298613/2026
   evidence_type: primary_document
   confidence: high
+  notes: >-
+    Afirmação unilateral de Vorcaro a Martha; não é prova fotográfica da presença. Trecho
+    do IPJ-A publicado (PET 16.662).
 - id: 2025-09-01-temer-diz-ter-sido-chamado-a-mediar-brb-master-apos-bloqueio-do-banco-central
   date: "2025-09-01"
   date_precision: month
@@ -816,6 +824,8 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
+  notes: >-
+    Reportagem pública (Agência Brasil) sobre o fato relevante do BRB.
 - id: 2025-09-17-contato-moraes-brasilia-ativa-mensagens-temporarias-24h
   date: "2025-09-17"
   date_precision: day
@@ -927,7 +937,7 @@
       title: IPJ-A 3298613/2026
       quote: Mas nao faz barci pix ne?
     - url: >-
-        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf
+        https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/
       publisher: Poder360
       accessed: "2026-09-05"
   evidence_type: primary_document
