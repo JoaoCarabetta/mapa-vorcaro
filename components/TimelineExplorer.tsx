@@ -22,6 +22,7 @@ type TimelineQuery = {
   de?: string;
   ate?: string;
   dia?: string;
+  mes?: string;
 };
 
 type Props = {
@@ -70,12 +71,39 @@ function clusterLabel(events: EventRecord[]): string {
   return "Vários fios";
 }
 
+function tagFamily(tag: string): string {
+  switch (tag) {
+    case "nota-forense":
+    case "notas":
+    case "whatsapp":
+    case "view-once":
+    case "crise":
+    case "crise-master":
+      return "notas";
+    case "master":
+    case "maxima":
+      return "master";
+    case "barci":
+    case "viking":
+      return "barci";
+    case "bio":
+    case "education":
+      return "bio";
+    case "politics":
+    case "politica":
+      return "politica";
+    default:
+      return tag;
+  }
+}
+
 type DayBucket = {
   date: string;
   month: string;
   year: string;
   events: EventRecord[];
   dayCount: number;
+  precision: "day" | "month";
 };
 
 export function TimelineExplorer({
@@ -89,6 +117,7 @@ export function TimelineExplorer({
   const pathname = usePathname();
 
   const [dia, setDia] = useState(initialQuery.dia ?? "");
+  const [mes, setMes] = useState(initialQuery.mes ?? "");
   const [q, setQ] = useState(initialQuery.q ?? "");
   const [person, setPerson] = useState(initialQuery.pessoa ?? "");
   const [tag, setTag] = useState(initialQuery.tag ?? "");
@@ -110,6 +139,7 @@ export function TimelineExplorer({
         de: fromDate,
         ate: toDate,
         dia,
+        mes,
         ...patch,
       };
       const params = new URLSearchParams();
@@ -129,6 +159,7 @@ export function TimelineExplorer({
       fromDate,
       toDate,
       dia,
+      mes,
       pathname,
       router,
     ],
@@ -185,18 +216,68 @@ export function TimelineExplorer({
         year: date.slice(0, 4),
         events: list.slice().sort(compareEventsChrono),
         dayCount: list.length,
+        precision: "day",
       });
     }
 
-    const singles = filtered.filter((event) => {
+    let singles = filtered.filter((event) => {
       if (fromDate && event.date < fromDate) return false;
       if (toDate && event.date > toDate) return false;
       if (event.date_precision !== "day") return true;
       return !buckets.some((item) => item.date === event.date);
     });
 
-    return { buckets, singles: singles.sort(compareEventsChrono) };
-  }, [events, filtered, dia]);
+    const monthBuckets: DayBucket[] = [];
+    const monthClustered = new Set<string>();
+    const byMonth = new Map<string, EventRecord[]>();
+    for (const event of singles) {
+      if (event.date_precision === "day") continue;
+      const key = monthKey(event.date);
+      const list = byMonth.get(key) ?? [];
+      list.push(event);
+      byMonth.set(key, list);
+    }
+    for (const [key, list] of [...byMonth.entries()].sort()) {
+      const familyMembers = new Map<string, EventRecord[]>();
+      for (const event of list) {
+        const families = [...new Set((event.tags ?? []).map(tagFamily))];
+        for (const family of families) {
+          const members = familyMembers.get(family) ?? [];
+          members.push(event);
+          familyMembers.set(family, members);
+        }
+      }
+      const ranked = [...familyMembers.entries()]
+        .map(([family, members]) => {
+          const unique = [...new Map(members.map((item) => [item.id, item])).values()];
+          return [family, unique] as const;
+        })
+        .filter(([, members]) => members.length >= 3)
+        .sort((a, b) => b[1].length - a[1].length);
+
+      for (const [, members] of ranked) {
+        const unused = members.filter((event) => !monthClustered.has(event.id));
+        if (unused.length < 3) continue;
+        unused.sort(compareEventsChrono);
+        for (const event of unused) monthClustered.add(event.id);
+        monthBuckets.push({
+          date: `${key}-01`,
+          month: key,
+          year: key.slice(0, 4),
+          events: unused,
+          dayCount: unused.length,
+          precision: "month",
+        });
+      }
+    }
+
+    singles = singles.filter((event) => !monthClustered.has(event.id));
+
+    return {
+      buckets: [...buckets, ...monthBuckets],
+      singles: singles.sort(compareEventsChrono),
+    };
+  }, [events, filtered, dia, fromDate, toDate]);
 
   const timeline = useMemo(() => {
     type Item =
@@ -261,6 +342,7 @@ export function TimelineExplorer({
     setFromDate("");
     setToDate("");
     setDia("");
+    setMes("");
     writeQuery({
       q: "",
       pessoa: "",
@@ -271,6 +353,7 @@ export function TimelineExplorer({
       de: "",
       ate: "",
       dia: "",
+      mes: "",
     });
   };
 
@@ -283,7 +366,8 @@ export function TimelineExplorer({
     confidence ||
     fromDate ||
     toDate ||
-    dia;
+    dia ||
+    mes;
   const clusterCount = dayBuckets.buckets.length;
   const fichaCount = dayBuckets.buckets.reduce(
     (sum, b) => sum + b.events.length,
@@ -455,12 +539,22 @@ export function TimelineExplorer({
                       const { bucket } = item;
                       return (
                         <ForensicCluster
-                          key={`dia-${bucket.date}`}
+                          key={`${bucket.precision}-${bucket.date}-${bucket.events[0]?.id}`}
                           date={bucket.date}
+                          precision={bucket.precision}
                           label={clusterLabel(bucket.events)}
                           events={bucket.events}
-                          defaultOpen={dia === bucket.date}
+                          defaultOpen={
+                            bucket.precision === "day"
+                              ? dia === bucket.date
+                              : mes === bucket.month
+                          }
                           onOpenChange={(open) => {
+                            if (bucket.precision === "month") {
+                              setMes(open ? bucket.month : "");
+                              writeQuery({ mes: open ? bucket.month : "" });
+                              return;
+                            }
                             setDia(open ? bucket.date : "");
                             writeQuery({ dia: open ? bucket.date : "" });
                           }}

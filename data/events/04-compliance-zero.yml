@@ -425,7 +425,7 @@
       title: IPJ-A 3298613/2026
   evidence_type: press
   confidence: high
-  notes: "PF itself: analysis “não possui caráter exaustivo”"
+  notes: "A própria PF: a análise “não possui caráter exaustivo”."
 - id: 2026-08-27-pf-entrega-ipj-a-3298613-2026-relatorio-218-p-a-mendonca
   date: "2026-08-27"
   date_precision: day
@@ -512,7 +512,7 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
-  notes: this card is meta — do not treat as a discrete “event” of influence
+  notes: Esta ficha é meta — não tratar como um “evento” discreto de influência.
 - id: 2026-09-01-mendonca-levanta-sigilo-da-pet-16-662-e-manda-ao-plenario
   date: "2026-09-01"
   date_precision: day

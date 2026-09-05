@@ -3,13 +3,14 @@
 import { useEffect, useState } from "react";
 import { ClusterRow } from "@/components/ClusterRow";
 import { EventCard } from "@/components/EventCard";
-import { confidenceLabel, formatDate } from "@/lib/format";
+import { confidenceLabel, formatDate, formatMonthHead, monthKey } from "@/lib/format";
 import type { EventRecord } from "@/lib/types";
 
 type Props = {
   date: string;
   label: string;
   events: EventRecord[];
+  precision?: "day" | "month";
   defaultOpen?: boolean;
   onOpenChange?: (open: boolean) => void;
 };
@@ -18,15 +19,18 @@ export function ForensicCluster({
   date,
   label,
   events,
+  precision = "day",
   defaultOpen = false,
   onOpenChange,
 }: Props) {
   const [open, setOpen] = useState(defaultOpen);
   const count = events.length;
-  const stamp = formatDate(date, "day");
+  const stamp =
+    precision === "month" ? formatMonthHead(date) : formatDate(date, "day");
   const flagged = events.find(
     (event) => event.confidence === "low" || event.confidence === "medium",
   );
+  const clusterDomId = `cluster-${precision}-${date}`;
 
   useEffect(() => {
     if (defaultOpen) setOpen(true);
@@ -39,12 +43,17 @@ export function ForensicCluster({
   };
 
   return (
-    <article className="cluster-card" data-dia={date} data-fichas={count}>
+    <article
+      className="cluster-card"
+      data-dia={precision === "day" ? date : undefined}
+      data-mes={precision === "month" ? monthKey(date) : undefined}
+      data-fichas={count}
+    >
       <button
         type="button"
         className="cluster-summary"
         aria-expanded={open}
-        aria-controls={`cluster-${date}`}
+        aria-controls={clusterDomId}
         onClick={toggle}
       >
         <time className="cluster-date" dateTime={date}>
@@ -67,7 +76,7 @@ export function ForensicCluster({
           {open ? "Recolher fichas" : "Abrir fichas"}
         </span>
       </button>
-      <div id={`cluster-${date}`}>
+      <div id={clusterDomId}>
         {open ? (
           <div className="cluster-children" data-ordem="cronologica">
             {events.map((event) => (

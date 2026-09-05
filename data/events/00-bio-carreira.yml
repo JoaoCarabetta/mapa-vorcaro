@@ -25,7 +25,7 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
-  notes: Exact civil birth certificate not in local press dumps.
+  notes: Certidão civil de nascimento não está nos dumps de imprensa locais.
 - id: 2000-01-01-escola-de-elite-em-belo-horizonte-e-economia-mba-no-ibmec
   date: "2000-01-01"
   date_precision: year
@@ -70,7 +70,7 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: medium
-  notes: Exact sale year not given.
+  notes: O ano exato da venda não é dado na fonte.
 - id: 2006-01-01-casa-com-fabiola-depois-os-filhos-stella-e-tiziano
   date: "2006-01-01"
   date_precision: year
@@ -95,7 +95,7 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: medium
-  notes: Party cost is press estimate (“teria custado”).
+  notes: O custo da festa é estimativa da imprensa (“teria custado”).
 - id: 2016-01-01-participacao-minoritaria-no-banco-maxima-em-dificuldades-saul-sabba
   date: "2016-01-01"
   date_precision: year
@@ -156,7 +156,7 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
-  notes: Exact closing percentages evolved in later 2017–2019 coverage.
+  notes: Percentuais exatos de fechamento mudam na cobertura posterior (2017–2019).
 - id: 2018-01-01-gestao-ligada-a-vorcaro-assume-o-controle-operacional
   date: "2018-01-01"
   date_precision: month

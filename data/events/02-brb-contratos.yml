@@ -866,7 +866,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    View-once / disappearing messages incomplete: a partir daqui o histórico do chat fica
+    Visualização única / mensagens que somem: a partir daqui o histórico do chat fica
     estruturalmente incompleto; respostas do interlocutor em geral não recuperadas.
 - id: 2025-09-17-moraes-labeled-contact-activates-24h-ephemeral-messages
   date: "2025-09-17"
@@ -909,7 +909,7 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
-  notes: view-once incompleteness
+  notes: Visualização única / registro incompleto.
 - id: 2025-10-01-mas-nao-faz-barci-pix-ne-pagamento-barci-via-pix
   date: "2025-10-01"
   date_precision: day

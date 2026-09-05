@@ -59,6 +59,7 @@ export default async function HomePage({
           de: first(params.de),
           ate: first(params.ate),
           dia: first(params.dia),
+          mes: first(params.mes),
         }}
       />
     </div>
