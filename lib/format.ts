@@ -59,3 +59,45 @@ export function slugify(value: string): string {
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/(^-|-$)/g, "");
 }
+
+/** UTC clock from title (Nota forense → WhatsApp HH:MM:SS UTC), else summary, else midnight. */
+export function eventClock(event: { title: string; summary?: string }): string {
+  const fromTitle = event.title.match(/(\d{2}):(\d{2}):(\d{2})/);
+  if (fromTitle) return `${fromTitle[1]}${fromTitle[2]}${fromTitle[3]}`;
+  const fromSummary = (event.summary ?? "").match(/(\d{2}):(\d{2}):(\d{2})/);
+  if (fromSummary) return `${fromSummary[1]}${fromSummary[2]}${fromSummary[3]}`;
+  return "000000";
+}
+
+export function compareEventsChrono<
+  T extends { date: string; id: string; title: string; summary?: string },
+>(a: T, b: T): number {
+  const byDate = a.date.localeCompare(b.date);
+  if (byDate !== 0) return byDate;
+  const byTime = eventClock(a).localeCompare(eventClock(b));
+  if (byTime !== 0) return byTime;
+  return a.id.localeCompare(b.id);
+}
+
+export function monthKey(iso: string): string {
+  return iso.slice(0, 7);
+}
+
+export function formatMonthHead(iso: string): string {
+  const [year, month] = iso.split("-").map(Number);
+  const months = [
+    "jan.",
+    "fev.",
+    "mar.",
+    "abr.",
+    "maio",
+    "jun.",
+    "jul.",
+    "ago.",
+    "set.",
+    "out.",
+    "nov.",
+    "dez.",
+  ];
+  return `${months[(month ?? 1) - 1] ?? iso} ${year}`;
+}

@@ -41,18 +41,19 @@ export default function MetodologiaPage() {
         <li><strong>evidence_type</strong> — press, primary_document, court, official, other.</li>
         <li><strong>confidence</strong> — alta quando o documento é direto; média quando a imputação é de agenda, reenvio ou recado a terceiro; baixa quando a fonte é única e indireta.</li>
         <li><strong>quote</strong> — só texto que aparece na fonte, grafia original inclusive.</li>
-        <li><strong>cluster_id / cluster_role</strong> — micro-cards forenses (Notas → WhatsApp, 28/out–17/nov/2025) entram no YAML um a um, mas na timeline aparecem sob o cartão-pai do dia.</li>
+        <li><strong>cluster_id / cluster_role</strong> — carimbos de tempo (Notas para WhatsApp, 28/out–17/nov/2025) entram no YAML um a um; na timeline aparecem sob o grupo do dia.</li>
       </ul>
 
-      <h2>Clusters forenses</h2>
+      <h2>Grupos do dia</h2>
       <p>
-        O corpus sourced tem 152 fichas. Os carimbos de tempo da cadeia Apple Notas →
-        screenshot → WhatsApp não são manchetes: a interface os agrupa em clusters
-        diários expansíveis. Cada filho continua citável, com URL. Não inventamos teor
-        de nota cujo OCR não está no material.
+        O corpus sourced tem 152 fichas. Os carimbos da cadeia Apple Notas → captura →
+        WhatsApp não são manchetes: a interface os agrupa em grupos diários. Fechado:
+        data, fio e número de fichas. Aberto: linhas (título, evidência, editora). A
+        ficha completa fica em <code>/eventos/…</code>. Não inventamos teor de nota cujo
+        OCR não está no material.
       </p>
 
-      <h2>Ressalvas que não podem sumir</h2>
+      <h2 id="ressalvas">Ressalvas que não podem sumir</h2>
       <h3>1. Visualização única</h3>
       <p>
         Vorcaro escrevia no app Notas, tirava print e enviava no WhatsApp como imagem de

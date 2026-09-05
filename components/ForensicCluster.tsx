@@ -1,44 +1,69 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { EventCard } from "@/components/EventCard";
-import { formatDate } from "@/lib/format";
+import { ClusterRow } from "@/components/ClusterRow";
+import { confidenceLabel, formatDate } from "@/lib/format";
 import type { EventRecord } from "@/lib/types";
 
 type Props = {
-  parent: EventRecord;
-  children: EventRecord[];
+  date: string;
+  label: string;
+  events: EventRecord[];
   defaultOpen?: boolean;
+  onOpenChange?: (open: boolean) => void;
 };
 
-export function ForensicCluster({ parent, children, defaultOpen = false }: Props) {
+export function ForensicCluster({
+  date,
+  label,
+  events,
+  defaultOpen = false,
+  onOpenChange,
+}: Props) {
   const [open, setOpen] = useState(defaultOpen);
-  const count = children.length;
-  const stamp = formatDate(parent.date, parent.date_precision);
+  const count = events.length;
+  const stamp = formatDate(date, "day");
+  const flagged = events.find(
+    (event) => event.confidence === "low" || event.confidence === "medium",
+  );
 
   useEffect(() => {
     if (defaultOpen) setOpen(true);
   }, [defaultOpen]);
 
   return (
-    <article className="cluster-card">
-      <p className="cluster-kicker">
-        Cluster forense · {stamp} · {count} {count === 1 ? "micro-card" : "micro-cards"}{" "}
-        (Notas → WhatsApp)
-      </p>
-      <EventCard event={parent} />
+    <article className="cluster-card" data-dia={date} data-fichas={count}>
       <details
         className="cluster-details"
         open={open}
-        onToggle={(e) => setOpen(e.currentTarget.open)}
+        onToggle={(e) => {
+          const next = e.currentTarget.open;
+          setOpen(next);
+          onOpenChange?.(next);
+        }}
       >
         <summary className="cluster-summary">
-          Ver {count} carimbos forenses deste dia
+          <time className="cluster-date" dateTime={date}>
+            {stamp}
+          </time>
+          <span className="cluster-label">{label}</span>
+          <span className="cluster-count">
+            {count} {count === 1 ? "ficha" : "fichas"}
+          </span>
+          {flagged ? (
+            <span
+              className={
+                flagged.confidence === "low" ? "chip chip-low" : "chip"
+              }
+            >
+              confiança {confidenceLabel(flagged.confidence)}
+            </span>
+          ) : null}
         </summary>
         <ul className="cluster-children">
-          {children.map((child) => (
-            <li key={child.id}>
-              <EventCard event={child} compact />
+          {events.map((event) => (
+            <li key={event.id}>
+              <ClusterRow event={event} />
             </li>
           ))}
         </ul>

@@ -39,7 +39,9 @@ export default async function EventPage({ params }: Props) {
   return (
     <div className="wrap">
       <p className="brand-kicker">
-        <Link href="/">Timeline</Link> · {formatDate(event.date, event.date_precision)}
+        <Link href={`/?dia=${event.date}`}>Linha do tempo</Link>
+        {" · "}
+        {formatDate(event.date, event.date_precision)}
       </p>
       <h1>{event.title}</h1>
       <div className="chips" style={{ margin: "12px 0 24px" }}>
@@ -69,13 +71,13 @@ export default async function EventPage({ params }: Props) {
           ) : null}
           {clusterParent ? (
             <p>
-              Micro-card forense deste dia. Agrupado em{" "}
-              <Link href={`/eventos/${clusterParent.id}`}>{clusterParent.title}</Link>.
+              Ficha deste dia, agrupada em{" "}
+              <Link href={`/?dia=${event.date}`}>{clusterParent.title}</Link>.
             </p>
           ) : null}
           {clusterChildren.length > 0 ? (
             <div>
-              <h2>Micro-cards forenses deste dia ({clusterChildren.length})</h2>
+              <h2>Outras fichas deste dia ({clusterChildren.length})</h2>
               <ul>
                 {clusterChildren.map((child) => (
                   <li key={child.id}>

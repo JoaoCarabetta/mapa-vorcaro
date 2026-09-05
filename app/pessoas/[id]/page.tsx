@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { EventCard } from "@/components/EventCard";
+import { ClusterRow } from "@/components/ClusterRow";
 import { eventsForPerson, loadEdges, loadPeople } from "@/lib/load";
 import type { Metadata } from "next";
 
@@ -63,7 +63,11 @@ export default async function PersonPage({ params }: Props) {
       {events.length === 0 ? (
         <div className="empty">Nenhum evento ligado a esta ficha.</div>
       ) : (
-        events.map((event) => <EventCard key={event.id} event={event} />)
+        events.map((event) => (
+          <article className="singleton-row" key={event.id}>
+            <ClusterRow event={event} />
+          </article>
+        ))
       )}
     </div>
   );

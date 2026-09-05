@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import yaml from "js-yaml";
 import type { EdgeRecord, EventRecord, PersonRecord } from "./types";
+import { compareEventsChrono } from "./format";
 
 const DATA_DIR = path.join(process.cwd(), "data");
 
@@ -29,11 +30,7 @@ export function loadEvents(): EventRecord[] {
     events.push(...list);
   }
 
-  return events.sort((a, b) => {
-    const byDate = a.date.localeCompare(b.date);
-    if (byDate !== 0) return byDate;
-    return a.id.localeCompare(b.id);
-  });
+  return events.sort((a, b) => compareEventsChrono(a, b));
 }
 
 export function loadPeople(): PersonRecord[] {
@@ -84,5 +81,5 @@ export function forensicChildrenOf(
       (event) =>
         event.cluster_id === clusterId && event.cluster_role === "child",
     )
-    .sort((a, b) => a.title.localeCompare(b.title, "pt-BR"));
+    .sort(compareEventsChrono);
 }

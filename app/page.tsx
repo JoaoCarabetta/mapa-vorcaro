@@ -24,16 +24,13 @@ export default function HomePage() {
           <span className="pill">{people.length} pessoas</span>
           <span className="pill">{primary} com documento primário, peça ou fonte oficial</span>
           <span className="pill">
-            {events.filter((e) => e.cluster_role === "parent").length} clusters forenses
+            {events.filter((e) => e.cluster_role === "parent").length} grupos do dia
           </span>
         </div>
-        <div className="caveat">
-          <strong>Ressalvas permanentes.</strong> Mensagens de visualização única não
-          recuperam, em regra, a resposta do interlocutor. Rótulo de agenda (“Alexandre de
-          Moraes BRASILIA”) não é perícia de chip. O escritório Barci de Moraes disputa o
-          segundo contrato (Viking / dação). A PF diz que o relatório de 72 horas “não possui
-          caráter exaustivo”.
-        </div>
+        <p className="muted" style={{ margin: 0 }}>
+          <a href="/metodologia#ressalvas">Ressalvas de método</a>
+          — visualização única, rótulo de agenda ≠ chip, disputa Barci, relatório de 72h.
+        </p>
       </header>
       <Suspense fallback={<p className="muted">Carregando filtros…</p>}>
         <TimelineExplorer

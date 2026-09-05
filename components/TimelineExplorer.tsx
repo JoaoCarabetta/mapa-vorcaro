@@ -1,9 +1,14 @@
 "use client";
 
-import { useMemo, useState } from "react";
-import { useSearchParams } from "next/navigation";
-import { EventCard } from "@/components/EventCard";
+import { useCallback, useMemo, useState } from "react";
+import { usePathname, useRouter, useSearchParams } from "next/navigation";
+import { ClusterRow } from "@/components/ClusterRow";
 import { ForensicCluster } from "@/components/ForensicCluster";
+import {
+  compareEventsChrono,
+  formatMonthHead,
+  monthKey,
+} from "@/lib/format";
 import type { EventRecord } from "@/lib/types";
 
 type Props = {
@@ -21,21 +26,69 @@ function matchesQuery(event: EventRecord, query: string) {
     event.notes ?? "",
     event.tags.join(" "),
     event.people.map((p) => p.name).join(" "),
-    event.sources.map((s) => `${s.publisher} ${s.title ?? ""} ${s.quote ?? ""}`).join(" "),
+    event.sources
+      .map((s) => `${s.publisher} ${s.title ?? ""} ${s.quote ?? ""}`)
+      .join(" "),
   ]
     .join(" ")
     .toLowerCase();
   return hay.includes(query);
 }
 
+function clusterLabel(events: EventRecord[]): string {
+  const forensic = events.filter(
+    (event) =>
+      event.tags.some((tag) =>
+        ["nota-forense", "notas", "whatsapp", "view-once", "crise"].includes(tag),
+      ) || /nota forense|whatsapp/i.test(event.title),
+  );
+  if (forensic.length >= Math.ceil(events.length / 2)) {
+    return "Notas para WhatsApp";
+  }
+  const counts = new Map<string, number>();
+  for (const event of events) {
+    for (const tag of event.tags) {
+      counts.set(tag, (counts.get(tag) ?? 0) + 1);
+    }
+  }
+  const top = [...counts.entries()].sort((a, b) => b[1] - a[1])[0];
+  if (top && top[1] >= events.length) return top[0].replace(/-/g, " ");
+  return "Vários fios";
+}
+
+type DayBucket = {
+  date: string;
+  month: string;
+  year: string;
+  events: EventRecord[];
+  dayCount: number;
+};
+
 export function TimelineExplorer({ events, people, tags, years }: Props) {
   const params = useSearchParams();
+  const router = useRouter();
+  const pathname = usePathname();
+  const dia = params.get("dia") ?? "";
+
   const [q, setQ] = useState(params.get("q") ?? "");
   const [person, setPerson] = useState(params.get("pessoa") ?? "");
   const [tag, setTag] = useState(params.get("tag") ?? "");
   const [year, setYear] = useState(params.get("ano") ?? "");
   const [evidence, setEvidence] = useState(params.get("evidencia") ?? "");
   const [confidence, setConfidence] = useState(params.get("confianca") ?? "");
+
+  const writeQuery = useCallback(
+    (patch: Record<string, string>) => {
+      const next = new URLSearchParams(params.toString());
+      for (const [key, value] of Object.entries(patch)) {
+        if (value) next.set(key, value);
+        else next.delete(key);
+      }
+      const qs = next.toString();
+      router.replace(qs ? `${pathname}?${qs}` : pathname, { scroll: false });
+    },
+    [params, pathname, router],
+  );
 
   const filtered = useMemo(() => {
     const query = q.trim().toLowerCase();
@@ -54,61 +107,97 @@ export function TimelineExplorer({ events, people, tags, years }: Props) {
     });
   }, [events, q, person, tag, year, evidence, confidence]);
 
-  const byId = useMemo(
-    () => new Map(events.map((event) => [event.id, event])),
-    [events],
-  );
+  const dayBuckets = useMemo(() => {
+    const matchingDays = new Set(filtered.map((event) => event.date));
+    if (dia) matchingDays.add(dia);
 
-  const childrenByCluster = useMemo(() => {
-    const map = new Map<string, EventRecord[]>();
+    const byDay = new Map<string, EventRecord[]>();
     for (const event of events) {
-      if (event.cluster_role !== "child" || !event.cluster_id) continue;
-      const list = map.get(event.cluster_id) ?? [];
+      if (event.date_precision !== "day") continue;
+      if (!matchingDays.has(event.date)) continue;
+      const list = byDay.get(event.date) ?? [];
       list.push(event);
-      map.set(event.cluster_id, list);
-    }
-    for (const list of map.values()) {
-      list.sort((a, b) => a.title.localeCompare(b.title, "pt-BR"));
-    }
-    return map;
-  }, [events]);
-
-  const topLevel = useMemo(() => {
-    const filteredIds = new Set(filtered.map((event) => event.id));
-    const extraParents = new Set<string>();
-    const openClusters = new Set<string>();
-
-    for (const event of filtered) {
-      if (event.cluster_role === "child" && event.cluster_id) {
-        openClusters.add(event.cluster_id);
-        const parent = events.find(
-          (candidate) =>
-            candidate.cluster_id === event.cluster_id &&
-            candidate.cluster_role === "parent",
-        );
-        if (parent) extraParents.add(parent.id);
-      }
+      byDay.set(event.date, list);
     }
 
-    const visible = events.filter((event) => {
-      if (event.cluster_role === "child") return false;
-      if (filteredIds.has(event.id) || extraParents.has(event.id)) return true;
-      return false;
+    const buckets: DayBucket[] = [];
+    for (const [date, list] of [...byDay.entries()].sort()) {
+      const parent = list.find((event) => event.cluster_role === "parent");
+      const rows = (
+        parent ? list.filter((event) => event.id !== parent.id) : list
+      )
+        .slice()
+        .sort(compareEventsChrono);
+      if (list.length < 2 || rows.length === 0) continue;
+      buckets.push({
+        date,
+        month: monthKey(date),
+        year: date.slice(0, 4),
+        events: rows,
+        dayCount: list.length,
+      });
+    }
+
+    const singles = filtered.filter((event) => {
+      if (event.date_precision !== "day") return true;
+      return !buckets.some((item) => item.date === event.date);
     });
 
-    return { visible, openClusters };
-  }, [events, filtered]);
+    return { buckets, singles: singles.sort(compareEventsChrono) };
+  }, [events, filtered, dia]);
 
-  const grouped = useMemo(() => {
-    const map = new Map<string, EventRecord[]>();
-    for (const event of topLevel.visible) {
-      const key = event.date.slice(0, 4);
-      const list = map.get(key) ?? [];
-      list.push(event);
-      map.set(key, list);
+  const timeline = useMemo(() => {
+    type Item =
+      | { kind: "cluster"; bucket: DayBucket }
+      | { kind: "event"; event: EventRecord };
+
+    const items: Item[] = [];
+    const clusteredDates = new Set(
+      dayBuckets.buckets.map((bucket) => bucket.date),
+    );
+
+    for (const bucket of dayBuckets.buckets) {
+      items.push({ kind: "cluster", bucket });
     }
-    return [...map.entries()];
-  }, [topLevel.visible]);
+    for (const event of dayBuckets.singles) {
+      if (clusteredDates.has(event.date) && event.date_precision === "day") {
+        continue;
+      }
+      items.push({ kind: "event", event });
+    }
+
+    items.sort((a, b) => {
+      const dateA = a.kind === "cluster" ? a.bucket.date : a.event.date;
+      const dateB = b.kind === "cluster" ? b.bucket.date : b.event.date;
+      if (dateA !== dateB) return dateA.localeCompare(dateB);
+      if (a.kind === "cluster" && b.kind === "event") return -1;
+      if (a.kind === "event" && b.kind === "cluster") return 1;
+      if (a.kind === "event" && b.kind === "event") {
+        return compareEventsChrono(a.event, b.event);
+      }
+      return 0;
+    });
+
+    const yearsMap = new Map<string, Map<string, Item[]>>();
+    for (const item of items) {
+      const date = item.kind === "cluster" ? item.bucket.date : item.event.date;
+      const yearKey = date.slice(0, 4);
+      const month = monthKey(date);
+      const yearGroup = yearsMap.get(yearKey) ?? new Map<string, Item[]>();
+      const monthList = yearGroup.get(month) ?? [];
+      monthList.push(item);
+      yearGroup.set(month, monthList);
+      yearsMap.set(yearKey, yearGroup);
+    }
+
+    return [...yearsMap.entries()].map(([yearKey, months]) => ({
+      yearKey,
+      months: [...months.entries()].map(([month, monthItems]) => ({
+        month,
+        items: monthItems,
+      })),
+    }));
+  }, [dayBuckets]);
 
   const reset = () => {
     setQ("");
@@ -117,12 +206,21 @@ export function TimelineExplorer({ events, people, tags, years }: Props) {
     setYear("");
     setEvidence("");
     setConfidence("");
+    writeQuery({
+      q: "",
+      pessoa: "",
+      tag: "",
+      ano: "",
+      evidencia: "",
+      confianca: "",
+      dia: "",
+    });
   };
 
-  const active = q || person || tag || year || evidence || confidence;
-  const clusterCount = [...childrenByCluster.keys()].length;
-  const microCount = [...childrenByCluster.values()].reduce(
-    (sum, list) => sum + list.length,
+  const active = q || person || tag || year || evidence || confidence || dia;
+  const clusterCount = dayBuckets.buckets.length;
+  const fichaCount = dayBuckets.buckets.reduce(
+    (sum, b) => sum + b.events.length,
     0,
   );
 
@@ -138,9 +236,20 @@ export function TimelineExplorer({ events, people, tags, years }: Props) {
             className="search"
             placeholder="Buscar na timeline (texto, pessoas, fontes…)"
             value={q}
-            onChange={(e) => setQ(e.target.value)}
+            onChange={(e) => {
+              setQ(e.target.value);
+              writeQuery({ q: e.target.value });
+            }}
           />
-          <select className="select" value={person} onChange={(e) => setPerson(e.target.value)} aria-label="Filtrar por pessoa">
+          <select
+            className="select"
+            value={person}
+            onChange={(e) => {
+              setPerson(e.target.value);
+              writeQuery({ pessoa: e.target.value });
+            }}
+            aria-label="Filtrar por pessoa"
+          >
             <option value="">Todas as pessoas</option>
             {people.map((p) => (
               <option key={p.id} value={p.id}>
@@ -148,7 +257,15 @@ export function TimelineExplorer({ events, people, tags, years }: Props) {
               </option>
             ))}
           </select>
-          <select className="select" value={tag} onChange={(e) => setTag(e.target.value)} aria-label="Filtrar por tag">
+          <select
+            className="select"
+            value={tag}
+            onChange={(e) => {
+              setTag(e.target.value);
+              writeQuery({ tag: e.target.value });
+            }}
+            aria-label="Filtrar por tag"
+          >
             <option value="">Todas as tags</option>
             {tags.map((t) => (
               <option key={t} value={t}>
@@ -156,7 +273,15 @@ export function TimelineExplorer({ events, people, tags, years }: Props) {
               </option>
             ))}
           </select>
-          <select className="select" value={year} onChange={(e) => setYear(e.target.value)} aria-label="Filtrar por ano">
+          <select
+            className="select"
+            value={year}
+            onChange={(e) => {
+              setYear(e.target.value);
+              writeQuery({ ano: e.target.value });
+            }}
+            aria-label="Filtrar por ano"
+          >
             <option value="">Todos os anos</option>
             {years.map((y) => (
               <option key={y} value={String(y)}>
@@ -164,7 +289,15 @@ export function TimelineExplorer({ events, people, tags, years }: Props) {
               </option>
             ))}
           </select>
-          <select className="select" value={evidence} onChange={(e) => setEvidence(e.target.value)} aria-label="Filtrar por tipo de evidência">
+          <select
+            className="select"
+            value={evidence}
+            onChange={(e) => {
+              setEvidence(e.target.value);
+              writeQuery({ evidencia: e.target.value });
+            }}
+            aria-label="Filtrar por tipo de evidência"
+          >
             <option value="">Todo tipo de evidência</option>
             <option value="primary_document">documento primário</option>
             <option value="court">peça judicial</option>
@@ -173,26 +306,21 @@ export function TimelineExplorer({ events, people, tags, years }: Props) {
             <option value="other">outra</option>
           </select>
         </div>
-        <div className="filters-grid" style={{ gridTemplateColumns: "1fr auto" }}>
-          <select className="select" value={confidence} onChange={(e) => setConfidence(e.target.value)} aria-label="Filtrar por confiança">
-            <option value="">Qualquer confiança</option>
-            <option value="high">alta</option>
-            <option value="medium">média</option>
-            <option value="low">baixa</option>
-          </select>
+        <div className="filters-meta">
           {active ? (
             <button type="button" className="filter-reset" onClick={reset}>
               Limpar filtros ({filtered.length} de {events.length})
             </button>
           ) : (
             <p className="muted" style={{ margin: 0 }}>
-              {events.length} eventos sourced · {clusterCount} clusters forenses · {microCount} micro-cards agrupados
+              {events.length} eventos com fonte · {clusterCount} grupos do dia ·{" "}
+              {fichaCount} fichas agrupadas
             </p>
           )}
         </div>
       </form>
 
-      {topLevel.visible.length === 0 ? (
+      {timeline.length === 0 ? (
         <div className="empty">
           <p>Nenhum evento corresponde a esses filtros.</p>
           <button type="button" className="btn secondary" onClick={reset}>
@@ -201,28 +329,40 @@ export function TimelineExplorer({ events, people, tags, years }: Props) {
         </div>
       ) : (
         <div className="timeline">
-          {grouped.map(([yearKey, list]) => (
+          {timeline.map(({ yearKey, months }) => (
             <section key={yearKey} aria-labelledby={`ano-${yearKey}`}>
               <h2 className="year-head" id={`ano-${yearKey}`}>
                 {yearKey}
               </h2>
-              {list.map((event) => {
-                const children =
-                  event.cluster_role === "parent"
-                    ? (childrenByCluster.get(event.cluster_id ?? "") ?? [])
-                    : [];
-                if (children.length > 0 && event.cluster_id) {
-                  return (
-                    <ForensicCluster
-                      key={event.id}
-                      parent={event}
-                      children={children}
-                      defaultOpen={topLevel.openClusters.has(event.cluster_id)}
-                    />
-                  );
-                }
-                return <EventCard key={event.id} event={byId.get(event.id) ?? event} />;
-              })}
+              {months.map(({ month, items }) => (
+                <section key={month} aria-labelledby={`mes-${month}`}>
+                  <h3 className="month-head" id={`mes-${month}`}>
+                    {formatMonthHead(`${month}-01`)}
+                  </h3>
+                  {items.map((item) => {
+                    if (item.kind === "cluster") {
+                      const { bucket } = item;
+                      return (
+                        <ForensicCluster
+                          key={`dia-${bucket.date}`}
+                          date={bucket.date}
+                          label={clusterLabel(bucket.events)}
+                          events={bucket.events}
+                          defaultOpen={dia === bucket.date}
+                          onOpenChange={(open) => {
+                            writeQuery({ dia: open ? bucket.date : "" });
+                          }}
+                        />
+                      );
+                    }
+                    return (
+                      <article className="singleton-row" key={item.event.id}>
+                        <ClusterRow event={item.event} />
+                      </article>
+                    );
+                  })}
+                </section>
+              ))}
             </section>
           ))}
         </div>
