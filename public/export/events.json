@@ -883,10 +883,10 @@
     "notes": "OCR do PDF local do contrato Master está fragmentado (camadas); valor líquido/bruto vem do relatório/reportagens que leram o anexo. Escritório confirma assinatura do 1º contrato."
   },
   {
-    "id": "2024-01-23-master-barci-advogados-r-108-mi-net-r-131-3-mi-gross",
+    "id": "2024-01-23-master-barci-advogados-r-108-mi-liquido-r-131-3-mi-bruto",
     "date": "2024-01-23",
     "date_precision": "day",
-    "title": "Master × Barci Advogados — ~R$108 mi net / ~R$131.3 mi gross",
+    "title": "Master × Barci Advogados — ~R$108 mi líquido / ~R$131,3 mi bruto",
     "summary": "Viviane Barci sends draft 11/01; revised return 15/01 with metadata last-modified by user “Ministro Alexandre de Moraes” (PF); firm tells Poder360 Moraes edited at compliance request on impediments; contract signed ~23/01 (Vorcaro + Ângelo Silva). Object: advocacy, legal consulting, compliance. Monthly ~R$3 mi net × 36.",
     "people": [
       {
@@ -2923,10 +2923,10 @@
     "notes": "view-once incompleteness"
   },
   {
-    "id": "2025-10-01-alerta-sobre-pix-a-barci-quatro-bolhas-apagada-pelo-remetente",
+    "id": "2025-10-01-alerta-sobre-pix-a-barci-quatro-bolhas-apagadas-pelo-remetente",
     "date": "2025-10-01",
     "date_precision": "day",
-    "title": "Alerta sobre Pix a Barci; quatro bolhas “apagada pelo remetente”",
+    "title": "Alerta sobre Pix a Barci; quatro bolhas “apagadas pelo remetente”",
     "summary": "Vorcaro to Felix: “Mas nao faz barci pix ne?”; Felix said Pix already done to same TED data. Same day window: four Moraes-chat messages marked deleted by sender (PF).",
     "people": [
       {
@@ -6152,10 +6152,10 @@
     "confidence": "high"
   },
   {
-    "id": "2025-11-18-pf-deflagra-compliance-zero-vorcaro-preso-compliance-zero-vorcaro-arrested",
+    "id": "2025-11-18-pf-deflagra-compliance-zero-vorcaro-preso",
     "date": "2025-11-18",
     "date_precision": "day",
-    "title": "PF deflagra Compliance Zero; Vorcaro preso Compliance Zero; Vorcaro arrested",
+    "title": "PF deflagra Compliance Zero; Vorcaro preso",
     "summary": "Valor: PF op against false credit titles in SFN; Vorcaro arrested; four other directors also targets (Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva named by day’s end). Five preventive + two temporary warrants, 25 searches across RJ/SP/MG/BA/DF. Probes began 2024 after MPF request: alleged manufacture of weak credit books sold to another bank, later swapped after BC inspection. Crimes: fraudulent/temerarious management, criminal organization, etc. Alleged Master→BRB false portfolios ~R$12 bi (resumo/Estadão).",
     "people": [
       {
@@ -6565,10 +6565,10 @@
     "confidence": "high"
   },
   {
-    "id": "2026-04-16-4-fase-4-fase-ph-costa-preso-por-negocios-de-carteira-do-master-over-master-por",
+    "id": "2026-04-16-4-fase-ph-costa-preso-por-negocios-de-carteira-do-master",
     "date": "2026-04-16",
     "date_precision": "day",
-    "title": "4ª fase: 4ª fase: PH Costa preso por negócios de carteira do Master over Master portfolio deals",
+    "title": "4ª fase: PH Costa preso por negócios de carteira do Master",
     "summary": "Estadão: ex-BRB president Paulo Henrique Costa arrested in 4th Compliance Zero phase on suspicion of corruption / irregularities in purchase of R$12.2 bi alleged false Master portfolios. Piece publishes 2024 Vorcaro–Lima urgency chats on BRB money.",
     "people": [
       {
