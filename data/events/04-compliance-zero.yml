@@ -63,7 +63,7 @@
     - compliance-zero
   sources:
     - url: >-
-        https://www.cnnbrasil.com.br/economia/negocios/banco-central-decreta-liquidacao-extrajudicial-do-banco-master
+        https://www.cnnbrasil.com.br/economia/negocios/banco-central-decreta-liquidacao-extrajudicial-do-banco-master/
       publisher: CNN Brasil
       accessed: "2026-09-05"
     - url: >-
@@ -564,8 +564,12 @@
     - power-interlocutor
   sources:
     - url: >-
-        https://www.poder360.com.br/poder-justica/mendonca-retira-sigilo-de-acao-sobre-vorcaro-e-moraes
+        https://www.poder360.com.br/poder-justica/mendonca-retira-sigilo-de-acao-sobre-vorcaro-e-moraes/
       publisher: Poder360
+      accessed: "2026-09-05"
+    - url: >-
+        https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml
+      publisher: O Globo
       accessed: "2026-09-05"
     - url: >-
         https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro

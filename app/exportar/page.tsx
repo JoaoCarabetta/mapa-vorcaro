@@ -24,6 +24,11 @@ export default function ExportPage() {
           CSV estático
         </a>
       </div>
+      <p>
+        O seed compacto de imprensa (<code>content/events.json</code>, 15 fatos, URLs
+        na forma enviada pelo PM) vive no repositório. O corpus completo — YAML
+        validado — é o que estas rotas exportam.
+      </p>
       <p className="muted">
         O build roda <code>validate</code> antes do <code>next build</code> e grava
         cópias em <code>public/export/</code>.

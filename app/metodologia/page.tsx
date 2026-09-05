@@ -44,6 +44,12 @@ export default function MetodologiaPage() {
         <code>content/resumo-pet16662.md</code> entram como YAML validado — não como
         markdown órfão.
       </p>
+      <p>
+        O seed de imprensa do PM (<code>content/events.json</code>, 15 fichas, URLs
+        exatamente como enviadas) está coberto pela timeline — o validador recusa
+        build se alguma URL do seed não aparecer numa ficha da mesma data. Não
+        inventamos eventos além das fontes.
+      </p>
 
       <h2>O que não entra</h2>
       <p>

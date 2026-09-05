@@ -1,0 +1,124 @@
+[
+  {
+    "date": "1983-10-06",
+    "title": "Nascimento (reportado)",
+    "summary": "Mineiro; InfoMoney: completou 42 em 6 out; Valor (abr/2025) citava 41 → ~1983/84.",
+    "sources": [
+      "https://www.infomoney.com.br/business/quem-e-daniel-vorcaro-dono-do-banco-master-que-foi-preso-pela-pf/",
+      "https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml"
+    ]
+  },
+  {
+    "date": "2017-05",
+    "title": "Capitalização / caminho ao controle do Máxima",
+    "summary": "Valor: Vorcaro capitalizaria Máxima (≥R$45 mi, caminho a ~50%); imprensa posterior: negócio de controle em 2017, OK do BC depois.",
+    "sources": [
+      "https://valor.globo.com/financas/noticia/2017/05/17/novo-socio-pode-ter-ate-50-do-capital-do-banco-maxima-1.ghtml"
+    ]
+  },
+  {
+    "date": "2018-01",
+    "title": "Nova gestão assume o Máxima",
+    "summary": "CNN: nova diretoria jan/2018 sob Vorcaro; narrativa de controle antes da autorização formal do BC.",
+    "sources": [
+      "https://www.cnnbrasil.com.br/economia/macroeconomia/apos-mudanca-societaria-e-aporte-de-r-400-mi-banco-maxima-agora-e-banco-master/"
+    ]
+  },
+  {
+    "date": "2019-10-24",
+    "title": "BC autoriza transferência de controle do Máxima",
+    "summary": "BC autoriza controle a grupo liderado por Vorcaro; capital R$80,4→180,4 mi; sócios Gallo Neto, Simonsen, Augusto Lima.",
+    "sources": [
+      "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2019/10/24/bc-autoriza-transferncia-de-controle-do-banco-mxima-para-empresrio-daniel-vorcaro.ghtml"
+    ]
+  },
+  {
+    "date": "2023-12-26",
+    "title": "Fábio Faria compartilha contato “Moraes BRASILIA”",
+    "summary": "Número compartilhado ~11h43; salvo por Vorcaro no mesmo minuto (PF/Poder360). Caveat: rótulo de agenda ≠ dono do chip.",
+    "sources": [
+      "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/"
+    ]
+  },
+  {
+    "date": "2024-07",
+    "title": "Início das cessões de carteiras Master→BRB",
+    "summary": "Folha/Estadão: parceria via cessões de consignado a partir de meados/2024; mensagens mostram urgência ago–set/2024.",
+    "sources": [
+      "https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia/"
+    ]
+  },
+  {
+    "date": "2024-12-04",
+    "title": "Reunião no Planalto com Lula e Galípolo",
+    "summary": "Lula recebe Vorcaro (com Mantega e Augusto Lima); Rui Costa, Silveira e então diretor Galípolo; queixa de concentração bancária.",
+    "sources": [
+      "https://www1.folha.uol.com.br/mercado/2026/01/lula-recebeu-vorcaro-em-reuniao-no-palacio-do-planalto-no-fim-de-2024.shtml"
+    ]
+  },
+  {
+    "date": "2025-03-28",
+    "title": "BRB anuncia compra de fatia do Master (58%)",
+    "summary": "Conselho: 49% ON + 100% PN = 58% total; ~75% do patrimônio ajustado / ~R$2 bi; falta BC+Cade.",
+    "sources": [
+      "https://ri.brb.com.br/upload/files/3866_Material-Fact-Banco-Master-28-03-2025.pdf"
+    ]
+  },
+  {
+    "date": "2025-06-17",
+    "title": "Cade aprova BRB–Master",
+    "summary": "SG Cade aprova sem restrições; BC ainda pendente.",
+    "sources": [
+      "https://g1.globo.com/df/distrito-federal/noticia/2025/06/17/cade-aprova-compra-do-banco-master-pelo-brb-banco-central-ainda-precisa-aprovar.ghtml"
+    ]
+  },
+  {
+    "date": "2025-09-03",
+    "title": "BC rejeita compra do Master pelo BRB",
+    "summary": "Fato relevante BRB: Bacen indefere pedido protocolado em 28/03/2025 (49% ON + 100% PN).",
+    "sources": [
+      "https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb"
+    ]
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Fictor anuncia compra do Master + R$3 bi",
+    "summary": "Consórcio + investidores Emirados; ainda precisa BC/Cade; véspera da liquidação.",
+    "sources": [
+      "https://g1.globo.com/economia/noticia/2025/11/17/fictor-anuncia-compra-do-banco-master.ghtml"
+    ]
+  },
+  {
+    "date": "2025-11-17",
+    "title": "“Estou online” ao contato Moraes",
+    "summary": "Última mensagem reproduzida naquela noite; prisão horas depois (cronologia varia por veículo).",
+    "sources": [
+      "https://www.poder360.com.br/poder-justica/estou-online-vorcaro-escreveu-a-moraes-na-vespera-de-ser-preso/"
+    ]
+  },
+  {
+    "date": "2025-11-18",
+    "title": "Compliance Zero + prisão em Guarulhos",
+    "summary": "PF mira títulos de crédito falsos / carteiras Master→BRB; Vorcaro preso no GRU ao tentar saída em jato.",
+    "sources": [
+      "https://valor.globo.com/financas/noticia/2025/11/18/operacao-da-pf-que-prendeu-dono-do-master-mira-emissao-de-titulos-de-credito-falsos.ghtml"
+    ]
+  },
+  {
+    "date": "2025-11-18",
+    "title": "BC decreta liquidação extrajudicial do Master",
+    "summary": "Decreto assinado por Galípolo; bens de controladores indisponíveis; negócio Fictor cai.",
+    "sources": [
+      "https://www.cnnbrasil.com.br/economia/negocios/banco-central-decreta-liquidacao-extrajudicial-do-banco-master/"
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "title": "Mendonça derruba sigilo / caminho do plenário",
+    "summary": "Documentos públicos; cobertura O Globo “13 dias” no mesmo ciclo.",
+    "sources": [
+      "https://www.poder360.com.br/poder-justica/mendonca-retira-sigilo-de-acao-sobre-vorcaro-e-moraes/",
+      "https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml"
+    ]
+  }
+]

@@ -132,6 +132,66 @@ if (events.length < 170) {
   );
 }
 
+function canonUrl(value) {
+  try {
+    const url = new URL(value);
+    let href = `${url.protocol}//${url.host}${url.pathname}${url.search}`;
+    if (url.pathname !== "/" && href.endsWith("/")) href = href.replace(/\/+$/, "");
+    return href;
+  } catch {
+    return String(value).replace(/\/+$/, "");
+  }
+}
+
+function seedDatePrefix(raw) {
+  const match = String(raw).match(/^(\d{4})(?:-(\d{2})(?:-(\d{2}))?)?/);
+  if (!match) return "";
+  if (match[3]) return `${match[1]}-${match[2]}-${match[3]}`;
+  if (match[2]) return `${match[1]}-${match[2]}`;
+  return match[1];
+}
+
+const seedPath = path.join(root, "content", "events.json");
+if (!fs.existsSync(seedPath)) {
+  errors.push("Falta content/events.json (seed PM, 15 eventos de imprensa).");
+} else {
+  const seed = JSON.parse(fs.readFileSync(seedPath, "utf8"));
+  if (!Array.isArray(seed) || seed.length < 15) {
+    errors.push(
+      `content/events.json incompleto (${Array.isArray(seed) ? seed.length : "?"}/15).`,
+    );
+  } else {
+    const yamlRows = events.flatMap((event) =>
+      (event.sources ?? []).map((source) => ({
+        date: event.date,
+        url: canonUrl(source.url),
+      })),
+    );
+    seed.forEach((item, index) => {
+      const prefix = seedDatePrefix(item.date);
+      const urls = item.sources ?? [];
+      if (!item.title || !prefix || urls.length === 0) {
+        errors.push(`seed[${index}]: faltam date/title/sources.`);
+        return;
+      }
+      for (const url of urls) {
+        if (!isUrl(url)) {
+          errors.push(`seed[${index}] URL inválida (${url}).`);
+          continue;
+        }
+        const covered = yamlRows.some(
+          (row) => row.url === canonUrl(url) && row.date.startsWith(prefix),
+        );
+        if (!covered) {
+          errors.push(
+            `seed[${index}] "${item.title}" (${item.date}) não está na timeline: ${url}`,
+          );
+        }
+      }
+    });
+  }
+}
+
 const exportDir = path.join(root, "public", "export");
 fs.mkdirSync(exportDir, { recursive: true });
 
