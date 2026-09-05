@@ -9,6 +9,7 @@
 **Editor gap list patch (2026-09-05):** Estou-online caveats; compact Viking dispute blurbs; twin URL dedupe check. Valor-bio only on bio rows.
 **Editor titles (2026-09-05):** 18 EN full-card `title` fields → Portuguese. Bodies untouched. Clustering = cloud UI.
 **Editor punch verify (2026-09-05 23:16 BRT):** sha bump — Compact L53/64/66/68/69/142–148/155 and full Ibaneis/Temer/PH Costa no longer use Valor-bio URL for non-bio claims. Re-audit THIS file (md5 below changes).
+**EN titles wave2 (2026-09-05):** CoS remaining EN punch → PT (Bacen/BC rejects/Barci líquido/First firm/New board/Moraes 24h/PH Costa/PF 218/BRB fato/BC liquidação/PF deflagra/RAET).
 **Post-B smoke titles (2026-09-05):** 5 EN full-card titles → PT (Ibaneis/Pix/Searches/2ª prisão/IPJ-A).
 **Path B merge (2026-09-05):** +14 PASS cards (items 3–16 minus Voiter/Will TRIM); compulsório quote deduped from Jul/2024 cessões; CLDF voto ≠ Ibaneis sanção.
 **Method:** Deduplicate by date+title overlap; on WhatsApp/PET days prefer primary PDF sourcing (Poder360 static PET 16.662 uploads) and keep press http URLs as corroboration.
@@ -100,7 +101,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 | 2025-08-08 | Vorcaro a Martha: está com “alexandre” e depois reunião “Com ciro” | Martha pergunta sobre viagem; Vorcaro diz que não deve ir pois está com “alexandre” e depois terá reunião “Com ciro”. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-08-19 | CLDF autoriza BRB a comprar fatia do Master (PL 1882/2025) | CLDF aprova PL 1882/2025 (14×7) autorizando BRB a 49% ON + 100% PN Master. Voto ≠ sanção Ibaneis ~20/08. | https://www.cl.df.gov.br/-/cldf-autoriza-brb-a-comprar-banco-master | high |
 | ~mid-Aug 2025 (“há pouco mais de 10 dias” before 03/09/2025 Agência Brasil) | Ibaneis sanciona lei da Câmara Legislativa do Distrito Federal que autoriza compra do Master pelo Banco de Brasília | Agência Brasil: DF governor Ibaneis Rocha sanctioned a district law (CLDF-approved, after judicial demand) authorizing BRB to acquire 49% ON + 100% PN of Master. | https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb ; https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml |
-| 2025-09-03 | Bacen indefers BRB application filed 28/03/2025 | BRB fato relevante: informed of Bacen denial of request to acquire 49% ON + 100% PN of Master; BRB sought full decision text. Deal had been controversial (high CDB rates, delayed balance sheet, precatórios). | https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb |
+| 2025-09-03 | Bacen indefere pedido do BRB protocolado em 28/03/2025 | BRB fato relevante: informed of Bacen denial of request to acquire 49% ON + 100% PN of Master; BRB sought full decision text. Deal had been controversial (high CDB rates, delayed balance sheet, precatórios). | https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb |
 | ~Sep 2025 (Temer on Roda Viva 15/09/2025) | Temer diz que foi chamado a mediar Master–Banco de Brasília após bloqueio do Banco Central | G1 conexões: ex-president Michel Temer said on Roda Viva (15/09/2025) he was called to Brasília ~two weeks earlier with Vorcaro and Ibaneis wanting mediation to formalize the BRB transaction after the original deal was… | https://www1.folha.uol.com.br/mercado/2025/09/master-e-brb-procuram-temer-para-destravar-negocio-apos-recusa-do-banco-central.shtml ; https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb |
 | 2025-09-17 | Contato rotulado “Moraes” ativa mensagens efêmeras 24h | Chat WhatsApp; rótulo de agenda ≠ dono do chip. View-once incompletas. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro.pdf | high |
 | 2025-10-01 | Alerta sobre Pix a Barci; quatro bolhas “apagada pelo remetente” | Vorcaro to Felix: “Mas nao faz barci pix ne?”; Felix said Pix already done to same TED data. Same day window: four Moraes-chat messages marked deleted by sender (PF). | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
@@ -221,7 +222,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** press
 - **confidence:** high (repeated profiles)
 
-### ~2002–2003 — First firm at ~19 (educational courses)
+### ~2002–2003 — Primeira empresa por volta dos 19 (cursos)
 - **date:** ~2002–2003 (age 19 per Valor Apr/2025)
 - **title:** Pai entrega empresa de cursos educacionais; venda rápida; Multipar
 - **summary:** Valor: entrepreneurial path began at 19 when father gave him an educational-courses company; sold soon after; then worked with Henrique at Multipar (family construction/real estate). InfoMoney: Henrique founded Multipar (ex-Vorcaro Imóveis / Centro Sul).
@@ -264,7 +265,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **confidence:** high for publication date/fact of deal reporting
 - **caveats:** Exact closing percentages evolved in later 2017–2019 coverage.
 
-### 2018-01 — New board/management at Máxima
+### 2018-01 — Nova diretoria/gestão no Máxima
 - **date:** 2018-01
 - **title:** Gestão ligada a Vorcaro assume o controle operacional
 - **summary:** CNN Brazil (rebrand story): after corporate/operational change and later R$400 mi capitalization, Máxima became Master; new management assumed January 2018. Estadão “quem é quem” similarly says Vorcaro took command of Máxima in Jan/2018 (bank founded 1974 as broker).
@@ -658,7 +659,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** primary
 - **confidence:** high
 
-### 2025-03-28 — BRB material fact: buys 58% of Master
+### 2025-03-28 — BRB fato relevante: compra 58% do Master
 - **date:** 2025-03-28
 - **title:** Anunciado acordo de compra de ações Banco de Brasília–Master
 - **summary:** BRB board unanimously approved SPA: 49% of common shares, 100% preferred, 58% total capital. Price = 75% of consolidated equity adjusted after PwC diligence (market ~R$2 bi). Subject to Bacen, Cade and others. Aim: incorporate Master into BRB prudential conglomerate; brand to BRB; Vorcaro to BRB board (Folha). Protocol date to BC also cited as 28/03/2025 in later veto notice.
@@ -936,9 +937,9 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **caveats:** Soft-link: voto legislativo CLDF é card distinto `### 2025-08-19` (≠ esta sanção).
 
 
-### 2025-09-03 — BC rejects BRB purchase of Master
+### 2025-09-03 — BC rejeita compra do Master pelo BRB
 - **date:** 2025-09-03
-- **title:** Bacen indefers BRB application filed 28/03/2025
+- **title:** Bacen indefere pedido do BRB protocolado em 28/03/2025
 - **summary:** BRB fato relevante: informed of Bacen denial of request to acquire 49% ON + 100% PN of Master; BRB sought full decision text. Deal had been controversial (high CDB rates, delayed balance sheet, precatórios). Agência Brasil also notes prior BTG symbolic R$1 offer to take Master with FGC covering liabilities that stalled among FGC member banks. G1: Cade had cleared in June; BC cited missing economic-financial viability docs.
 - **people:** Bacen board; Gabriel Galípolo; BRB; Vorcaro
 - **tags:** brb|master|bc
@@ -956,9 +957,9 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** press
 - **confidence:** high for Temer’s on-record statement
 
-### 2025-09-17 — Contato Moraes BRASILIA ativa mensagens temporárias 24h
+### 2025-09-17 — Contato rotulado Moraes ativa mensagens efêmeras de 24h
 - **date:** 2025-09-17
-- **title:** Contato Moraes BRASILIA ativa mensagens temporárias 24h
+- **title:** Contato rotulado Moraes ativa mensagens efêmeras de 24h
 - **summary:** Registro de que o contato “Alexandre de Moraes BRASILIA” passa a adotar, no chat com Vorcaro, configuração padrão de mensagens temporárias com exclusão automática em 24 horas.
 - **people:** Daniel Vorcaro; contato “Alexandre de Moraes BRASILIA”
 - **tags:** mensagens temporárias; WhatsApp; incompleteness
@@ -969,7 +970,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2025-09-17 — Chat ativa mensagens temporárias de 24h
 - **date:** 2025-09-17
-- **title:** Moraes-labeled contact activates 24h ephemeral messages
+- **title:** Contato rotulado Moraes ativa mensagens efêmeras de 24h
 - **summary:** PF/Poder360: contact configured new chats to auto-delete after 24h, limiting forensic recovery of replies — key caveat for later “13 days” crisis messages.
 - **people:** contact “Alexandre de Moraes BRASILIA”; Vorcaro
 - **tags:** compliance-zero|seal-lift|caveat
@@ -1768,9 +1769,9 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **confidence:** high
 - **caveats:** Liquidação do Master no mesmo dia: high na cobertura O Globo/Poder360; confirmar sempre com ato do BC se for usar como fato administrativo.
 
-### 2025-11-18 — BC decrees extrajudicial liquidation of Master conglomerate
+### 2025-11-18 — BC decreta liquidação extrajudicial do conglomerado Master
 - **date:** 2025-11-18
-- **title:** Liquidação extrajudicial + RAET on Master Múltiplo (Will continuity)
+- **title:** Liquidação extrajudicial e RAET no Master Múltiplo (continuidade do Will)
 - **summary:** CNN/G1: BC (Galípolo) decrees liquidação of Banco Master S/A, Master de Investimento, Letsbank, Master Corretora; RAET on Banco Master Múltiplo to preserve Will Financeira path. Controllers’/ex-admins’ assets unavailable. Motive: liquidity crisis, economic-financial deterioration, serious norm violations. Ends Fictor path. Conglomerate ~0.57% SFN assets (BC note in G1).
 - **people:** Gabriel Galípolo; Vorcaro; EFB Regimes Especiais
 - **tags:** master|bc|compliance-zero
@@ -1780,7 +1781,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2025-11-18 — Operação Compliance Zero (prisões + buscas)
 - **date:** 2025-11-18
-- **title:** PF deflagrates Compliance Zero; Vorcaro arrested
+- **title:** PF deflagra Compliance Zero; Vorcaro preso Compliance Zero; Vorcaro arrested
 - **summary:** Valor: PF op against false credit titles in SFN; Vorcaro arrested; four other directors also targets (Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva named by day’s end). Five preventive + two temporary warrants, 25 searches across RJ/SP/MG/BA/DF. Probes began 2024 after MPF request: alleged manufacture of weak credit books sold to another bank, later swapped after BC inspection. Crimes: fraudulent/temerarious management, criminal organization, etc. Alleged Master→BRB false portfolios ~R$12 bi (resumo/Estadão).
 - **people:** Vorcaro; Lima; Bull; Felix; Ângelo Silva; MPF; PF; judge Ricardo Leite
 - **tags:** compliance-zero|brb|master
@@ -1881,9 +1882,9 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** press
 - **confidence:** high
 
-### 2026-04-16 — Ex-presidente do BRB Paulo Henrique Costa preso
+### 2026-04-16 — 4ª fase: PH Costa preso por negócios de carteira do Master
 - **date:** 2026-04-16
-- **title:** 4ª fase: PH Costa arrested over Master portfolio deals
+- **title:** 4ª fase: 4ª fase: PH Costa preso por negócios de carteira do Master over Master portfolio deals
 - **summary:** Estadão: ex-BRB president Paulo Henrique Costa arrested in 4th Compliance Zero phase on suspicion of corruption / irregularities in purchase of R$12.2 bi alleged false Master portfolios. Piece publishes 2024 Vorcaro–Lima urgency chats on BRB money.
 - **people:** Paulo Henrique Costa; Vorcaro; Augusto Lima
 - **tags:** brb|compliance-zero
@@ -1922,7 +1923,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** primary
 - **confidence:** high
 
-### 2026-08-27 — PF delivers 218-page phone report to Mendonça
+### 2026-08-27 — PF entrega a Mendonça relatório de 218 páginas do celular
 - **date:** 2026-08-27
 - **title:** IPJ-A 3298613/2026 no iPhone de Vorcaro → PET 16.662
 - **summary:** Poder360: after Mendonça’s 72h order to map “rede de influência e monitoramento,” PF delivers non-exhaustive 218-p analysis of iPhone 17 Pro seized at arrest (Cellebrite/IPED). Covers Moraes-labeled chat, Barci contracts, Gonet/Andrei/Ciro threads, notes methodology.

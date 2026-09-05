@@ -41,10 +41,10 @@
   notes: >-
     Liquidação do Master no mesmo dia: high na cobertura O Globo/Poder360; confirmar sempre
     com ato do BC se for usar como fato administrativo.
-- id: 2025-11-18-liquidacao-extrajudicial-raet-on-master-multiplo-will-continuity
+- id: 2025-11-18-liquidacao-extrajudicial-e-raet-no-master-multiplo-continuidade-do-will
   date: "2025-11-18"
   date_precision: day
-  title: Liquidação extrajudicial + RAET on Master Múltiplo (Will continuity)
+  title: Liquidação extrajudicial e RAET no Master Múltiplo (continuidade do Will)
   summary: >-
     CNN/G1: BC (Galípolo) decrees liquidação of Banco Master S/A, Master de Investimento,
     Letsbank, Master Corretora; RAET on Banco Master Múltiplo to preserve Will Financeira
@@ -72,10 +72,10 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
-- id: 2025-11-18-pf-deflagrates-compliance-zero-vorcaro-arrested
+- id: 2025-11-18-pf-deflagra-compliance-zero-vorcaro-preso-compliance-zero-vorcaro-arrested
   date: "2025-11-18"
   date_precision: day
-  title: PF deflagrates Compliance Zero; Vorcaro arrested
+  title: PF deflagra Compliance Zero; Vorcaro preso Compliance Zero; Vorcaro arrested
   summary: >-
     Valor: PF op against false credit titles in SFN; Vorcaro arrested; four other directors
     also targets (Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva named by
@@ -399,10 +399,13 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
-- id: 2026-04-16-4-fase-ph-costa-arrested-over-master-portfolio-deals
+- id: >-
+    2026-04-16-4-fase-4-fase-ph-costa-preso-por-negocios-de-carteira-do-master-over-master-por
   date: "2026-04-16"
   date_precision: day
-  title: "4ª fase: PH Costa arrested over Master portfolio deals"
+  title: >-
+    4ª fase: 4ª fase: PH Costa preso por negócios de carteira do Master over Master
+    portfolio deals
   summary: >-
     Estadão: ex-BRB president Paulo Henrique Costa arrested in 4th Compliance Zero phase on
     suspicion of corruption / irregularities in purchase of R$12.2 bi alleged false Master
