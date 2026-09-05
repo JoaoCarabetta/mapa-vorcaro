@@ -970,7 +970,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2025-09-17 — Chat ativa mensagens temporárias de 24h
 - **date:** 2025-09-17
-- **title:** Moraes-labeled contact activates 24h ephemeral messages
+- **title:** Contato rotulado Moraes ativa mensagens efêmeras de 24h
 - **summary:** PF/Poder360: contact configured new chats to auto-delete after 24h, limiting forensic recovery of replies — key caveat for later “13 days” crisis messages.
 - **people:** contact “Alexandre de Moraes BRASILIA”; Vorcaro
 - **tags:** compliance-zero|seal-lift|caveat
