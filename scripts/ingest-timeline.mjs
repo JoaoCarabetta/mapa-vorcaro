@@ -3,6 +3,11 @@
  * Parse content/timeline-eventos.md full cards → data/events/*.yml
  * Does not invent dates, quotes, or URLs. Falls back to a URL already
  * named in the card's sources line (PET PDF / known publisher).
+ *
+ * Schema authority is timeline-eventos.md (152 https cards).
+ * events-from-primary.md is a PET-heavy subset (128 cards, commit 1f3de0cb).
+ * Do not ingest English-title duplicates from primary.md. Additional primary
+ * cards enter the YAML schema only after they appear in a timeline re-merge.
  */
 import fs from "node:fs";
 import path from "node:path";

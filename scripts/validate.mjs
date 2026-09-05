@@ -77,21 +77,25 @@ function normalizeUrl(url) {
   }
 }
 
+function parseMarkdownCards(md, sectionHeading) {
+  let body = md;
+  if (sectionHeading) {
+    const start = md.indexOf(sectionHeading);
+    if (start < 0) return [];
+    body = md.slice(start);
+  }
+  return body.split(/^### /m).slice(1).map((chunk) => {
+    const nl = chunk.indexOf("\n");
+    const heading = chunk.slice(0, nl).trim();
+    const rest = chunk.slice(nl + 1);
+    const cut = rest.search(/\n## /);
+    const block = cut >= 0 ? rest.slice(0, cut) : rest;
+    return { heading, urls: extractUrls(block) };
+  });
+}
+
 function parseTimelineCards(md) {
-  const start = md.indexOf("## Full chronological event cards");
-  if (start < 0) return [];
-  return md
-    .slice(start)
-    .split(/^### /m)
-    .slice(1)
-    .map((chunk) => {
-      const nl = chunk.indexOf("\n");
-      const heading = chunk.slice(0, nl).trim();
-      const rest = chunk.slice(nl + 1);
-      const cut = rest.search(/\n## /);
-      const block = cut >= 0 ? rest.slice(0, cut) : rest;
-      return { heading, urls: extractUrls(block) };
-    });
+  return parseMarkdownCards(md, "## Full chronological event cards");
 }
 
 function personHasEvent(person, list) {
@@ -202,6 +206,14 @@ if (timelineCards.length !== 152) {
     `content/timeline-eventos.md deveria ter 152 cards completos; encontrados ${timelineCards.length}.`,
   );
 }
+const primaryCards = parseMarkdownCards(
+  fs.readFileSync(path.join(root, "content", "events-from-primary.md"), "utf8"),
+);
+if (primaryCards.length !== 128) {
+  errors.push(
+    `content/events-from-primary.md deveria ter 128 cards PET (1f3de0cb); encontrados ${primaryCards.length}. Extras só entram no YAML após re-merge da timeline.`,
+  );
+}
 const yamlUrls = new Set();
 for (const event of events) {
   for (const source of event.sources ?? []) {
@@ -215,6 +227,17 @@ for (const card of timelineCards) {
   }
   if (!card.urls.some((url) => yamlUrls.has(normalizeUrl(url)))) {
     errors.push(`Card sourced sem URL no YAML: ${card.heading}`);
+  }
+}
+for (const card of primaryCards) {
+  if (card.urls.length === 0) {
+    errors.push(`events-from-primary.md sem URL: ${card.heading}`);
+    continue;
+  }
+  if (!card.urls.some((url) => yamlUrls.has(normalizeUrl(url)))) {
+    errors.push(
+      `Card primário sem URL no YAML (aguardar re-merge da timeline): ${card.heading}`,
+    );
   }
 }
 

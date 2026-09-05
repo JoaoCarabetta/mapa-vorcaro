@@ -38,10 +38,13 @@ export default function MetodologiaPage() {
       </p>
       <p>
         O corpus agora tem <strong>{count} fichas</strong> ({press} de imprensa,{" "}
-        {primary} com documento primário, peça ou fonte oficial). A autoridade é{" "}
-        <code>content/timeline-eventos.md</code> na <code>main</code> (152 cards com
-        https). <code>content/events-from-press.md</code>,{" "}
-        <code>content/events-from-primary.md</code> e{" "}
+        {primary} com documento primário, peça ou fonte oficial). A autoridade do
+        esquema é <code>content/timeline-eventos.md</code> na <code>main</code> (152
+        cards com https). <code>content/events-from-primary.md</code> é o recorte
+        PET/IPJ-A (128 cards, stream ampliado em <code>1f3de0cb</code>): recorte, não
+        concorrente. Títulos em inglês nesse arquivo já estão em português na
+        timeline; fichas primárias extras só entram no YAML depois de um re-merge da
+        timeline. <code>content/events-from-press.md</code> e{" "}
         <code>content/resumo-pet16662.md</code> entram só como YAML validado — não como
         markdown órfão. Páginas de pessoas e arestas da rede saem do campo{" "}
         <code>people</code> dessas fichas (com <code>id</code> quando o nome é um
