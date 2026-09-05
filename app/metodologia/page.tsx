@@ -38,10 +38,11 @@ export default function MetodologiaPage() {
       </p>
       <p>
         O corpus agora tem <strong>{count} fichas</strong> ({press} de imprensa,{" "}
-        {primary} com documento primário, peça ou fonte oficial).         A base de 152 cards
-        de <code>content/timeline-eventos.md</code> permanece; a densificação de{" "}
-        <code>content/events-from-press.md</code> e as peças datadas de{" "}
-        <code>content/resumo-pet16662.md</code> entram como YAML validado — não como
+        {primary} com documento primário, peça ou fonte oficial). A autoridade é{" "}
+        <code>content/timeline-eventos.md</code> na <code>main</code> (152 cards com
+        https). <code>content/events-from-press.md</code>,{" "}
+        <code>content/events-from-primary.md</code> e{" "}
+        <code>content/resumo-pet16662.md</code> entram só como YAML validado — não como
         markdown órfão. Páginas de pessoas e arestas da rede saem do campo{" "}
         <code>people</code> dessas fichas (com <code>id</code> quando o nome é um
         alias sourced). Não inventamos convidados do fórum de Londres que o card
@@ -51,9 +52,10 @@ export default function MetodologiaPage() {
       <p>
         O compacto <code>content/events.json</code> é o mesmo corpus em{" "}
         <code>{"{date, title, summary, sources: string[]}"}</code> — hoje {count}{" "}
-        fichas http, acima do piso de 133 do seed. O validador o regrava a partir do
-        YAML. Lotes PM (batch 1/3 etc.) entram por merge no YAML; não inventamos o que
-        faltar URL. Pastes truncados perdem para o markdown/YAML sourced.
+        fichas http. O validador o regrava a partir do YAML. Lotes PM (batch 1/3 etc.)
+        <strong>não são a fonte primária</strong>: se o paste for curto, incompleto ou
+        divergir do markdown da <code>main</code>, o markdown/YAML sourced ganha. Sem
+        URL http, o evento não entra.
       </p>
 
       <h2>O que não entra</h2>
