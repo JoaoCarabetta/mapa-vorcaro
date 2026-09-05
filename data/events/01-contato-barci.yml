@@ -373,6 +373,7 @@
       id: alexandre-de-moraes
       role: metadata/edit
     - name: Ângelo Antônio Ribeiro da Silva
+      id: angelo-silva
     - name: Guilherme de Toledo Benazzi
       id: guilherme-benazzi
   tags:
@@ -511,6 +512,7 @@
     - name: Angelo Antonio Ribeiro da Silva
       id: angelo-silva
     - name: Fabiano
+      id: fabiano-zettel
     - name: Viviane Barci de Moraes
       id: viviane-barci-de-moraes
       role: escritório
@@ -571,6 +573,7 @@
     - name: Daniel Bueno Vorcaro
       id: daniel-bueno-vorcaro
     - name: Marcio Conjur
+      id: marcio-conjur
     - name: Alexandre de Moraes
       id: alexandre-de-moraes
       role: citado
@@ -601,6 +604,7 @@
     - name: Fábio Faria
       id: fabio-faria
     - name: Marcio Conjur
+      id: marcio-conjur
     - name: Andrei Rodrigues
       id: andrei-rodrigues
       role: DPF/Andrei Passos, hipótese PF
@@ -633,6 +637,7 @@
     - name: Fábio Faria
       id: fabio-faria
     - name: Alexandre
+      id: alexandre-de-moraes
   tags:
     - reuniao
     - alexandre

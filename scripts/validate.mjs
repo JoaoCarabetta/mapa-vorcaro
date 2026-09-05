@@ -54,11 +54,73 @@ function isUrl(value) {
   }
 }
 
+function extractUrls(text) {
+  if (!text) return [];
+  const urls = [];
+  const re = /https?:\/\/[^\s\]|>,'"]+/g;
+  let match;
+  while ((match = re.exec(text))) {
+    let url = match[0].replace(/[).,;:]+$/g, "");
+    url = url.replace(/\/+$/, "");
+    if (!urls.includes(url)) urls.push(url);
+  }
+  return urls;
+}
+
+function normalizeUrl(url) {
+  try {
+    const parsed = new URL(url);
+    parsed.hash = "";
+    return parsed.href.replace(/\/+$/, "");
+  } catch {
+    return String(url).replace(/\/+$/, "");
+  }
+}
+
+function parseTimelineCards(md) {
+  const start = md.indexOf("## Full chronological event cards");
+  if (start < 0) return [];
+  return md
+    .slice(start)
+    .split(/^### /m)
+    .slice(1)
+    .map((chunk) => {
+      const nl = chunk.indexOf("\n");
+      const heading = chunk.slice(0, nl).trim();
+      const rest = chunk.slice(nl + 1);
+      const cut = rest.search(/\n## /);
+      const block = cut >= 0 ? rest.slice(0, cut) : rest;
+      return { heading, urls: extractUrls(block) };
+    });
+}
+
+function personHasEvent(person, list) {
+  const names = new Set(
+    [person.name, person.shortName, ...(person.aliases ?? [])]
+      .filter(Boolean)
+      .map((n) =>
+        n.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase(),
+      ),
+  );
+  return list.some((event) =>
+    (event.people ?? []).some((ref) => {
+      if (ref.id === person.id) return true;
+      if (!ref.name) return false;
+      const n = ref.name
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .toLowerCase();
+      return names.has(n);
+    }),
+  );
+}
+
 const errors = [];
 const warnings = [];
 
 const events = loadEvents();
 const people = loadYaml(peopleFile);
+const edges = loadYaml(path.join(root, "data", "edges.yml"));
 const personIds = new Set(people.map((p) => p.id));
 const ids = new Set();
 
@@ -130,6 +192,51 @@ if (events.length < 170) {
   errors.push(
     `Corpus incompleto (${events.length}/170). Base 152 de timeline-eventos.md + densificação de imprensa/PET em data/events/05 e 06.`,
   );
+}
+
+const timelineCards = parseTimelineCards(
+  fs.readFileSync(path.join(root, "content", "timeline-eventos.md"), "utf8"),
+);
+if (timelineCards.length !== 152) {
+  errors.push(
+    `content/timeline-eventos.md deveria ter 152 cards completos; encontrados ${timelineCards.length}.`,
+  );
+}
+const yamlUrls = new Set();
+for (const event of events) {
+  for (const source of event.sources ?? []) {
+    if (source?.url) yamlUrls.add(normalizeUrl(source.url));
+  }
+}
+for (const card of timelineCards) {
+  if (card.urls.length === 0) {
+    errors.push(`timeline-eventos.md sem URL: ${card.heading}`);
+    continue;
+  }
+  if (!card.urls.some((url) => yamlUrls.has(normalizeUrl(url)))) {
+    errors.push(`Card sourced sem URL no YAML: ${card.heading}`);
+  }
+}
+
+for (const person of people) {
+  if (!personHasEvent(person, events)) {
+    errors.push(
+      `people.yml "${person.id}" não aparece no campo people de nenhum evento sourced.`,
+    );
+  }
+}
+
+if (!Array.isArray(edges) || edges.length === 0) {
+  errors.push("data/edges.yml está vazio.");
+} else {
+  for (const edge of edges) {
+    if (!personIds.has(edge.from)) {
+      errors.push(`edges.yml from desconhecido: ${edge.from}`);
+    }
+    if (!personIds.has(edge.to)) {
+      errors.push(`edges.yml to desconhecido: ${edge.to}`);
+    }
+  }
 }
 
 function compactDate(event) {

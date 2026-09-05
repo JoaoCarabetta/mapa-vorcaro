@@ -83,6 +83,9 @@
       id: daniel-bueno-vorcaro
     - name: Augusto Ferreira Lima
       id: augusto-lima
+    - name: Maurício Quadrado
+      id: mauricio-quadrado
+      role: vertical de atacado (Valor/Pipeline)
     - name: Roberto de Rezende Barbosa
   tags:
     - master
@@ -427,6 +430,7 @@
     - name: Alberto Felix de Oliveira Neto
       id: alberto-felix
     - name: Luiz Antônio Bull
+      id: luiz-antonio-bull
   tags:
     - compliance-zero
     - prisao

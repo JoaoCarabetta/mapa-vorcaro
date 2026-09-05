@@ -50,6 +50,7 @@ export type PersonRecord = {
   id: string;
   name: string;
   shortName?: string;
+  aliases?: string[];
   roles: string[];
   summary: string;
   group: "nucleo" | "poder" | "master" | "estado" | "intermediario" | "familia";

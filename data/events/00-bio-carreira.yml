@@ -106,9 +106,11 @@
     - name: Daniel Bueno Vorcaro
       id: daniel-bueno-vorcaro
     - name: Saul Sabbá
+      id: saul-sabba
     - name: Antônio Conte
     - name: Vicente Conte
     - name: Maurício Quadrado
+      id: mauricio-quadrado
     - name: Augusto Ferreira Lima
       id: augusto-lima
   tags:
@@ -140,6 +142,7 @@
     - name: Daniel Bueno Vorcaro
       id: daniel-bueno-vorcaro
     - name: Saul Sabbá
+      id: saul-sabba
   tags:
     - master
     - maxima
@@ -191,6 +194,7 @@
     - name: Augusto Ferreira Lima
       id: augusto-lima
     - name: Saul Sabbá
+      id: saul-sabba
   tags:
     - master
     - maxima
@@ -245,9 +249,11 @@
     - name: Daniel Bueno Vorcaro
       id: daniel-bueno-vorcaro
     - name: João Carlos Mansur
+      id: joao-carlos-mansur
     - name: Augusto Ferreira Lima
       id: augusto-lima
     - name: Maurício Quadrado
+      id: mauricio-quadrado
   tags:
     - master
     - growth

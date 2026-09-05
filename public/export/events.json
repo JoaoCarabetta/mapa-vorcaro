@@ -132,7 +132,8 @@
         "id": "daniel-bueno-vorcaro"
       },
       {
-        "name": "Saul Sabbá"
+        "name": "Saul Sabbá",
+        "id": "saul-sabba"
       },
       {
         "name": "Antônio Conte"
@@ -141,7 +142,8 @@
         "name": "Vicente Conte"
       },
       {
-        "name": "Maurício Quadrado"
+        "name": "Maurício Quadrado",
+        "id": "mauricio-quadrado"
       },
       {
         "name": "Augusto Ferreira Lima",
@@ -180,7 +182,8 @@
         "id": "daniel-bueno-vorcaro"
       },
       {
-        "name": "Saul Sabbá"
+        "name": "Saul Sabbá",
+        "id": "saul-sabba"
       }
     ],
     "tags": [
@@ -246,7 +249,8 @@
         "id": "augusto-lima"
       },
       {
-        "name": "Saul Sabbá"
+        "name": "Saul Sabbá",
+        "id": "saul-sabba"
       }
     ],
     "tags": [
@@ -310,14 +314,16 @@
         "id": "daniel-bueno-vorcaro"
       },
       {
-        "name": "João Carlos Mansur"
+        "name": "João Carlos Mansur",
+        "id": "joao-carlos-mansur"
       },
       {
         "name": "Augusto Ferreira Lima",
         "id": "augusto-lima"
       },
       {
-        "name": "Maurício Quadrado"
+        "name": "Maurício Quadrado",
+        "id": "mauricio-quadrado"
       }
     ],
     "tags": [
@@ -792,7 +798,8 @@
         "role": "metadata/edit"
       },
       {
-        "name": "Ângelo Antônio Ribeiro da Silva"
+        "name": "Ângelo Antônio Ribeiro da Silva",
+        "id": "angelo-silva"
       },
       {
         "name": "Guilherme de Toledo Benazzi",
@@ -975,7 +982,8 @@
         "id": "angelo-silva"
       },
       {
-        "name": "Fabiano"
+        "name": "Fabiano",
+        "id": "fabiano-zettel"
       },
       {
         "name": "Viviane Barci de Moraes",
@@ -1057,7 +1065,8 @@
         "id": "daniel-bueno-vorcaro"
       },
       {
-        "name": "Marcio Conjur"
+        "name": "Marcio Conjur",
+        "id": "marcio-conjur"
       },
       {
         "name": "Alexandre de Moraes",
@@ -1096,7 +1105,8 @@
         "id": "fabio-faria"
       },
       {
-        "name": "Marcio Conjur"
+        "name": "Marcio Conjur",
+        "id": "marcio-conjur"
       },
       {
         "name": "Andrei Rodrigues",
@@ -1138,7 +1148,8 @@
         "id": "fabio-faria"
       },
       {
-        "name": "Alexandre"
+        "name": "Alexandre",
+        "id": "alexandre-de-moraes"
       }
     ],
     "tags": [
@@ -1456,7 +1467,8 @@
         "id": "martha-graeff"
       },
       {
-        "name": "Paulo Sergio"
+        "name": "Paulo Sergio",
+        "id": "paulo-sergio-neves"
       }
     ],
     "tags": [
@@ -1490,14 +1502,16 @@
         "id": "martha-graeff"
       },
       {
-        "name": "Hugo"
+        "name": "Hugo",
+        "id": "hugo-motta"
       },
       {
         "name": "Ciro Soares",
         "id": "ciro-soares"
       },
       {
-        "name": "Alexandre"
+        "name": "Alexandre",
+        "id": "alexandre-de-moraes"
       }
     ],
     "tags": [
@@ -1650,7 +1664,7 @@
     "id": "2025-04-01-fasano-itaim-stake-trancoso-mansion-atletico-mineiro-saf",
     "date": "2025-04-01",
     "date_precision": "month",
-    "title": "Fasano Itaim stake, Trancoso mansion, Atlético Mineiro SAF",
+    "title": "Cota no Fasano Itaim, mansão em Trancoso, SAF do Atlético Mineiro",
     "summary": "Valor: luxury lifestyle — private jet, R$280 mi mansion in Trancoso (BA), substantial stake in Atlético Mineiro, co-investor in fund owning Fasano Itaim hotel building. Self-described “forasteiro” on Faria Lima facing prejudice/envy. G1: Estadão reported ~27% of Atlético Mineiro SAF.",
     "people": [
       {
@@ -1684,13 +1698,16 @@
         "id": "daniel-bueno-vorcaro"
       },
       {
-        "name": "Henrique"
+        "name": "Henrique",
+        "id": "henrique-vorcaro"
       },
       {
-        "name": "Quadrado"
+        "name": "Quadrado",
+        "id": "mauricio-quadrado"
       },
       {
-        "name": "Lima"
+        "name": "Lima",
+        "id": "augusto-lima"
       },
       {
         "name": "Nelson Tanure",
@@ -2160,14 +2177,16 @@
         "role": "escritório"
       },
       {
-        "name": "Marcus"
+        "name": "Marcus",
+        "id": "marcos-prime"
       },
       {
         "name": "Thatiane",
         "id": "thatiane-prime"
       },
       {
-        "name": "Marcos da Mata"
+        "name": "Marcos da Mata",
+        "id": "marcos-prime"
       }
     ],
     "tags": [
@@ -2272,7 +2291,7 @@
     "id": "2025-08-01-ibaneis-sanctions-cldf-law-authorizing-brb-to-buy-master-shares",
     "date": "2025-08-01",
     "date_precision": "month",
-    "title": "Ibaneis sanctions CLDF law authorizing BRB to buy Master shares",
+    "title": "Lei distrital / autorização de Ibaneis para compra pelo Banco de Brasília",
     "summary": "Agência Brasil: DF governor Ibaneis Rocha sanctioned a district law (CLDF-approved, after judicial demand) authorizing BRB to acquire 49% ON + 100% PN of Master. G1 conexões: Ibaneis later said he met Vorcaro only socially; Ciro Nogueira/Antonio Rueda described as political bridges for the deal.",
     "people": [
       {
@@ -2280,8 +2299,8 @@
         "id": "ibaneis-rocha"
       },
       {
-        "name": "Ciro Soares",
-        "id": "ciro-soares"
+        "name": "Ciro Nogueira",
+        "role": "ponte política citada na imprensa; não é Ciro Soares"
       },
       {
         "name": "Antonio Rueda"
@@ -2387,7 +2406,7 @@
     "id": "2025-09-03-bacen-indefers-brb-application-filed-28-03-2025",
     "date": "2025-09-03",
     "date_precision": "day",
-    "title": "Bacen indefers BRB application filed 28/03/2025",
+    "title": "BC rejeita a compra do Master pelo Banco de Brasília",
     "summary": "BRB fato relevante: informed of Bacen denial of request to acquire 49% ON + 100% PN of Master; BRB sought full decision text. Deal had been controversial (high CDB rates, delayed balance sheet, precatórios). Agência Brasil also notes prior BTG symbolic R$1 offer to take Master with FGC covering liabilities that stalled among FGC member banks. G1: Cade had cleared in June; BC cited missing economic-financial viability docs.",
     "people": [
       {
@@ -2465,7 +2484,7 @@
     "id": "2025-09-17-moraes-labeled-contact-activates-24h-ephemeral-messages",
     "date": "2025-09-17",
     "date_precision": "day",
-    "title": "Moraes-labeled contact activates 24h ephemeral messages",
+    "title": "Contato rotulado “Moraes” ativa mensagens efêmeras 24h",
     "summary": "PF/Poder360: contact configured new chats to auto-delete after 24h, limiting forensic recovery of replies — key caveat for later “13 days” crisis messages.",
     "people": [
       {
@@ -2568,7 +2587,7 @@
     "id": "2025-10-01-pix-warning-on-barci-payments-four-deleted-by-sender-bubbles",
     "date": "2025-10-01",
     "date_precision": "day",
-    "title": "Pix warning on Barci payments; four “deleted by sender” bubbles",
+    "title": "Alerta sobre Pix a Barci; quatro bolhas “apagada pelo remetente”",
     "summary": "Vorcaro to Felix: “Mas nao faz barci pix ne?”; Felix said Pix already done to same TED data. Same day window: four Moraes-chat messages marked deleted by sender (PF).",
     "people": [
       {
@@ -2635,7 +2654,8 @@
         "id": "gabriel-galipolo"
       },
       {
-        "name": "judge Ricardo Soares Leite"
+        "name": "judge Ricardo Soares Leite",
+        "id": "ricardo-leite"
       }
     ],
     "tags": [
@@ -5338,7 +5358,8 @@
         "role": "rótulo de agenda"
       },
       {
-        "name": "Ricardo Augusto Soares Leite"
+        "name": "Ricardo Augusto Soares Leite",
+        "id": "ricardo-leite"
       }
     ],
     "tags": [
@@ -5603,7 +5624,8 @@
         "id": "alexandre-de-moraes"
       },
       {
-        "name": "Ricardo Soares Leite"
+        "name": "Ricardo Soares Leite",
+        "id": "ricardo-leite"
       }
     ],
     "tags": [
@@ -5710,7 +5732,7 @@
     "id": "2025-11-18-liquidacao-extrajudicial-raet-on-master-multiplo-will-continuity",
     "date": "2025-11-18",
     "date_precision": "day",
-    "title": "Liquidação extrajudicial + RAET on Master Múltiplo (Will continuity)",
+    "title": "Liquidação extrajudicial e RAET no Master Múltiplo (continuidade do Will)",
     "summary": "CNN/G1: BC (Galípolo) decrees liquidação of Banco Master S/A, Master de Investimento, Letsbank, Master Corretora; RAET on Banco Master Múltiplo to preserve Will Financeira path. Controllers’/ex-admins’ assets unavailable. Motive: liquidity crisis, economic-financial deterioration, serious norm violations. Ends Fictor path. Conglomerate ~0.57% SFN assets (BC note in G1).",
     "people": [
       {
@@ -5749,7 +5771,7 @@
     "id": "2025-11-18-pf-deflagrates-compliance-zero-vorcaro-arrested",
     "date": "2025-11-18",
     "date_precision": "day",
-    "title": "PF deflagrates Compliance Zero; Vorcaro arrested",
+    "title": "Polícia Federal deflagra Compliance Zero; Vorcaro é preso",
     "summary": "Valor: PF op against false credit titles in SFN; Vorcaro arrested; four other directors also targets (Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva named by day’s end). Five preventive + two temporary warrants, 25 searches across RJ/SP/MG/BA/DF. Probes began 2024 after MPF request: alleged manufacture of weak credit books sold to another bank, later swapped after BC inspection. Crimes: fraudulent/temerarious management, criminal organization, etc. Alleged Master→BRB false portfolios ~R$12 bi (resumo/Estadão).",
     "people": [
       {
@@ -5757,16 +5779,20 @@
         "id": "daniel-bueno-vorcaro"
       },
       {
-        "name": "Lima"
+        "name": "Lima",
+        "id": "augusto-lima"
       },
       {
-        "name": "Bull"
+        "name": "Bull",
+        "id": "luiz-antonio-bull"
       },
       {
-        "name": "Felix"
+        "name": "Felix",
+        "id": "alberto-felix"
       },
       {
-        "name": "Ângelo Silva"
+        "name": "Ângelo Silva",
+        "id": "angelo-silva"
       },
       {
         "name": "MPF"
@@ -5799,23 +5825,28 @@
     "summary": "G1: Desembargadora Solange Salgado da Silva orders release of Vorcaro, Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva. Conditions: ankle monitor, periodic court appearance, no contact among investigated / BRB-Master staff, no leaving home city without leave, passports remain surrendered. Defense argued liquidation already removed bank control / flight risk.",
     "people": [
       {
-        "name": "Solange Salgado"
+        "name": "Solange Salgado",
+        "id": "solange-salgado"
       },
       {
         "name": "Daniel Bueno Vorcaro",
         "id": "daniel-bueno-vorcaro"
       },
       {
-        "name": "Lima"
+        "name": "Lima",
+        "id": "augusto-lima"
       },
       {
-        "name": "Bull"
+        "name": "Bull",
+        "id": "luiz-antonio-bull"
       },
       {
-        "name": "Felix"
+        "name": "Felix",
+        "id": "alberto-felix"
       },
       {
-        "name": "Ângelo"
+        "name": "Ângelo",
+        "id": "angelo-silva"
       }
     ],
     "tags": [
@@ -5875,7 +5906,7 @@
     "id": "2026-01-14-searches-at-vorcaro-family-zettel-tanure-mansur",
     "date": "2026-01-14",
     "date_precision": "day",
-    "title": "Searches at Vorcaro family, Zettel, Tanure, Mansur",
+    "title": "Compliance Zero 2ª fase: buscas / bloqueio de R$ 5,7 bi",
     "summary": "G1: second phase — searches at addresses linked to Vorcaro, father, sister, brother-in-law Fabiano Zettel; also Nelson Tanure and João Carlos Mansur (Reag). ~42 addresses; Toffoli-authorized; asset freezes >R$5.7 bi. Haddad called it possibly Brazil’s largest bank fraud; FGC exposure ~R$41 bi CDBs / ~1.6 mi investors cited.",
     "people": [
       {
@@ -5994,7 +6025,7 @@
     "id": "2026-03-04-second-preventive-prison-zettel-also-held",
     "date": "2026-03-04",
     "date_precision": "day",
-    "title": "Second preventive prison; Zettel also held",
+    "title": "Vorcaro e Zettel presos de novo (3ª fase da Compliance Zero)",
     "summary": "Valor/CNN/G1: new STF warrants; Vorcaro and Zettel arrested in SP/MG; PF alleges continued concealment of billions after first release. Custody hearing keeps them in state prison (CDP Guarulhos). Later STF 2ª Turma maintains (13/03 per CNN timeline).",
     "people": [
       {
@@ -6023,7 +6054,7 @@
     "id": "2026-04-16-4-fase-ph-costa-arrested-over-master-portfolio-deals",
     "date": "2026-04-16",
     "date_precision": "day",
-    "title": "4ª fase: PH Costa arrested over Master portfolio deals",
+    "title": "4ª fase: Paulo Henrique Costa preso por negócios de carteiras com o Master",
     "summary": "Estadão: ex-BRB president Paulo Henrique Costa arrested in 4th Compliance Zero phase on suspicion of corruption / irregularities in purchase of R$12.2 bi alleged false Master portfolios. Piece publishes 2024 Vorcaro–Lima urgency chats on BRB money.",
     "people": [
       {
@@ -6173,7 +6204,7 @@
     "id": "2026-08-27-ipj-a-3298613-2026-on-vorcaro-iphone-pet-16-662",
     "date": "2026-08-27",
     "date_precision": "day",
-    "title": "IPJ-A 3298613/2026 on Vorcaro iPhone → PET 16.662",
+    "title": "IPJ-A 3298613/2026 sobre o iPhone de Vorcaro → PET 16.662",
     "summary": "Poder360: after Mendonça’s 72h order to map “rede de influência e monitoramento,” PF delivers non-exhaustive 218-p analysis of iPhone 17 Pro seized at arrest (Cellebrite/IPED). Covers Moraes-labeled chat, Barci contracts, Gonet/Andrei/Ciro threads, notes methodology.",
     "people": [
       {
@@ -6495,6 +6526,11 @@
       {
         "name": "Augusto Ferreira Lima",
         "id": "augusto-lima"
+      },
+      {
+        "name": "Maurício Quadrado",
+        "id": "mauricio-quadrado",
+        "role": "vertical de atacado (Valor/Pipeline)"
       },
       {
         "name": "Roberto de Rezende Barbosa"
@@ -6911,7 +6947,8 @@
         "id": "alberto-felix"
       },
       {
-        "name": "Luiz Antônio Bull"
+        "name": "Luiz Antônio Bull",
+        "id": "luiz-antonio-bull"
       }
     ],
     "tags": [

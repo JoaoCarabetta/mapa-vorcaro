@@ -23,6 +23,7 @@
     - name: Gabriel Galípolo
       id: gabriel-galipolo
     - name: judge Ricardo Soares Leite
+      id: ricardo-leite
   tags:
     - compliance-zero
     - power-interlocutor
@@ -2348,6 +2349,7 @@
       id: alexandre-de-moraes
       role: rótulo de agenda
     - name: Ricardo Augusto Soares Leite
+      id: ricardo-leite
   tags:
     - prisao
     - estou-online
@@ -2577,6 +2579,7 @@
     - name: Alexandre de Moraes
       id: alexandre-de-moraes
     - name: Ricardo Soares Leite
+      id: ricardo-leite
   tags:
     - compliance-zero
     - seal-lift

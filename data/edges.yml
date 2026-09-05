@@ -168,13 +168,78 @@
   type: familia
   label: avisos de encontros com “Alexandre”
   confidence: medium
-- from: daniel-bueno-vorcaro
-  to: ricardo-lewandowski
-  type: evento
-  label: Londres 2024; contrato do escritório da família (imprensa)
-  confidence: medium
 - from: viviane-barci-de-moraes
   to: marcos-prime
   type: contrato
   label: uso de cotas de aeronaves (print encaminhado)
+  confidence: medium
+- from: daniel-bueno-vorcaro
+  to: marcos-prime
+  type: master
+  label: Prime You / cotas de aeronaves (PET)
+  confidence: medium
+- from: daniel-bueno-vorcaro
+  to: saul-sabba
+  type: negocio
+  label: Máxima oferecido a Vorcaro (Valor)
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: mauricio-quadrado
+  type: master
+  label: sócio no Máxima/Master; saída rumo ao Digimais (Valor)
+  confidence: high
+- from: mauricio-quadrado
+  to: nelson-tanure
+  type: intermediacao
+  label: Quadrado apresentou Vorcaro a Tanure (Valor)
+  confidence: medium
+- from: daniel-bueno-vorcaro
+  to: nelson-tanure
+  type: negocio
+  label: apresentação via Quadrado; buscas na 2ª fase
+  confidence: medium
+- from: daniel-bueno-vorcaro
+  to: luiz-antonio-bull
+  type: master
+  label: diretor alvo da Compliance Zero; soltura com tornozeleira
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: marcio-conjur
+  type: intermediacao
+  label: contato “Marcio Conjur” no convite Londres / Andrei (PET)
+  confidence: medium
+- from: daniel-bueno-vorcaro
+  to: alberto-felix
+  type: master
+  label: tesouraria; Pix Barci e prisão na Compliance Zero
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: guilherme-benazzi
+  type: contrato
+  label: administrador do escritório Barci; minuta e assinatura
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: thatiane-prime
+  type: master
+  label: logística Botanique e aeronaves “Barci”
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: romy-master
+  type: master
+  label: pagamento Barci “mais importante” / “sem nota”
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: ana-matos
+  type: master
+  label: listas e convites dos fóruns de Londres
+  confidence: high
+- from: daniel-bueno-vorcaro
+  to: stella-vorcaro
+  type: familia
+  label: “com alexandre moraes” (15/11/2024)
+  confidence: medium
+- from: daniel-bueno-vorcaro
+  to: michel-temer
+  type: evento
+  label: mediação BRB–Master após veto do BC (imprensa)
   confidence: medium

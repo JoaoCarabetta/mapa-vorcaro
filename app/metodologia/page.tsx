@@ -38,11 +38,15 @@ export default function MetodologiaPage() {
       </p>
       <p>
         O corpus agora tem <strong>{count} fichas</strong> ({press} de imprensa,{" "}
-        {primary} com documento primário, peça ou fonte oficial). A base de 152 cards
+        {primary} com documento primário, peça ou fonte oficial).         A base de 152 cards
         de <code>content/timeline-eventos.md</code> permanece; a densificação de{" "}
         <code>content/events-from-press.md</code> e as peças datadas de{" "}
         <code>content/resumo-pet16662.md</code> entram como YAML validado — não como
-        markdown órfão.
+        markdown órfão. Páginas de pessoas e arestas da rede saem do campo{" "}
+        <code>people</code> dessas fichas (com <code>id</code> quando o nome é um
+        alias sourced). Não inventamos convidados do fórum de Londres que o card
+        sourced não nomeia — a lista nominativa dali é Moraes, Gonet e Andrei
+        Rodrigues, com a ressalva de confiança média da reportagem.
       </p>
       <p>
         O compacto <code>content/events.json</code> é o mesmo corpus em{" "}

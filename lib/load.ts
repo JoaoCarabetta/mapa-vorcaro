@@ -1,7 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import yaml from "js-yaml";
-import type { EdgeRecord, EventRecord, PersonRecord } from "./types";
+import type { EdgeRecord, EventRecord, PersonRecord, PersonRef } from "./types";
 import { compareEventsChrono } from "./format";
 
 const DATA_DIR = path.join(process.cwd(), "data");
@@ -49,15 +49,30 @@ export function getPersonById(id: string): PersonRecord | undefined {
   return loadPeople().find((person) => person.id === id);
 }
 
+function normalizePersonName(value: string): string {
+  return value
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .trim();
+}
+
+export function personRefMatches(
+  person: PersonRecord,
+  ref: PersonRef,
+): boolean {
+  if (ref.id && ref.id === person.id) return true;
+  const needles = [person.name, person.shortName, ...(person.aliases ?? [])]
+    .filter(Boolean)
+    .map((name) => normalizePersonName(String(name)));
+  return needles.includes(normalizePersonName(ref.name));
+}
+
 export function eventsForPerson(personId: string): EventRecord[] {
   const person = getPersonById(personId);
   if (!person) return [];
   return loadEvents().filter((event) =>
-    event.people.some(
-      (ref) =>
-        ref.id === personId ||
-        ref.name.toLowerCase() === person.name.toLowerCase(),
-    ),
+    event.people.some((ref) => personRefMatches(person, ref)),
   );
 }
 

@@ -82,6 +82,10 @@
 - id: ricardo-leite
   name: Ricardo Leite
   shortName: Ricardo Leite
+  aliases:
+    - Ricardo Augusto Soares Leite
+    - Ricardo Soares Leite
+    - judge Ricardo Soares Leite
   roles:
     - juiz da 10ª Vara Federal Criminal do DF
   summary: Vorcaro perguntou, em 15 de novembro de 2025, “Aquele mesmo juiz Ricardo?”. A 10ª Vara decretou a prisão no âmbito da Compliance Zero.
@@ -104,10 +108,12 @@
 - id: hugo-motta
   name: Hugo Motta
   shortName: Hugo Motta
+  aliases:
+    - Hugo
   roles:
     - deputado federal
     - depois presidente da Câmara
-  summary: Vorcaro disse a Martha Graeff, na madrugada de 20 de março de 2025, que “acabou chegando hugo e ciro aqui pra falarem com Alexandre”. Também consta na lista de autoridades do fórum de Londres.
+  summary: Vorcaro disse a Martha Graeff, na madrugada de 20 de março de 2025, que “acabou chegando hugo e ciro aqui pra falarem com Alexandre”.
   group: poder
 - id: ibaneis-rocha
   name: Ibaneis Rocha
@@ -119,6 +125,8 @@
 - id: paulo-sergio-neves
   name: Paulo Sérgio Neves de Souza
   shortName: Paulo Sérgio
+  aliases:
+    - Paulo Sergio
   roles:
     - ex-diretor de Fiscalização do Banco Central
   summary: Vorcaro disse-lhe, em 19 de março de 2025, que estava “com Moraes aqui” e que o ministro “vai chamar o Paulo para dar um aperto”. Alvo de medidas na fase de março de 2026.
@@ -126,6 +134,10 @@
 - id: angelo-silva
   name: Angelo Antonio Ribeiro da Silva
   shortName: Angelo Silva
+  aliases:
+    - Ângelo
+    - Ângelo Silva
+    - Ângelo Antônio Ribeiro da Silva
   roles:
     - sócio/administrador do Master
   summary: Assinou o contrato Master–Barci em 23 de janeiro de 2024. Enviou o comprovante do primeiro pagamento. Preso na Compliance Zero.
@@ -154,6 +166,8 @@
 - id: alberto-felix
   name: Alberto Felix de Oliveira Neto
   shortName: Alberto Felix
+  aliases:
+    - Felix
   roles:
     - superintendente de tesouraria do Master
   summary: Informou Vorcaro, em 1º de outubro de 2025, que pagara o escritório Barci via Pix. Vorcaro respondeu “Nao e bom”. Preso na Compliance Zero.
@@ -168,6 +182,8 @@
 - id: augusto-lima
   name: Augusto Ferreira Lima
   shortName: Augusto Lima
+  aliases:
+    - Lima
   roles:
     - ex-CEO / sócio do Master
   summary: Dividiu o comando do Máxima/Master com Vorcaro após a autorização do BC. Preso na primeira fase da Compliance Zero, segundo o Valor.
@@ -179,33 +195,12 @@
     - empresário
   summary: Valor relata que o executivo Maurício Quadrado apresentou Vorcaro a Tanure; investigações posteriores o citam no entorno das operações. Incluído só onde a fonte o nomeia.
   group: master
-- id: ricardo-lewandowski
-  name: Ricardo Lewandowski
-  shortName: Lewandowski
-  roles:
-    - então ministro da Justiça
-  summary: Consta da programação do fórum de Londres de abril de 2024. O Poder360 registrou que o escritório da família manteve contrato com Vorcaro entre agosto de 2023 e setembro de 2025.
-  group: poder
-- id: gilmar-mendes
-  name: Gilmar Mendes
-  shortName: Gilmar
-  roles:
-    - ministro do STF
-  summary: Consta da programação oficial do 1º Fórum Jurídico Brasil de Ideias, em Londres, em abril de 2024.
-  group: poder
 - id: michel-temer
   name: Michel Temer
   shortName: Temer
   roles:
     - ex-presidente da República
   summary: Vorcaro disse que “alexandre sugeriu participacao do temer” no evento de Londres. Temer consta da programação oficial como debatedor.
-  group: poder
-- id: tony-blair
-  name: Tony Blair
-  shortName: Blair
-  roles:
-    - ex-primeiro-ministro do Reino Unido
-  summary: Palestrante do fórum de Londres. Vorcaro pediu a um jornalista que a matéria mencionasse reunião privativa de três ministros do STF com Blair, a pedido atribuído a Alexandre.
   group: poder
 - id: thatiane-prime
   name: Thatiane
@@ -224,6 +219,9 @@
 - id: marcos-prime
   name: Marcus Vinicius da Mata
   shortName: Marcos Prime
+  aliases:
+    - Marcus
+    - Marcos da Mata
   roles:
     - sócio da Prime You com Vorcaro
   summary: Enviou a Viviane brochura das aeronaves e, em julho de 2025, encaminhou print em que ela diz estar gostando das cotas. Relatou que “Já usaram aviões e helicópteros”.
@@ -245,6 +243,8 @@
 - id: henrique-vorcaro
   name: Henrique Vorcaro
   shortName: Henrique
+  aliases:
+    - Henrique
   roles:
     - pai de Daniel Vorcaro
     - Multipar
@@ -276,6 +276,8 @@
 - id: solange-salgado
   name: Solange Salgado
   shortName: Solange Salgado
+  aliases:
+    - Solange
   roles:
     - desembargadora do TRF-1
   summary: >-
@@ -283,3 +285,49 @@
     determinou a soltura com tornozeleira. A saída física do CDP de Guarulhos ocorreu em
     29 de novembro, segundo o G1.
   group: estado
+- id: saul-sabba
+  name: Saul Sabbá
+  shortName: Sabbá
+  roles:
+    - então controlador do Banco Máxima
+  summary: >-
+    Valor (abr/2025): o Máxima em dificuldades foi oferecido a Vorcaro, que já fazia
+    negócios de FII com Sabbá. Vorcaro entrou primeiro como minoria, com os irmãos
+    Conte; o BC só homologou o controle do grupo Vorcaro em 2019.
+  group: master
+- id: mauricio-quadrado
+  name: Maurício Quadrado
+  shortName: Quadrado
+  aliases:
+    - Quadrado
+  roles:
+    - executivo do Máxima/Master
+  summary: >-
+    Valor: entrou no Máxima após a saída dos Conte; no perfil de abr/2025 buscava o
+    Digimais (pendente de BC) e teria apresentado Vorcaro a Nelson Tanure. Pipeline
+    o coloca na vertical de atacado após a compra do Voiter.
+  group: master
+- id: luiz-antonio-bull
+  name: Luiz Antônio Bull
+  shortName: Bull
+  aliases:
+    - Bull
+  roles:
+    - diretor do Master
+  summary: >-
+    Valor (18 nov 2025) o nomeia entre os diretores alvo da Compliance Zero, ao lado
+    de Augusto Lima, Alberto Felix e Ângelo Silva. O G1 registra a transferência ao
+    CDP 2 de Guarulhos em 24/11 e a soltura com tornozeleira em 28/11.
+  group: master
+- id: marcio-conjur
+  name: Marcio Conjur
+  shortName: Marcio Conjur
+  roles:
+    - contato no celular de Vorcaro
+  summary: >-
+    Rótulo de agenda no iPhone analisado na PET 16.662. Vorcaro trata com ele o convite
+    atribuído a Moraes para o evento de Londres (28/3/2024) e informa que o “Ministro
+    fez convite ao andrei PF”. A ficha registra o contato como rotulado, sem identificar
+    o titular civil além do que o relatório publica.
+  group: intermediario
+

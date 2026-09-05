@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { confidenceLabel, evidenceLabel, formatDate } from "@/lib/format";
-import { forensicChildrenOf, getEventById, loadEvents, loadPeople } from "@/lib/load";
+import { forensicChildrenOf, getEventById, loadEvents, loadPeople, personRefMatches } from "@/lib/load";
 import type { Metadata } from "next";
 
 type Props = { params: Promise<{ id: string }> };
@@ -103,9 +103,7 @@ export default async function EventPage({ params }: Props) {
             <h2>Pessoas</h2>
             <ul>
               {event.people.map((person) => {
-                const known = people.find(
-                  (p) => p.id === person.id || p.name === person.name,
-                );
+                const known = people.find((p) => personRefMatches(p, person));
                 return (
                   <li key={`${person.name}-${person.role ?? ""}`}>
                     {known ? (

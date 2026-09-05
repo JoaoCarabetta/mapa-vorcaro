@@ -155,8 +155,13 @@ function loadPeopleIndex() {
   const people = yaml.load(fs.readFileSync(peoplePath, "utf8"));
   const entries = [];
   for (const person of people) {
-    const names = [person.name, person.shortName].filter(Boolean);
+    const names = [
+      person.name,
+      ...(person.aliases ?? []),
+      person.shortName,
+    ].filter(Boolean);
     for (const name of names) {
+      if (name !== person.name && String(name).length < 6) continue;
       entries.push({
         id: person.id,
         name: person.name,
@@ -216,8 +221,21 @@ function parsePeople(raw, index) {
       continue;
     }
 
+    if (/^hugo$|^hugo motta$/.test(lower)) {
+      push("Hugo Motta", "hugo-motta", role);
+      continue;
+    }
+    if (/paulo sergio|paulo s[eé]rgio/.test(lower)) {
+      push("Paulo Sérgio Neves de Souza", "paulo-sergio-neves", role);
+      continue;
+    }
+
     const list = Array.isArray(index) ? index : index.entries;
-    const hit = list.find((e) => lower.includes(e.needle));
+    const hitExact = list.find((e) => lower === e.needle);
+    const hitLong = list.find(
+      (e) => e.needle.length >= 8 && lower.includes(e.needle),
+    );
+    const hit = hitExact || hitLong;
     if (hit) {
       push(hit.name, hit.id, role);
       continue;
@@ -401,6 +419,7 @@ function main() {
   }
 
   for (const file of fs.readdirSync(eventsDir).filter((f) => f.endsWith(".yml"))) {
+    if (/^0[56]-/.test(file)) continue;
     fs.unlinkSync(path.join(eventsDir, file));
   }
 

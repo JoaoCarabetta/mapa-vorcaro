@@ -44,7 +44,7 @@
 - id: 2025-11-18-liquidacao-extrajudicial-raet-on-master-multiplo-will-continuity
   date: "2025-11-18"
   date_precision: day
-  title: Liquidação extrajudicial + RAET on Master Múltiplo (Will continuity)
+  title: Liquidação extrajudicial e RAET no Master Múltiplo (continuidade do Will)
   summary: >-
     CNN/G1: BC (Galípolo) decrees liquidação of Banco Master S/A, Master de Investimento,
     Letsbank, Master Corretora; RAET on Banco Master Múltiplo to preserve Will Financeira
@@ -75,7 +75,7 @@
 - id: 2025-11-18-pf-deflagrates-compliance-zero-vorcaro-arrested
   date: "2025-11-18"
   date_precision: day
-  title: PF deflagrates Compliance Zero; Vorcaro arrested
+  title: Polícia Federal deflagra Compliance Zero; Vorcaro é preso
   summary: >-
     Valor: PF op against false credit titles in SFN; Vorcaro arrested; four other directors
     also targets (Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva named by
@@ -88,9 +88,13 @@
     - name: Daniel Bueno Vorcaro
       id: daniel-bueno-vorcaro
     - name: Lima
+      id: augusto-lima
     - name: Bull
+      id: luiz-antonio-bull
     - name: Felix
+      id: alberto-felix
     - name: Ângelo Silva
+      id: angelo-silva
     - name: MPF
     - name: Ricardo Leite
       id: ricardo-leite
@@ -117,12 +121,17 @@
     bank control / flight risk.
   people:
     - name: Solange Salgado
+      id: solange-salgado
     - name: Daniel Bueno Vorcaro
       id: daniel-bueno-vorcaro
     - name: Lima
+      id: augusto-lima
     - name: Bull
+      id: luiz-antonio-bull
     - name: Felix
+      id: alberto-felix
     - name: Ângelo
+      id: angelo-silva
   tags:
     - compliance-zero
     - master
@@ -166,7 +175,7 @@
 - id: 2026-01-14-searches-at-vorcaro-family-zettel-tanure-mansur
   date: "2026-01-14"
   date_precision: day
-  title: Searches at Vorcaro family, Zettel, Tanure, Mansur
+  title: "Compliance Zero 2ª fase: buscas / bloqueio de R$ 5,7 bi"
   summary: >-
     G1: second phase — searches at addresses linked to Vorcaro, father, sister,
     brother-in-law Fabiano Zettel; also Nelson Tanure and João Carlos Mansur (Reag). ~42
@@ -252,7 +261,7 @@
 - id: 2026-03-04-second-preventive-prison-zettel-also-held
   date: "2026-03-04"
   date_precision: day
-  title: Second preventive prison; Zettel also held
+  title: Vorcaro e Zettel presos de novo (3ª fase da Compliance Zero)
   summary: >-
     Valor/CNN/G1: new STF warrants; Vorcaro and Zettel arrested in SP/MG; PF alleges
     continued concealment of billions after first release. Custody hearing keeps them in
@@ -274,7 +283,7 @@
 - id: 2026-04-16-4-fase-ph-costa-arrested-over-master-portfolio-deals
   date: "2026-04-16"
   date_precision: day
-  title: "4ª fase: PH Costa arrested over Master portfolio deals"
+  title: "4ª fase: Paulo Henrique Costa preso por negócios de carteiras com o Master"
   summary: >-
     Estadão: ex-BRB president Paulo Henrique Costa arrested in 4th Compliance Zero phase on
     suspicion of corruption / irregularities in purchase of R$12.2 bi alleged false Master
@@ -392,7 +401,7 @@
 - id: 2026-08-27-ipj-a-3298613-2026-on-vorcaro-iphone-pet-16-662
   date: "2026-08-27"
   date_precision: day
-  title: IPJ-A 3298613/2026 on Vorcaro iPhone → PET 16.662
+  title: IPJ-A 3298613/2026 sobre o iPhone de Vorcaro → PET 16.662
   summary: >-
     Poder360: after Mendonça’s 72h order to map “rede de influência e monitoramento,” PF
     delivers non-exhaustive 218-p analysis of iPhone 17 Pro seized at arrest
