@@ -79,10 +79,47 @@ const TAG_LABELS: Record<string, string> = {
   atletico: "Atlético",
   zettel: "Zettel",
   tirreno: "Tirreno",
+  liquidity: "liquidez",
+  messages: "mensagens",
+  crisis: "crise",
+  caveats: "ressalvas",
+  saf: "SAF",
+  habeas: "habeas corpus",
+  encontro: "encontro",
+  contrato: "contrato",
+  pagamento: "pagamento",
+  prisao: "prisão",
+  liquidacao: "liquidação",
+  investigacao: "investigação",
+  sigilo: "sigilo",
+  plenario: "plenário",
+  pericia: "perícia",
+  convite: "convite",
+  logistica: "logística",
+  reuniao: "reunião",
+  intermediacao: "intermediação",
+  metadados: "metadados",
+  minuta: "minuta",
+  assinatura: "assinatura",
+  revisao: "revisão",
+  dacao: "dação",
 };
 
 export function tagLabel(tag: string): string {
   return TAG_LABELS[tag] ?? tag.replace(/-/g, " ");
+}
+
+const GROUP_LABELS: Record<string, string> = {
+  nucleo: "Núcleo",
+  poder: "Poder",
+  estado: "Estado / BC / Justiça",
+  intermediario: "Intermediários",
+  master: "Master",
+  familia: "Família / entorno",
+};
+
+export function groupLabel(group: string): string {
+  return GROUP_LABELS[group] ?? group;
 }
 
 /** Visible UTC stamp from a forensic title, or null. */

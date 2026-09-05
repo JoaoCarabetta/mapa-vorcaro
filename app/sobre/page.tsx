@@ -17,7 +17,7 @@ export default function SobrePage() {
         Organizar, com citação, o que já é público sobre Daniel Bueno Vorcaro — a
         construção do Banco Master, a interlocução com autoridades e as peças da PET
         16.662 tornadas públicas em 1º de setembro de 2026. A hipótese de trabalho é
-        simples: a cronologia sourced é mais útil do que o resumo viral.
+        simples: a cronologia com fonte é mais útil do que o resumo viral.
       </p>
 
       <h2>Fontes centrais</h2>
@@ -42,8 +42,8 @@ export default function SobrePage() {
         como correção no YAML, não como “versão”. O validador recusa evento sem URL.
       </p>
       <p>
-        Interface e cópia em português do Brasil. Código aberto. Hospedagem prevista na
-        Vercel.
+        Interface e cópia em português do Brasil. Código aberto. Publicado em{" "}
+        <a href="https://mapa-vorcaro.vercel.app">mapa-vorcaro.vercel.app</a>.
       </p>
     </div>
   );

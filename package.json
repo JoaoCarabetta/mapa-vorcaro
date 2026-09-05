@@ -2,6 +2,9 @@
   "name": "mapa-vorcaro",
   "version": "1.0.0",
   "private": true,
+  "engines": {
+    "node": ">=20"
+  },
   "description": "Timeline jornalística da vida de Daniel Bueno Vorcaro e de sua interlocução com o poder.",
   "scripts": {
     "dev": "next dev",

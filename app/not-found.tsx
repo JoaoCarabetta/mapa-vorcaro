@@ -12,7 +12,7 @@ export default function NotFound() {
         </p>
         <p>
           <Link className="btn" href="/">
-            Voltar à timeline
+            Voltar à linha do tempo
           </Link>
         </p>
       </header>

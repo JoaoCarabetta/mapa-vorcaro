@@ -42,7 +42,7 @@ export function Header() {
     <header className="site-header">
       <div className="header-inner">
         <Link className="brand" href="/">
-          <span className="brand-kicker">Investigação em aberto</span>
+          <span className="brand-kicker">Arquivo jornalístico</span>
           <span className="brand-title">Mapa Vorcaro</span>
         </Link>
         <div className="nav-desktop">{nav}</div>
@@ -51,7 +51,7 @@ export function Header() {
           open={open}
           onToggle={(e) => setOpen(e.currentTarget.open)}
         >
-          <summary>Menu</summary>
+          <summary aria-label="Abrir ou fechar o menu">Menu</summary>
           {nav}
         </details>
       </div>

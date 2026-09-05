@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useMemo, useState } from "react";
 import { usePathname, useRouter } from "next/navigation";
+import { confidenceLabel, groupLabel } from "@/lib/format";
 import type { EdgeRecord, PersonRecord } from "@/lib/types";
 
 const GROUP_COLOR: Record<PersonRecord["group"], string> = {
@@ -92,6 +93,9 @@ export function NetworkGraph({ people, edges, counts, initialSelected }: Props) 
         <span><span className="dot" style={{ background: GROUP_COLOR.master }} /> Master</span>
         <span><span className="dot" style={{ background: GROUP_COLOR.familia }} /> família / entorno</span>
       </p>
+      <p className="network-mobile-hint muted">
+        No telefone, escolha uma pessoa na lista. O grafo fica abaixo e rola na horizontal.
+      </p>
       <div className="network-wrap">
         <svg
           role="img"
@@ -152,13 +156,13 @@ export function NetworkGraph({ people, edges, counts, initialSelected }: Props) 
 
       {selectedPerson ? (
         <aside className="side-card" style={{ marginTop: 16 }}>
-          <p className="source-pub">{selectedPerson.group}</p>
+          <p className="source-pub">{groupLabel(selectedPerson.group)}</p>
           <h2 style={{ margin: "6px 0" }}>
             <Link href={`/pessoas/${selectedPerson.id}`}>{selectedPerson.name}</Link>
           </h2>
           <p className="muted">{selectedPerson.summary}</p>
           <p>
-            {counts[selectedPerson.id] ?? 0} eventos na timeline
+            {counts[selectedPerson.id] ?? 0} eventos na linha do tempo
           </p>
           <ul>
             {related.map((edge) => {
@@ -174,7 +178,7 @@ export function NetworkGraph({ people, edges, counts, initialSelected }: Props) 
                     {other?.name ?? otherId}
                   </button>
                   {" — "}
-                  {edge.label} ({edge.confidence})
+                  {edge.label} ({confidenceLabel(edge.confidence)})
                 </li>
               );
             })}

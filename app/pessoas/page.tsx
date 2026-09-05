@@ -24,7 +24,7 @@ export default async function PeopleIndexPage({
       <header className="hero">
         <h1>Índice de pessoas</h1>
         <p className="lede">
-          Nomes que atravessam a timeline. A ficha descreve o papel nas fontes; o
+          Nomes que atravessam o arquivo. A ficha descreve o papel nas fontes; o
           vínculo com Vorcaro aparece na rede e nos eventos.
         </p>
       </header>

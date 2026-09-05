@@ -25,12 +25,12 @@ export default async function NetworkPage({
       <header className="hero">
         <h1>Rede de interlocução</h1>
         <p className="lede">
-          Vorcaro no centro. As arestas vêm das fontes — contrato, intermediação, evento,
-          recado, investigação. Clique num nó para ler o vínculo. Confiança baixa ou média
+          Vorcaro no centro. As arestas vêm das fontes — contrato, intermediação, encontro,
+          recado, investigação. Clique num nome para ler o vínculo. Confiança baixa ou média
           não some: aparece marcada.
         </p>
         <div className="caveat">
-          Esta vista é um índice de coocorrência sourced, não um grafo de culpa. Encontros
+          Esta vista é um índice de coocorrência com fonte, não um grafo de culpa. Encontros
           reconstruídos a partir de mensagens de Vorcaro a terceiros não equivalem a
           confirmação independente da presença do outro.
         </div>

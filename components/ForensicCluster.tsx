@@ -2,7 +2,6 @@
 
 import { useEffect, useState } from "react";
 import { ClusterRow } from "@/components/ClusterRow";
-import { EventCard } from "@/components/EventCard";
 import { confidenceLabel, formatDate, formatMonthHead, monthKey } from "@/lib/format";
 import type { EventRecord } from "@/lib/types";
 

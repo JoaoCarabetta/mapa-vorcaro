@@ -24,9 +24,9 @@ export default async function HomePage({
     <div className="wrap">
       <header className="hero">
         <p className="brand-kicker">Daniel Bueno Vorcaro · Banco Master · poder</p>
-        <h1>Uma timeline sourced da interlocução com o poder</h1>
+        <h1>A cronologia documentada da interlocução com o poder</h1>
         <p className="lede">
-          Mapa Vorcaro reúne eventos da trajetória do banqueiro e das peças públicas da
+          Arquivo jornalístico da trajetória do banqueiro e das peças públicas da
           PET 16.662 — mensagens, contratos, fórum de Londres, BRB e Operação Compliance Zero.
           Cada ficha cita ao menos uma URL. O que não tem fonte não entra.
         </p>

@@ -378,13 +378,13 @@ export function TimelineExplorer({
     <section>
       <form className="filters" onSubmit={(e) => e.preventDefault()} role="search">
         <label className="sr-only" htmlFor="busca">
-          Busca em título, resumo, pessoas, tags e fontes
+          Busca em título, resumo, pessoas, temas e fontes
         </label>
         <div className="filters-grid">
           <input
             id="busca"
             className="search"
-            placeholder="Buscar na timeline (texto, pessoas, fontes…)"
+            placeholder="Buscar no arquivo (texto, pessoas, fontes…)"
             value={q}
             onChange={(e) => {
               setQ(e.target.value);
@@ -414,9 +414,9 @@ export function TimelineExplorer({
               setTag(e.target.value);
               writeQuery({ tag: e.target.value });
             }}
-            aria-label="Filtrar por tag"
+            aria-label="Filtrar por tema"
           >
-            <option value="">Todas as tags</option>
+            <option value="">Todos os temas</option>
             {tags.map((t) => (
             <option key={t} value={t}>
               {tagLabel(t)}
@@ -519,7 +519,7 @@ export function TimelineExplorer({
         <div className="empty">
           <p>Nenhum evento corresponde a esses filtros.</p>
           <button type="button" className="btn secondary" onClick={reset}>
-            Limpar e voltar à timeline completa
+            Limpar e voltar ao arquivo completo
           </button>
         </div>
       ) : (

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ClusterRow } from "@/components/ClusterRow";
+import { groupLabel } from "@/lib/format";
 import { eventsForPerson, loadEdges, loadPeople } from "@/lib/load";
 import type { Metadata } from "next";
 
@@ -27,7 +28,7 @@ export default async function PersonPage({ params }: Props) {
   return (
     <div className="wrap">
       <p className="brand-kicker">
-        <Link href="/pessoas">Pessoas</Link> · {person.group}
+        <Link href="/pessoas">Pessoas</Link> · {groupLabel(person.group)}
       </p>
       <h1>{person.name}</h1>
       <p className="lede">{person.summary}</p>
@@ -54,7 +55,7 @@ export default async function PersonPage({ params }: Props) {
             })}
           </ul>
           <p>
-            <Link href={`/rede?pessoa=${id}`}>Ver na visualização de rede</Link>
+            <Link href={`/rede?pessoa=${id}`}>Ver na rede de interlocução</Link>
           </p>
         </div>
       ) : null}

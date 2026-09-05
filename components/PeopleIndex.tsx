@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 import { useMemo, useState } from "react";
+import { groupLabel } from "@/lib/format";
 import type { PersonRecord } from "@/lib/types";
 
 const GROUP_ORDER: PersonRecord["group"][] = [
@@ -13,15 +14,6 @@ const GROUP_ORDER: PersonRecord["group"][] = [
   "master",
   "familia",
 ];
-
-const GROUP_LABEL: Record<PersonRecord["group"], string> = {
-  nucleo: "Núcleo",
-  poder: "Poder",
-  estado: "Estado / BC / Justiça",
-  intermediario: "Intermediários",
-  master: "Master",
-  familia: "Família / entorno",
-};
 
 type PersonCard = PersonRecord & { eventCount: number };
 
@@ -43,7 +35,7 @@ function PersonTile({
   return (
     <article className={pinned ? "person-card person-card-pinned" : "person-card"}>
       <Link href={`/pessoas/${person.id}`} className="person-card-link">
-        <div className="source-pub">{GROUP_LABEL[person.group]}</div>
+        <div className="source-pub">{groupLabel(person.group)}</div>
         <h2 style={{ margin: "8px 0 6px" }}>{person.name}</h2>
         <p className="muted">{person.roles[0]}</p>
         <p>
@@ -57,7 +49,7 @@ function PersonTile({
           aria-pressed={pinned}
           onClick={() => onPin(person.id)}
         >
-          {pinned ? "soltar" : "fixar"}
+          {pinned ? "desafixar" : "fixar no topo"}
         </button>
       </div>
     </article>
@@ -120,7 +112,7 @@ export function PeopleIndex({ people, initialQ = "", initialPin = "" }: Props) {
       <form className="filters" onSubmit={(e) => e.preventDefault()} role="search">
         <input
           className="search"
-          placeholder="Buscar pessoa (nome, papel, alias…)"
+          placeholder="Buscar pessoa (nome, papel, apelido…)"
           value={q}
           onChange={(e) => {
             setQ(e.target.value);
@@ -132,13 +124,13 @@ export function PeopleIndex({ people, initialQ = "", initialPin = "" }: Props) {
       {pinnedPerson ? (
         <section aria-labelledby="pessoa-fixada">
           <h2 className="year-head" id="pessoa-fixada">
-            Fixado
+            Ficha fixada
           </h2>
           <p className="muted">
             <Link href={`/pessoas/${pinnedPerson.id}`}>{pinnedPerson.name}</Link>
             {" · "}
             <button type="button" className="filter-reset" onClick={() => onPin(pinnedPerson.id)}>
-              soltar
+              desafixar
             </button>
           </p>
           <div className="people-grid">
@@ -152,7 +144,7 @@ export function PeopleIndex({ people, initialQ = "", initialPin = "" }: Props) {
       {grouped.map(({ group, people: list }) => (
         <section key={group} aria-labelledby={`grupo-${group}`}>
           <h2 className="year-head" id={`grupo-${group}`}>
-            {GROUP_LABEL[group]}
+            {groupLabel(group)}
           </h2>
           <div className="people-grid">
             {list.map((person) => (

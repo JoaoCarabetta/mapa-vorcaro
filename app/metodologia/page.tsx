@@ -44,17 +44,15 @@ export default function MetodologiaPage() {
       <p>
         O corpus agora tem <strong>{count} fichas</strong> ({press} de imprensa,{" "}
         {primary} com documento primário, peça ou fonte oficial). A autoridade do
-        esquema é <code>content/timeline-eventos.md</code> na <code>main</code> (152
-        cards com https). <code>content/events-from-primary.md</code> é o recorte
-        PET/IPJ-A (128 cards, stream ampliado em <code>1f3de0cb</code>): recorte, não
-        concorrente. Títulos em inglês nesse arquivo já estão em português na
-        timeline; fichas primárias extras só entram no YAML depois de um re-merge da
-        timeline. <code>content/events-from-press.md</code> e{" "}
-        <code>content/resumo-pet16662.md</code> entram só como YAML validado — não como
-        markdown órfão. Páginas de pessoas e arestas da rede saem do campo{" "}
+        esquema é <code>content/timeline-eventos.md</code> ({count} cards com
+        https). <code>content/events-from-primary.md</code> é o recorte PET/IPJ-A
+        (128 cards): recorte, não concorrente. Fichas primárias extras só entram no
+        YAML depois de um re-merge da linha do tempo. <code>content/events-from-press.md</code>{" "}
+        e <code>content/resumo-pet16662.md</code> entram só como YAML validado — não
+        como markdown órfão. Páginas de pessoas e arestas da rede saem do campo{" "}
         <code>people</code> dessas fichas (com <code>id</code> quando o nome é um
-        alias sourced). Não inventamos convidados do fórum de Londres que o card
-        sourced não nomeia — a lista nominativa dali é Moraes, Gonet e Andrei
+        alias com fonte). Não inventamos convidados do fórum de Londres que o card
+        com fonte não nomeia — a lista nominativa dali é Moraes, Gonet e Andrei
         Rodrigues, com a ressalva de confiança média da reportagem.
       </p>
       <p>
@@ -62,16 +60,16 @@ export default function MetodologiaPage() {
         <code>{"{date, title, summary, sources: string[]}"}</code> — hoje {count}{" "}
         fichas http. O validador o regrava a partir do YAML. Lotes PM (batch 1/3 etc.)
         <strong>não são a fonte primária</strong>: se o paste for curto, incompleto ou
-        divergir do markdown da <code>main</code>, o markdown/YAML sourced ganha. Sem
-        URL http, o evento não entra.
+        divergir do markdown, o markdown/YAML com fonte ganha. Sem URL http, o evento
+        não entra.
       </p>
       <p>
-        A tabela compacta do markdown (~150 linhas) também <strong>não</strong> é o
-        esquema do site — ver <a href="#tabela-compacta-150">contagem 150 vs 152</a>.
+        A tabela compacta do markdown também <strong>não</strong> é o esquema do
+        site — ver <a href="#tabela-compacta-150">cards completos vs tabela</a>.
         Um audit editorial flagrou URL do perfil Valor “forasteiro” (3 abr 2025)
-        colada em fichas que não são bio. Os cards completos (152) e o YAML é que
+        colada em fichas que não são bio. Os cards completos ({count}) e o YAML é que
         mandam. A URL do perfil Valor só entra em ficha de bio ou como corroboração
-        explícita (ex.: Reag/Mansur no Will).
+        explícita.
       </p>
 
       <h2>O que não entra</h2>
@@ -89,10 +87,10 @@ export default function MetodologiaPage() {
       <h2>Campos</h2>
       <ul>
         <li><strong>date_precision</strong> — <code>day</code>, <code>month</code> ou <code>year</code> quando a fonte é vaga.</li>
-        <li><strong>evidence_type</strong> — press, primary_document, court, official, other.</li>
+        <li><strong>evidence_type</strong> — imprensa, documento primário, peça judicial, fonte oficial, outra.</li>
         <li><strong>confidence</strong> — alta quando o documento é direto; média quando a imputação é de agenda, reenvio ou recado a terceiro; baixa quando a fonte é única e indireta.</li>
         <li><strong>quote</strong> — só texto que aparece na fonte, grafia original inclusive.</li>
-        <li><strong>cluster_id / cluster_role</strong> — carimbos de tempo (Notas para WhatsApp, 28/out–17/nov/2025) entram no YAML um a um; na timeline aparecem sob o grupo do dia.</li>
+        <li><strong>cluster_id / cluster_role</strong> — carimbos de tempo (Notas para WhatsApp, 28/out–17/nov/2025) entram no YAML um a um; na linha do tempo aparecem sob o grupo do dia.</li>
       </ul>
 
       <h2>Grupos do dia</h2>
@@ -101,8 +99,8 @@ export default function MetodologiaPage() {
         interface os agrupa em grupos diários. Fechado: data em português, fio
         (“Notas para WhatsApp” ou “Vários fios”), número de fichas daquele dia e
         microfichas empilhadas (título · evidência · publisher), em ordem cronológica
-        pelo relógio UTC do carimbo — nunca A–Z do título. Aberto
-        (<code>?dia=AAAA-MM-DD</code>): as fichas completas do dia, na mesma ordem.
+        pelo relógio UTC do carimbo — nunca A–Z do título.         Aberto
+        (<code>?dia=AAAA-MM-DD</code>): as microfichas do dia, na mesma ordem.
         A ficha isolada também é um cartão completo; o detalhe com fontes fica em{" "}
         <code>/eventos/…</code>. Não inventamos teor de nota cujo OCR não está no
         material.
@@ -115,10 +113,10 @@ export default function MetodologiaPage() {
         não um inventário YAML. O site conta {forensicChildren} filhos com{" "}
         <code>cluster_role: child</code>. Não arredondamos de volta para 53.
       </p>
-      <h3 id="tabela-compacta-150">Tabela compacta ~150 vs 152 cards</h3>
+      <h3 id="tabela-compacta-150">Tabela compacta vs cards completos</h3>
       <p>
-        A tabela compacta do markdown (~150 linhas) <strong>não</strong> é o esquema
-        do site. Os cards completos são 152; a diferença é dedupe suave (gêmeos
+        A tabela compacta do markdown <strong>não</strong> é o esquema do site. Os
+        cards completos são {count}; a diferença para a tabela é dedupe suave (gêmeos
         compactos / linhas fundidas), não perda de fato. YAML e cards completos mandam.
       </p>
 

@@ -2,7 +2,7 @@
 
 Arquivo jornalístico em português do Brasil sobre **Daniel Bueno Vorcaro** (Banco Master / Operação Compliance Zero) e a interlocução com o poder. Cada evento cita fonte. O que não tem URL não entra.
 
-Site: timeline, ficha de evento, índice de pessoas, rede, busca, filtros, metodologia e exportação JSON/CSV.
+Site: linha do tempo, ficha de evento, índice de pessoas, rede, busca, filtros, metodologia e exportação JSON/CSV.
 
 ## Princípio
 
@@ -80,12 +80,23 @@ app/             # Next.js App Router
 
 ## Deploy (Vercel)
 
-1. Importe o repositório `JoaoCarabetta/mapa-vorcaro`.
-2. Framework: Next.js (detectado). Comando de build: `npm run build`.
-3. Sem banco. Sem variáveis obrigatórias.
-4. `vercel.json` está no root.
+URL pública estável: **[https://mapa-vorcaro.vercel.app](https://mapa-vorcaro.vercel.app)**
 
-O build revalida o corpus. Evento sem fonte derruba o deploy.
+O site é Next.js 15 (App Router), Node 20+, sem banco e sem variáveis obrigatórias. `vercel.json` no root fixa o framework, `npm ci` e `npm run build` (o build revalida o corpus; evento sem fonte derruba o deploy). Região: `gru1` (São Paulo).
+
+### Primeira ligação do repositório
+
+1. Em [vercel.com/new](https://vercel.com/new), importe `JoaoCarabetta/mapa-vorcaro`.
+2. Framework: Next.js (já detectado). Build: `npm run build`. Output: padrão `.next`.
+3. Projeto: `mapa-vorcaro` — o domínio de produção fica `mapa-vorcaro.vercel.app`.
+4. Produção acompanha `main`. Preview de cada push em `cursor/mapa-vorcaro-completo-c83a` (PR #8) gera URL `*.vercel.app` no check do GitHub.
+
+CLI (opcional):
+
+```bash
+npx vercel link --yes --project mapa-vorcaro
+npx vercel --prod --yes
+```
 
 ## Ressalvas (também na UI)
 
