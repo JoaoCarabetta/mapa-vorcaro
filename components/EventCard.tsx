@@ -58,6 +58,12 @@ export function EventCard({ event, compact = false }: Props) {
             </a>
           </p>
         ) : null}
+        {event.notes && event.cluster_role !== "child" ? (
+          <div className="caveat event-card-caveat">
+            <strong>Nota de método.</strong>{" "}
+            {event.notes.replace(/\s+/g, " ").trim()}
+          </div>
+        ) : null}
       </div>
     </article>
   );

@@ -141,6 +141,10 @@ button, input, select { font: inherit; }
   color: var(--ink-soft);
 }
 .caveat strong { color: var(--ink); }
+.event-card-caveat {
+  margin-top: 10px;
+  padding: 10px 12px;
+}
 
 .filters {
   display: grid;
