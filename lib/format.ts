@@ -72,6 +72,7 @@ const TAG_LABELS: Record<string, string> = {
   politica: "política",
   aeronaves: "aeronaves",
   lux: "luxo",
+  "first-business": "primeiro negócio",
   education: "formação",
   multipar: "Multipar",
   fasano: "Fasano",
