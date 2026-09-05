@@ -67,7 +67,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Rótulo de agenda ≠ dono do chip comprovado: a PF atribui o terminal ao rótulo salvo; o celular de
+    Agenda label ≠ proven chip owner: a PF atribui o terminal ao rótulo salvo; o celular de
     Moraes não foi periciado neste IPJ-A.; mandatory agenda≠owner warning
 - id: 2023-12-27-fabio-fala-de-almoco-de-alex-no-six-senses
   date: "2023-12-27"
@@ -457,9 +457,9 @@
   date_precision: month
   title: Master assume o controle do Will Bank
   summary: >-
-    Multiple outlets: Master announced Will Bank purchase in February 2024, expanding
-    digital retail. Later BRB deal perimeter included Will/Credcesta. InfoMoney quotes
-    Vorcaro on complete digital ecosystem.
+    Vários veículos: o Master anuncia em fevereiro de 2024 a compra do Will Bank, ampliando
+    o varejo digital. O perímetro posterior do negócio com o BRB inclui Will/Credcesta.
+    InfoMoney cita Vorcaro sobre um “ecossistema digital completo”.
   people:
     - name: Daniel Bueno Vorcaro
       id: daniel-bueno-vorcaro
@@ -485,9 +485,9 @@
   date_precision: day
   title: Anotações de networking social/político intermediado por Faria
   summary: >-
-    Press/PF chronology: Feb/2024 Brasília encounter via Faria; Apr/2024 messages about
-    inviting “DPF Andrei” / closing “PGR and DPF”. Published as PF-extracted notes — not
-    proof of acceptance by named authorities.
+    Cronologia imprensa/PF: encontro em Brasília (fev/2024) via Faria; mensagens de abr/2024
+    sobre convite ao “DPF Andrei” / fechamento “PGR e DPF”. Publicado como notas extraídas
+    pela PF — não prova de aceitação pelas autoridades nomeadas.
   people:
     - name: Fábio Faria
       id: fabio-faria
@@ -788,11 +788,11 @@
   date_precision: month
   title: Banco de Brasília injeta liquidez via compra de carteiras de crédito do Master
   summary: >-
-    Estadão (Apr/2026): dialogues show Master relied on BRB injections at least since
-    Aug/2024 to cover liquidity; cessions of consignado/CCB begin Jul/2024. Folha (Mar/2025
-    deal story): partnership began Jul/2024 with consignado cessions; acquisition talks late
-    2024. Later PF thesis: after genuine books, fake Tirreno-linked books from early 2025
-    (~R$12.2 bi total alleged).
+    Estadão (abr/2026): diálogos mostram que o Master dependia de injeções do BRB pelo menos
+    desde ago/2024 para cobrir liquidez; cessões de consignado/CCB começam em jul/2024.
+    Folha (negócio mar/2025): parceria desde jul/2024 com cessões de consignado; conversas
+    de aquisição no fim de 2024. Tese posterior da PF: após carteiras genuínas, livros
+    ligados à Tirreno alegadamente falsos a partir do início de 2025 (~R$12,2 bi no total).
   people:
     - name: Daniel Bueno Vorcaro
       id: daniel-bueno-vorcaro
@@ -877,11 +877,11 @@
   date_precision: day
   title: Encontro no Planalto antes do escândalo público do Master
   summary: >-
-    Folha: Lula received Vorcaro on 4 Dec 2024; Vorcaro accompanied by Guido Mantega and
-    Augusto Lima. Lula called ministers Rui Costa and Alexandre Silveira plus then-BC
-    director Gabriel Galípolo. Vorcaro complained about bank-market concentration; Lula said
-    BC should analyze technically. At least three SRI gate records of Vorcaro visits. Story
-    confirmed after Lauro Jardim/Metrópoles naming of participants.
+    Folha: Lula recebe Vorcaro em 4/12/2024; Vorcaro acompanhado de Guido Mantega e Augusto
+    Lima. Lula chama os ministros Rui Costa e Alexandre Silveira e o então diretor do BC
+    Gabriel Galípolo. Vorcaro reclama de concentração no mercado bancário; Lula diz que o BC
+    deve analisar tecnicamente. Ao menos três registros de portaria da SRI com visitas de
+    Vorcaro. História confirmada após Lauro Jardim/Metrópoles nomearem os participantes.
   people:
     - name: Lula
     - name: Daniel Bueno Vorcaro

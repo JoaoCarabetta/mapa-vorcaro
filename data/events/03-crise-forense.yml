@@ -3,12 +3,12 @@
   date_precision: day
   title: "Auge da crise: notas pedindo intervenção de Galípolo/Andrei/Paulo"
   summary: >-
-    O Globo “13 days”: Vorcaro wrote Notes → screenshot → WhatsApp view-once to
-    Moraes-labeled number, seeking to stop liquidation and PF action. Dense 30/10 notes
-    about BC pressure, “G”/directors, lists of people allegedly visiting Bacen, ask to
-    reinforce with Andrei and Paulo. 14–17/11 gratitude and “atrasar”/“banco não
-    quebra”/“estou online” sequence. Interlocutor replies mostly unrecovered (👍, view-once
-    empties).
+    O Globo “13 days”: Vorcaro escreve Notas → print → WhatsApp view-once ao número rotulado
+    Moraes, buscando barrar liquidação e ação da PF. Notas densas de 30/10 sobre pressão do
+    BC, “G”/diretores, listas de pessoas que teriam ido ao Bacen, pedido para reforçar com
+    Andrei e Paulo. Sequência 14–17/11 de agradecimento e “atrasar”/“banco não
+    quebra”/“estou online”. Respostas do interlocutor em grande parte não recuperadas (👍,
+    view-once vazios).
   people:
     - name: Daniel Bueno Vorcaro
       id: daniel-bueno-vorcaro
@@ -69,8 +69,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-10-28
   cluster_role: child
 - id: 2025-10-28-primeira-nota-forense-da-janela-de-crise-enviada-ao-n-moraes-brasilia
@@ -117,8 +117,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor
-    em geral não recuperadas. Texto integral desta nota específica não está em OCR de forma
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
+    em geral não recuperadas. Texto integral desta nota específica não está OCR’d de forma
     legível no .txt; evento ancorado nos metadados forenses.
   cluster_id: forense-2025-10-28
   cluster_role: parent
@@ -154,8 +154,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-10-30
   cluster_role: child
 - id: 2025-10-30-nota-forense-whatsapp-16-32-31-utc-andrei-e-paulo-bacen-pressao
@@ -190,8 +190,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-10-30
   cluster_role: child
 - id: 2025-10-30-nota-forense-whatsapp-16-38-17-utc-lista-nomes-bacen
@@ -226,8 +226,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-10-30
   cluster_role: child
 - id: 2025-10-30-nota-forense-whatsapp-16-40-53-utc
@@ -262,8 +262,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-10-30
   cluster_role: child
 - id: 2025-10-30-nota-forense-whatsapp-16-44-43-utc-amigos-dentro-do-bacen-cuidado-com-g
@@ -298,8 +298,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-10-30
   cluster_role: child
 - id: 2025-10-30-nota-forense-whatsapp-16-51-38-utc
@@ -334,8 +334,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-10-30
   cluster_role: child
 - id: 2025-10-30-nota-forense-whatsapp-16-55-29-utc
@@ -370,8 +370,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-10-30
   cluster_role: child
 - id: 2025-10-30-notas-densas-bacen-andrei-paulo-lista-de-nomes-g-sob-pressao
@@ -426,7 +426,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
     em geral não recuperadas. PF interpreta Andrei≈Andrei Passos (DG/PF) e Paulo≈Paulo Gonet
     (PGR); “G” pode ser Galípolo — hipótese, não prova biográfica.
   cluster_id: forense-2025-10-30
@@ -463,8 +463,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-04
   cluster_role: child
 - id: 2025-11-04-nota-forense-whatsapp-20-43-30-utc-busca-quebra-sig
@@ -499,8 +499,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-04
   cluster_role: child
 - id: 2025-11-04-nota-forense-whatsapp-20-51-18-utc
@@ -535,8 +535,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-04
   cluster_role: child
 - id: 2025-11-04-nota-forense-whatsapp-20-52-44-utc
@@ -571,8 +571,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-04
   cluster_role: child
 - id: 2025-11-04-nota-forense-whatsapp-21-15-06-utc
@@ -607,8 +607,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-04
   cluster_role: child
 - id: 2025-11-04-nota-forense-whatsapp-22-09-18-utc
@@ -643,8 +643,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-04
   cluster_role: child
 - id: 2025-11-04-nota-forense-whatsapp-23-44-51-utc-vai-tudo-por-agua-abaixo
@@ -679,8 +679,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-04
   cluster_role: child
 - id: 2025-11-04-notas-busca-quebra-de-sigilo-vai-tudo-por-agua-abaixo
@@ -728,7 +728,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
     em geral não recuperadas.
   cluster_id: forense-2025-11-04
   cluster_role: parent
@@ -764,8 +764,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-05
   cluster_role: child
 - id: 2025-11-05-nota-forense-whatsapp-11-17-06-utc
@@ -800,8 +800,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-05
   cluster_role: child
 - id: 2025-11-05-nota-forense-whatsapp-17-10-51-utc-nao-fazer-movimento-sem-aval
@@ -836,8 +836,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-05
   cluster_role: child
 - id: 2025-11-05-nota-forense-whatsapp-22-05-41-utc-bloquear-maldade-sacanagem
@@ -872,8 +872,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-05
   cluster_role: child
 - id: 2025-11-05-notas-nao-vou-fazer-nenhum-movimento-que-voce-nao-achar-produtivo
@@ -923,7 +923,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
     em geral não recuperadas.
   cluster_id: forense-2025-11-05
   cluster_role: parent
@@ -959,8 +959,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-06
   cluster_role: child
 - id: 2025-11-06-nota-forense-whatsapp-23-56-59-utc
@@ -995,8 +995,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-06
   cluster_role: child
 - id: 2025-11-06-novos-envios-de-notas-prints-ao-contato-moraes-brasilia
@@ -1005,7 +1005,7 @@
   title: Novos envios de notas/prints ao contato Moraes BRASILIA
   summary: >-
     PF registra múltiplas cadeias forenses Notas→WhatsApp neste dia (envios ~16:26–22:33
-    UTC-3). Texto integral de cada nota não está todo em OCR no .txt; episódio documentado
+    UTC-3). Texto integral de cada nota não totalmente OCR’d no .txt; episódio documentado
     pelos timestamps 1:1.
   people:
     - name: Daniel Bueno Vorcaro
@@ -1043,9 +1043,9 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
     em geral não recuperadas. Sem transcrição jornalística específica isolada para 06/11 nas
-    fontes locais; alta para o fato do envio, média para o teor.
+    fontes locais; high para o fato do envio, medium para o teor.
   cluster_id: forense-2025-11-06
   cluster_role: parent
 - id: 2025-11-07-nota-forense-whatsapp-01-18-10-utc-pier-estrategia-judicial
@@ -1080,8 +1080,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-07
   cluster_role: child
 - id: 2025-11-07-nota-forense-whatsapp-01-33-18-utc
@@ -1116,8 +1116,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-07
   cluster_role: child
 - id: 2025-11-07-nota-sobre-estrategia-judicial-e-pier
@@ -1166,7 +1166,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
     em geral não recuperadas.
   cluster_id: forense-2025-11-07
   cluster_role: parent
@@ -1213,7 +1213,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
     em geral não recuperadas. Teor não transcrito nas fontes locais usadas.
   cluster_id: forense-2025-11-10
   cluster_role: parent
@@ -1249,8 +1249,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-10
   cluster_role: child
 - id: 2025-11-11-envio-forense-de-nota-ao-n-moraes-brasilia
@@ -1294,7 +1294,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
     em geral não recuperadas. Teor não transcrito nas fontes locais usadas.
   cluster_id: forense-2025-11-11
   cluster_role: parent
@@ -1330,8 +1330,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-11
   cluster_role: child
 - id: 2025-11-12-cluster-de-notas-prints-pela-manha-4-envios-forenses
@@ -1377,7 +1377,7 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
     em geral não recuperadas.
   cluster_id: forense-2025-11-12
   cluster_role: parent
@@ -1413,8 +1413,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-12
   cluster_role: child
 - id: 2025-11-12-nota-forense-whatsapp-12-20-33-utc
@@ -1449,8 +1449,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-12
   cluster_role: child
 - id: 2025-11-12-nota-forense-whatsapp-12-21-07-utc
@@ -1485,8 +1485,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-12
   cluster_role: child
 - id: 2025-11-12-nota-forense-whatsapp-12-37-25-utc
@@ -1521,8 +1521,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-12
   cluster_role: child
 - id: 2025-11-14-nota-de-gratidao-divida-de-vida-contigo-e-com-a-sua-familia
@@ -1572,7 +1572,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
     em geral não recuperadas.
   cluster_id: forense-2025-11-14
   cluster_role: parent
@@ -1608,8 +1608,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-14
   cluster_role: child
 - id: 2025-11-14-nota-forense-whatsapp-13-03-36-utc
@@ -1644,8 +1644,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-14
   cluster_role: child
 - id: 2025-11-14-nota-forense-whatsapp-21-19-42-utc
@@ -1680,8 +1680,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-14
   cluster_role: child
 - id: 2025-11-15-acha-que-segunda-ja-tenho-que-estar-fora-ricardo-galipolo-paulo-andrei
@@ -1731,7 +1731,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
     em geral não recuperadas.
   cluster_id: forense-2025-11-15
   cluster_role: parent
@@ -1767,8 +1767,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-15
   cluster_role: child
 - id: 2025-11-15-nota-forense-whatsapp-21-23-12-utc
@@ -1803,8 +1803,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-15
   cluster_role: child
 - id: 2025-11-15-nota-forense-whatsapp-22-43-40-utc-paulo-ou-andrei-reverter
@@ -1839,8 +1839,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-15
   cluster_role: child
 - id: 2025-11-16-auge-atrasar-com-andrei-galipolo-bomba-atomica-desarmar
@@ -1891,7 +1891,7 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Conteúdo enviado como print de Notas (muitas vezes visualização única). Respostas do interlocutor
+    Conteúdo enviado como print de Notas (muitas vezes view-once). Respostas do interlocutor
     em geral não recuperadas.
   cluster_id: forense-2025-11-16
   cluster_role: parent
@@ -1927,8 +1927,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
 - id: 2025-11-16-nota-forense-whatsapp-00-33-44-utc
@@ -1963,8 +1963,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
 - id: 2025-11-16-nota-forense-whatsapp-00-41-23-utc
@@ -1999,8 +1999,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
 - id: 2025-11-16-nota-forense-whatsapp-00-49-24-utc
@@ -2035,8 +2035,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
 - id: 2025-11-16-nota-forense-whatsapp-01-03-07-utc
@@ -2071,8 +2071,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
 - id: 2025-11-16-nota-forense-whatsapp-01-05-55-utc
@@ -2107,8 +2107,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
 - id: 2025-11-16-nota-forense-whatsapp-01-12-15-utc
@@ -2143,8 +2143,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
 - id: 2025-11-16-nota-forense-whatsapp-01-28-17-utc
@@ -2179,8 +2179,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
 - id: 2025-11-16-nota-forense-whatsapp-01-43-41-utc
@@ -2215,8 +2215,8 @@
   evidence_type: primary_document
   confidence: medium
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
 - id: 2025-11-16-nota-forense-whatsapp-16-39-51-utc-andrei-atrasar-banco-nao-quebra
@@ -2251,8 +2251,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
 - id: 2025-11-16-nota-forense-whatsapp-19-57-22-utc-amanha-de-manha
@@ -2287,8 +2287,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
 - id: 2025-11-16-nota-forense-whatsapp-21-19-59-utc-galipolo-bomba-atomica-desarmar
@@ -2323,8 +2323,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-16
   cluster_role: child
 - id: 2025-11-17-dia-da-decisao-de-prisao-chat-estou-online-5-view-once
@@ -2377,8 +2377,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única incompleta. Preferir 20h48 (UTC-3) do relatório/anexo; algumas matérias citam
-    23h48. Rótulo de agenda ≠ dono do chip.
+    View-once incomplete. Preferir 20h48 (UTC-3) do relatório/anexo; algumas matérias citam
+    23h48. Agenda label ≠ chip owner.
   cluster_id: forense-2025-11-17
   cluster_role: parent
 - id: 2025-11-17-nota-forense-whatsapp-10-18-39-utc-turma-do-brb-sacanagem
@@ -2413,8 +2413,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-17
   cluster_role: child
 - id: 2025-11-17-nota-forense-whatsapp-20-22-22-utc-anunciar-parte-da-transacao
@@ -2449,8 +2449,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-17
   cluster_role: child
 - id: 2025-11-17-nota-forense-whatsapp-20-26-02-utc-alguma-novidade-bloquear
@@ -2485,8 +2485,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-17
   cluster_role: child
 - id: 2025-11-17-nota-forense-whatsapp-22-58-38-utc-alguma-novidade-reprise
@@ -2521,8 +2521,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-17
   cluster_role: child
 - id: 2025-11-17-nota-forense-whatsapp-23-48-12-utc-estou-online
@@ -2557,8 +2557,8 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip. Não duplica prova além do
-    carimbo/tema já citado nas seções temáticas do dia.
+    View-once/disappearing incomplete; agenda label ≠ chip owner. Não duplica prova além do
+    timestamp/tema já citado nas seções temáticas do dia.
   cluster_id: forense-2025-11-17
   cluster_role: child
 - id: 2025-11-17-ultima-linha-de-whatsapp-reproduzida-antes-da-prisao
@@ -2566,10 +2566,10 @@
   date_precision: day
   title: Última linha de WhatsApp reproduzida antes da prisão
   summary: >-
-    Poder360: at 20:48 (UTC-3) Vorcaro wrote he was going to sign with foreign investors and
-    was “online”; reaction logged as 👍. Prison warrant signed 15:29 same day (Poder360) by
-    judge Ricardo Augusto Soares Leite; arrest at GRU while preparing private jet (Malta
-    then Dubai per Poder360; Dubai per O Globo).
+    Poder360: às 20:48 (UTC-3) Vorcaro escreve que ia assinar com investidores estrangeiros
+    e que estava “online”; reação registrada com 👍. Mandado de prisão assinado às 15:29 no
+    mesmo dia (Poder360) pelo juiz Ricardo Augusto Soares Leite; prisão no GRU ao preparar
+    jato particular (Malta e depois Dubai no Poder360; Dubai no O Globo).
   people:
     - name: Daniel Bueno Vorcaro
       id: daniel-bueno-vorcaro
@@ -2588,17 +2588,17 @@
   evidence_type: press
   confidence: high
   notes: >-
-    Visualização única / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip comprovado.
-    Parte da imprensa situa a prisão na noite do dia 17, parte na manhã do dia 18 — usar a cronologia da PF/Poder360.
+    View-once / mensagens efêmeras incompletas; rótulo de agenda ≠ dono do chip comprovado.
+    some outlets say arrest night of 17 vs morning 18 — use PF/Poder360 chronology
 - id: 2025-11-17-ultima-tentativa-de-oferta-de-consorcio-privado
   date: "2025-11-17"
   date_precision: day
   title: Última tentativa de oferta de consórcio privado
   summary: >-
-    G1/Valor: Fictor Holding Financeira + UAE investors announce acquisition with immediate
-    R$3 bi capital injection; still needs BC/Cade. Same day Vorcaro messages about
-    announcing part of transaction and “batidas do esteves.” Arrest/liquidation next day
-    kill the deal; Fictor suspends.
+    G1/Valor: Fictor Holding Financeira + investidores dos Emirados anunciam aquisição com
+    injeção imediata de R$3 bi; ainda depende de BC/Cade. No mesmo dia Vorcaro troca
+    mensagens sobre anunciar parte da transação e “batidas do esteves.” Prisão/liquidação no
+    dia seguinte derrubam o negócio; Fictor suspende.
   people:
     - name: Rafael Góis / Fictor
     - name: Daniel Bueno Vorcaro

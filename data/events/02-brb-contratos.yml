@@ -89,11 +89,11 @@
   date_precision: day
   title: Anunciado acordo de compra de ações Banco de Brasília–Master
   summary: >-
-    BRB board unanimously approved SPA: 49% of common shares, 100% preferred, 58% total
-    capital. Price = 75% of consolidated equity adjusted after PwC diligence (market ~R$2
-    bi). Subject to Bacen, Cade and others. Aim: incorporate Master into BRB prudential
-    conglomerate; brand to BRB; Vorcaro to BRB board (Folha). Protocol date to BC also cited
-    as 28/03/2025 in later veto notice.
+    Conselho do BRB aprova por unanimidade o SPA: 49% das ON, 100% das PN, 58% do capital
+    total. Preço = 75% do patrimônio consolidado ajustado após due diligence da PwC (mercado
+    ~R$2 bi). Condicionado a Bacen, Cade e demais. Objetivo: incorporar o Master ao
+    conglomerado prudencial do BRB; marca BRB; Vorcaro no conselho do BRB (Folha). Data de
+    protocolo no BC também citada como 28/03/2025 no veto posterior.
   people:
     - name: Paulo Henrique Costa
       id: paulo-henrique-costa
@@ -808,10 +808,10 @@
   date_precision: month
   title: Ibaneis sanciona lei da CLDF que autoriza o BRB a comprar o Master
   summary: >-
-    Agência Brasil: DF governor Ibaneis Rocha sanctioned a district law (CLDF-approved,
-    after judicial demand) authorizing BRB to acquire 49% ON + 100% PN of Master. G1
-    conexões: Ibaneis later said he met Vorcaro only socially; Ciro Nogueira/Antonio Rueda
-    described as political bridges for the deal.
+    Agência Brasil: o governador do DF Ibaneis Rocha sanciona lei distrital (aprovada na
+    CLDF, após demanda judicial) autorizando o BRB a adquirir 49% das ON + 100% das PN do
+    Master. G1 conexões: Ibaneis depois diz ter encontrado Vorcaro só socialmente; Ciro
+    Nogueira/Antonio Rueda descritos como pontes políticas do negócio.
   people:
     - name: Ibaneis Rocha
       id: ibaneis-rocha
@@ -915,9 +915,9 @@
   date_precision: month
   title: Temer diz ter sido chamado a mediar BRB–Master após bloqueio do Banco Central
   summary: >-
-    G1 conexões: ex-president Michel Temer said on Roda Viva (15/09/2025) he was called to
-    Brasília ~two weeks earlier with Vorcaro and Ibaneis wanting mediation to formalize the
-    BRB transaction after the original deal was blocked.
+    G1 conexões: o ex-presidente Michel Temer diz no Roda Viva (15/09/2025) que foi chamado
+    a Brasília cerca de duas semanas antes, com Vorcaro e Ibaneis querendo mediação para
+    formalizar a operação com o BRB após o bloqueio do negócio original.
   people:
     - name: Michel Temer
       id: michel-temer
@@ -945,11 +945,12 @@
   date_precision: day
   title: Bacen indefere pedido do BRB protocolado em 28/03/2025
   summary: >-
-    BRB fato relevante: informed of Bacen denial of request to acquire 49% ON + 100% PN of
-    Master; BRB sought full decision text. Deal had been controversial (high CDB rates,
-    delayed balance sheet, precatórios). Agência Brasil also notes prior BTG symbolic R$1
-    offer to take Master with FGC covering liabilities that stalled among FGC member banks.
-    G1: Cade had cleared in June; BC cited missing economic-financial viability docs.
+    Fato relevante do BRB: o banco é informado da negativa do Bacen ao pedido de aquisição
+    de 49% das ON + 100% das PN do Master; pede a íntegra da decisão. O negócio já era
+    controverso (CDBs com taxas altas, balanço atrasado, precatórios). Agência Brasil
+    registra oferta simbólica anterior do BTG (R$1) para assumir o Master com o FGC cobrindo
+    passivos, que não avançou entre bancos do FGC. G1: Cade liberara em junho; o BC citou
+    ausência de documentos de viabilidade econômico-financeira.
   people:
     - name: Bacen board
     - name: Gabriel Galípolo
@@ -972,9 +973,9 @@
   date_precision: day
   title: Contato rotulado Moraes ativa mensagens efêmeras de 24h
   summary: >-
-    Registro de que o contato “Alexandre de Moraes BRASILIA” passa a adotar, no chat com
-    Vorcaro, configuração padrão de mensagens temporárias com exclusão automática em 24
-    horas.
+    PF/Poder360: o contato configura novos chats para apagar automaticamente após 24h,
+    limitando a recuperação forense das respostas — ressalva-chave para as mensagens da
+    crise dos “13 days”.
   people:
     - name: Daniel Bueno Vorcaro
       id: daniel-bueno-vorcaro
@@ -1002,15 +1003,16 @@
   evidence_type: primary_document
   confidence: high
   notes: >-
-    Visualização única / mensagens efêmeras incompletas: a partir daqui o histórico do chat fica
+    View-once / disappearing messages incomplete: a partir daqui o histórico do chat fica
     estruturalmente incompleto; respostas do interlocutor em geral não recuperadas.
 - id: 2025-09-17-contato-rotulado-moraes-ativa-mensagens-efemeras-de-24h-2
   date: "2025-09-17"
   date_precision: day
   title: Contato rotulado Moraes ativa mensagens efêmeras de 24h
   summary: >-
-    PF/Poder360: contact configured new chats to auto-delete after 24h, limiting forensic
-    recovery of replies — key caveat for later “13 days” crisis messages.
+    PF/Poder360: o contato configura novos chats para apagar automaticamente após 24h,
+    limitando a recuperação forense das respostas — ressalva-chave para as mensagens da
+    crise dos “13 days”.
   people:
     - name: Alexandre de Moraes
       id: alexandre-de-moraes

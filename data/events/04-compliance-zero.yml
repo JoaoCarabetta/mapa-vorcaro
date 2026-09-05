@@ -46,11 +46,12 @@
   date_precision: day
   title: Liquidação extrajudicial e RAET no Master Múltiplo (continuidade do Will)
   summary: >-
-    CNN/G1: BC (Galípolo) decrees liquidação of Banco Master S/A, Master de Investimento,
-    Letsbank, Master Corretora; RAET on Banco Master Múltiplo to preserve Will Financeira
-    path. Controllers’/ex-admins’ assets unavailable. Motive: liquidity crisis,
-    economic-financial deterioration, serious norm violations. Ends Fictor path.
-    Conglomerate ~0.57% SFN assets (BC note in G1).
+    CNN/G1: o BC (Galípolo) decreta liquidação extrajudicial do Banco Master S/A, Master de
+    Investimento, Letsbank e Master Corretora; e RAET no Banco Master Múltiplo para
+    preservar o caminho da Will Financeira. Bens de controladores/ex-administradores
+    indisponíveis. Motivo: crise de liquidez, deterioração econômico-financeira e graves
+    infrações normativas. Encerra a via Fictor. Conglomerado ~0,57% dos ativos do SFN (nota
+    do BC no G1).
   people:
     - name: Gabriel Galípolo
       id: gabriel-galipolo
@@ -77,13 +78,13 @@
   date_precision: day
   title: PF deflagra Compliance Zero; Vorcaro preso
   summary: >-
-    Valor: PF op against false credit titles in SFN; Vorcaro arrested; four other directors
-    also targets (Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva named by
-    day’s end). Five preventive + two temporary warrants, 25 searches across RJ/SP/MG/BA/DF.
-    Probes began 2024 after MPF request: alleged manufacture of weak credit books sold to
-    another bank, later swapped after BC inspection. Crimes: fraudulent/temerarious
-    management, criminal organization, etc. Alleged Master→BRB false portfolios ~R$12 bi
-    (resumo/Estadão).
+    Valor: a PF deflagra operação contra títulos de crédito falsos no SFN; Vorcaro é preso;
+    outros quatro dirigentes também são alvos (Augusto Lima, Luiz Antônio Bull, Alberto
+    Felix, Ângelo Silva, citados até o fim do dia). Cinco mandados preventivos + dois
+    temporários; 25 buscas em RJ/SP/MG/BA/DF. Investigações desde 2024 a pedido do MPF:
+    alegada fabricação de carteiras fracas vendidas a outro banco e trocadas após
+    fiscalização do BC. Crimes apontados: gestão fraudulenta/temerária, organização
+    criminosa etc. Carteiras Master→BRB alegadamente falsas ~R$12 bi (resumo/Estadão).
   people:
     - name: Daniel Bueno Vorcaro
       id: daniel-bueno-vorcaro
@@ -267,10 +268,11 @@
   date_precision: day
   title: Toffoli coloca inquérito do Master sob sigilo no STF
   summary: >-
-    G1: after defense forum claims, Min. Dias Toffoli on ~3 Dec put case under secrecy and
-    pulled inquiry to STF citing a federal deputy with privileged forum; justified by
-    sensitive economic info. Same week press noted Toffoli travel with Master-linked lawyer
-    Arruda Botelho (Toffoli said process not discussed).
+    G1: após alegações de foro da defesa, o min. Dias Toffoli, por volta de 3/12, coloca o
+    caso sob sigilo e atrai o inquérito ao STF citando deputado federal com foro
+    privilegiado; justifica com informações econômicas sensíveis. Na mesma semana a imprensa
+    registra viagem de Toffoli com o advogado Arruda Botelho, ligado ao Master (Toffoli diz
+    que o processo não foi discutido).
   people:
     - name: Dias Toffoli
       id: dias-toffoli
@@ -296,10 +298,10 @@
   date_precision: day
   title: Buscas em endereços da família Vorcaro, Zettel, Tanure e Mansur
   summary: >-
-    G1: second phase — searches at addresses linked to Vorcaro, father, sister,
-    brother-in-law Fabiano Zettel; also Nelson Tanure and João Carlos Mansur (Reag). ~42
-    addresses; Toffoli-authorized; asset freezes >R$5.7 bi. Haddad called it possibly
-    Brazil’s largest bank fraud; FGC exposure ~R$41 bi CDBs / ~1.6 mi investors cited.
+    G1: segunda fase — buscas em endereços ligados a Vorcaro, pai, irmã, cunhado Fabiano
+    Zettel; também Nelson Tanure e João Carlos Mansur (Reag). ~42 endereços; autorização de
+    Toffoli; bloqueios >R$5,7 bi. Haddad fala em possível maior fraude bancária do Brasil;
+    exposição do FGC ~R$41 bi em CDBs / ~1,6 mi investidores citados.
   people:
     - name: Daniel Bueno Vorcaro
       id: daniel-bueno-vorcaro
@@ -382,9 +384,10 @@
   date_precision: day
   title: Segunda prisão preventiva; Zettel também detido
   summary: >-
-    Valor/CNN/G1: new STF warrants; Vorcaro and Zettel arrested in SP/MG; PF alleges
-    continued concealment of billions after first release. Custody hearing keeps them in
-    state prison (CDP Guarulhos). Later STF 2ª Turma maintains (13/03 per CNN timeline).
+    Valor/CNN/G1: novos mandados do STF; Vorcaro e Zettel presos em SP/MG; PF alega
+    continuidade de ocultação de bilhões após a primeira soltura. Audiência de custódia
+    mantém ambos em prisão estadual (CDP Guarulhos). Depois a 2ª Turma do STF mantém (13/03
+    na linha do tempo da CNN).
   people:
     - name: Daniel Bueno Vorcaro
       id: daniel-bueno-vorcaro
@@ -404,9 +407,10 @@
   date_precision: day
   title: "4ª fase: PH Costa preso por negócios de carteira do Master"
   summary: >-
-    Estadão: ex-BRB president Paulo Henrique Costa arrested in 4th Compliance Zero phase on
-    suspicion of corruption / irregularities in purchase of R$12.2 bi alleged false Master
-    portfolios. Piece publishes 2024 Vorcaro–Lima urgency chats on BRB money.
+    Estadão: o ex-presidente do BRB Paulo Henrique Costa é preso na 4ª fase da Compliance
+    Zero sob suspeita de corrupção/irregularidades na compra de ~R$12,2 bi em carteiras
+    alegadamente falsas do Master. A reportagem publica diálogos de urgência Vorcaro–Lima
+    (2024) sobre dinheiro do BRB.
   people:
     - name: Paulo Henrique Costa
       id: paulo-henrique-costa
@@ -498,10 +502,10 @@
   date_precision: day
   title: IPJ-A 3298613/2026 no iPhone de Vorcaro → PET 16.662
   summary: >-
-    Poder360: after Mendonça’s 72h order to map “rede de influência e monitoramento,” PF
-    delivers non-exhaustive 218-p analysis of iPhone 17 Pro seized at arrest
-    (Cellebrite/IPED). Covers Moraes-labeled chat, Barci contracts, Gonet/Andrei/Ciro
-    threads, notes methodology.
+    Poder360: após ordem de Mendonça, em 72h, para mapear a “rede de influência e
+    monitoramento”, a PF entrega análise não exaustiva de 218 páginas do iPhone 17 Pro
+    apreendido na prisão (Cellebrite/IPED). Cobre o chat rotulado Moraes, contratos Barci,
+    fios Gonet/Andrei/Ciro e a metodologia das notas.
   people:
     - name: André Mendonça
       id: andre-mendonca
@@ -593,11 +597,11 @@
   date_precision: day
   title: Caveats metodológicos cristalizados na cobertura do mesmo dia
   summary: >-
-    Across outlets: (1) “Alexandre de Moraes BRASILIA” is Vorcaro’s address-book label +
-    Brasília number shared by Faria — not alone proof of who held the chip; (2) 24h
-    ephemeral + view-once (5 on 17/11) leave most interlocutor content unrecovered; (3)
-    Barci firm disputes 2nd Viking contract/dação while confirming 1st Master contract and
-    Moraes compliance edit.
+    Em vários veículos: (1) “Alexandre de Moraes BRASILIA” é rótulo da agenda de Vorcaro +
+    número de Brasília compartilhado por Faria — sozinho não prova quem detinha o chip; (2)
+    efêmeras de 24h + view-once (5 em 17/11) deixam a maior parte do conteúdo do
+    interlocutor irrecuperável; (3) o escritório Barci disputa o 2º contrato Viking/dação e
+    confirma o 1º contrato Master e a edição de compliance de Moraes.
   people:
     - name: Alexandre de Moraes
       id: alexandre-de-moraes
@@ -678,9 +682,10 @@
   date_precision: day
   title: Sigilo derrubado; discussão no plenário indicada
   summary: >-
-    Poder360/CNN: Mendonça removes secrecy on PET 16.662 materials and signals in-person
-    public plenary (date by Fachin). Wave of coverage: O Globo 13-day appeals, Poder360
-    “estou online,” G1 view-once tech, Folha full report, Estadão joinha/deleted msgs.
+    Poder360/CNN: Mendonça levanta o sigilo dos materiais da PET 16.662 e sinaliza plenário
+    presencial público (data a cargo de Fachin). Onda de cobertura: O Globo sobre os apelos
+    dos 13 dias, Poder360 “estou online”, G1 sobre a técnica view-once, Folha com reportagem
+    completa, Estadão sobre joinha/msgs apagadas.
   people:
     - name: André Mendonça
       id: andre-mendonca
