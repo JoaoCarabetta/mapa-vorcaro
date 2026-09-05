@@ -9,6 +9,8 @@
 **Editor gap list patch (2026-09-05):** Estou-online caveats; compact Viking dispute blurbs; twin URL dedupe check. Valor-bio only on bio rows.
 **Editor titles (2026-09-05):** 18 EN full-card `title` fields → Portuguese. Bodies untouched. Clustering = cloud UI.
 **Editor punch verify (2026-09-05 23:16 BRT):** sha bump — Compact L53/64/66/68/69/142–148/155 and full Ibaneis/Temer/PH Costa no longer use Valor-bio URL for non-bio claims. Re-audit THIS file (md5 below changes).
+**Post-B smoke titles (2026-09-05):** 5 EN full-card titles → PT (Ibaneis/Pix/Searches/2ª prisão/IPJ-A).
+**Path B merge (2026-09-05):** +14 PASS cards (items 3–16 minus Voiter/Will TRIM); compulsório quote deduped from Jul/2024 cessões; CLDF voto ≠ Ibaneis sanção.
 **Method:** Deduplicate by date+title overlap; on WhatsApp/PET days prefer primary PDF sourcing (Poder360 static PET 16.662 uploads) and keep press http URLs as corroboration.
 
 ## Notes (mandatory caveats)
@@ -39,6 +41,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 | 2019-10-24 | Banco Central autoriza transferência de controle do Banco Máxima | Valor Investe: BC authorized transfer of control of Banco Máxima and its FX broker to a group led by Daniel Bueno Vorcaro; co-shareholders Armando Miguel Gallo Neto, Felipe Wallace Simonsen and Augusto Ferreira Lima. | https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2019/10/24/bc-autoriza-transferncia-de-controle-do-banco-mxima-para-empresrio-daniel-vorcaro.ghtml |
 | 2021 | Mudança de nome para Banco Master; narrativa de capitalização ~R$ 400 mi | Valor: in 2021 Daniel renamed the bank Master — a suggestion from his son — and made series of billion-real capital injections over the years. | https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml |
 | 2021–2024 (span) | Série de aquisições financeiras sob a marca Master | Valor lists acquisitions including insurer Kver/Kovr, bank Voiter (ex-Indusval), Vipal, Banif Brasil and Will. Will Bank deal done with Reag (João Carlos Mansur), who has other businesses with Vorcaro. | https://www.infomoney.com.br/business/banco-master-qual-e-a-historia-da-instituicao-financeira |
+| 2022-10 | Fabiano Zettel maior doador PF Bolsonaro e Tarcísio 2022 | Valor: Zettel (~R$5 mi) maior doador PF Bolsonaro e Tarcísio; CBN/TSE R$3 mi + R$2 mi; cunhado de Vorcaro. | https://valor.globo.com/politica/eleicoes-2022/noticia/2022/10/19/pastor-e-maior-doador-bolsonarista.ghtml | high |
 | 2023-12-21 | Fábio Faria pede placa/carro e encontro em Tucumã 99 | No celular de Daniel Vorcaro, Fábio Faria pede modelo e placa do carro para “autorizar a segurança a acompanhar na garagem”. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2023-12-26 | Fábio compartilha contato “Alexandre de Moraes BRASILIA” | Pela manhã, Fábio Faria e Vorcaro tratam de novo encontro. Cerca de uma hora após a chegada ao local, Faria compartilha o contato salvo como “Alexandre de Moraes BRASILIA” (aliases no mesmo número: “Novo”, “STF TSE… | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2023-12-27 | Fábio fala de almoço de “Alex” no Six Senses | Fábio Faria encaminha a Vorcaro localização do Hotel Six Senses Botanique (Campos do Jordão/SP) e o contato da funcionária “Thatiane Prime”, em conversa sobre almoço de “Alex”. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
@@ -62,17 +65,22 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 | 2024-04-10 | Leo Serrano organiza logística Londres; ministros “Alexandre, Toffoli, etc.” | Vorcaro fala com Leo Serrano Giunchetti sobre veículos para ministros “mais sensiveis” do STF, citando “Alexandre, Toffoli, etc.”. Leo é descrito como funcionário que organizou o evento em Londres. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2024-04-14 | Ciro Soares: “Gonet é firme”; áudio sobre desistência de candidatura | Ciro Soares escreve “Amizade é tudo viu irmão” / “Gonet é firme” / “Fique só com vc”. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2024-04-24 | Janela do evento jurídico Londres 2024 (24–27/04) | Evento em Londres (24–27/04/2024) organizado no entorno de Vorcaro/Master. Poder360, cruzando o material, reporta fórum com degustação Macallan (~US$ 640.831,88) e participação citada de Moraes, Gonet e Andrei Rodrigues… | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
+| 2024 | Segundo aporte SAF Atlético / Galo Holding (~R$200 mi → ~26,9%) | Após ~R$100 mi/2023, Vorcaro injeta ~R$200 mi em 2024 e chega a ~26,9% da Galo Holding (atrás Menin). | https://economia.uol.com.br/noticias/redacao/2025/11/18/socio-do-atletico-mineiro-e-dono-de-mansoes-quem-e-daniel-vorcaro.htm | medium |
 | 2024-07 (start per Estadão) | Banco de Brasília injeta liquidez via compra de carteiras de crédito do Master | Estadão (Apr/2026): dialogues show Master relied on BRB injections at least since Aug/2024 to cover liquidity; cessions of consignado/CCB begin Jul/2024. | https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia/ |
+| 2024-09-02 | Vorcaro→Lima: “usar compulsório” se BRB não vier | Estadão: Vorcaro a Lima — se BRB não entrar, devolver grana de sexta e “usar compulsório hoje”. | https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia/ | high |
 | 2024-11-15 | Vorcaro diz à filha Stella que está “com alexandre moraes” | Em troca com a filha Stella, Vorcaro escreve que está “com alexandre moraes”. No mesmo bloco de “outros encontros”, motorista Sidney em Brasília informa “Min Alexandre chegou”. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2024-12-04 | Encontro no Planalto antes do escândalo público do Master | Folha: Lula received Vorcaro on 4 Dec 2024; Vorcaro accompanied by Guido Mantega and Augusto Lima. Lula called ministers Rui Costa and Alexandre Silveira plus then-BC director Gabriel Galípolo. | https://www1.folha.uol.com.br/mercado/2026/01/lula-recebeu-vorcaro-em-reuniao-no-palacio-do-planalto-no-fim-de-2024.shtml |
+| 2025-01→2025-03 | Vinte contratos Master→BRB (~R$4,6 bi) antes do SPA | Estadão: 20 contratos pré-anúncio (jan–mar) somam R$4,6 bi; Tirreno/carteiras podres = alegação. | https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia/ | medium-high |
 | 2025-03-15 | Ciro envia selfie com Gonet; 4 chamadas com Vorcaro | Às 14:13:37 (UTC-3), Ciro Soares envia foto consigo e Paulo Gonet; mensagem “Liga aqui” / “Ele quer falar com você”. Em seguida, 4 chamadas de voz Ciro–Vorcaro: 57s, 27s, 17s e 3min49s. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-03-19 | Vorcaro diz a Martha que está “com o Ministro”; depois “com Moraes” | Às 20:23:54 (UTC-3), Vorcaro escreve a Martha Graeff que está com o ministro; minutos depois diz a Paulo Sergio (diretor BC, no rótulo do chat) que está “com Moraes aqui”. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-03-20 | Madrugada: Hugo e Ciro “pra falarem com Alexandre” | Às 00:32:20 (UTC-3), Vorcaro responde a Martha que “acabou chegando hugo e ciro aqui pra falarem com Alexandre”. A PF estima duração do encontro de ~20:23 do dia 19 até pelo menos 00:32 do dia 20. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-03-28 | Anunciado acordo de compra de ações Banco de Brasília–Master | BRB board unanimously approved SPA: 49% of common shares, 100% preferred, 58% total capital. Price = 75% of consolidated equity adjusted after PwC diligence (market ~R$2 bi). Subject to Bacen, Cade and others. | https://ri.brb.com.br/upload/files/3866_Material-Fact-Banco-Master-28-03-2025.pdf |
 | 2025-03-28 | Ciro encaminha mensagens atribuídas a Gonet; Londres e Macallan | Ciro encaminha textos: “Que bom! Estou na torcida por vocês!”; “Já estou com saudades de você! Estou embarcando para Roma.”; “Manda essa mensagem para ele”; diz que “Gonet mandou”. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-03-29 | Gonet pergunta se filho pode ir a Londres — Vorcaro: “Obvio ne” | Ciro: “Gonet perguntou se o filho dele pode ir com a gente para Londres”. Vorcaro: “Obvio ne”. Ciro ainda encaminha outra mensagem “Gonet mandou”. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
+| 2025-03-31 | Galípolo × Paulo Henrique Costa — 1ª reunião BC–BRB pós-SPA | Galípolo altera agenda e reúne-se com PH Costa no BC um dia após anúncio BRB–Master. | https://oglobo.globo.com/economia/noticia/2025/03/31/galipolo-altera-agenda-e-se-reune-com-presidente-do-brb-apos-anuncio-de-negocio-com-banco-master.ghtml | high |
 | 2025-04-03 | Perfil longo no Valor sob holofote do negócio com o Banco de Brasília | Long profile after BRB 58% agreement: bio, Multipar, Máxima→Master arc, Quadrado exit (BC pending) seeking Digimais, Tanure intro via Quadrado, Lima marriage to ex-senator Flávia Peres, Fasano/Atlético/Trancoso… | https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml |
 | 2025-04-07 | Ciro: “Estou indo no PG agora” (contexto BRB/Master) | Em meio a discussões sobre matéria/operação BRB–Master, Ciro Soares diz a Vorcaro que está “indo no PG”. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
+| 2025-04-11 | Galípolo × Vorcaro na janela BC (análise BRB–Master) | Reunião Galípolo–Vorcaro 9h–10h; depois audiência com diretores BC + PH Costa/Lima. ≠ Ana Matos mesmo dia. | https://valor.globo.com/financas/noticia/2025/04/11/alem-de-galipolo-executivos-do-master-se-reunem-com-diretores-do-bc.ghtml | high |
 | 2025-04-11 | Vorcaro a Ana Matos: “Pedro e ciro ok” (despesas Londres) | Ana Matos Mkt trata lista de pessoas com despesas pagas para Londres. Vorcaro não concorda com a lista plena, mas ressalva “Pedro e ciro ok” — PF interpreta Pedro Gonet e Ciro Soares. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-04-19 | Vorcaro a Martha: indo encontrar “alexandre moraes” (feriado) | Vorcaro diz que está “indo encontrar alexandre moraes aqui perto de casa”. Martha pergunta se está em Campos; Vorcaro: “Ele ta passando feriado”. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-04-29 | Vorcaro a Martha: está com “Alexandre” / “alexandre moraes” | Martha pergunta sobre o dia; Vorcaro diz que está com “Alexandre”. Depois, em casa, após chamada de voz, responde que o “primeiro cara” era “alexandre moraes”. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
@@ -81,13 +89,16 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 | 2025-05-19 | Termo de Acordo e Dação Viking×Barci (avião/helicóptero) | Termo datado 19 de maio de 2025: quitação do contrato de R$ 50 mi via (i) dação de ~R$ 40 mi em ações de F24 (Legacy 650, prefixo PP-NLR) e F53 (EC 155 B1 em aquisição) e (ii) ~R$ 10 mi reembolso de despesas. Barci contesta aceite da dação — ver caveat no card completo. | https://static.poder360.com.br/uploads/2026/09/pet16662-acordo-dacao-viking-barci-aviao-helicoptero-50milhoes-sigiloderrubado.pdf ; https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro/ |
 | 2025-05-21 | Vorcaro a Martha: em casa com “Ciro e alexandre” | Martha pergunta se há muitas reuniões; Vorcaro diz que está em casa com “Ciro e alexandre”. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-05-26 | Vorcaro marca encontro com “alexandre” e jantar com “as mulheres” | Vorcaro escreve a Martha que teria encontro com “alexandre” e estaria “marcando jantar com as mulheres fabio e dele”. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
+| 2025-05-27 | Negociação BTG ~R$1,5 bi (Fasano/Light/Méliuz) | Folha: Vorcaro fecha ~R$1,5 bi com BTG (Light, Méliuz, precatórios, Fasano Itaim). ≠ oferta simbólica R$1/FGC. | https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml | high |
 | undated cluster (cited Apr/2025) | Cota no Fasano Itaim, mansão em Trancoso, SAF do Atlético Mineiro | Valor: luxury lifestyle — private jet, R$280 mi mansion in Trancoso (BA), substantial stake in Atlético Mineiro, co-investor in fund owning Fasano Itaim hotel building. | https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml |
 | 2025-06-17 | Superintendência-Geral do Cade aprova negócio sem restrições | G1 DF: Superintendência-Geral of Cade approved BRB–Master deal without restrictions; BC approval still required. Valor International noted possible FGC emergency loan / BTG asset sale context around same period. | https://g1.globo.com/df/distrito-federal/noticia/2025/06/17/cade-aprova-compra-do-banco-master-pelo-brb-banco-central-ainda-precisa-aprovar.ghtml |
 | 2025-06-19 | Ciro: “PG confirmou a ida pra Londres”; Pedrinho pode ir? | Ciro Soares: “PG confirmou a ida pra Londres” / pergunta se “Pedrinho filho do PG” pode ir — Vorcaro autoriza (“Obvio”). | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-07-10 | Ana Matos: “O Andrei PF precisa de um Convite formal para aceitar Londres” | No contexto do 2º evento Londres (depois cancelado), Ana Matos Mkt informa que Andrei PF precisa de convite formal; pergunta se Grupo Voto pode mandar; Vorcaro: “Pode”. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-07-14 | Diálogo registra outro pagamento Barci R$ 3.422.268,14 | Diálogo de 14/07/2025 registra pagamento ao escritório Viviane de Moraes no valor de R$ 3.422.268,14; Vorcaro orienta Alberto Felix. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-07 | Uso de aeronaves Legacy/EC155 por Barci — Viviane: “estamos gostando muito” | PF e Poder360: Barci já utilizava Legacy 650 e EC 155 B1 em julho/2025. Contato pergunta a Viviane se estão gostando das cotas; ela: “Sim, estamos gostando muito…”. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
+| 2025-07-29 | BRB proposta reduzida ~1/3 Master (~R$25 bi) | Folha: BRB propõe comprar ~1/3 do Master (~R$25 bi); remanescentes ~R$48 bi. Perímetro ≠ equity 58%. | https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml | high |
 | 2025-08-08 | Vorcaro a Martha: está com “alexandre” e depois reunião “Com ciro” | Martha pergunta sobre viagem; Vorcaro diz que não deve ir pois está com “alexandre” e depois terá reunião “Com ciro”. | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
+| 2025-08-19 | CLDF autoriza BRB a comprar fatia do Master (PL 1882/2025) | CLDF aprova PL 1882/2025 (14×7) autorizando BRB a 49% ON + 100% PN Master. Voto ≠ sanção Ibaneis ~20/08. | https://www.cl.df.gov.br/-/cldf-autoriza-brb-a-comprar-banco-master | high |
 | ~mid-Aug 2025 (“há pouco mais de 10 dias” before 03/09/2025 Agência Brasil) | Ibaneis sanciona lei da Câmara Legislativa do Distrito Federal que autoriza compra do Master pelo Banco de Brasília | Agência Brasil: DF governor Ibaneis Rocha sanctioned a district law (CLDF-approved, after judicial demand) authorizing BRB to acquire 49% ON + 100% PN of Master. | https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb ; https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml |
 | 2025-09-03 | Bacen indefers BRB application filed 28/03/2025 | BRB fato relevante: informed of Bacen denial of request to acquire 49% ON + 100% PN of Master; BRB sought full decision text. Deal had been controversial (high CDB rates, delayed balance sheet, precatórios). | https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb |
 | ~Sep 2025 (Temer on Roda Viva 15/09/2025) | Temer diz que foi chamado a mediar Master–Banco de Brasília após bloqueio do Banco Central | G1 conexões: ex-president Michel Temer said on Roda Viva (15/09/2025) he was called to Brasília ~two weeks earlier with Vorcaro and Ibaneis wanting mediation to formalize the BRB transaction after the original deal was… | https://www1.folha.uol.com.br/mercado/2025/09/master-e-brb-procuram-temer-para-destravar-negocio-apos-recusa-do-banco-central.shtml ; https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb |
@@ -164,7 +175,10 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 | 2025-11-18 | Compliance Zero deflagrada; prisão em Guarulhos; liquidação do Master | PF deflagra Operação Compliance Zero (suspeita de fraudes em cessões de carteiras ~R$ 12 bi Master→BRB). Vorcaro preso no Aeroporto de Guarulhos ao tentar embarcar (jato; destino Malta/Dubai conforme cobertura). | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2025-11-18 | Liquidação extrajudicial e RAET no Master Múltiplo (Will) | CNN/G1: BC (Galípolo) decrees liquidação of Banco Master S/A, Master de Investimento, Letsbank, Master Corretora; RAET on Banco Master Múltiplo to preserve Will Financeira path. | https://www.cnnbrasil.com.br/economia/negocios/banco-central-decreta-liquidacao-extrajudicial-do-banco-master |
 | 2025-11-18 | Polícia Federal deflagra Compliance Zero; Vorcaro é preso | Valor: PF op against false credit titles in SFN; Vorcaro arrested; four other directors also targets (Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva named by day’s end). | https://valor.globo.com/financas/noticia/2025/11/18/operacao-da-pf-que-prendeu-dono-do-master-mira-emissao-de-titulos-de-credito-falsos.ghtml |
+| 2025-11-20 | TRF-1 indefere 1º habeas; mantém prisão preventiva | Desembargadora Solange Salgado (TRF-1) nega HC; cita “fraude sistêmica”. ≠ soltura 28/11. | https://valor.globo.com/financas/noticia/2025/11/20/priso-de-daniel-vorcaro-dono-do-banco-master-mantida-pela-justia.ghtml | high |
+| 2025-11-24 | Vorcaro transferido ao CDP 2 Guarulhos | Transferência da Superintendência PF SP ao CDP Guarulhos; defesa protocola HC no STJ. ≠ prisão GRU 17–18/11. | https://valor.globo.com/financas/noticia/2025/11/24/vorcaro-transferido-para-presdio-em-guarulhos.ghtml | high |
 | 2025-11-28 | Soltura com tornozeleira eletrônica e restrições (Tribunal Regional Federal da 1ª Região) | G1: Desembargadora Solange Salgado da Silva orders release of Vorcaro, Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva. | https://g1.globo.com/df/distrito-federal/noticia/2025/11/28/trf-1-manda-soltar-daniel-vorcaro-dono-do-banco-master.ghtml |
+| 2025-11-29 | Saída física do CDP com tornozeleira eletrônica | Vorcaro deixa CDP 2 Guarulhos ~11h50 com tornozeleira após ordem TRF-1 de 28/11. ≠ decisão jurídica 28/11. | https://valor.globo.com/financas/noticia/2025/11/29/daniel-vorcaro-deixa-centro-de-deteno-em-guarulhos.ghtml | high |
 | ~2025-12-03 (G1 conexões) | Toffoli coloca inquérito do Master sob sigilo no Supremo Tribunal Federal | G1: after defense forum claims, Min. Dias Toffoli on ~3 Dec put case under secrecy and pulled inquiry to STF citing a federal deputy with privileged forum; justified by sensitive economic info. | https://www1.folha.uol.com.br/mercado/2026/02/entenda-em-5-pontos-por-que-a-pf-investiga-relacao-entre-toffoli-e-banco-master.shtml ; https://valor.globo.com/politica/noticia/2026/02/12/o-que-se-sabe-e-o-que-falta-esclarecer-sobre-a-ligacao-de-toffoli-e-vorcaro-no-caso-master.ghtml |
 | 2026-01-14 | Buscas em endereços da família Vorcaro, Zettel, Tanure e Mansur (2ª fase) | G1: second phase — searches at addresses linked to Vorcaro, father, sister, brother-in-law Fabiano Zettel; also Nelson Tanure and João Carlos Mansur (Reag). ~42 addresses; Toffoli-authorized; asset freezes >R$5.7 bi. | https://www.cnnbrasil.com.br/economia/macroeconomia/nova-fase-de-operacao-contra-vorcaro-bloqueia-r-57-bi-em-bens/ ; https://valor.globo.com/financas/noticia/2026/01/14/pf-apreendeu-r-645-mil-em-espcie-e-veculos-avaliados-em-r-16-milhes-em-nova-operao-no-caso-master.ghtml |
 | 2026-02-19 | Decisão autoriza perícias/workflow do material apreendido | Despacho de André Mendonça (PET 16.662) recorda decisão de 19/02/2026 que autorizou a PF a seguir workflow padrão e realizar exames periciais nas mídias apreendidas nas primeiras fases. | https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-derruba-sigilo-e-leva-caso-plenario-sigiloderrubado-1set2026.pdf |
@@ -174,11 +188,14 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 | 2026-05-14 | 6ª fase da Compliance Zero | Despacho cita deflagração da 6ª fase em 14/05/2026, lastreada em informações de polícia judiciária derivadas do celular e desdobramentos. | https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-derruba-sigilo-e-leva-caso-plenario-sigiloderrubado-1set2026.pdf |
 | 2026-06-05 | Ofício de polícia judiciária citado no despacho | Despacho menciona Ofício (nº redigido) remetido em 05/06/2026 como peça relevante do histórico investigativo sobre a rede de influência/monitoramento. | https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-derruba-sigilo-e-leva-caso-plenario-sigiloderrubado-1set2026.pdf |
 | 2026-06-19 | Decisão prévia citada antes da autuação autônoma PET 16.662 | Despacho (p.4) refere decisão de 19/06/2026 no histórico que culmina no pedido de atualização à CINQ/DICOR/PF sobre a rede atribuída a Vorcaro e, depois, no desentranhamento para PET 16.662. | https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-derruba-sigilo-e-leva-caso-plenario-sigiloderrubado-1set2026.pdf |
-| 2026-08-27 | IPJ-A 3298613/2026 on Vorcaro iPhone → PET 16.662 | Poder360: after Mendonça’s 72h order to map “rede de influência e monitoramento,” PF delivers non-exhaustive 218-p analysis of iPhone 17 Pro seized at arrest (Cellebrite/IPED). | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
+| 2026-08-27 | IPJ-A 3298613/2026 no iPhone de Vorcaro → PET 16.662 | Poder360: after Mendonça’s 72h order to map “rede de influência e monitoramento,” PF delivers non-exhaustive 218-p analysis of iPhone 17 Pro seized at arrest (Cellebrite/IPED). | https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf |
 | 2026-08-27 | PF entrega IPJ-A 3298613/2026 (relatório 218 p.) a Mendonça | Ofício nº 3305795/2026-CINQ/CGRC/DICOR/PF, Brasília 27/08/2026, encaminha ao Min. André Mendonça a Informação de Polícia Judiciária nº 3298613/2026 (atendimento à requisição na PET 15.556). | https://static.poder360.com.br/uploads/2026/09/1pet16662-oficio-pf-envio-relatorio-3298613-2026-sigiloderrubado-1set2026.pdf |
+| 2026-08-31 | Mendonça abre vista à PGR por 5 dias (PET 16.662) | Despacho: vista à PGR por 5 dias sobre infos da PF. ≠ levantamento de sigilo 01/09. | https://static.poder360.com.br/uploads/2026/09/1pet16662-despacho-vista-pgr-5dias-sigiloderrubado-1set2026.pdf | high |
 | 2026-09-01 | Mendonça levanta sigilo da PET 16.662 e manda ao plenário | Despacho PET 16.662/DF, Brasília 1º/09/2026, Min. André Mendonça (relator): determina levantamento do sigilo; | https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-derruba-sigilo-e-leva-caso-plenario-sigiloderrubado-1set2026.pdf |
 | 2026-09-01 | Caveats metodológicos cristalizados na cobertura do mesmo dia | Across outlets: (1) “Alexandre de Moraes BRASILIA” is Vorcaro’s address-book label + Brasília number shared by Faria — not alone proof of who held the chip; | https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro/ ; https://oglobo.globo.com/politica/noticia/2026/09/01/em-13-dias-mensagens-de-vorcaro-mostram-como-banqueiro-pedia-orientacao-de-moraes-no-auge-da-crise-do-master.ghtml ; https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/ |
 | 2026-09-01 | Sigilo derrubado; discussão no plenário indicada | Poder360/CNN: Mendonça removes secrecy on PET 16.662 materials and signals in-person public plenary (date by Fachin). | https://www.poder360.com.br/poder-justica/mendonca-retira-sigilo-de-acao-sobre-vorcaro-e-moraes |
+| 2026-09-03 | Fachin abre PET 16.704 e pede esclarecimentos | Fachin autua PET 16.704; 5 dias úteis a Moraes, Mendonça, Gonet e Andrei. ≠ PET 16.662. | https://static.poder360.com.br/uploads/2026/09/Fachin-da-5-dias-para-Moraes-e-Mendonca-3set2026.pdf | high |
+
 ---
 
 ## Full chronological event cards
@@ -287,6 +304,17 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **sources:** Valor 03/04/2025; https://www.infomoney.com.br/business/banco-master-qual-e-a-historia-da-instituicao-financeira/
 - **provenance:** press
 - **confidence:** high for list existence; medium for each exact closing month except Will (Feb/2024)
+
+### 2022-10 — Zettel maior doador pessoa física de Bolsonaro (e Tarcísio)
+- **date:** 2022-10 (transferências reportadas ~10 e 13/10/2022; ano-campanha 2022)
+- **title:** Fabiano Zettel maior doador PF das campanhas Bolsonaro e Tarcísio 2022
+- **summary:** Valor (19/10/2022): o advogado e pastor Fabiano Campos Zettel torna-se o maior financiador pessoa física da campanha de reeleição de Jair Bolsonaro e também o maior doador individual de Tarcísio de Freitas (governo SP), com ~R$5,01 mi no total a três candidaturas (4º maior doador do país naquele ciclo, atrás de Ometto/Grendene/Mattar). CBN (15/01/2026): R$3 mi a Bolsonaro + R$2 mi a Tarcísio (TSE). Zettel é cunhado de Daniel Vorcaro (casado com Natália).
+- **people:** Fabiano Campos Zettel; Natália Vorcaro; Daniel Vorcaro; Jair Bolsonaro; Tarcísio de Freitas
+- **tags:** bio|politics|zettel|power-interlocutor
+- **sources:** https://valor.globo.com/politica/eleicoes-2022/noticia/2022/10/19/pastor-e-maior-doador-bolsonarista.ghtml (Valor, 19/10/2022); https://cbn.globo.com/politica/noticia/2026/01/15/cunhado-do-dono-do-banco-master-destinou-r-5-milhoes-as-campanhas-de-bolsonaro-e-tarcisio-em-2022.ghtml (CBN, 15/01/2026); corroboração secundária no perfil Valor 03/04/2025 https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml
+- **confidence:** high (claim contemporâneo Valor + CBN/TSE); não usar só a bio Valor 2025 como fonte primária
+- **caveats:** (1) Data produto `2022-01-01` é falsa precisão — preferir **2022-10** ou **2022**. (2) “Maior doador” = ranking PF daquelas campanhas na janela Valor (out/2022), não prova de elo operacional Master↔campanha. (3) Doações legais sob regras TSE; não implica crime. (4) Não é twin dos cards SoT de prisão/buscas Zettel 2026.
+- **quote:** —
 
 ### 2023-12-21 — Fábio Faria pede placa/carro e encontro em Tucumã 99
 - **date:** 2023-12-21
@@ -535,6 +563,17 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **confidence:** medium
 - **caveats:** Confiança medium para a lista nominativa de participantes e o valor em dólares (Poder360); high para a existência/organização do evento no relatório PF.
 
+### 2024 — Segundo aporte Galo Holding / SAF Atlético (~R$200 mi)
+- **date:** 2024 (ano; parcelas ao longo do ano — ge: aprovação fim/fev, fluxo até ~4 meses)
+- **title:** Segundo aporte SAF Atlético / Galo Holding (~R$200 mi → ~26,9%)
+- **summary:** Após entrada em 2023 (~R$100 mi / ~8,2% via Galo Forte FIP), Vorcaro injeta cerca de R$200 milhões em 2024 e chega a ~26,9% da Galo Holding (atrás de Rubens/Rafael Menin ~55,7%). UOL (18/11/2025, com Estadão Conteúdo) consolida os dois aportes; ge (mar–jun/2024) documenta a expectativa contemporânea do aporte de R$200 mi parcelado (abatimento de dívidas / base). Alinha-se à fatia ~27% citada em perfis posteriores.
+- **people:** Daniel Vorcaro; Rubens Menin; Rafael Menin
+- **tags:** bio|atletico|galo-holding|saf
+- **sources:** https://economia.uol.com.br/noticias/redacao/2025/11/18/socio-do-atletico-mineiro-e-dono-de-mansoes-quem-e-daniel-vorcaro.htm (UOL/Estadão Conteúdo); https://ge.globo.com/futebol/times/atletico-mg/noticia/2024/06/01/atletico-mg-espera-parcela-de-aporte-de-r-200-milhoes-do-fundo-galo-forte-neste-mes.ghtml (ge, 01/06/2024); https://ge.globo.com/futebol/times/atletico-mg/noticia/2024/03/11/saf-do-atletico-mg-ainda-aguarda-r-200-milhoes-do-fundo-galo-forte-cair-na-conta-entende.ghtml (ge, 11/03/2024)
+- **confidence:** medium
+- **caveats:** Data produto `2024-01-01` é placeholder de ano — usar **2024** (sem dia). Percentuais/R$ variam levemente entre outlets (~26,9% / 26,88% / ~27%). Não confundir com o cluster SoT Fasano/Trancoso/SAF (cita fatia, não o 2º aporte). Controvérsias posteriores sobre origem do Galo Forte FIP (2025–2026) são fatos separados.
+- **quote:** —
+
 ### 2024-07 em diante — Cessões de carteiras de crédito do Master ao BRB
 - **date:** 2024-07 (start per Estadão)
 - **title:** Banco de Brasília injeta liquidez via compra de carteiras de crédito do Master
@@ -544,7 +583,18 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **sources:** https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia/
 - **provenance:** press
 - **confidence:** high for 2024 cession start; medium for fraud characterization (investigative allegation)
-- **quote:** “Tem notícia do BRB? Se não vier vou ter que devolver a grana de sexta e vamos usar compulsório hoje” (02/09/2024, Vorcaro→Lima, Estadão)
+- **quote:** — (compulsório 02/09/2024 moved to day-card `### 2024-09-02`)
+
+### 2024-09-02 — Vorcaro a Lima: “vamos usar compulsório hoje”
+- **date:** 2024-09-02
+- **title:** Vorcaro→Lima: “usar compulsório” se dinheiro do BRB não vier
+- **summary:** Estadão (18/04/2026) publica mensagem de 2/09/2024 em que Daniel Vorcaro pergunta a Augusto Lima se há notícia do BRB; se o recurso não entrar, terá de devolver o dinheiro de sexta e “usar compulsório hoje”. No dia seguinte cobra CCB pendente há ~15 dias; Lima: “fazem até quinta.” Marco pontual dentro do fluxo de cessões Master→BRB iniciado em jul/2024, evidência de tensão de liquidez meses antes do SPA.
+- **people:** Daniel Vorcaro; Augusto Lima
+- **tags:** brb|master|liquidity|messages
+- **sources:** https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia/ (Estadão, 18/04/2026)
+- **confidence:** high
+- **caveats:** Quote isolada neste card (dedupe do card SoT Jul/2024 cessões). Mensagens = extratos de celular via imprensa/PF — não julgamento.
+- **quote:** “Tem notícia do BRB? Se não vier vou ter que devolver a grana de sexta e vamos usar compulsório hoje”
 
 ### 2024-11-15 — Vorcaro diz à filha Stella que está “com alexandre moraes”
 - **date:** 2024-11-15
@@ -566,6 +616,17 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **sources:** https://www1.folha.uol.com.br/mercado/2026/01/lula-recebeu-vorcaro-em-reuniao-no-palacio-do-planalto-no-fim-de-2024.shtml ; local `folha_lula_vorcaro_2024.txt`
 - **provenance:** press
 - **confidence:** high
+
+### 2025-01 a 2025-03 — Vinte contratos Master→BRB (~R$4,6 bi) antes do SPA
+- **date:** 2025-01 → 2025-03 (antes do anúncio 28/03/2025)
+- **title:** Vinte contratos Master→BRB (~R$4,6 bi) antes do anúncio de compra
+- **summary:** Segundo o Estadão, antes do anúncio oficial da oferta de compra, o Master já havia repassado R$4,6 bilhões ao BRB em 20 contratos: seis em janeiro (R$1,66 bi), seis em fevereiro (R$1,82 bi) e oito em março (R$1,12 bi). A mesma linha investigativa situa carteiras ligadas à Tirreno a partir de jan/2025 e total alegado de carteiras podres ~R$12,2 bi. Reforça que a relação financeira bilionária antecede o SPA de 28/03/2025.
+- **people:** Daniel Vorcaro; Paulo Henrique Costa (contexto BRB); Tirreno (atribuição investigativa)
+- **tags:** brb|master|tirreno|compliance-zero
+- **sources:** https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia/ (Estadão, 18/04/2026)
+- **confidence:** medium-high (valores investigativos Estadão; rótulo fraude = alegação até julgamento)
+- **caveats:** Data produto `2025-01-01` é placeholder — preferir span **2025-01→2025-03**. “Carteiras falsas” / Tirreno = tese PF/imprensa. Não duplica o card SoT de início das cessões (Jul/2024) nem o SPA 28/03.
+- **quote:** —
 
 ### 2025-03-15 — Ciro envia selfie com Gonet; 4 chamadas com Vorcaro
 - **date:** 2025-03-15
@@ -630,6 +691,17 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **confidence:** high
 - **quote:** Obvio ne
 
+### 2025-03-31 — Galípolo reúne-se com Paulo Henrique Costa após SPA
+- **date:** 2025-03-31
+- **title:** Galípolo × Paulo Henrique Costa — primeira reunião BC–BRB pós-SPA
+- **summary:** Um dia após o anúncio BRB–Master (28/03), o presidente do Banco Central, Gabriel Galípolo, altera a agenda e se reúne com o presidente do BRB, Paulo Henrique Costa, sobre o negócio. Folha (cronologia 04/09/2025, atualizada) registra como primeira reunião BC–BRB pós-anúncio; O Globo (31/03/2025) descreve o encontro na sede do BC (com diretores de Fiscalização e de Organização do SFN/Resolução previstos).
+- **people:** Gabriel Galípolo; Paulo Henrique Costa
+- **tags:** galipolo|brb|bc|master
+- **sources:** https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml (Folha cronologia); https://oglobo.globo.com/economia/noticia/2025/03/31/galipolo-altera-agenda-e-se-reune-com-presidente-do-brb-apos-anuncio-de-negocio-com-banco-master.ghtml (O Globo, 31/03/2025)
+- **confidence:** high
+- **caveats:** Agenda oficial / cobertura jornalística = ocorrência da reunião; não prova conteúdo deliberativo nem “chip”/WhatsApp.
+- **quote:** —
+
 ### 2025-04-03 — Valor profile “Quem é o dono do Banco Master”
 - **date:** 2025-04-03
 - **title:** Perfil longo no Valor sob holofote do negócio com o Banco de Brasília
@@ -650,6 +722,17 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** primary
 - **confidence:** high
 - **caveats:** “PG” interpretado como Paulo Gonet no relatório.
+
+### 2025-04-11 — Galípolo reúne-se com Vorcaro na janela de análise do BC
+- **date:** 2025-04-11
+- **title:** Galípolo × Vorcaro na janela BC (análise BRB–Master)
+- **summary:** Folha cronologia: em 11/04/2025 Galípolo se reúne com Daniel Vorcaro; o banqueiro também fala com outros diretores do BC. Valor: reunião com Galípolo 9h–10h; em seguida audiência 10h–12h com diretores de Fiscalização e OSF/Resolução e procurador-geral do BC, com presença de Paulo Henrique Costa (BRB) e Augusto Lima (Master). Estadão antecipara a agenda das 9h (Vorcaro + Lima).
+- **people:** Gabriel Galípolo; Daniel Vorcaro; Augusto Lima; Paulo Henrique Costa; Ailton de Aquino Santos; Renato Gomes; Cristiano Cozer
+- **tags:** galipolo|bc|master|brb|power-interlocutor
+- **sources:** https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml (Folha); https://valor.globo.com/financas/noticia/2025/04/11/alem-de-galipolo-executivos-do-master-se-reunem-com-diretores-do-bc.ghtml (Valor, 11/04/2025); https://www.estadao.com.br/economia/negocios/galipolo-se-reune-vorcaro-e-ceo-banco-master/ (Estadão)
+- **confidence:** high
+- **caveats:** **Não twin** do card SoT `### 2025-04-11 — Vorcaro a Ana Matos: “Pedro e ciro ok”` (despesas Londres / PF). Agenda BC ≠ prova de decisão; conteúdo da reunião não publicado na íntegra nestas fontes.
+- **quote:** —
 
 ### 2025-04-11 — Vorcaro a Ana Matos: “Pedro e ciro ok” (despesas Londres)
 - **date:** 2025-04-11
@@ -735,6 +818,17 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** primary
 - **confidence:** high
 
+### 2025-05-27 — Negociação BTG ~R$1,5 bi (Fasano/Light/Méliuz)
+- **date:** 2025-05-27
+- **title:** Negociação BTG ~R$1,5 bi (Fasano/Light/Méliuz + precatórios)
+- **summary:** Folha (cronologia BRB–Master, 04/09/2025, atualizada): em 27/05/2025 Vorcaro fecha negociação com o BTG Pactual (André Esteves) para venda de ativos de cerca de R$1,5 bilhão. O pacote inclui ações de Light e Méliuz, precatórios e imóveis — entre eles o prédio do Hotel Fasano em São Paulo. Marco de desinvestimento paralelo à janela regulatória BRB–Master (Cade/BC), distinto da oferta simbólica BTG/FGC citada depois no veto do BC.
+- **people:** Daniel Vorcaro; André Esteves; BTG Pactual
+- **tags:** master|btg|fasano|liquidity|desinvestimento
+- **sources:** https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml (Folha, cronologia 04/09/2025)
+- **confidence:** high (entrada datada na cronologia Folha)
+- **caveats:** Não confundir com a oferta simbólica de R$1 do BTG para assumir o Master com FGC (contexto do veto BC 03/09 — SoT). Valores/ativos = relato Folha; status de fechamento/registro não detalhado nesta fonte. Cluster SoT Fasano/lifestyle é cotas/perfil, não esta venda 27/05.
+- **quote:** —
+
 ### 2022–2024 — Estilo de vida / ativos de poder apontados pela imprensa
 - **date:** undated cluster (cited Apr/2025)
 - **title:** Fasano Itaim stake, Trancoso mansion, Atlético Mineiro SAF
@@ -798,6 +892,17 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **quote:** Sim, estamos gostando muito, todos que nos atenderam sempre foram muito educados e atenciosos.
 - **caveats:** Mês aproximado (jul/2025) no relatório/reportagem; uso de aeronaves não resolve a disputa do escritório sobre o 2º contrato.
 
+### 2025-07-29 — BRB apresenta proposta reduzida (~1/3 do Master)
+- **date:** 2025-07-29
+- **title:** BRB proposta reduzida ~1/3 Master (~R$25 bi; remanescentes ~R$48 bi)
+- **summary:** Folha cronologia: em 29/07/2025 o BRB apresenta nova proposta ao Banco Central para comprar apenas cerca de um terço do Master, numa aquisição envolvendo R$25 bilhões — cerca de metade do plano inicial. O valor de ativos remanescentes do Master sobe para cerca de R$48 bilhões. Em 22/08 a Folha registra o BRB informando ativo de partida ~R$24 bi, confirmando a diminuição. Antecede o veto do BC em 03/09/2025.
+- **people:** BRB; Gabriel Galípolo (contexto BC); Daniel Vorcaro / Master
+- **tags:** brb|master|bc|deal-structure
+- **sources:** https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml (Folha cronologia)
+- **confidence:** high
+- **caveats:** Números (~1/3, R$25 bi / R$48 bi / depois ~R$24 bi de partida) = Folha; não há card SoT deste dia. Não twin do SPA 28/03 nem do veto 03/09. Perímetro de ativos ≠ redução da participação acionária de 58%.
+- **quote:** —
+
 ### 2025-08-08 — Vorcaro a Martha: está com “alexandre” e depois reunião “Com ciro”
 - **date:** 2025-08-08
 - **title:** Vorcaro a Martha: está com “alexandre” e depois reunião “Com ciro”
@@ -808,15 +913,28 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** primary
 - **confidence:** high
 
+### 2025-08-19 — CLDF autoriza BRB a comprar fatia do Master
+- **date:** 2025-08-19
+- **title:** CLDF autoriza BRB a comprar fatia do Master
+- **summary:** Em 19/08/2025, a Câmara Legislativa do Distrito Federal aprovou o projeto de lei 1882/2025 (dois turnos; portal CLDF: 14 a favor e 7 contra na redação final) autorizando o BRB a adquirir 49% das ações ordinárias e 100% das ações preferenciais do Banco Master. A votação atendeu exigência judicial (TJDFT) de autorização legislativa antes da assinatura definitiva. O texto voltou ao Executivo para sanção do governador Ibaneis Rocha (reportada no dia seguinte / ~20/08). A aprovação do Bacen ainda era necessária e seria negada em 03/09/2025.
+- **people:** CLDF; Ibaneis Rocha (autor do PL / sanção posterior); Paulo Henrique Costa (reunião com líderes citada pela imprensa); BRB; Daniel Vorcaro
+- **tags:** cldf|brb|master|politica|autorizacao-legislativa
+- **sources:** https://www.cl.df.gov.br/-/cldf-autoriza-brb-a-comprar-banco-master (CLDF, primary); https://valor.globo.com/financas/noticia/2025/08/19/cmara-do-df-aprova-projeto-de-lei-que-autoriza-brb-a-comprar-parte-do-master.ghtml (Valor); https://www1.folha.uol.com.br/mercado/2025/08/camara-legislativa-do-distrito-federal-autoriza-brb-a-comprar-master.shtml (Folha); https://oglobo.globo.com/economia/financas/noticia/2025/08/19/legislativo-do-distrito-federal-autoriza-brb-a-comprar-master.ghtml (O Globo)
+- **confidence:** high
+- **caveats:** Distinto do card SoT “Ibaneis sanciona lei…” (~mid-Aug): aqui o fato atômico é o **voto CLDF** de 19/08, não a sanção. Placar: CLDF oficial 14×7 (redação final); Valor cita 15×7 no 1º turno e 14×7 no 2º. ≠ sanção Ibaneis.
+- **quote:** —
+
 ### ~2025-08 — Lei distrital / autorização de Ibaneis para compra pelo Banco de Brasília
 - **date:** ~mid-Aug 2025 (“há pouco mais de 10 dias” before 03/09/2025 Agência Brasil)
-- **title:** Ibaneis sanctions CLDF law authorizing BRB to buy Master shares
+- **title:** Ibaneis sanciona lei da CLDF que autoriza o BRB a comprar o Master
 - **summary:** Agência Brasil: DF governor Ibaneis Rocha sanctioned a district law (CLDF-approved, after judicial demand) authorizing BRB to acquire 49% ON + 100% PN of Master. G1 conexões: Ibaneis later said he met Vorcaro only socially; Ciro Nogueira/Antonio Rueda described as political bridges for the deal.
 - **people:** Ibaneis Rocha; Ciro Nogueira; Antonio Rueda
 - **tags:** brb|politics|power-interlocutor
 - **sources:** https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb ; https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml
 - **provenance:** press
 - **confidence:** high for sanction existence; medium for exact calendar day
+- **caveats:** Soft-link: voto legislativo CLDF é card distinto `### 2025-08-19` (≠ esta sanção).
+
 
 ### 2025-09-03 — BC rejects BRB purchase of Master
 - **date:** 2025-09-03
@@ -862,7 +980,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2025-10-01 — “Não faz barci pix”; mensagens apagadas no chat Moraes
 - **date:** 2025-10-01
-- **title:** Pix warning on Barci payments; four “deleted by sender” bubbles
+- **title:** Alerta sobre Pix a Barci; quatro bolhas “apagada pelo remetente”
 - **summary:** Vorcaro to Felix: “Mas nao faz barci pix ne?”; Felix said Pix already done to same TED data. Same day window: four Moraes-chat messages marked deleted by sender (PF).
 - **people:** Vorcaro; Alberto Felix; Barci office
 - **tags:** barci|compliance-zero
@@ -1670,6 +1788,28 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** press
 - **confidence:** high
 
+### 2025-11-20 — TRF-1 indefere 1º habeas e mantém prisão
+- **date:** 2025-11-20
+- **title:** TRF-1 indefere 1º habeas corpus; mantém prisão preventiva
+- **summary:** Valor (20/11/2025): a desembargadora Solange Salgado da Silva (TRF-1) nega o habeas corpus da defesa de Daniel Vorcaro e mantém a prisão preventiva decretada na Operação Compliance Zero. Estadão (Fausto Macedo): decisão de ~22 páginas fala em “cenário de fraude sistêmica” e risco concreto à ordem pública/econômica; rejeita a tese de que a liquidação do Master eliminaria o perigo. Vorcaro seguia custodiado desde a prisão no Aeroporto de Guarulhos (17–18/11). Oito dias depois a mesma magistrada reconsidera e concede soltura cautelar (SoT 28/11).
+- **people:** Solange Salgado da Silva; Daniel Vorcaro; TRF-1
+- **tags:** compliance-zero|habeas|trf-1|prisao
+- **sources:** https://valor.globo.com/financas/noticia/2025/11/20/priso-de-daniel-vorcaro-dono-do-banco-master-mantida-pela-justia.ghtml (Valor, 20/11/2025); https://www.estadao.com.br/politica/blog-do-fausto-macedo/desembargadora-ve-cenario-de-fraude-sistemica-e-nega-habeas-corpus-a-daniel-vorcaro/ (Estadão); corroboração em https://valor.globo.com/financas/noticia/2025/11/24/vorcaro-transferido-para-presdio-em-guarulhos.ghtml (Valor 24/11: “Na última quinta-feira, o TRF-1 havia negado…”)
+- **confidence:** high
+- **caveats:** Seed URL Valor Guarulhos (24/11) só menciona o indeferimento; Preferir Valor 20/11 + Estadão como fontes do dia. Bloomberg Línea situou a decisão na noite de 19/11 — Folha/Valor usam 20/11 como data de reportagem; manter **2025-11-20** alinhado a Valor. Alegações de fraude = tese investigativa/decisão cautelar, não condenação. ≠ soltura 28/11.
+- **quote:** —
+
+### 2025-11-24 — Vorcaro transferido ao CDP 2 Guarulhos
+- **date:** 2025-11-24
+- **title:** Vorcaro transferido da Superintendência da PF ao CDP 2 Guarulhos
+- **summary:** Valor (24/11/2025): Daniel Vorcaro é transferido da Superintendência da Polícia Federal em São Paulo (onde cumpria preventiva desde a noite de 17/11) para um presídio em Guarulhos (CDP). No mesmo dia a defesa ingressa com novo habeas no STJ, após o TRF-1 ter negado o pedido anterior. Também saem da PF SP Luiz Antônio Bull e Alberto Felix (destino não confirmado pelo Valor); Augusto Lima e Ângelo Silva permanecem na Superintendência. Dois temporários (Seixas Maia / Peretto, Cartos/Tirreno) já haviam sido soltos na quinta anterior.
+- **people:** Daniel Vorcaro; Luiz Antônio Bull; Alberto Felix; Augusto Lima; Ângelo Silva
+- **tags:** compliance-zero|cdp|guarulhos|prisao
+- **sources:** https://valor.globo.com/financas/noticia/2025/11/24/vorcaro-transferido-para-presdio-em-guarulhos.ghtml (Valor, 24/11/2025)
+- **confidence:** high
+- **caveats:** Não twin da 2ª prisão/CDP em 2026-03-04 (SoT). Nome “CDP 2” confirma-se nas matérias de saída 29/11 (Estadão/Poder360); Valor 24/11 diz “presídio em Guarulhos”. ≠ prisão GRU 17–18/11.
+- **quote:** —
+
 ### 2025-11-28 — Tribunal Regional Federal da 1ª Região solta Vorcaro e quatro executivos
 - **date:** 2025-11-28
 - **title:** Soltura com tornozeleira eletrônica e restrições
@@ -1679,6 +1819,17 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **sources:** https://g1.globo.com/df/distrito-federal/noticia/2025/11/28/trf-1-manda-soltar-daniel-vorcaro-dono-do-banco-master.ghtml
 - **provenance:** press
 - **confidence:** high
+
+### 2025-11-29 — Saída física do CDP com tornozeleira
+- **date:** 2025-11-29
+- **title:** Saída física do CDP 2 Guarulhos com tornozeleira eletrônica
+- **summary:** Valor/Estadão/Poder360: na manhã de sábado 29/11/2025 Vorcaro deixa o Centro de Detenção Provisória 2 de Guarulhos após liminar da desembargadora Solange Salgado (TRF-1) na noite de 28/11, que substituiu a preventiva por cautelares — tornozeleira, comparecimento periódico, proibição de contato com investigados/ex-funcionários Master–BRB, restrição de deslocamento, retenção de passaporte e (Estadão/Poder360) suspensão de atividades financeiras. Estadão: saída ~11h50, após ~11 dias preso; camiseta branca, bíblia na mão, testa a tornozeleira e não fala à imprensa.
+- **people:** Daniel Vorcaro; Solange Salgado da Silva
+- **tags:** compliance-zero|soltura|tornozeleira|cdp
+- **sources:** https://valor.globo.com/financas/noticia/2025/11/29/daniel-vorcaro-deixa-centro-de-deteno-em-guarulhos.ghtml (Valor, 29/11/2025); https://www.estadao.com.br/economia/vorcaro-deixa-a-cadeia-com-tornozeleira-eletronica-e-impedido-de-realizar-operacoes-financeiras/ (Estadão); https://www.poder360.com.br/poder-justica/daniel-vorcaro-deixa-prisao-em-sp-com-tornozeleira-eletronica/ (Poder360, 29/11/2025)
+- **confidence:** high
+- **caveats:** **Não twin** do card SoT `### 2025-11-28 — Soltura com tornozeleira…` (fato jurídico da ordem). Este card isola o egresso físico 29/11.
+- **quote:** —
 
 ### 2025-12 — Sigilo de Toffoli / atração do inquérito do Master pelo STF (imprensa)
 - **date:** ~2025-12-03 (G1 conexões)
@@ -1692,7 +1843,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2026-01-14 — Compliance Zero 2ª fase: buscas / bloqueio de R$ 5,7 bi
 - **date:** 2026-01-14
-- **title:** Searches at Vorcaro family, Zettel, Tanure, Mansur
+- **title:** Buscas em endereços da família Vorcaro, Zettel, Tanure e Mansur
 - **summary:** G1: second phase — searches at addresses linked to Vorcaro, father, sister, brother-in-law Fabiano Zettel; also Nelson Tanure and João Carlos Mansur (Reag). ~42 addresses; Toffoli-authorized; asset freezes >R$5.7 bi. Haddad called it possibly Brazil’s largest bank fraud; FGC exposure ~R$41 bi CDBs / ~1.6 mi investors cited.
 - **people:** Vorcaro; Henrique; Natália; Zettel; Tanure; Mansur; Toffoli; Fernando Haddad
 - **tags:** compliance-zero|power-interlocutor
@@ -1720,9 +1871,9 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** primary
 - **confidence:** high
 
-### 2026-03-04 — Vorcaro re-arrested (3ª fase Compliance Zero)
+### 2026-03-04 — Vorcaro preso de novo (3ª fase Compliance Zero)
 - **date:** 2026-03-04
-- **title:** Second preventive prison; Zettel also held
+- **title:** Segunda prisão preventiva; Zettel também detido
 - **summary:** Valor/CNN/G1: new STF warrants; Vorcaro and Zettel arrested in SP/MG; PF alleges continued concealment of billions after first release. Custody hearing keeps them in state prison (CDP Guarulhos). Later STF 2ª Turma maintains (13/03 per CNN timeline).
 - **people:** Vorcaro; Fabiano Zettel; STF; PF
 - **tags:** compliance-zero
@@ -1773,7 +1924,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ### 2026-08-27 — PF delivers 218-page phone report to Mendonça
 - **date:** 2026-08-27
-- **title:** IPJ-A 3298613/2026 on Vorcaro iPhone → PET 16.662
+- **title:** IPJ-A 3298613/2026 no iPhone de Vorcaro → PET 16.662
 - **summary:** Poder360: after Mendonça’s 72h order to map “rede de influência e monitoramento,” PF delivers non-exhaustive 218-p analysis of iPhone 17 Pro seized at arrest (Cellebrite/IPED). Covers Moraes-labeled chat, Barci contracts, Gonet/Andrei/Ciro threads, notes methodology.
 - **people:** André Mendonça; PF NADIP; Vorcaro
 - **tags:** seal-lift|compliance-zero|power-interlocutor
@@ -1792,6 +1943,17 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 - **provenance:** primary
 - **confidence:** high
 - **caveats:** Própria PF: análise não exaustiva (prazo 72h).
+
+### 2026-08-31 — Mendonça abre vista à PGR por cinco dias (PET 16.662)
+- **date:** 2026-08-31
+- **title:** Mendonça abre vista à PGR por 5 dias (PET 16.662)
+- **summary:** Despacho primário PET 16.662/DF (Poder360 PDF, sigilo derrubado): em 31/08/2026 o relator Min. André Mendonça determina “Abra-se vista à Procuradoria-Geral da República, para manifestação sobre as informações remetidas pela autoridade policial, pelo prazo de cinco dias.” Antecede o despacho de 1º/09 que levanta o sigilo e manda a matéria ao plenário (SoT), no qual se lê que a vista à PGR “não obsta” a publicidade/pleno.
+- **people:** André Mendonça; PGR; Polícia Federal
+- **tags:** pet-16662|stf|pgr|mendonca
+- **sources:** https://static.poder360.com.br/uploads/2026/09/1pet16662-despacho-vista-pgr-5dias-sigiloderrubado-1set2026.pdf (Poder360 / STF PDF)
+- **confidence:** high (documento oficial)
+- **caveats:** Não duplicar o card SoT 2026-09-01 (levantamento de sigilo). Este é o ato de vista de 31/08. Prazo = cinco dias corridos no despacho (não “úteis” neste PDF). ≠ sigilo 01/09.
+- **quote:** “Abra-se vista à Procuradoria-Geral da República, para manifestação sobre as informações remetidas pela autoridade policial, pelo prazo de cinco dias.”
 
 ### 2026-09-01 — Mendonça levanta sigilo da PET 16.662 e manda ao plenário
 - **date:** 2026-09-01
@@ -1827,6 +1989,17 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 
 ---
 
+### 2026-09-03 — Fachin abre PET 16.704 (esclarecimentos)
+- **date:** 2026-09-03
+- **title:** Fachin abre PET 16.704 e pede esclarecimentos (Moraes, Mendonça, Gonet, Andrei)
+- **summary:** Despacho da Presidência do STF (PET 16.704/DF, 03/09/2026, PDF Poder360): após peças públicas da PET 16.662 e parecer da PGR opinando pela extinção, Min. Edson Fachin autua novo procedimento de ofício, junta cópia integral da PET 16.662 e nota Secom (06/03/2026), e dá prazo comum de 5 dias úteis a Alexandre de Moraes, André Mendonça, Paulo Gonet Branco (PGR) e Andrei Rodrigues (diretor-geral PF) para esclarecimentos sobre pontos ligados a foro/LOMAN, sigilo e controle externo. Migalhas (03/09): Fachin “manda autuar” a Pet 16.704. Desdobramento 04/09 (desentranhamento do Inq 4.781 / fake news) é fato separado.
+- **people:** Edson Fachin; Alexandre de Moraes; André Mendonça; Paulo Gonet Branco; Andrei Rodrigues
+- **tags:** pet-16704|stf|fachin|pet-16662|crisis
+- **sources:** https://static.poder360.com.br/uploads/2026/09/Fachin-da-5-dias-para-Moraes-e-Mendonca-3set2026.pdf (Poder360 / despacho PET 16.704, 03/09/2026); https://www.migalhas.com.br/quentes/463885/fachin-cobra-explicacoes-de-moraes-mendonca-gonet-e-diretor-da-pf (Migalhas, 03/09/2026)
+- **confidence:** high (primário + imprensa)
+- **caveats:** Título produto misturava “tira do inquérito fake news” (movimento reportado em 04/09) com a abertura 03/09; Path B data **2026-09-03** = autuação + pedido de esclarecimentos. Não twin dos cards SoT PET 16.662 / sigilo 01/09. ≠ PET 16.662.
+- **quote:** —
+
 ## Bibliography (URLs)
 
 1. https://www.infomoney.com.br/business/quem-e-daniel-vorcaro-dono-do-banco-master-que-foi-preso-pela-pf/
@@ -1859,6 +2032,28 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 28. https://static.poder360.com.br/uploads/2026/09/1pet16662-oficio-pf-envio-relatorio-3298613-2026-sigiloderrubado-1set2026.pdf
 29. https://www.poder360.com.br/poder-justica/mendonca-retira-sigilo-de-acao-sobre-vorcaro-e-moraes/
 
+30. https://valor.globo.com/politica/eleicoes-2022/noticia/2022/10/19/pastor-e-maior-doador-bolsonarista.ghtml
+31. https://cbn.globo.com/politica/noticia/2026/01/15/cunhado-do-dono-do-banco-master-destinou-r-5-milhoes-as-campanhas-de-bolsonaro-e-tarcisio-em-2022.ghtml
+32. https://economia.uol.com.br/noticias/redacao/2025/11/18/socio-do-atletico-mineiro-e-dono-de-mansoes-quem-e-daniel-vorcaro.htm
+33. https://ge.globo.com/futebol/times/atletico-mg/noticia/2024/06/01/atletico-mg-espera-parcela-de-aporte-de-r-200-milhoes-do-fundo-galo-forte-neste-mes.ghtml
+34. https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia/
+35. https://oglobo.globo.com/economia/noticia/2025/03/31/galipolo-altera-agenda-e-se-reune-com-presidente-do-brb-apos-anuncio-de-negocio-com-banco-master.ghtml
+36. https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml
+37. https://valor.globo.com/financas/noticia/2025/04/11/alem-de-galipolo-executivos-do-master-se-reunem-com-diretores-do-bc.ghtml
+38. https://www.estadao.com.br/economia/negocios/galipolo-se-reune-vorcaro-e-ceo-banco-master/
+39. https://www.cl.df.gov.br/-/cldf-autoriza-brb-a-comprar-banco-master
+40. https://valor.globo.com/financas/noticia/2025/08/19/cmara-do-df-aprova-projeto-de-lei-que-autoriza-brb-a-comprar-parte-do-master.ghtml
+41. https://www1.folha.uol.com.br/mercado/2025/08/camara-legislativa-do-distrito-federal-autoriza-brb-a-comprar-master.shtml
+42. https://valor.globo.com/financas/noticia/2025/11/20/priso-de-daniel-vorcaro-dono-do-banco-master-mantida-pela-justia.ghtml
+43. https://www.estadao.com.br/politica/blog-do-fausto-macedo/desembargadora-ve-cenario-de-fraude-sistemica-e-nega-habeas-corpus-a-daniel-vorcaro/
+44. https://valor.globo.com/financas/noticia/2025/11/24/vorcaro-transferido-para-presdio-em-guarulhos.ghtml
+45. https://valor.globo.com/financas/noticia/2025/11/29/daniel-vorcaro-deixa-centro-de-deteno-em-guarulhos.ghtml
+46. https://www.estadao.com.br/economia/vorcaro-deixa-a-cadeia-com-tornozeleira-eletronica-e-impedido-de-realizar-operacoes-financeiras/
+47. https://www.poder360.com.br/poder-justica/daniel-vorcaro-deixa-prisao-em-sp-com-tornozeleira-eletronica/
+48. https://static.poder360.com.br/uploads/2026/09/1pet16662-despacho-vista-pgr-5dias-sigiloderrubado-1set2026.pdf
+49. https://static.poder360.com.br/uploads/2026/09/Fachin-da-5-dias-para-Moraes-e-Mendonca-3set2026.pdf
+50. https://www.migalhas.com.br/quentes/463885/fachin-cobra-explicacoes-de-moraes-mendonca-gonet-e-diretor-da-pf
+
 Local mirrors: `/workspace/vorcaro/sources/press/` and primary PDFs under `/workspace/vorcaro/`.
 
 ---
@@ -1867,11 +2062,12 @@ Local mirrors: `/workspace/vorcaro/sources/press/` and primary PDFs under `/work
 
 - **Press input events:** 39
 - **Primary input events:** 114
-- **Merged distinct events (honest):** **152**
+- **Merged distinct events (honest):** **166**
 - **Of which primary-sourced (incl. +press corroboration):** 114
 - **Press-only (bio / BRB / institutional):** 38
 - **Explicit date+title overlaps collapsed into primary:** 1
-- **Unique http(s) URLs in bibliography:** 29
+- **Path B merge 2026-09-05:** +14 PASS cards (Editor items 3–16 minus Voiter+Will TRIM); compulsório quote deduped onto 2024-09-02 day-card
+- **Unique http(s) URLs in bibliography:** 50
 
 *Output path:* `/workspace/vorcaro/timeline-eventos.md`
 

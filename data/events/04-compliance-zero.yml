@@ -106,6 +106,91 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
+- id: 2025-11-20-trf-1-indefere-1-habeas-corpus-mantem-prisao-preventiva
+  date: "2025-11-20"
+  date_precision: day
+  title: TRF-1 indefere 1º habeas corpus; mantém prisão preventiva
+  summary: >-
+    Valor (20/11/2025): a desembargadora Solange Salgado da Silva (TRF-1) nega o habeas
+    corpus da defesa de Daniel Vorcaro e mantém a prisão preventiva decretada na Operação
+    Compliance Zero. Estadão (Fausto Macedo): decisão de ~22 páginas fala em “cenário de
+    fraude sistêmica” e risco concreto à ordem pública/econômica; rejeita a tese de que a
+    liquidação do Master eliminaria o perigo. Vorcaro seguia custodiado desde a prisão no
+    Aeroporto de Guarulhos (17–18/11). Oito dias depois a mesma magistrada reconsidera e
+    concede soltura cautelar (SoT 28/11).
+  people:
+    - name: Solange Salgado
+      id: solange-salgado
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: TRF-1
+  tags:
+    - compliance-zero
+    - habeas
+    - trf-1
+    - prisao
+  sources:
+    - url: >-
+        https://valor.globo.com/financas/noticia/2025/11/20/priso-de-daniel-vorcaro-dono-do-banco-master-mantida-pela-justia.ghtml
+      publisher: Valor Econômico
+      accessed: "2026-09-05"
+      quote: —
+    - url: >-
+        https://www.estadao.com.br/politica/blog-do-fausto-macedo/desembargadora-ve-cenario-de-fraude-sistemica-e-nega-habeas-corpus-a-daniel-vorcaro
+      publisher: Estadão
+      accessed: "2026-09-05"
+    - url: >-
+        https://valor.globo.com/financas/noticia/2025/11/24/vorcaro-transferido-para-presdio-em-guarulhos.ghtml
+      publisher: Valor Econômico
+      accessed: "2026-09-05"
+  evidence_type: press
+  confidence: high
+  notes: >-
+    Seed URL Valor Guarulhos (24/11) só menciona o indeferimento; Preferir Valor 20/11 +
+    Estadão como fontes do dia. Bloomberg Línea situou a decisão na noite de 19/11 —
+    Folha/Valor usam 20/11 como data de reportagem; manter **2025-11-20** alinhado a Valor.
+    Alegações de fraude = tese investigativa/decisão cautelar, não condenação. ≠ soltura
+    28/11.
+- id: 2025-11-24-vorcaro-transferido-da-superintendencia-da-pf-ao-cdp-2-guarulhos
+  date: "2025-11-24"
+  date_precision: day
+  title: Vorcaro transferido da Superintendência da PF ao CDP 2 Guarulhos
+  summary: >-
+    Valor (24/11/2025): Daniel Vorcaro é transferido da Superintendência da Polícia Federal
+    em São Paulo (onde cumpria preventiva desde a noite de 17/11) para um presídio em
+    Guarulhos (CDP). No mesmo dia a defesa ingressa com novo habeas no STJ, após o TRF-1 ter
+    negado o pedido anterior. Também saem da PF SP Luiz Antônio Bull e Alberto Felix
+    (destino não confirmado pelo Valor); Augusto Lima e Ângelo Silva permanecem na
+    Superintendência. Dois temporários (Seixas Maia / Peretto, Cartos/Tirreno) já haviam
+    sido soltos na quinta anterior.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Luiz Antônio Bull
+      id: luiz-antonio-bull
+    - name: Alberto Felix de Oliveira Neto
+      id: alberto-felix
+    - name: Augusto Ferreira Lima
+      id: augusto-lima
+    - name: Angelo Antonio Ribeiro da Silva
+      id: angelo-silva
+  tags:
+    - compliance-zero
+    - cdp
+    - guarulhos
+    - prisao
+  sources:
+    - url: >-
+        https://valor.globo.com/financas/noticia/2025/11/24/vorcaro-transferido-para-presdio-em-guarulhos.ghtml
+      publisher: Valor Econômico
+      accessed: "2026-09-05"
+      quote: —
+  evidence_type: press
+  confidence: high
+  notes: >-
+    Não twin da 2ª prisão/CDP em 2026-03-04 (SoT). Nome “CDP 2” confirma-se nas matérias de
+    saída 29/11 (Estadão/Poder360); Valor 24/11 diz “presídio em Guarulhos”. ≠ prisão GRU
+    17–18/11.
 - id: 2025-11-28-soltura-com-tornozeleira-eletronica-e-restricoes
   date: "2025-11-28"
   date_precision: day
@@ -136,6 +221,47 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
+- id: 2025-11-29-saida-fisica-do-cdp-2-guarulhos-com-tornozeleira-eletronica
+  date: "2025-11-29"
+  date_precision: day
+  title: Saída física do CDP 2 Guarulhos com tornozeleira eletrônica
+  summary: >-
+    Valor/Estadão/Poder360: na manhã de sábado 29/11/2025 Vorcaro deixa o Centro de Detenção
+    Provisória 2 de Guarulhos após liminar da desembargadora Solange Salgado (TRF-1) na
+    noite de 28/11, que substituiu a preventiva por cautelares — tornozeleira,
+    comparecimento periódico, proibição de contato com investigados/ex-funcionários
+    Master–BRB, restrição de deslocamento, retenção de passaporte e (Estadão/Poder360)
+    suspensão de atividades financeiras. Estadão: saída ~11h50, após ~11 dias preso;
+    camiseta branca, bíblia na mão, testa a tornozeleira e não fala à imprensa.
+  people:
+    - name: Daniel Bueno Vorcaro
+      id: daniel-bueno-vorcaro
+    - name: Solange Salgado
+      id: solange-salgado
+  tags:
+    - compliance-zero
+    - soltura
+    - tornozeleira
+    - cdp
+  sources:
+    - url: >-
+        https://valor.globo.com/financas/noticia/2025/11/29/daniel-vorcaro-deixa-centro-de-deteno-em-guarulhos.ghtml
+      publisher: Valor Econômico
+      accessed: "2026-09-05"
+      quote: —
+    - url: >-
+        https://www.estadao.com.br/economia/vorcaro-deixa-a-cadeia-com-tornozeleira-eletronica-e-impedido-de-realizar-operacoes-financeiras
+      publisher: Estadão
+      accessed: "2026-09-05"
+    - url: >-
+        https://www.poder360.com.br/poder-justica/daniel-vorcaro-deixa-prisao-em-sp-com-tornozeleira-eletronica
+      publisher: Poder360
+      accessed: "2026-09-05"
+  evidence_type: press
+  confidence: high
+  notes: >-
+    **Não twin** do card SoT `### 2025-11-28 — Soltura com tornozeleira…` (fato jurídico da
+    ordem). Este card isola o egresso físico 29/11.
 - id: 2025-12-03-toffoli-coloca-inquerito-do-master-sob-sigilo-no-stf
   date: "2025-12-03"
   date_precision: day
@@ -165,10 +291,10 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
-- id: 2026-01-14-searches-at-vorcaro-family-zettel-tanure-mansur
+- id: 2026-01-14-buscas-em-enderecos-da-familia-vorcaro-zettel-tanure-e-mansur
   date: "2026-01-14"
   date_precision: day
-  title: Searches at Vorcaro family, Zettel, Tanure, Mansur
+  title: Buscas em endereços da família Vorcaro, Zettel, Tanure e Mansur
   summary: >-
     G1: second phase — searches at addresses linked to Vorcaro, father, sister,
     brother-in-law Fabiano Zettel; also Nelson Tanure and João Carlos Mansur (Reag). ~42
@@ -251,10 +377,10 @@
       accessed: "2026-09-05"
   evidence_type: primary_document
   confidence: high
-- id: 2026-03-04-second-preventive-prison-zettel-also-held
+- id: 2026-03-04-segunda-prisao-preventiva-zettel-tambem-detido
   date: "2026-03-04"
   date_precision: day
-  title: Second preventive prison; Zettel also held
+  title: Segunda prisão preventiva; Zettel também detido
   summary: >-
     Valor/CNN/G1: new STF warrants; Vorcaro and Zettel arrested in SP/MG; PF alleges
     continued concealment of billions after first release. Custody hearing keeps them in
@@ -367,10 +493,10 @@
       accessed: "2026-09-05"
   evidence_type: primary_document
   confidence: high
-- id: 2026-08-27-ipj-a-3298613-2026-on-vorcaro-iphone-pet-16-662
+- id: 2026-08-27-ipj-a-3298613-2026-no-iphone-de-vorcaro-pet-16-662
   date: "2026-08-27"
   date_precision: day
-  title: IPJ-A 3298613/2026 on Vorcaro iPhone → PET 16.662
+  title: IPJ-A 3298613/2026 no iPhone de Vorcaro → PET 16.662
   summary: >-
     Poder360: after Mendonça’s 72h order to map “rede de influência e monitoramento,” PF
     delivers non-exhaustive 218-p analysis of iPhone 17 Pro seized at arrest
@@ -429,6 +555,39 @@
   evidence_type: primary_document
   confidence: high
   notes: "Própria PF: análise não exaustiva (prazo 72h)."
+- id: 2026-08-31-mendonca-abre-vista-a-pgr-por-5-dias-pet-16-662
+  date: "2026-08-31"
+  date_precision: day
+  title: Mendonça abre vista à PGR por 5 dias (PET 16.662)
+  summary: >-
+    Despacho primário PET 16.662/DF (Poder360 PDF, sigilo derrubado): em 31/08/2026 o
+    relator Min. André Mendonça determina “Abra-se vista à Procuradoria-Geral da República,
+    para manifestação sobre as informações remetidas pela autoridade policial, pelo prazo de
+    cinco dias.” Antecede o despacho de 1º/09 que levanta o sigilo e manda a matéria ao
+    plenário (SoT), no qual se lê que a vista à PGR “não obsta” a publicidade/pleno.
+  people:
+    - name: André Mendonça
+      id: andre-mendonca
+    - name: PGR
+    - name: Polícia Federal
+  tags:
+    - pet-16662
+    - stf
+    - pgr
+    - mendonca
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/1pet16662-despacho-vista-pgr-5dias-sigiloderrubado-1set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      quote: >-
+        Abra-se vista à Procuradoria-Geral da República, para manifestação sobre as
+        informações remetidas pela autoridade policial, pelo prazo de cinco dias.
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    Não duplicar o card SoT 2026-09-01 (levantamento de sigilo). Este é o ato de vista de
+    31/08. Prazo = cinco dias corridos no despacho (não “úteis” neste PDF). ≠ sigilo 01/09.
 - id: 2026-09-01-caveats-metodologicos-cristalizados-na-cobertura-do-mesmo-dia
   date: "2026-09-01"
   date_precision: day
@@ -546,3 +705,49 @@
       accessed: "2026-09-05"
   evidence_type: press
   confidence: high
+- id: 2026-09-03-fachin-abre-pet-16-704-e-pede-esclarecimentos-moraes-mendonca-gonet-andrei
+  date: "2026-09-03"
+  date_precision: day
+  title: Fachin abre PET 16.704 e pede esclarecimentos (Moraes, Mendonça, Gonet, Andrei)
+  summary: >-
+    Despacho da Presidência do STF (PET 16.704/DF, 03/09/2026, PDF Poder360): após peças
+    públicas da PET 16.662 e parecer da PGR opinando pela extinção, Min. Edson Fachin autua
+    novo procedimento de ofício, junta cópia integral da PET 16.662 e nota Secom
+    (06/03/2026), e dá prazo comum de 5 dias úteis a Alexandre de Moraes, André Mendonça,
+    Paulo Gonet Branco (PGR) e Andrei Rodrigues (diretor-geral PF) para esclarecimentos
+    sobre pontos ligados a foro/LOMAN, sigilo e controle externo. Migalhas (03/09): Fachin
+    “manda autuar” a Pet 16.704. Desdobramento 04/09 (desentranhamento do Inq 4.781 / fake
+    news) é fato separado.
+  people:
+    - name: Edson Fachin
+      id: edson-fachin
+    - name: Alexandre de Moraes
+      id: alexandre-de-moraes
+    - name: André Mendonça
+      id: andre-mendonca
+    - name: Paulo Gonet Branco
+      id: paulo-gonet
+    - name: Andrei Rodrigues
+      id: andrei-rodrigues
+  tags:
+    - pet-16704
+    - stf
+    - fachin
+    - pet-16662
+    - crisis
+  sources:
+    - url: >-
+        https://static.poder360.com.br/uploads/2026/09/Fachin-da-5-dias-para-Moraes-e-Mendonca-3set2026.pdf
+      publisher: Poder360 / PET 16.662
+      accessed: "2026-09-05"
+      quote: —
+    - url: >-
+        https://www.migalhas.com.br/quentes/463885/fachin-cobra-explicacoes-de-moraes-mendonca-gonet-e-diretor-da-pf
+      publisher: migalhas.com.br
+      accessed: "2026-09-05"
+  evidence_type: primary_document
+  confidence: high
+  notes: >-
+    Título produto misturava “tira do inquérito fake news” (movimento reportado em 04/09)
+    com a abertura 03/09; Path B data **2026-09-03** = autuação + pedido de esclarecimentos.
+    Não twin dos cards SoT PET 16.662 / sigilo 01/09. ≠ PET 16.662.
