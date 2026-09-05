@@ -24,7 +24,8 @@ export default function HomePage() {
           <span className="pill">{people.length} pessoas</span>
           <span className="pill">{primary} com documento primário, peça ou fonte oficial</span>
           <span className="pill">
-            {events.filter((e) => e.cluster_role === "parent").length} grupos do dia
+            {events.filter((e) => e.cluster_role === "parent").length} grupos forenses
+            (out–nov/2025)
           </span>
         </div>
         <p className="muted" style={{ margin: 0 }}>

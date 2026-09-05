@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { ClusterRow } from "@/components/ClusterRow";
+import { EventCard } from "@/components/EventCard";
 import { confidenceLabel, formatDate } from "@/lib/format";
 import type { EventRecord } from "@/lib/types";
 
@@ -42,7 +42,10 @@ export function ForensicCluster({
           onOpenChange?.(next);
         }}
       >
-        <summary className="cluster-summary">
+        <summary
+          className="cluster-summary"
+          aria-label={`${stamp}: ${label}, ${count} ${count === 1 ? "ficha" : "fichas"}`}
+        >
           <time className="cluster-date" dateTime={date}>
             {stamp}
           </time>
@@ -60,13 +63,11 @@ export function ForensicCluster({
             </span>
           ) : null}
         </summary>
-        <ul className="cluster-children">
+        <div className="cluster-children">
           {events.map((event) => (
-            <li key={event.id}>
-              <ClusterRow event={event} />
-            </li>
+            <EventCard key={event.id} event={event} />
           ))}
-        </ul>
+        </div>
       </details>
     </article>
   );

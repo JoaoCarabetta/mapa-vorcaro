@@ -50,7 +50,7 @@ export default function PeopleIndexPage() {
                   key={person.id}
                   href={`/pessoas/${person.id}`}
                 >
-                  <div className="source-pub">{person.group}</div>
+                  <div className="source-pub">{GROUP_LABEL[person.group]}</div>
                   <h2 style={{ margin: "8px 0 6px" }}>{person.name}</h2>
                   <p className="muted">{person.roles[0]}</p>
                   <p>

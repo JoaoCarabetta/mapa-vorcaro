@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { confidenceLabel, evidenceLabel, formatDate } from "@/lib/format";
+import { confidenceLabel, evidenceLabel, formatDate, tagLabel } from "@/lib/format";
 import { forensicChildrenOf, getEventById, loadEvents, loadPeople, personRefMatches } from "@/lib/load";
 import type { Metadata } from "next";
 
@@ -51,7 +51,7 @@ export default async function EventPage({ params }: Props) {
         </span>
         {event.tags.map((tag) => (
           <Link className="chip" key={tag} href={`/?tag=${encodeURIComponent(tag)}`}>
-            {tag}
+            {tagLabel(tag)}
           </Link>
         ))}
       </div>

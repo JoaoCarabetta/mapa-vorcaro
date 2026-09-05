@@ -95,10 +95,12 @@ export default function MetodologiaPage() {
       <h2>Grupos do dia</h2>
       <p>
         Os carimbos da cadeia Apple Notas → captura → WhatsApp não são manchetes: a
-        interface os agrupa em grupos diários. Fechado: data, fio e número de fichas.
-        Aberto: linhas (título, evidência, editora). A ficha completa fica em{" "}
-        <code>/eventos/…</code>. Não inventamos teor de nota cujo OCR não está no
-        material.
+        interface os agrupa em grupos diários. Fechado: data em português, fio
+        (“Notas para WhatsApp” ou “Vários fios”) e número de fichas daquele dia.
+        Aberto (<code>?dia=AAAA-MM-DD</code>): as fichas completas do dia, em ordem
+        cronológica (relógio UTC no título). A ficha isolada também é um cartão
+        completo; o detalhe com fontes fica em <code>/eventos/…</code>. Não inventamos
+        teor de nota cujo OCR não está no material.
       </p>
       <p>
         Contagem honesta: {forensicChildren} microfichas-filhas (carimbo de tempo)

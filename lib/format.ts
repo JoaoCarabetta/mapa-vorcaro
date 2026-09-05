@@ -51,6 +51,45 @@ export function confidenceLabel(level?: string): string {
   }
 }
 
+const TAG_LABELS: Record<string, string> = {
+  "nota-forense": "nota forense",
+  notas: "notas",
+  whatsapp: "WhatsApp",
+  "view-once": "visualização única",
+  crise: "crise",
+  "crise-master": "crise Master",
+  "compliance-zero": "Compliance Zero",
+  "power-interlocutor": "interlocutor do poder",
+  "seal-lift": "quebra de sigilo",
+  master: "Master",
+  maxima: "Máxima",
+  bio: "bio",
+  brb: "BRB",
+  barci: "Barci",
+  viking: "Viking",
+  growth: "expansão",
+  politics: "política",
+  politica: "política",
+  aeronaves: "aeronaves",
+  lux: "luxo",
+  education: "formação",
+  multipar: "Multipar",
+  fasano: "Fasano",
+  atletico: "Atlético",
+  zettel: "Zettel",
+  tirreno: "Tirreno",
+};
+
+export function tagLabel(tag: string): string {
+  return TAG_LABELS[tag] ?? tag.replace(/-/g, " ");
+}
+
+/** Visible UTC stamp from a forensic title, or null. */
+export function formatEventClock(event: { title: string }): string | null {
+  const match = event.title.match(/(\d{2}:\d{2}:\d{2})(?:\s*UTC)?/i);
+  return match ? `${match[1]} UTC` : null;
+}
+
 export function slugify(value: string): string {
   return value
     .normalize("NFD")

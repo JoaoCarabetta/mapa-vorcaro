@@ -1,5 +1,11 @@
 import Link from "next/link";
-import { confidenceLabel, evidenceLabel, formatDate } from "@/lib/format";
+import {
+  confidenceLabel,
+  evidenceLabel,
+  formatDate,
+  formatEventClock,
+  tagLabel,
+} from "@/lib/format";
 import type { EventRecord } from "@/lib/types";
 
 type Props = {
@@ -11,11 +17,16 @@ export function EventCard({ event, compact = false }: Props) {
   const source = event.sources[0];
   const summaryLen = compact ? 160 : 280;
   const summary = event.summary.replace(/\s+/g, " ").trim();
+  const clock = formatEventClock(event);
 
   return (
-    <article className={compact ? "event-card event-card-compact" : "event-card"}>
+    <article
+      className={compact ? "event-card event-card-compact" : "event-card"}
+      data-event-id={event.id}
+    >
       <time className="event-date" dateTime={event.date}>
         {formatDate(event.date, event.date_precision)}
+        {clock ? <span className="event-clock">{clock}</span> : null}
       </time>
       <div>
         <h2 className="event-title">
@@ -34,7 +45,7 @@ export function EventCard({ event, compact = false }: Props) {
           ) : null}
           {event.tags.slice(0, compact ? 2 : 4).map((tag) => (
             <span className="chip" key={tag}>
-              {tag}
+              {tagLabel(tag)}
             </span>
           ))}
         </div>

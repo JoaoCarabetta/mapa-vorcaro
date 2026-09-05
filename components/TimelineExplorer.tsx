@@ -2,12 +2,13 @@
 
 import { useCallback, useMemo, useState } from "react";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
-import { ClusterRow } from "@/components/ClusterRow";
+import { EventCard } from "@/components/EventCard";
 import { ForensicCluster } from "@/components/ForensicCluster";
 import {
   compareEventsChrono,
   formatMonthHead,
   monthKey,
+  tagLabel,
 } from "@/lib/format";
 import type { EventRecord } from "@/lib/types";
 
@@ -128,18 +129,12 @@ export function TimelineExplorer({ events, people, tags, years }: Props) {
 
     const buckets: DayBucket[] = [];
     for (const [date, list] of [...byDay.entries()].sort()) {
-      const parent = list.find((event) => event.cluster_role === "parent");
-      const rows = (
-        parent ? list.filter((event) => event.id !== parent.id) : list
-      )
-        .slice()
-        .sort(compareEventsChrono);
-      if (list.length < 2 || rows.length === 0) continue;
+      if (list.length < 2) continue;
       buckets.push({
         date,
         month: monthKey(date),
         year: date.slice(0, 4),
-        events: rows,
+        events: list.slice().sort(compareEventsChrono),
         dayCount: list.length,
       });
     }
@@ -287,9 +282,9 @@ export function TimelineExplorer({ events, people, tags, years }: Props) {
           >
             <option value="">Todas as tags</option>
             {tags.map((t) => (
-              <option key={t} value={t}>
-                {t}
-              </option>
+            <option key={t} value={t}>
+              {tagLabel(t)}
+            </option>
             ))}
           </select>
           <select
@@ -416,11 +411,7 @@ export function TimelineExplorer({ events, people, tags, years }: Props) {
                         />
                       );
                     }
-                    return (
-                      <article className="singleton-row" key={item.event.id}>
-                        <ClusterRow event={item.event} />
-                      </article>
-                    );
+                    return <EventCard key={item.event.id} event={item.event} />;
                   })}
                 </section>
               ))}
