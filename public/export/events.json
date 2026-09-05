@@ -1498,7 +1498,8 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high"
+    "confidence": "high",
+    "notes": "Afirmação unilateral de Vorcaro a Martha e a Paulo Sergio (rótulo do chat). Não é prova fotográfica da presença. Trecho do IPJ-A publicado (PET 16.662)."
   },
   {
     "id": "2025-03-20-madrugada-hugo-e-ciro-pra-falarem-com-alexandre",
@@ -1542,7 +1543,8 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high"
+    "confidence": "high",
+    "notes": "Duração do encontro (~20:23 do dia 19 até ao menos 00:32 do dia 20) é estimativa da PF a partir dos diálogos. Afirmação unilateral de Vorcaro a Martha. Análise da PF não é exaustiva."
   },
   {
     "id": "2025-03-28-anunciado-acordo-de-compra-de-acoes-banco-de-brasilia-master",
@@ -1581,7 +1583,8 @@
       }
     ],
     "evidence_type": "press",
-    "confidence": "high"
+    "confidence": "high",
+    "notes": "Fato relevante do BRB e reportagem da Folha. Negócio ainda sujeito a Bacen, Cade e outros órgãos."
   },
   {
     "id": "2025-03-28-ciro-encaminha-mensagens-atribuidas-a-gonet-londres-e-macallan",
@@ -1618,7 +1621,7 @@
         "quote": "Oba!!! Tomara que tenha charuto e macalan!"
       },
       {
-        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
         "publisher": "Poder360",
         "accessed": "2026-09-05"
       }
@@ -1666,13 +1669,14 @@
         "quote": "Obvio ne"
       },
       {
-        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf",
+        "url": "https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/",
         "publisher": "Poder360",
         "accessed": "2026-09-05"
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high"
+    "confidence": "high",
+    "notes": "Pedido chega via Ciro (“Gonet mandou” / “Gonet perguntou”); não é mensagem direta de um contato Gonet na agenda. IPJ-A publicado."
   },
   {
     "id": "2025-04-01-fasano-itaim-stake-trancoso-mansion-atletico-mineiro-saf",
@@ -1833,7 +1837,8 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high"
+    "confidence": "high",
+    "notes": "“Pedro” interpretado pela PF como Pedro Gonet. Não há contato Gonet na agenda neste material. IPJ-A publicado; análise da PF não é exaustiva."
   },
   {
     "id": "2025-04-19-vorcaro-a-martha-indo-encontrar-alexandre-moraes-feriado",
@@ -1865,7 +1870,8 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high"
+    "confidence": "high",
+    "notes": "Afirmação unilateral de Vorcaro a Martha; não é prova fotográfica da presença. Trecho do IPJ-A publicado (PET 16.662)."
   },
   {
     "id": "2025-04-29-vorcaro-a-martha-esta-com-alexandre-alexandre-moraes",
@@ -1896,7 +1902,8 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high"
+    "confidence": "high",
+    "notes": "Afirmação unilateral de Vorcaro a Martha; não é prova fotográfica da presença. Trecho do IPJ-A publicado (PET 16.662)."
   },
   {
     "id": "2025-05-12-contrato-viking-participacoes-barci-de-moraes-ate-r-50-mi",
@@ -2071,7 +2078,8 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high"
+    "confidence": "high",
+    "notes": "Afirmação unilateral de Vorcaro a Martha; não é prova fotográfica da presença. Trecho do IPJ-A publicado (PET 16.662)."
   },
   {
     "id": "2025-05-26-vorcaro-marca-encontro-com-alexandre-e-jantar-com-as-mulheres",
@@ -2107,7 +2115,8 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high"
+    "confidence": "high",
+    "notes": "Afirmação unilateral de Vorcaro a Martha; não é prova fotográfica da presença. Trecho do IPJ-A publicado (PET 16.662)."
   },
   {
     "id": "2025-06-17-superintendencia-geral-do-cade-aprova-negocio-sem-restricoes",
@@ -2132,7 +2141,8 @@
       }
     ],
     "evidence_type": "press",
-    "confidence": "high"
+    "confidence": "high",
+    "notes": "Reportagem pública (G1 DF). Aprovação da Superintendência-Geral do Cade não é autorização do Banco Central."
   },
   {
     "id": "2025-06-19-ciro-pg-confirmou-a-ida-pra-londres-pedrinho-pode-ir",
@@ -2172,7 +2182,8 @@
       }
     ],
     "evidence_type": "primary_document",
-    "confidence": "high"
+    "confidence": "high",
+    "notes": "“PG”/Pedrinho: interpretação da PF no relatório publicado; não é mensagem direta de Gonet na agenda. Análise da PF não é exaustiva."
   },
   {
     "id": "2025-07-01-uso-de-aeronaves-legacy-ec155-por-barci-viviane-estamos-gostando-muito",
