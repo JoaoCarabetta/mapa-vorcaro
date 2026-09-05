@@ -471,7 +471,7 @@
 - **summary:** UOL/Estadão: after 2023 entry, Vorcaro put ~R$200 mi more in 2024 and reached ~26.9% of Galo Holding (behind Menin ~55.7%). Aligns with G1/Estadão ~27% SAF figure.
 - **people:** Daniel Vorcaro; Rubens Menin; Rafael Menin
 - **tags:** bio|atletico
-- **sources:** UOL 18/11/2025; Estadão negócios Nov/2025; G1 conexões
+- **sources:** https://economia.uol.com.br/noticias/redacao/2025/11/18/socio-do-atletico-mineiro-e-dono-de-mansoes-quem-e-daniel-vorcaro.htm (UOL); https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml (Valor) | was: UOL 18/11/2025; Estadão negócios Nov/2025; G1 conexões
 - **confidence:** medium
 
 ---
@@ -482,7 +482,7 @@
 - **summary:** Estadão (18/04/2026) publishes 2 Sep 2024 message: Vorcaro asks Lima for BRB news; if cash does not arrive he must return Friday money and “usar compulsório hoje.” Next day he presses CCB pending ~15 days; Lima: “fazem até quinta.” Standalone milestone inside the Jul/2024– onward cession stream.
 - **people:** Daniel Vorcaro; Augusto Lima
 - **tags:** brb|liquidity|messages
-- **sources:** local `estadao_brb_urgenca.txt`
+- **sources:** https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia/ (Estadão) | was: local `estadao_brb_urgenca.txt`
 - **confidence:** high
 - **quote:** “Tem notícia do BRB? Se não vier vou ter que devolver a grana de sexta e vamos usar compulsório hoje”
 
@@ -494,7 +494,7 @@
 - **summary:** Estadão: before the official purchase announcement, Master had already passed R$4.6 bi to BRB in 20 contracts — six in Jan (R$1.66 bi), six in Feb (R$1.82 bi), eight in Mar (R$1.12 bi). Same investigation line situates Tirreno-linked books from Jan/2025 and total alleged false portfolios ~R$12.2 bi.
 - **people:** Daniel Vorcaro; Paulo Henrique Costa; Tirreno (investigative attribution)
 - **tags:** brb|tirreno|compliance-zero
-- **sources:** local `estadao_brb_urgenca.txt`
+- **sources:** https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia/ (Estadão); https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml (Folha) | was: local `estadao_brb_urgenca.txt`
 - **confidence:** medium-high (investigative amounts; fraud label = allegation)
 - **caveats:** “carteiras falsas” remains PF/press thesis until judgment.
 
@@ -517,7 +517,7 @@
 - **summary:** Folha chronology: 11 Apr 2025 Galípolo meets Daniel Vorcaro; same timeline notes other Vorcaro contacts with BC directors during the acquisition review.
 - **people:** Gabriel Galípolo; Daniel Vorcaro
 - **tags:** galipolo|bc|power-interlocutor
-- **sources:** Folha cronologia 04/09/2025 — `folha_cronologia_brb.html`
+- **sources:** https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml (Folha cronologia BRB–Master) | was: Folha cronologia 04/09/2025 — `folha_cronologia_brb.html`
 - **confidence:** high
 
 ---
@@ -528,7 +528,7 @@
 - **summary:** Poder360/CNN: one week after the 12/05 Viking×Barci contract, parties sign a 19/05/2025 settlement term on how to pay the R$50 mi — press/PF describe ~R$40 mi via aircraft equity (Legacy/EC155) + ~R$10 mi expense reimbursement. Firm disputes that this 2nd path was accepted.
 - **people:** Daniel Vorcaro; Viviane Barci de Moraes; Leonardo Palhares (cited in chats)
 - **tags:** barci|viking|dacao
-- **sources:** local `poder360_contratos_barci.html`; Poder360 íntegras; `/workspace/vorcaro/acordo_dacao_viking_barci.pdf`
+- **sources:** https://static.poder360.com.br/uploads/2026/09/pet16662-acordo-dacao-viking-barci-aviao-helicoptero-50milhoes-sigiloderrubado.pdf (PDF); https://www.poder360.com.br/poder-justica/leia-as-integras-de-documentos-que-revelam-relacao-de-moraes-com-vorcaro/ (Poder360) | was: local `poder360_contratos_barci.html`; Poder360 íntegras; `/workspace/vorcaro/acordo_dacao_viking_barci.pdf`
 - **confidence:** high (PDF existence); disputed acceptance
 - **caveats:** Barci 2nd-contract dispute
 
@@ -540,7 +540,7 @@
 - **summary:** Folha chronology: 27 May 2025 Vorcaro closes negotiation with BTG Pactual (~R$1.5 bi) covering Light, Méliuz and the Fasano Itaim building interest. O Tempo (Feb/2026) confirms mid-2025 Fasano disposal narrative.
 - **people:** Daniel Vorcaro; André Esteves (BTG)
 - **tags:** fasano|btg|divestment
-- **sources:** Folha cronologia — `folha_cronologia_brb.html`; O Tempo 05/02/2026
+- **sources:** https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml (Folha); https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml (Valor Fasano context) | was: Folha cronologia — `folha_cronologia_brb.html`; O Tempo 05/02/2026
 - **confidence:** high
 
 ---
@@ -551,7 +551,7 @@
 - **summary:** Folha chronology: 29 Jul 2025 BRB submits a new proposal to BC to buy only about one-third of Master, with a ~R$25 bi asset perimeter (~half the original plan); remaining Master assets cited ~R$48 bi.
 - **people:** BRB; Bacen; Vorcaro
 - **tags:** brb|master|bc
-- **sources:** Folha cronologia — `folha_cronologia_brb.html`
+- **sources:** https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml (Folha cronologia) | was: Folha cronologia — `folha_cronologia_brb.html`
 - **confidence:** high
 
 ---
@@ -562,7 +562,7 @@
 - **summary:** Folha/G1: 19 Aug 2025 CLDF authorizes BRB to acquire 49% ON + 100% PN of Master (two-round vote reported elsewhere 14–7). Clears the judicial requirement that blocked signing earlier.
 - **people:** CLDF deputies; Ibaneis Rocha (next-day sanction)
 - **tags:** brb|cldf|politics
-- **sources:** Folha cronologia; Agência Brasil 03/09/2025 background
+- **sources:** https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml (Folha); https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb (Agência Brasil) | was: Folha cronologia; Agência Brasil 03/09/2025 background
 - **confidence:** high
 
 ---
@@ -573,7 +573,7 @@
 - **summary:** Timeline outlets (Times Brasil / Agência Brasil “há pouco mais de 10 dias” before 3 Sep veto): Ibaneis Rocha sanctions the CLDF law authorizing BRB’s Master share purchase on/around 20 Aug 2025, leaving only Bacen.
 - **people:** Ibaneis Rocha
 - **tags:** brb|politics
-- **sources:** Agência Brasil 03/09/2025; Folha cronologia (19/08 approval + subsequent sanction)
+- **sources:** https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb (Agência Brasil); https://www1.folha.uol.com.br/mercado/2025/09/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb.shtml (Folha) | was: Agência Brasil 03/09/2025; Folha cronologia (19/08 approval + subsequent sanction)
 - **confidence:** medium-high (20/08 from multi-outlet chronologies; Agência Brasil relative phrasing)
 - **caveats:** if only relative “~10 days” is preferred, treat day as approximate.
 
@@ -585,7 +585,7 @@
 - **summary:** G1/Valor: on 20 Nov 2025 TRF-1 rejects HC and keeps Vorcaro jailed, citing strong indications of fraudulent management / criminal organization. Same judge will reverse on 28/11.
 - **people:** Solange Salgado; Daniel Vorcaro
 - **tags:** compliance-zero|trf1
-- **sources:** G1 24/11/2025 transfer story; Valor 24/11/2025
+- **sources:** https://valor.globo.com/financas/noticia/2025/11/24/vorcaro-transferido-para-presdio-em-guarulhos.ghtml (Valor transfer/CDP cluster); https://g1.globo.com/df/distrito-federal/noticia/2025/11/28/trf-1-manda-soltar-daniel-vorcaro-dono-do-banco-master.ghtml (G1 TRF-1 soltura 28/11) | was: G1 24/11/2025 transfer story; Valor 24/11/2025
 - **confidence:** high
 
 ---
