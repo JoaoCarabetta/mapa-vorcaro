@@ -9,6 +9,7 @@
 **Editor gap list patch (2026-09-05):** Estou-online caveats; compact Viking dispute blurbs; twin URL dedupe check. Valor-bio only on bio rows.
 **Editor titles (2026-09-05):** 18 EN full-card `title` fields → Portuguese. Bodies untouched. Clustering = cloud UI.
 **Editor punch verify (2026-09-05 23:16 BRT):** sha bump — Compact L53/64/66/68/69/142–148/155 and full Ibaneis/Temer/PH Costa no longer use Valor-bio URL for non-bio claims. Re-audit THIS file (md5 below changes).
+**EN summaries punch 8 (2026-09-05):** mandatory PT drafts from punch-en-summaries-6e03271; titles untouched; count 166.
 **Editor smoke gaps (2026-09-05):** apagadas; mash PF deflagra; mash PH Costa; Barci líquido/bruto check.
 **Mash fix (2026-09-05):** title PF deflagra… → `PF deflagra Compliance Zero; Vorcaro preso` only.
 **EN titles wave2 (2026-09-05):** CoS remaining EN punch → PT (Bacen/BC rejects/Barci líquido/First firm/New board/Moraes 24h/PH Costa/PF 218/BRB fato/BC liquidação/PF deflagra/RAET).
@@ -464,7 +465,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 ### 2024-03–04 — Apresentações / jantar com “Careca”; fio do convite a Andrei
 - **date:** 2024-02-02 (dinner); 2024-04-03 (Andrei invite msgs per resumo)
 - **title:** Anotações de networking social/político intermediado por Faria
-- **summary:** Press/PF chronology: Feb/2024 Brasília encounter via Faria; Apr/2024 messages about inviting “DPF Andrei” / closing “PGR and DPF”. Published as PF-extracted notes — not proof of acceptance by named authorities.
+- **summary:** Cronologia imprensa/PF: encontro em Brasília (fev/2024) via Faria; mensagens de abr/2024 sobre convite ao “DPF Andrei” / fechamento “PGR e DPF”. Publicado como notas extraídas pela PF — não prova de aceitação pelas autoridades nomeadas.
 - **people:** Fábio Faria; Vorcaro; Ciro Soares; names Andrei / Gonet as labeled in notes
 - **tags:** power-interlocutor|compliance-zero
 - **sources:** https://www.poder360.com.br/poder-justica/saiba-o-que-dizem-as-mensagens-de-vorcaro-apreendidas-pela-pf/ (Poder360); https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf (PF PDF) | was: Poder360; O Globo 13 dias; resumo §C | was: Poder360; O Globo 13 dias; resumo §C
@@ -484,7 +485,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 ### 2024-02 — Anunciada aquisição do controle do Will Bank
 - **date:** 2024-02
 - **title:** Master assume o controle do Will Bank
-- **summary:** Multiple outlets: Master announced Will Bank purchase in February 2024, expanding digital retail. Later BRB deal perimeter included Will/Credcesta. InfoMoney quotes Vorcaro on complete digital ecosystem.
+- **summary:** Vários veículos: o Master anuncia em fevereiro de 2024 a compra do Will Bank, ampliando o varejo digital. O perímetro posterior do negócio com o BRB inclui Will/Credcesta. InfoMoney cita Vorcaro sobre um “ecossistema digital completo”.
 - **people:** Daniel Vorcaro; Reag / João Carlos Mansur (Valor: Will deal with Reag)
 - **tags:** master|growth
 - **sources:** https://valor.globo.com/financas/noticia/2025/04/03/forasteiro-na-faria-lima-e-proprietario-de-hoteis-fasano-quem-e-o-dono-do-banco-master.ghtml (Valor); https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb (Agência Brasil) | was: InfoMoney Master history; Valor 03/04/2025; BPMoney 03/04/2025 | was: InfoMoney Master history; Valor 03/04/2025; BPMoney 03/04/2025
@@ -580,7 +581,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 ### 2024-07 em diante — Cessões de carteiras de crédito do Master ao BRB
 - **date:** 2024-07 (start per Estadão)
 - **title:** Banco de Brasília injeta liquidez via compra de carteiras de crédito do Master
-- **summary:** Estadão (Apr/2026): dialogues show Master relied on BRB injections at least since Aug/2024 to cover liquidity; cessions of consignado/CCB begin Jul/2024. Folha (Mar/2025 deal story): partnership began Jul/2024 with consignado cessions; acquisition talks late 2024. Later PF thesis: after genuine books, fake Tirreno-linked books from early 2025 (~R$12.2 bi total alleged).
+- **summary:** Estadão (abr/2026): diálogos mostram que o Master dependia de injeções do BRB pelo menos desde ago/2024 para cobrir liquidez; cessões de consignado/CCB começam em jul/2024. Folha (negócio mar/2025): parceria desde jul/2024 com cessões de consignado; conversas de aquisição no fim de 2024. Tese posterior da PF: após carteiras genuínas, livros ligados à Tirreno alegadamente falsos a partir do início de 2025 (~R$12,2 bi no total).
 - **people:** Daniel Vorcaro; Augusto Lima; Paulo Henrique Costa (BRB)
 - **tags:** brb|master|compliance-zero
 - **sources:** https://www.estadao.com.br/economia/dialogos-de-vorcaro-mostram-que-brb-cobriu-buraco-do-master-desde-2024-precisamos-com-urgencia/
@@ -942,7 +943,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 ### 2025-09-03 — BC rejeita compra do Master pelo BRB
 - **date:** 2025-09-03
 - **title:** Bacen indefere pedido do BRB protocolado em 28/03/2025
-- **summary:** BRB fato relevante: informed of Bacen denial of request to acquire 49% ON + 100% PN of Master; BRB sought full decision text. Deal had been controversial (high CDB rates, delayed balance sheet, precatórios). Agência Brasil also notes prior BTG symbolic R$1 offer to take Master with FGC covering liabilities that stalled among FGC member banks. G1: Cade had cleared in June; BC cited missing economic-financial viability docs.
+- **summary:** Fato relevante do BRB: o banco é informado da negativa do Bacen ao pedido de aquisição de 49% das ON + 100% das PN do Master; pede a íntegra da decisão. O negócio já era controverso (CDBs com taxas altas, balanço atrasado, precatórios). Agência Brasil registra oferta simbólica anterior do BTG (R$1) para assumir o Master com o FGC cobrindo passivos, que não avançou entre bancos do FGC. G1: Cade liberara em junho; o BC citou ausência de documentos de viabilidade econômico-financeira.
 - **people:** Bacen board; Gabriel Galípolo; BRB; Vorcaro
 - **tags:** brb|master|bc
 - **sources:** https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb ; local `agencia_brasil_bc_veto_brb.txt`; G1 liquidação background
@@ -1774,7 +1775,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 ### 2025-11-18 — BC decreta liquidação extrajudicial do conglomerado Master
 - **date:** 2025-11-18
 - **title:** Liquidação extrajudicial e RAET no Master Múltiplo (continuidade do Will)
-- **summary:** CNN/G1: BC (Galípolo) decrees liquidação of Banco Master S/A, Master de Investimento, Letsbank, Master Corretora; RAET on Banco Master Múltiplo to preserve Will Financeira path. Controllers’/ex-admins’ assets unavailable. Motive: liquidity crisis, economic-financial deterioration, serious norm violations. Ends Fictor path. Conglomerate ~0.57% SFN assets (BC note in G1).
+- **summary:** CNN/G1: o BC (Galípolo) decreta liquidação extrajudicial do Banco Master S/A, Master de Investimento, Letsbank e Master Corretora; e RAET no Banco Master Múltiplo para preservar o caminho da Will Financeira. Bens de controladores/ex-administradores indisponíveis. Motivo: crise de liquidez, deterioração econômico-financeira e graves infrações normativas. Encerra a via Fictor. Conglomerado ~0,57% dos ativos do SFN (nota do BC no G1).
 - **people:** Gabriel Galípolo; Vorcaro; EFB Regimes Especiais
 - **tags:** master|bc|compliance-zero
 - **sources:** https://www.cnnbrasil.com.br/economia/negocios/banco-central-decreta-liquidacao-extrajudicial-do-banco-master/ ; https://g1.globo.com/economia/noticia/2025/11/18/banco-central-determina-a-liquidacao-extrajudicial-do-banco-master.ghtml ; local cnn/g1 txt
@@ -1784,7 +1785,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 ### 2025-11-18 — Operação Compliance Zero (prisões + buscas)
 - **date:** 2025-11-18
 - **title:** PF deflagra Compliance Zero; Vorcaro preso
-- **summary:** Valor: PF op against false credit titles in SFN; Vorcaro arrested; four other directors also targets (Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva named by day’s end). Five preventive + two temporary warrants, 25 searches across RJ/SP/MG/BA/DF. Probes began 2024 after MPF request: alleged manufacture of weak credit books sold to another bank, later swapped after BC inspection. Crimes: fraudulent/temerarious management, criminal organization, etc. Alleged Master→BRB false portfolios ~R$12 bi (resumo/Estadão).
+- **summary:** Valor: a PF deflagra operação contra títulos de crédito falsos no SFN; Vorcaro é preso; outros quatro dirigentes também são alvos (Augusto Lima, Luiz Antônio Bull, Alberto Felix, Ângelo Silva, citados até o fim do dia). Cinco mandados preventivos + dois temporários; 25 buscas em RJ/SP/MG/BA/DF. Investigações desde 2024 a pedido do MPF: alegada fabricação de carteiras fracas vendidas a outro banco e trocadas após fiscalização do BC. Crimes apontados: gestão fraudulenta/temerária, organização criminosa etc. Carteiras Master→BRB alegadamente falsas ~R$12 bi (resumo/Estadão).
 - **people:** Vorcaro; Lima; Bull; Felix; Ângelo Silva; MPF; PF; judge Ricardo Leite
 - **tags:** compliance-zero|brb|master
 - **sources:** https://valor.globo.com/financas/noticia/2025/11/18/operacao-da-pf-que-prendeu-dono-do-master-mira-emissao-de-titulos-de-credito-falsos.ghtml ; local `valor_compliance_zero_20251118.txt`
@@ -1887,7 +1888,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 ### 2026-04-16 — 4ª fase: PH Costa preso por negócios de carteira do Master
 - **date:** 2026-04-16
 - **title:** 4ª fase: PH Costa preso por negócios de carteira do Master
-- **summary:** Estadão: ex-BRB president Paulo Henrique Costa arrested in 4th Compliance Zero phase on suspicion of corruption / irregularities in purchase of R$12.2 bi alleged false Master portfolios. Piece publishes 2024 Vorcaro–Lima urgency chats on BRB money.
+- **summary:** Estadão: o ex-presidente do BRB Paulo Henrique Costa é preso na 4ª fase da Compliance Zero sob suspeita de corrupção/irregularidades na compra de ~R$12,2 bi em carteiras alegadamente falsas do Master. A reportagem publica diálogos de urgência Vorcaro–Lima (2024) sobre dinheiro do BRB.
 - **people:** Paulo Henrique Costa; Vorcaro; Augusto Lima
 - **tags:** brb|compliance-zero
 - **sources:** https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-cumpre-prisao-de-ex-presidente-do-brb-em-nova-fase-de-operacao-sobre-crimes-do-banco-master/ ; https://www1.folha.uol.com.br/mercado/2026/04/pf-prende-ex-presidente-do-brb-envolvido-no-caso-master.shtml
@@ -1928,7 +1929,7 @@ Cerca de **53 cards forenses** do período 28/out–17/nov/2025 são microevento
 ### 2026-08-27 — PF entrega a Mendonça relatório de 218 páginas do celular
 - **date:** 2026-08-27
 - **title:** IPJ-A 3298613/2026 no iPhone de Vorcaro → PET 16.662
-- **summary:** Poder360: after Mendonça’s 72h order to map “rede de influência e monitoramento,” PF delivers non-exhaustive 218-p analysis of iPhone 17 Pro seized at arrest (Cellebrite/IPED). Covers Moraes-labeled chat, Barci contracts, Gonet/Andrei/Ciro threads, notes methodology.
+- **summary:** Poder360: após ordem de Mendonça, em 72h, para mapear a “rede de influência e monitoramento”, a PF entrega análise não exaustiva de 218 páginas do iPhone 17 Pro apreendido na prisão (Cellebrite/IPED). Cobre o chat rotulado Moraes, contratos Barci, fios Gonet/Andrei/Ciro e a metodologia das notas.
 - **people:** André Mendonça; PF NADIP; Vorcaro
 - **tags:** seal-lift|compliance-zero|power-interlocutor
 - **sources:** Poder360 íntegras; resumo §A/G; https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
