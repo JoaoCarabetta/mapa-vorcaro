@@ -156,7 +156,15 @@ export function TimelineExplorer({
   }, [events, q, person, tag, year, evidence, confidence, fromDate, toDate]);
 
   const dayBuckets = useMemo(() => {
-    const matchingDays = new Set(filtered.map((event) => event.date));
+    const matchingDays = new Set(
+      filtered
+        .map((event) => event.date)
+        .filter((date) => {
+          if (fromDate && date < fromDate) return false;
+          if (toDate && date > toDate) return false;
+          return true;
+        }),
+    );
     if (dia) matchingDays.add(dia);
 
     const byDay = new Map<string, EventRecord[]>();
@@ -181,6 +189,8 @@ export function TimelineExplorer({
     }
 
     const singles = filtered.filter((event) => {
+      if (fromDate && event.date < fromDate) return false;
+      if (toDate && event.date > toDate) return false;
       if (event.date_precision !== "day") return true;
       return !buckets.some((item) => item.date === event.date);
     });
